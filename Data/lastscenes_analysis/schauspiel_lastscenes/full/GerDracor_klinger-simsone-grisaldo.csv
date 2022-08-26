@@ -1,0 +1,140 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,pre1_base_polarity,pre1_main_emotion_class
+3306,3306,3306,GerDracor/klinger-simsone-grisaldo.xml,Königszimmer.,0,13,stage_direction,5,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+3307,3307,3307,GerDracor/klinger-simsone-grisaldo.xml,König.,0,6,stage_direction,5,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+3308,3308,3308,GerDracor/klinger-simsone-grisaldo.xml,Malvizino.,7,17,stage_direction,5,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+3309,3309,3309,GerDracor/klinger-simsone-grisaldo.xml,"Sie sind gesprengt, König, dafür sorgt nicht.",0,45,character_speech,5,3,,MALVIZINO.,#malvizino,909.0,MALE,no_annotation,no_annotation,no_annotation
+3310,3310,3310,GerDracor/klinger-simsone-grisaldo.xml,"Ich schmiß sie zusammen in ein
+              Loch.",46,96,character_speech,5,3,,MALVIZINO.,#malvizino,909.0,MALE,abhorrence,negative,emotions of rejection
+3311,3311,3311,GerDracor/klinger-simsone-grisaldo.xml,"Das ist's nicht, Malvizino, was mein Herz bewegt.",0,49,character_speech,5,3,,KÖNIG.,#koenig,910.0,MALE,being moved,being moved,being moved
+3312,3312,3312,GerDracor/klinger-simsone-grisaldo.xml,Ach ganz andre Gefühle!,50,73,character_speech,5,3,,KÖNIG.,#koenig,910.0,MALE,being moved,being moved,being moved
+3313,3313,3313,GerDracor/klinger-simsone-grisaldo.xml,– Er kommt!,74,85,character_speech,5,3,,KÖNIG.,#koenig,910.0,MALE,no_annotation,no_annotation,no_annotation
+3314,3314,3314,GerDracor/klinger-simsone-grisaldo.xml,Und ich um seinen Hals von neuem fallen!,100,140,character_speech,5,3,,KÖNIG.,#koenig,910.0,MALE,love,positive,emotions of affection
+3315,3315,3315,GerDracor/klinger-simsone-grisaldo.xml,– Malvizino!,141,153,character_speech,5,3,,KÖNIG.,#koenig,910.0,MALE,no_annotation,no_annotation,no_annotation
+3316,3316,3316,GerDracor/klinger-simsone-grisaldo.xml,Und so gewesen sein!,154,174,character_speech,5,3,,KÖNIG.,#koenig,910.0,MALE,no_annotation,no_annotation,no_annotation
+3317,3317,3317,GerDracor/klinger-simsone-grisaldo.xml,"So
+              gehandelt haben, aber hier ist's anders.",175,232,character_speech,5,3,,KÖNIG.,#koenig,910.0,MALE,no_annotation,no_annotation,no_annotation
+3318,3318,3318,GerDracor/klinger-simsone-grisaldo.xml,Laß mich verschnaufen!,233,255,character_speech,5,3,,KÖNIG.,#koenig,910.0,MALE,being moved,being moved,being moved
+3319,3319,3319,GerDracor/klinger-simsone-grisaldo.xml,Hier schlägt's.,256,271,character_speech,5,3,,KÖNIG.,#koenig,910.0,MALE,no_annotation,no_annotation,no_annotation
+3320,3320,3320,GerDracor/klinger-simsone-grisaldo.xml,"Wie
+              das all getilgt ist, wie ich all ihr Vorhaben vergaß, und nur er!",272,355,character_speech,5,3,,KÖNIG.,#koenig,910.0,MALE,suffering,negative,emotions of suffering and empathy
+3321,3321,3321,GerDracor/klinger-simsone-grisaldo.xml,"– Ihn blenden, Gott
+              im Himmel, kann ich mir vergeben, mich solchen Leuten überlassen zu haben!",356,464,character_speech,5,3,,KÖNIG.,#koenig,910.0,MALE,abhorrence,negative,emotions of rejection
+3322,3322,3322,GerDracor/klinger-simsone-grisaldo.xml,"Und ich
+              tat's nicht, Malvizino, ich tat's nicht – glaubst du mir's?",465,546,character_speech,5,3,,KÖNIG.,#koenig,910.0,MALE,no_annotation,no_annotation,no_annotation
+3323,3323,3323,GerDracor/klinger-simsone-grisaldo.xml,Vergißt du?,547,558,character_speech,5,3,,KÖNIG.,#koenig,910.0,MALE,no_annotation,no_annotation,no_annotation
+3324,3324,3324,GerDracor/klinger-simsone-grisaldo.xml,"Alles, alles.",0,13,character_speech,5,3,,MALVIZINO.,#malvizino,911.0,MALE,no_annotation,no_annotation,no_annotation
+3325,3325,3325,GerDracor/klinger-simsone-grisaldo.xml,Warum nicht?,14,26,character_speech,5,3,,MALVIZINO.,#malvizino,911.0,MALE,no_annotation,no_annotation,no_annotation
+3326,3326,3326,GerDracor/klinger-simsone-grisaldo.xml,Ha wenn ich nur die Könige sähe!,27,59,character_speech,5,3,,MALVIZINO.,#malvizino,911.0,MALE,joy,positive,emotions of pleasure
+3327,3327,3327,GerDracor/klinger-simsone-grisaldo.xml,"Wenn ich sie nur krönen
+              dürfte.",60,105,character_speech,5,3,,MALVIZINO.,#malvizino,911.0,MALE,"admiration, reverence",positive,emotions of affection
+3328,3328,3328,GerDracor/klinger-simsone-grisaldo.xml,"Kein Wort davon, ich bitte dich.",0,32,character_speech,5,3,,KÖNIG.,#koenig,912.0,MALE,no_annotation,no_annotation,no_annotation
+3329,3329,3329,GerDracor/klinger-simsone-grisaldo.xml,"– Ach Herz, mein Herz, wie reich, wie neu, wie voll
+              die Welt, wie lieb um mich.",33,126,character_speech,5,3,,KÖNIG.,#koenig,912.0,MALE,love,positive,emotions of affection
+3330,3330,3330,GerDracor/klinger-simsone-grisaldo.xml,Grisaldo tritt auf.,0,19,stage_direction,5,3,speech_part,,#koenig,912.0,MALE,no_annotation,no_annotation,no_annotation
+3331,3331,3331,GerDracor/klinger-simsone-grisaldo.xml,Der König an seinem Hals.,20,45,stage_direction,5,3,speech_part,,#koenig,912.0,MALE,no_annotation,no_annotation,no_annotation
+3332,3332,3332,GerDracor/klinger-simsone-grisaldo.xml,"Schweigen beide, und Ausdruck des
+              stärksten Gefühls der Wiedererkennung, der Liebe.",46,143,stage_direction,5,3,speech_part,,#koenig,912.0,MALE,love,positive,emotions of affection
+3333,3333,3333,GerDracor/klinger-simsone-grisaldo.xml,"immer an seinem Hals, ihn küssend und herzend.",0,46,stage_direction,5,3,speech_part,,#koenig,913.0,MALE,love,positive,emotions of affection
+3334,3334,3334,GerDracor/klinger-simsone-grisaldo.xml,Fühl ich  wieder schlagen dein Herz an meinem!,0,46,character_speech,5,3,,KÖNIG,#koenig,913.0,MALE,love,positive,emotions of affection
+3335,3335,3335,GerDracor/klinger-simsone-grisaldo.xml,"Fühl ich wieder Leben
+              und Liebe übergehen aus deiner Brust in meine!",47,129,character_speech,5,3,,KÖNIG,#koenig,913.0,MALE,love,positive,emotions of affection
+3336,3336,3336,GerDracor/klinger-simsone-grisaldo.xml,– Grisaldo!,130,141,character_speech,5,3,,KÖNIG,#koenig,913.0,MALE,no_annotation,no_annotation,no_annotation
+3337,3337,3337,GerDracor/klinger-simsone-grisaldo.xml,Seht in mir –,0,13,character_speech,5,3,,GRISALDO.,#grisaldo,914.0,MALE,no_annotation,no_annotation,no_annotation
+3338,3338,3338,GerDracor/klinger-simsone-grisaldo.xml,"Ich fühl in dir, und habe Stärke von dir.",0,41,character_speech,5,3,,KÖNIG.,#koenig,915.0,MALE,love,positive,emotions of affection
+3339,3339,3339,GerDracor/klinger-simsone-grisaldo.xml,"Denn ich fühle dein Herz wieder so ungestüm
+              schlagen an dem meinen wie sonst.",42,133,character_speech,5,3,,KÖNIG.,#koenig,915.0,MALE,being moved,being moved,being moved
+3340,3340,3340,GerDracor/klinger-simsone-grisaldo.xml,"Erkennt mich als Euren Treuen, der ich immer war.",0,49,character_speech,5,3,,GRISALDO.,#grisaldo,916.0,MALE,"admiration, reverence",positive,emotions of affection
+3341,3341,3341,GerDracor/klinger-simsone-grisaldo.xml,Dich verkennen?,0,15,character_speech,5,3,,KÖNIG.,#koenig,917.0,MALE,no_annotation,no_annotation,no_annotation
+3342,3342,3342,GerDracor/klinger-simsone-grisaldo.xml,Edler Mensch!,16,29,character_speech,5,3,,KÖNIG.,#koenig,917.0,MALE,"admiration, reverence",positive,emotions of affection
+3343,3343,3343,GerDracor/klinger-simsone-grisaldo.xml,"Dein Anblick würde mich erniedrigen, wenn nicht neues
+              Leben mir zuströmte.",30,118,character_speech,5,3,,KÖNIG.,#koenig,917.0,MALE,no_annotation,no_annotation,no_annotation
+3344,3344,3344,GerDracor/klinger-simsone-grisaldo.xml,"Ich war tot, du weckst.",119,142,character_speech,5,3,,KÖNIG.,#koenig,917.0,MALE,no_annotation,no_annotation,no_annotation
+3345,3345,3345,GerDracor/klinger-simsone-grisaldo.xml,Wie lohn ich dir?,143,160,character_speech,5,3,,KÖNIG.,#koenig,917.0,MALE,anger,negative,emotions of rejection
+3346,3346,3346,GerDracor/klinger-simsone-grisaldo.xml,"Du hast mich errettet,
+              von neuem errettet!",161,217,character_speech,5,3,,KÖNIG.,#koenig,917.0,MALE,joy,positive,emotions of pleasure
+3347,3347,3347,GerDracor/klinger-simsone-grisaldo.xml,Mit Eurer Liebe.,0,16,character_speech,5,3,,GRISALDO.,#grisaldo,918.0,MALE,love,positive,emotions of affection
+3348,3348,3348,GerDracor/klinger-simsone-grisaldo.xml,Du hattest sie immer.,0,21,character_speech,5,3,,KÖNIG.,#koenig,919.0,MALE,love,positive,emotions of affection
+3349,3349,3349,GerDracor/klinger-simsone-grisaldo.xml,"Grisaldo, du hattest sie.",22,47,character_speech,5,3,,KÖNIG.,#koenig,919.0,MALE,no_annotation,no_annotation,no_annotation
+3350,3350,3350,GerDracor/klinger-simsone-grisaldo.xml,"Es waren finstre undeutbare Bilder
+              vor meine Seele getreten, ich war krank.",48,137,character_speech,5,3,,KÖNIG.,#koenig,919.0,MALE,suffering,negative,emotions of suffering and empathy
+3351,3351,3351,GerDracor/klinger-simsone-grisaldo.xml,"Ich merk, daß der Mensch Rückfälle haben
+              kann, die ihn auf eine Zeit ganz vernichten.",138,237,character_speech,5,3,,KÖNIG.,#koenig,919.0,MALE,suffering,negative,emotions of suffering and empathy
+3352,3352,3352,GerDracor/klinger-simsone-grisaldo.xml,Wie konnte mein Geist bleiben?,238,268,character_speech,5,3,,KÖNIG.,#koenig,919.0,MALE,being moved,being moved,being moved
+3353,3353,3353,GerDracor/klinger-simsone-grisaldo.xml,"Die Welt
+              war leer, mein Herz klang nicht.",269,324,character_speech,5,3,,KÖNIG.,#koenig,919.0,MALE,suffering,negative,emotions of suffering and empathy
+3354,3354,3354,GerDracor/klinger-simsone-grisaldo.xml,"Hatte keine Brust, mich hinein zu verhüllen, fand
+              nirgends nichts.",325,405,character_speech,5,3,,KÖNIG.,#koenig,919.0,MALE,suffering,negative,emotions of suffering and empathy
+3355,3355,3355,GerDracor/klinger-simsone-grisaldo.xml,An seinem Hals von neuem.,0,25,stage_direction,5,3,inner_speech,,#koenig,919.0,MALE,no_annotation,no_annotation,no_annotation
+3356,3356,3356,GerDracor/klinger-simsone-grisaldo.xml, Ich habe alles.,0,16,character_speech,5,3,,KÖNIG.,#koenig,919.0,MALE,no_annotation,no_annotation,no_annotation
+3357,3357,3357,GerDracor/klinger-simsone-grisaldo.xml,"– Du weißt,
+              was diese Leute vor einen Gebrauch von mir machten.",17,94,character_speech,5,3,,KÖNIG.,#koenig,919.0,MALE,no_annotation,no_annotation,no_annotation
+3358,3358,3358,GerDracor/klinger-simsone-grisaldo.xml,"Gott verzeih's ihnen, und mir, daß
+              ich dich verkannte, und verzeih du mir!",95,183,character_speech,5,3,,KÖNIG.,#koenig,919.0,MALE,suffering,negative,emotions of suffering and empathy
+3359,3359,3359,GerDracor/klinger-simsone-grisaldo.xml,Und ach!,184,192,character_speech,5,3,,KÖNIG.,#koenig,919.0,MALE,suffering,negative,emotions of suffering and empathy
+3360,3360,3360,GerDracor/klinger-simsone-grisaldo.xml,Ihr brecht in Tränen aus.,0,25,character_speech,5,3,,GRISALDO.,#grisaldo,920.0,MALE,suffering,negative,emotions of suffering and empathy
+3361,3361,3361,GerDracor/klinger-simsone-grisaldo.xml,"Wenn Euch Grisaldo wieder worden ist, warum schweigen vor
+              ihm?",26,102,character_speech,5,3,,GRISALDO.,#grisaldo,920.0,MALE,no_annotation,no_annotation,no_annotation
+3362,3362,3362,GerDracor/klinger-simsone-grisaldo.xml,"Warum verhehlen das Gefühl Eures Herzens, das tausendfach leidet mit dem
+              Zusammenpressen und Zusammenhalten –",103,226,character_speech,5,3,,GRISALDO.,#grisaldo,920.0,MALE,suffering,negative,emotions of suffering and empathy
+3363,3363,3363,GerDracor/klinger-simsone-grisaldo.xml,Laß!,0,4,character_speech,5,3,,KÖNIG.,#koenig,921.0,MALE,no_annotation,no_annotation,no_annotation
+3364,3364,3364,GerDracor/klinger-simsone-grisaldo.xml,"Mir ist zu wohl, mir ist zu gut, mir ist's zu neu.",5,55,character_speech,5,3,,KÖNIG.,#koenig,921.0,MALE,being moved,being moved,being moved
+3365,3365,3365,GerDracor/klinger-simsone-grisaldo.xml,"Die Veränderung ist zu groß
+              –",56,99,character_speech,5,3,,KÖNIG.,#koenig,921.0,MALE,no_annotation,no_annotation,no_annotation
+3366,3366,3366,GerDracor/klinger-simsone-grisaldo.xml,"Laßt uns handlen, wir sind warm dazu.",0,37,character_speech,5,3,,GRISALDO.,#grisaldo,922.0,MALE,joy,positive,emotions of pleasure
+3367,3367,3367,GerDracor/klinger-simsone-grisaldo.xml,"Und ein seliger Tag schließe sich an den
+              andern.",38,100,character_speech,5,3,,GRISALDO.,#grisaldo,922.0,MALE,joy,positive,emotions of pleasure
+3368,3368,3368,GerDracor/klinger-simsone-grisaldo.xml,"Mein Öl ist noch nicht verloschen, und nun bietet sich alles auf in mir
+              fortzuführen.",101,200,character_speech,5,3,,GRISALDO.,#grisaldo,922.0,MALE,no_annotation,no_annotation,no_annotation
+3369,3369,3369,GerDracor/klinger-simsone-grisaldo.xml,"O Grisaldo, der du immer warst, da ich nichts war!",0,50,character_speech,5,3,,KÖNIG.,#koenig,923.0,MALE,love,positive,emotions of affection
+3370,3370,3370,GerDracor/klinger-simsone-grisaldo.xml,"– Ich weiß, du berechnest nicht,
+              und das macht mich selig.",51,123,character_speech,5,3,,KÖNIG.,#koenig,923.0,MALE,no_annotation,no_annotation,no_annotation
+3371,3371,3371,GerDracor/klinger-simsone-grisaldo.xml,Kein Wort davon.,0,16,character_speech,5,3,,GRISALDO.,#grisaldo,924.0,MALE,no_annotation,no_annotation,no_annotation
+3372,3372,3372,GerDracor/klinger-simsone-grisaldo.xml,"Ihr liebtet mich und liebt mich, Eure Wünsche waren ewig die meinen.",17,85,character_speech,5,3,,GRISALDO.,#grisaldo,924.0,MALE,love,positive,emotions of affection
+3373,3373,3373,GerDracor/klinger-simsone-grisaldo.xml,"Kommt, ich will Euch zu neuen Szenen führen, die Eurem liebenden Herzen Nahrung sind.",100,185,character_speech,5,3,,GRISALDO.,#grisaldo,924.0,MALE,love,positive,emotions of affection
+3374,3374,3374,GerDracor/klinger-simsone-grisaldo.xml,"Und richtet, die sich an Euch versündigten nach Eurem Gefallen.",200,263,character_speech,5,3,,GRISALDO.,#grisaldo,924.0,MALE,no_annotation,no_annotation,no_annotation
+3375,3375,3375,GerDracor/klinger-simsone-grisaldo.xml,Ich übergeb sie Euch!,0,21,character_speech,5,3,,KÖNIG.,#koenig,925.0,MALE,no_annotation,no_annotation,no_annotation
+3376,3376,3376,GerDracor/klinger-simsone-grisaldo.xml,Die Erinnerung ist ihnen Strafe genug.,0,38,character_speech,5,3,,GRISALDO.,#grisaldo,926.0,MALE,suffering,negative,emotions of suffering and empathy
+3377,3377,3377,GerDracor/klinger-simsone-grisaldo.xml,"Nur aus meinen Augen, wenn du mir wohlwillst.",0,45,character_speech,5,3,,KÖNIG.,#koenig,927.0,MALE,love,positive,emotions of affection
+3378,3378,3378,GerDracor/klinger-simsone-grisaldo.xml,Ich überlaß sie ihnen selbst.,46,75,character_speech,5,3,,KÖNIG.,#koenig,927.0,MALE,no_annotation,no_annotation,no_annotation
+3379,3379,3379,GerDracor/klinger-simsone-grisaldo.xml,Daran erkenn ich Euch.,0,22,character_speech,5,3,,GRISALDO.,#grisaldo,928.0,MALE,no_annotation,no_annotation,no_annotation
+3380,3380,3380,GerDracor/klinger-simsone-grisaldo.xml,"Lehre mich leben, Edler!",0,24,character_speech,5,3,,KÖNIG.,#koenig,929.0,MALE,"admiration, reverence",positive,emotions of affection
+3381,3381,3381,GerDracor/klinger-simsone-grisaldo.xml,"Was ich vermag, ist Euer.",0,25,character_speech,5,3,,GRISALDO.,#grisaldo,930.0,MALE,no_annotation,no_annotation,no_annotation
+3382,3382,3382,GerDracor/klinger-simsone-grisaldo.xml,Hand in Hand ab.,0,16,stage_direction,5,3,inner_speech,,#grisaldo,930.0,MALE,no_annotation,no_annotation,no_annotation
+3383,3383,3383,GerDracor/klinger-simsone-grisaldo.xml,Nach einiger Zeit Truffaldino in einem schlechten Kittel.,0,57,stage_direction,5,3,speech_part,,#grisaldo,930.0,MALE,no_annotation,no_annotation,no_annotation
+3384,3384,3384,GerDracor/klinger-simsone-grisaldo.xml,Das ist ein Leben!,0,18,character_speech,5,3,,TRUFFALDINO.,#truffaldino,931.0,MALE,no_annotation,no_annotation,no_annotation
+3385,3385,3385,GerDracor/klinger-simsone-grisaldo.xml,"Bergauf, bergab, und immer noch Zeit, ins Tal zu stürzen, und an
+              der Klippe zu zerschmettern.",19,126,character_speech,5,3,,TRUFFALDINO.,#truffaldino,931.0,MALE,suffering,negative,emotions of suffering and empathy
+3386,3386,3386,GerDracor/klinger-simsone-grisaldo.xml,"Was das Schreien, Winslen und Freude gegeneinander ist.",127,182,character_speech,5,3,,TRUFFALDINO.,#truffaldino,931.0,MALE,joy,positive,emotions of pleasure
+3387,3387,3387,GerDracor/klinger-simsone-grisaldo.xml,Und mir gefällt's so.,197,218,character_speech,5,3,,TRUFFALDINO.,#truffaldino,931.0,MALE,joy,positive,emotions of pleasure
+3388,3388,3388,GerDracor/klinger-simsone-grisaldo.xml,Bastiano will sich hängen.,219,245,character_speech,5,3,,TRUFFALDINO.,#truffaldino,931.0,MALE,no_annotation,no_annotation,no_annotation
+3389,3389,3389,GerDracor/klinger-simsone-grisaldo.xml,Er ist ein Narr!,246,262,character_speech,5,3,,TRUFFALDINO.,#truffaldino,931.0,MALE,anger,negative,emotions of rejection
+3390,3390,3390,GerDracor/klinger-simsone-grisaldo.xml,"Curio spricht
+              lateinisch in der Verworrenheit, und liegt zur Infantin Füßen.",263,353,character_speech,5,3,,TRUFFALDINO.,#truffaldino,931.0,MALE,no_annotation,no_annotation,no_annotation
+3391,3391,3391,GerDracor/klinger-simsone-grisaldo.xml,"Der alte Fernando heult
+              zum Himmel, und moralisiert.",354,420,character_speech,5,3,,TRUFFALDINO.,#truffaldino,931.0,MALE,suffering,negative,emotions of suffering and empathy
+3392,3392,3392,GerDracor/klinger-simsone-grisaldo.xml,Lilla lacht und weint in einem Atem.,421,457,character_speech,5,3,,TRUFFALDINO.,#truffaldino,931.0,MALE,suffering,negative,emotions of suffering and empathy
+3393,3393,3393,GerDracor/klinger-simsone-grisaldo.xml,"Die Infantin weiß
+              nicht was sie soll.",458,509,character_speech,5,3,,TRUFFALDINO.,#truffaldino,931.0,MALE,no_annotation,no_annotation,no_annotation
+3394,3394,3394,GerDracor/klinger-simsone-grisaldo.xml,"Die Sarazenenprinzessin ist den Weibern der Pfahl im Fleisch, und
+              Grisaldo, den Prätendenten, teilt die Rollen aus, und sie erfreuen sich.",510,662,character_speech,5,3,,TRUFFALDINO.,#truffaldino,931.0,MALE,joy,positive,emotions of pleasure
+3395,3395,3395,GerDracor/klinger-simsone-grisaldo.xml,"Mir ist alles
+              recht.",663,697,character_speech,5,3,,TRUFFALDINO.,#truffaldino,931.0,MALE,joy,positive,emotions of pleasure
+3396,3396,3396,GerDracor/klinger-simsone-grisaldo.xml,Von mir reden sie gar nicht.,698,726,character_speech,5,3,,TRUFFALDINO.,#truffaldino,931.0,MALE,being moved,being moved,being moved
+3397,3397,3397,GerDracor/klinger-simsone-grisaldo.xml,Entweder bin ich zu groß oder zu klein.,727,766,character_speech,5,3,,TRUFFALDINO.,#truffaldino,931.0,MALE,being moved,being moved,being moved
+3398,3398,3398,GerDracor/klinger-simsone-grisaldo.xml,"Ich bin
+              also Truffaldino wie vor?",767,814,character_speech,5,3,,TRUFFALDINO.,#truffaldino,931.0,MALE,being moved,being moved,being moved
+3399,3399,3399,GerDracor/klinger-simsone-grisaldo.xml,"Mit Kittel und meinem Weißdorn, das ist genug.",815,861,character_speech,5,3,,TRUFFALDINO.,#truffaldino,931.0,MALE,no_annotation,no_annotation,no_annotation
+3400,3400,3400,GerDracor/klinger-simsone-grisaldo.xml,"Ich mein, es
+              wär doch gut in der Welt, wenn jeder so an seinem Plätzchen blieb, leben lernte, und
+              hübsch um sich bebaute; sich nicht Begierden wachsen ließ, wo 's Herz nicht
+              hinreichte, außer in Phantasie.",862,1109,character_speech,5,3,,TRUFFALDINO.,#truffaldino,931.0,MALE,no_annotation,no_annotation,no_annotation
+3401,3401,3401,GerDracor/klinger-simsone-grisaldo.xml,Ziehet Lehren draus!,1110,1130,character_speech,5,3,,TRUFFALDINO.,#truffaldino,931.0,MALE,no_annotation,no_annotation,no_annotation
+3402,3402,3402,GerDracor/klinger-simsone-grisaldo.xml,"Das sagt Truffaldino, der weise
+              Mann, der nach einer Krone strebte, und jetzt mit der Schellenkappe zufrieden wäre, um
+              ungestraft Wahrheiten auszuspenden.",1131,1313,character_speech,5,3,,TRUFFALDINO.,#truffaldino,931.0,MALE,no_annotation,no_annotation,no_annotation
+3403,3403,3403,GerDracor/klinger-simsone-grisaldo.xml,"Ich denk so viel Gnade beim König zu erhalten, und
+              will denn im Lande herumziehen, und jedem zurufen, Mensch, baue dein Gärtchen und
+              bleib in der gezogenen Linie, außerhalb ist Sturm und Wind.",1314,1534,character_speech,5,3,,TRUFFALDINO.,#truffaldino,931.0,MALE,joy,positive,emotions of pleasure
+3404,3404,3404,GerDracor/klinger-simsone-grisaldo.xml,"Die Infantin will eine
+              Maskerade angestellt haben, und ich will mich zu einem Narren ausputzen, und mich mit
+              meinem Loswort insinuieren.",1535,1699,character_speech,5,3,,TRUFFALDINO.,#truffaldino,931.0,MALE,anger,negative,emotions of rejection

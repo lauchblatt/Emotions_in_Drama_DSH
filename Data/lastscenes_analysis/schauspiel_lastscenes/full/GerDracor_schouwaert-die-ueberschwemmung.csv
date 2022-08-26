@@ -1,0 +1,33 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+1925,1925,1925,GerDracor/schouwaert-die-ueberschwemmung.xml,tritt ein.,0,10,stage_direction,3,15,inner_speech,,#weiler,575.0,MALE,no_annotation,S,,1784.0,no_annotation,no_annotation
+1926,1926,1926,GerDracor/schouwaert-die-ueberschwemmung.xml," Nochmals den Seegen eures Vaters, des besten Fürsten, und
+              hier neue Beweise seiner Huld.",0,103,character_speech,3,15,,Weiler,#weiler,575.0,MALE,"admiration, reverence",S,,1784.0,positive,emotions of affection
+1927,1927,1927,GerDracor/schouwaert-die-ueberschwemmung.xml,"– Hier Mutter, und hier Pöll –",104,134,character_speech,3,15,,Weiler,#weiler,575.0,MALE,no_annotation,S,,1784.0,no_annotation,no_annotation
+1928,1928,1928,GerDracor/schouwaert-die-ueberschwemmung.xml,"(giebt jedem eine
+                Rolle mit Gold.)",0,50,stage_direction,3,15,inner_speech,,#weiler,575.0,MALE,no_annotation,S,,1784.0,no_annotation,no_annotation
+1929,1929,1929,GerDracor/schouwaert-die-ueberschwemmung.xml," Nur zur Erkenntlichkeit, sagte der wohlthätige Regent!",0,55,character_speech,3,15,,Weiler,#weiler,575.0,MALE,no_annotation,S,,1784.0,no_annotation,no_annotation
+1930,1930,1930,GerDracor/schouwaert-die-ueberschwemmung.xml,"Und
+              die Versorgung dieses jungen Mannes will er selbst über sich nehmen.",56,142,character_speech,3,15,,Weiler,#weiler,575.0,MALE,no_annotation,S,,1784.0,no_annotation,no_annotation
+1931,1931,1931,GerDracor/schouwaert-die-ueberschwemmung.xml,"(auf
+                Wilhelm; – zu Leopoldinen.)",0,48,stage_direction,3,15,inner_speech,,#weiler,575.0,MALE,no_annotation,S,,1784.0,no_annotation,no_annotation
+1932,1932,1932,GerDracor/schouwaert-die-ueberschwemmung.xml, Und nun in die Arme der Liebe!,0,31,character_speech,3,15,,Weiler,#weiler,575.0,MALE,love,S,,1784.0,positive,emotions of affection
+1933,1933,1933,GerDracor/schouwaert-die-ueberschwemmung.xml,"Ja, bester!",0,11,character_speech,3,15,,Leopod.,#leopoldine,576.0,FEMALE,no_annotation,S,,1784.0,no_annotation,no_annotation
+1934,1934,1934,GerDracor/schouwaert-die-ueberschwemmung.xml,da ruhen Sie nach ihrem großen Tagwerk aus.,12,55,character_speech,3,15,,Leopod.,#leopoldine,576.0,FEMALE,no_annotation,S,,1784.0,no_annotation,no_annotation
+1935,1935,1935,GerDracor/schouwaert-die-ueberschwemmung.xml,O Weiler!,56,65,character_speech,3,15,,Leopod.,#leopoldine,576.0,FEMALE,suffering,S,,1784.0,negative,emotions of suffering and empathy
+1936,1936,1936,GerDracor/schouwaert-die-ueberschwemmung.xml,"welch ein Mann sind
+              Sie.",66,104,character_speech,3,15,,Leopod.,#leopoldine,576.0,FEMALE,"admiration, reverence",S,,1784.0,positive,emotions of affection
+1937,1937,1937,GerDracor/schouwaert-die-ueberschwemmung.xml,Die Hand meiner Leopoldine ist königliche Belohnung.,0,52,character_speech,3,15,,Weiler.,#weiler,577.0,MALE,"admiration, reverence",S,,1784.0,positive,emotions of affection
+1938,1938,1938,GerDracor/schouwaert-die-ueberschwemmung.xml,nach einer Pause),0,17,stage_direction,3,15,inner_speech,,#poell,578.0,MALE,no_annotation,S,,1784.0,no_annotation,no_annotation
+1939,1939,1939,GerDracor/schouwaert-die-ueberschwemmung.xml," „Ein junger Mensch – er hatte frühzeitig seine
+              Aeltern verloren“ –",0,81,character_speech,3,15,,Pöll.,#poell,578.0,MALE,no_annotation,S,,1784.0,no_annotation,no_annotation
+1940,1940,1940,GerDracor/schouwaert-die-ueberschwemmung.xml,(Weiler giebt ihn einen Wink zu schweigen),0,42,stage_direction,3,15,inner_speech,,#poell,578.0,MALE,anger,S,,1784.0,negative,emotions of rejection
+1941,1941,1941,GerDracor/schouwaert-die-ueberschwemmung.xml, Kinder!,0,8,character_speech,3,15,,Pöll.,#poell,578.0,MALE,anger,S,,1784.0,negative,emotions of rejection
+1942,1942,1942,GerDracor/schouwaert-die-ueberschwemmung.xml,"ihr kennt den würdigen Mann noch nicht, Ich kann, ich darf ihm nicht gerade ins
+              Gesicht sehen.",23,131,character_speech,3,15,,Pöll.,#poell,578.0,MALE,no_annotation,S,,1784.0,no_annotation,no_annotation
+1943,1943,1943,GerDracor/schouwaert-die-ueberschwemmung.xml,Doch ihr sollt alles noch erfahren.,132,167,character_speech,3,15,,Pöll.,#poell,578.0,MALE,no_annotation,S,,1784.0,no_annotation,no_annotation
+1944,1944,1944,GerDracor/schouwaert-die-ueberschwemmung.xml,"Jezt folgt mir, folgt mir hinaus
+              unter Gottes freyen Himmel, da laßt uns hinknien, und beten für das Leben unsers
+              Fürsten, ihm stammeln unsern Dank und Seegenswünsche für das Wohl seines Volks und
+              seiner Länder; und Morgen mit Sonnenaufgang, wenn ihr an meinem Häuschen vorüber geht,
+              dann sollt ihr mit großen Buchstaben darauf eingegraben lesen: Hier ist die glückliche
+              Schifferhütte.",168,623,character_speech,3,15,,Pöll.,#poell,578.0,MALE,joy,S,,1784.0,positive,emotions of pleasure

@@ -1,0 +1,153 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+3884,3884,3884,GerDracor/kotzebue-graf-benjowsky.xml,Benjowsky.,0,10,stage_direction,5,7,pre_speech,,,,,no_annotation,S,,1794.0,no_annotation,no_annotation
+3885,3885,3885,GerDracor/kotzebue-graf-benjowsky.xml,Verschworne.,11,23,stage_direction,5,7,pre_speech,,,,,no_annotation,S,,1794.0,no_annotation,no_annotation
+3886,3886,3886,GerDracor/kotzebue-graf-benjowsky.xml,Schiffsvolk.,24,36,stage_direction,5,7,pre_speech,,,,,no_annotation,S,,1794.0,no_annotation,no_annotation
+3887,3887,3887,GerDracor/kotzebue-graf-benjowsky.xml,Gouverneur.,37,48,stage_direction,5,7,pre_speech,,,,,no_annotation,S,,1794.0,no_annotation,no_annotation
+3888,3888,3888,GerDracor/kotzebue-graf-benjowsky.xml,Afanasja.,49,58,stage_direction,5,7,pre_speech,,,,,no_annotation,S,,1794.0,no_annotation,no_annotation
+3889,3889,3889,GerDracor/kotzebue-graf-benjowsky.xml,(Der Schauplatz verwandelt sich.,0,32,stage_direction,5,7,pre_speech,,,,,no_annotation,S,,1794.0,no_annotation,no_annotation
+3890,3890,3890,GerDracor/kotzebue-graf-benjowsky.xml,Man sieht im Hintergrunde einen Theil des Hafens.,33,82,stage_direction,5,7,pre_speech,,,,,no_annotation,S,,1794.0,no_annotation,no_annotation
+3891,3891,3891,GerDracor/kotzebue-graf-benjowsky.xml,Die Fregatte ist segelfertig.,95,124,stage_direction,5,7,pre_speech,,,,,no_annotation,S,,1794.0,no_annotation,no_annotation
+3892,3892,3892,GerDracor/kotzebue-graf-benjowsky.xml,"Das Schiffsvolk arbeitet fleißig, Verbündete laufen hin
+            und wieder.",125,204,stage_direction,5,7,pre_speech,,,,,no_annotation,S,,1794.0,no_annotation,no_annotation
+3893,3893,3893,GerDracor/kotzebue-graf-benjowsky.xml,"Man hört ein verwirrtes Rufen, bald der Kommenden, bald der Gehenden, bald
+            auf dem Schiffe, bald am Lande.)",205,324,stage_direction,5,7,pre_speech,,,,,no_annotation,S,,1794.0,no_annotation,no_annotation
+3894,3894,3894,GerDracor/kotzebue-graf-benjowsky.xml,»Lichtet die Anker!,0,19,character_speech,5,7,,Afan.,#alle_verwiesene_verschworne,1905.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3895,3895,3895,GerDracor/kotzebue-graf-benjowsky.xml,– windet alle Segel auf!,20,44,character_speech,5,7,,Afan.,#alle_verwiesene_verschworne,1905.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3896,3896,3896,GerDracor/kotzebue-graf-benjowsky.xml,"– Der Wind ist Nordost zu Ost –
+              Steuermann!",45,102,character_speech,5,7,,Afan.,#alle_verwiesene_verschworne,1905.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3897,3897,3897,GerDracor/kotzebue-graf-benjowsky.xml,– He da!,103,111,character_speech,5,7,,Afan.,#alle_verwiesene_verschworne,1905.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3898,3898,3898,GerDracor/kotzebue-graf-benjowsky.xml,Sie kommen!,112,123,character_speech,5,7,,Afan.,#alle_verwiesene_verschworne,1905.0,MALE,joy,S,,1794.0,positive,emotions of pleasure
+3899,3899,3899,GerDracor/kotzebue-graf-benjowsky.xml,– Dort wimmelt der Haufe den Hügel herunter.,124,168,character_speech,5,7,,Afan.,#alle_verwiesene_verschworne,1905.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3900,3900,3900,GerDracor/kotzebue-graf-benjowsky.xml,"– Glück
+              auf!",169,195,character_speech,5,7,,Afan.,#alle_verwiesene_verschworne,1905.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3901,3901,3901,GerDracor/kotzebue-graf-benjowsky.xml,– Alles bereit!,196,211,character_speech,5,7,,Afan.,#alle_verwiesene_verschworne,1905.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3902,3902,3902,GerDracor/kotzebue-graf-benjowsky.xml,– Huzzah!,212,221,character_speech,5,7,,Afan.,#alle_verwiesene_verschworne,1905.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3903,3903,3903,GerDracor/kotzebue-graf-benjowsky.xml,Huzzah!«,222,230,character_speech,5,7,,Afan.,#alle_verwiesene_verschworne,1905.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3904,3904,3904,GerDracor/kotzebue-graf-benjowsky.xml,(und die übrigen Verschwornen treten auf).,0,42,stage_direction,5,7,speech_part,,#benjowsky #afanasja #crustiew,1906.0,UNKNOWN,no_annotation,S,,1794.0,no_annotation,no_annotation
+3905,3905,3905,GerDracor/kotzebue-graf-benjowsky.xml,"(gefesselt, unter einer starken Wache, ohnmächtig wüthend.",0,58,stage_direction,5,7,speech_part,,#gouverneur,1907.0,MALE,abhorrence,S,,1794.0,negative,emotions of rejection
+3906,3906,3906,GerDracor/kotzebue-graf-benjowsky.xml,Während Crust.,59,73,stage_direction,5,7,speech_part,,#gouverneur,1907.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3907,3907,3907,GerDracor/kotzebue-graf-benjowsky.xml,"und die
+              Verbündeten auf das Schiff laufen, Anordnungen machen, Befehle austheilen
+              u.s.w.)",74,191,stage_direction,5,7,speech_part,,#gouverneur,1907.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3908,3908,3908,GerDracor/kotzebue-graf-benjowsky.xml,(nähert sich dem Gouverneur.),0,29,stage_direction,5,7,speech_part,,#benjowsky,1908.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3909,3909,3909,GerDracor/kotzebue-graf-benjowsky.xml,(bleibt schüchtern in einiger Entfernung stehen).,0,49,stage_direction,5,7,speech_part,,#afanasja,1909.0,FEMALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3910,3910,3910,GerDracor/kotzebue-graf-benjowsky.xml,Nur noch einige Augenblicke sind mein.,0,38,character_speech,5,7,,Benj.,#benjowsky,1910.0,MALE,love,S,,1794.0,positive,emotions of affection
+3911,3911,3911,GerDracor/kotzebue-graf-benjowsky.xml,Scheiden wir als Freunde!,39,64,character_speech,5,7,,Benj.,#benjowsky,1910.0,MALE,friendship,S,,1794.0,positive,emotions of affection
+3912,3912,3912,GerDracor/kotzebue-graf-benjowsky.xml,"(wirft einen Blick voll Verachtung auf ihn, kehrt sich weg und knirscht).",0,73,stage_direction,5,7,speech_part,,#gouverneur,1911.0,MALE,abhorrence,S,,1794.0,negative,emotions of rejection
+3913,3913,3913,GerDracor/kotzebue-graf-benjowsky.xml,"Daß ich gegen Russen fechtend ergriffen wurde, war es ein Verbrechen?",0,69,character_speech,5,7,,Benj.,#benjowsky,1912.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3914,3914,3914,GerDracor/kotzebue-graf-benjowsky.xml,"– daß ich diese
+              harten Fesseln heute sprengte, ist es ein Verbrechen?",70,153,character_speech,5,7,,Benj.,#benjowsky,1912.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3915,3915,3915,GerDracor/kotzebue-graf-benjowsky.xml,(schweigt störrisch).,0,21,stage_direction,5,7,speech_part,,#gouverneur,1913.0,MALE,anger,S,,1794.0,negative,emotions of rejection
+3916,3916,3916,GerDracor/kotzebue-graf-benjowsky.xml,"Mich riefen Ehre und Vaterlandsliebe, an meiner Brüder Schicksal band ein Schwur das
+              meinige.",0,107,character_speech,5,7,,Benj.,#benjowsky,1914.0,MALE,love,S,,1794.0,positive,emotions of affection
+3917,3917,3917,GerDracor/kotzebue-graf-benjowsky.xml,(keine Antwort).,0,16,stage_direction,5,7,speech_part,,#gouverneur,1915.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3918,3918,3918,GerDracor/kotzebue-graf-benjowsky.xml,Ich verließ daheim ein schwangeres Weib.,0,40,character_speech,5,7,,Benj.,#benjowsky,1916.0,MALE,love,S,,1794.0,positive,emotions of affection
+3919,3919,3919,GerDracor/kotzebue-graf-benjowsky.xml,Alter Mann!,41,52,character_speech,5,7,,Benj.,#benjowsky,1916.0,MALE,being moved,S,,1794.0,being moved,being moved
+3920,3920,3920,GerDracor/kotzebue-graf-benjowsky.xml,"was hättest du gethan an meiner
+              Stelle?",53,106,character_speech,5,7,,Benj.,#benjowsky,1916.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3921,3921,3921,GerDracor/kotzebue-graf-benjowsky.xml,(schweigt hartnäckig).,0,22,stage_direction,5,7,speech_part,,#gouverneur,1917.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3922,3922,3922,GerDracor/kotzebue-graf-benjowsky.xml,"Bin ich keines Wortes, keines Blickes würdig?",0,45,character_speech,5,7,,Benj.,#benjowsky,1918.0,MALE,being moved,S,,1794.0,being moved,being moved
+3923,3923,3923,GerDracor/kotzebue-graf-benjowsky.xml,– Wohlan!,46,55,character_speech,5,7,,Benj.,#benjowsky,1918.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3924,3924,3924,GerDracor/kotzebue-graf-benjowsky.xml,"was Schmerz und Wuth in
+              dieser Stunde verdammen, wird morgen dein kälteres Blut entschuldigen.",56,164,character_speech,5,7,,Benj.,#benjowsky,1918.0,MALE,suffering,S,,1794.0,negative,emotions of suffering and empathy
+3925,3925,3925,GerDracor/kotzebue-graf-benjowsky.xml,"– Leb'
+              wohl!",165,191,character_speech,5,7,,Benj.,#benjowsky,1918.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3926,3926,3926,GerDracor/kotzebue-graf-benjowsky.xml,(packt wüthend seine Kette und will auf ihn einstürzen.,0,55,stage_direction,5,7,speech_part,,#gouverneur,1919.0,MALE,anger,S,,1794.0,negative,emotions of rejection
+3927,3927,3927,GerDracor/kotzebue-graf-benjowsky.xml,Man hält ihn zurück.,56,76,stage_direction,5,7,speech_part,,#gouverneur,1919.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3928,3928,3928,GerDracor/kotzebue-graf-benjowsky.xml,"Er
+              erblickt Afanasjen, schlägt sich mit beiden Fäusten vor die Stirn, und heult).",77,172,stage_direction,5,7,speech_part,,#gouverneur,1919.0,MALE,suffering,S,,1794.0,negative,emotions of suffering and empathy
+3929,3929,3929,GerDracor/kotzebue-graf-benjowsky.xml,(stürzt zu seinen Füßen).,0,25,stage_direction,5,7,speech_part,,#afanasja,1920.0,FEMALE,fear,S,,1794.0,negative,emotions of anxiety
+3930,3930,3930,GerDracor/kotzebue-graf-benjowsky.xml,Verzeihung mein Vater!,0,22,character_speech,5,7,,Afan.,#afanasja,1920.0,FEMALE,suffering,S,,1794.0,negative,emotions of suffering and empathy
+3931,3931,3931,GerDracor/kotzebue-graf-benjowsky.xml,(abgewendet).,0,13,stage_direction,5,7,speech_part,,#gouverneur,1921.0,MALE,being moved,S,,1794.0,being moved,being moved
+3932,3932,3932,GerDracor/kotzebue-graf-benjowsky.xml,Wer spricht mit mir?,0,20,character_speech,5,7,,Gouv.,#gouverneur,1921.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3933,3933,3933,GerDracor/kotzebue-graf-benjowsky.xml,Ihren Segen –,0,13,character_speech,5,7,,Afan.,#afanasja,1922.0,FEMALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3934,3934,3934,GerDracor/kotzebue-graf-benjowsky.xml,Mein Fluch folge dir über's Meer!,0,33,character_speech,5,7,,Gouv.,#gouverneur,1923.0,MALE,abhorrence,S,,1794.0,negative,emotions of rejection
+3935,3935,3935,GerDracor/kotzebue-graf-benjowsky.xml,"höre ihn, wenn es stürmt!",34,59,character_speech,5,7,,Gouv.,#gouverneur,1923.0,MALE,fear,S,,1794.0,negative,emotions of anxiety
+3936,3936,3936,GerDracor/kotzebue-graf-benjowsky.xml,"höre ihn in deines
+              Buhlers Armen!",60,107,character_speech,5,7,,Gouv.,#gouverneur,1923.0,MALE,suffering,S,,1794.0,negative,emotions of suffering and empathy
+3937,3937,3937,GerDracor/kotzebue-graf-benjowsky.xml,"zitt're vor ihm, wenn es blitzt!",108,140,character_speech,5,7,,Gouv.,#gouverneur,1923.0,MALE,fear,S,,1794.0,negative,emotions of anxiety
+3938,3938,3938,GerDracor/kotzebue-graf-benjowsky.xml,"und wenn die Sonne scheint, so denke,
+              sie scheint auf deines Vaters Grab.",141,228,character_speech,5,7,,Gouv.,#gouverneur,1923.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3939,3939,3939,GerDracor/kotzebue-graf-benjowsky.xml,"Wenn der Donner brüllt, so brülle er dir meinen
+              Fluch in's Ohr, und wenn ein leises Lüftchen säuselt, so wähne, meinen letzten Seufzer
+              zu hören.",229,401,character_speech,5,7,,Gouv.,#gouverneur,1923.0,MALE,abhorrence,S,,1794.0,negative,emotions of rejection
+3940,3940,3940,GerDracor/kotzebue-graf-benjowsky.xml,"Alles verlasse dich in deiner Sterbestunde, wie du mich verlässest, nur das
+              Bild deines zürnenden Vaters schwebe vor dir in Fieberphantasien!",402,557,character_speech,5,7,,Gouv.,#gouverneur,1923.0,MALE,abhorrence,S,,1794.0,negative,emotions of rejection
+3941,3941,3941,GerDracor/kotzebue-graf-benjowsky.xml,"Wirst du einst
+              Kinder gebären, so sei mein Fluch ihr großväterliches Erbe!",558,646,character_speech,5,7,,Gouv.,#gouverneur,1923.0,MALE,abhorrence,S,,1794.0,negative,emotions of rejection
+3942,3942,3942,GerDracor/kotzebue-graf-benjowsky.xml,"ihr Undank räche mich an
+              der Mutter!",647,697,character_speech,5,7,,Gouv.,#gouverneur,1923.0,MALE,abhorrence,S,,1794.0,negative,emotions of rejection
+3943,3943,3943,GerDracor/kotzebue-graf-benjowsky.xml,(fällt sprachlos und halb sinnlos in Benjowskys Arme).,0,54,stage_direction,5,7,speech_part,,#afanasja,1924.0,FEMALE,suffering,S,,1794.0,negative,emotions of suffering and empathy
+3944,3944,3944,GerDracor/kotzebue-graf-benjowsky.xml,(durch Afanasjens Anblick erweicht).,0,36,stage_direction,5,7,speech_part,,#gouverneur,1925.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3945,3945,3945,GerDracor/kotzebue-graf-benjowsky.xml,"Bleibe bei mir, mein Kind!",0,26,character_speech,5,7,,Gouv.,#gouverneur,1925.0,MALE,love,S,,1794.0,positive,emotions of affection
+3946,3946,3946,GerDracor/kotzebue-graf-benjowsky.xml,mein liebes verführtes Kind!,27,55,character_speech,5,7,,Gouv.,#gouverneur,1925.0,MALE,love,S,,1794.0,positive,emotions of affection
+3947,3947,3947,GerDracor/kotzebue-graf-benjowsky.xml,bleibe bei mir!,56,71,character_speech,5,7,,Gouv.,#gouverneur,1925.0,MALE,love,S,,1794.0,positive,emotions of affection
+3948,3948,3948,GerDracor/kotzebue-graf-benjowsky.xml,"ich bin alt
+              und schwach.",72,110,character_speech,5,7,,Gouv.,#gouverneur,1925.0,MALE,suffering,S,,1794.0,negative,emotions of suffering and empathy
+3949,3949,3949,GerDracor/kotzebue-graf-benjowsky.xml,"Als deine Mutter starb, sprach sie zu mir: »Weine nicht, ich lasse dir
+              Afanasja.« Willst du deine sterbende Mutter zur Lügnerin machen?",111,260,character_speech,5,7,,Gouv.,#gouverneur,1925.0,MALE,compassion,S,,1794.0,negative,emotions of suffering and empathy
+3950,3950,3950,GerDracor/kotzebue-graf-benjowsky.xml,"Wenige Wochen,
+              vielleicht nur wenige Tage, wie bald sind die verlaufen!",261,346,character_speech,5,7,,Gouv.,#gouverneur,1925.0,MALE,suffering,S,,1794.0,negative,emotions of suffering and empathy
+3951,3951,3951,GerDracor/kotzebue-graf-benjowsky.xml,"dann lege ich mich nieder und
+              sterbe, und du darfst sagen: ich habe das Gebot meiner Mutter erfüllt, ich habe meinem
+              Vater die Augen zugedrückt.",347,519,character_speech,5,7,,Gouv.,#gouverneur,1925.0,MALE,despair,S,,1794.0,negative,emotions of anxiety
+3952,3952,3952,GerDracor/kotzebue-graf-benjowsky.xml,(erschüttert).,0,14,stage_direction,5,7,speech_part,,#benjowsky,1926.0,MALE,being moved,S,,1794.0,being moved,being moved
+3953,3953,3953,GerDracor/kotzebue-graf-benjowsky.xml,Schone sie!,0,11,character_speech,5,7,,Benj.,#benjowsky,1926.0,MALE,compassion,S,,1794.0,negative,emotions of suffering and empathy
+3954,3954,3954,GerDracor/kotzebue-graf-benjowsky.xml,Du bist meine einzige Freude!,0,29,character_speech,5,7,,Gouv.,#gouverneur,1927.0,MALE,love,S,,1794.0,positive,emotions of affection
+3955,3955,3955,GerDracor/kotzebue-graf-benjowsky.xml,mein einziger Trost!,30,50,character_speech,5,7,,Gouv.,#gouverneur,1927.0,MALE,suffering,S,,1794.0,negative,emotions of suffering and empathy
+3956,3956,3956,GerDracor/kotzebue-graf-benjowsky.xml,"ich liebe dich väterlich, so wird
+              kein Buhler dich lieben, Sättigung in deinen Armen wird er dir mit Ueberdruß bezahlen,
+              indessen dein alter Vater, zum Lohn für seinen Segen, nichts begehrt, als einen
+              sanften Druck deiner Hand auf seine Augen, wenn sie sich schließen wollen.",51,368,character_speech,5,7,,Gouv.,#gouverneur,1927.0,MALE,love,S,,1794.0,positive,emotions of affection
+3957,3957,3957,GerDracor/kotzebue-graf-benjowsky.xml,"– O, daß
+              mein Haar noch nicht so grau wäre, in diesem Augenblicke  müßte es grau
+                werden, und dieser Anblick würde dich rühren.",369,525,character_speech,5,7,,Gouv.,#gouverneur,1927.0,MALE,suffering,S,,1794.0,negative,emotions of suffering and empathy
+3958,3958,3958,GerDracor/kotzebue-graf-benjowsky.xml,"(strebt sich aufzurichten, und fällt ohnmächtig zurück).",0,56,stage_direction,5,7,speech_part,,#afanasja,1928.0,FEMALE,suffering,S,,1794.0,negative,emotions of suffering and empathy
+3959,3959,3959,GerDracor/kotzebue-graf-benjowsky.xml,(sehr bewegt.),0,14,stage_direction,5,7,speech_part,,#benjowsky,1929.0,MALE,being moved,S,,1794.0,being moved,being moved
+3960,3960,3960,GerDracor/kotzebue-graf-benjowsky.xml,Gott!,0,5,character_speech,5,7,,Benj.,#benjowsky,1929.0,MALE,being moved,S,,1794.0,being moved,being moved
+3961,3961,3961,GerDracor/kotzebue-graf-benjowsky.xml,– Hilfe!,6,14,character_speech,5,7,,Benj.,#benjowsky,1929.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3962,3962,3962,GerDracor/kotzebue-graf-benjowsky.xml,– ergreift sie!,15,30,character_speech,5,7,,Benj.,#benjowsky,1929.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3963,3963,3963,GerDracor/kotzebue-graf-benjowsky.xml,– tragt sie fort!,31,48,character_speech,5,7,,Benj.,#benjowsky,1929.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3964,3964,3964,GerDracor/kotzebue-graf-benjowsky.xml,(außer sich vor Angst und Schmerz).,0,35,stage_direction,5,7,speech_part,,#gouverneur,1930.0,MALE,fear,S,,1794.0,negative,emotions of anxiety
+3965,3965,3965,GerDracor/kotzebue-graf-benjowsky.xml,Graf Benjowsky!,0,15,character_speech,5,7,,Gouv.,#gouverneur,1930.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3966,3966,3966,GerDracor/kotzebue-graf-benjowsky.xml,"wenn du einen Gott glaubst, so höre mich!",16,57,character_speech,5,7,,Gouv.,#gouverneur,1930.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3967,3967,3967,GerDracor/kotzebue-graf-benjowsky.xml,"Ich hab' dich nie
+              beleidigt!",58,100,character_speech,5,7,,Gouv.,#gouverneur,1930.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3968,3968,3968,GerDracor/kotzebue-graf-benjowsky.xml,"ich habe dir Gutes gethan, so viel ich konnte!",101,147,character_speech,5,7,,Gouv.,#gouverneur,1930.0,MALE,joy,S,,1794.0,positive,emotions of pleasure
+3969,3969,3969,GerDracor/kotzebue-graf-benjowsky.xml,du hast mir alles genommen!,148,175,character_speech,5,7,,Gouv.,#gouverneur,1930.0,MALE,suffering,S,,1794.0,negative,emotions of suffering and empathy
+3970,3970,3970,GerDracor/kotzebue-graf-benjowsky.xml,du hast mich um Amt und Ehre gebracht!,190,228,character_speech,5,7,,Gouv.,#gouverneur,1930.0,MALE,abhorrence,S,,1794.0,negative,emotions of rejection
+3971,3971,3971,GerDracor/kotzebue-graf-benjowsky.xml,"laß mir meine Tochter und ich bin reich
+              geblieben!",229,293,character_speech,5,7,,Gouv.,#gouverneur,1930.0,MALE,joy,S,,1794.0,positive,emotions of pleasure
+3972,3972,3972,GerDracor/kotzebue-graf-benjowsky.xml,Graf Benjowsky!,294,309,character_speech,5,7,,Gouv.,#gouverneur,1930.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3973,3973,3973,GerDracor/kotzebue-graf-benjowsky.xml,"wenn du einen Gott glaubst, so höre mich!",310,351,character_speech,5,7,,Gouv.,#gouverneur,1930.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3974,3974,3974,GerDracor/kotzebue-graf-benjowsky.xml,"Um deines Weibes
+              willen, das daheim für dich betet!",352,417,character_speech,5,7,,Gouv.,#gouverneur,1930.0,MALE,love,S,,1794.0,positive,emotions of affection
+3975,3975,3975,GerDracor/kotzebue-graf-benjowsky.xml,"wie kann Gott ihr Gebet erhören, wenn du mir armen
+              Manne mein einziges Kleinod stiehlst?",418,520,character_speech,5,7,,Gouv.,#gouverneur,1930.0,MALE,compassion,S,,1794.0,negative,emotions of suffering and empathy
+3976,3976,3976,GerDracor/kotzebue-graf-benjowsky.xml,"Um deines Kindes willen, das du noch nicht
+              kanntest, als du dein Haus verließest, daß es dich nie zum unglücklichen Vater mache!",521,663,character_speech,5,7,,Gouv.,#gouverneur,1930.0,MALE,compassion,S,,1794.0,negative,emotions of suffering and empathy
+3977,3977,3977,GerDracor/kotzebue-graf-benjowsky.xml,Was willst du mit ihr?,678,700,character_speech,5,7,,Gouv.,#gouverneur,1930.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3978,3978,3978,GerDracor/kotzebue-graf-benjowsky.xml,"siehe, sie ist schon zur Leiche geworden, gib mir die Leiche
+              meiner Tochter wieder!",701,798,character_speech,5,7,,Gouv.,#gouverneur,1930.0,MALE,suffering,S,,1794.0,negative,emotions of suffering and empathy
+3979,3979,3979,GerDracor/kotzebue-graf-benjowsky.xml,"(Er fällt auf beide Knie nieder, und hebt seine Hände
+                zitternd gen Himmel.)",0,91,stage_direction,5,7,inner_speech,,#gouverneur,1930.0,MALE,suffering,S,,1794.0,negative,emotions of suffering and empathy
+3980,3980,3980,GerDracor/kotzebue-graf-benjowsky.xml, Graf Benjowsky!,0,16,character_speech,5,7,,Gouv.,#gouverneur,1930.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3981,3981,3981,GerDracor/kotzebue-graf-benjowsky.xml,"ich habe keine Worte – ich habe keine
+              Thränen, aber Gott hat Blitze!",17,99,character_speech,5,7,,Gouv.,#gouverneur,1930.0,MALE,suffering,S,,1794.0,negative,emotions of suffering and empathy
+3982,3982,3982,GerDracor/kotzebue-graf-benjowsky.xml,–,100,101,character_speech,5,7,,Gouv.,#gouverneur,1930.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3983,3983,3983,GerDracor/kotzebue-graf-benjowsky.xml,"(heftig erschüttert, legt die ohnmächtige Afanasja in die Arme des knienden
+              Greises.)",0,99,stage_direction,5,7,speech_part,,#benjowsky,1931.0,MALE,being moved,S,,1794.0,being moved,being moved
+3984,3984,3984,GerDracor/kotzebue-graf-benjowsky.xml,"Da hast du sie, alter Vater!",0,28,character_speech,5,7,,Benj.,#benjowsky,1931.0,MALE,abhorrence,S,,1794.0,negative,emotions of rejection
+3985,3985,3985,GerDracor/kotzebue-graf-benjowsky.xml,(Er zieht das Bild seines Weibes hervor.),0,41,stage_direction,5,7,inner_speech,,#benjowsky,1931.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3986,3986,3986,GerDracor/kotzebue-graf-benjowsky.xml,"
+              Emilie!",0,22,character_speech,5,7,,Benj.,#benjowsky,1931.0,MALE,being moved,S,,1794.0,being moved,being moved
+3987,3987,3987,GerDracor/kotzebue-graf-benjowsky.xml,meine Gattin!,23,36,character_speech,5,7,,Benj.,#benjowsky,1931.0,MALE,being moved,S,,1794.0,being moved,being moved
+3988,3988,3988,GerDracor/kotzebue-graf-benjowsky.xml,– Fort zu Schiffe!,37,55,character_speech,5,7,,Benj.,#benjowsky,1931.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3989,3989,3989,GerDracor/kotzebue-graf-benjowsky.xml,(Verwirrtes Getöse.,0,19,stage_direction,5,7,inner_speech,,#benjowsky,1931.0,MALE,being moved,S,,1794.0,being moved,being moved
+3990,3990,3990,GerDracor/kotzebue-graf-benjowsky.xml,"Alles eilt zu
+                Schiffe.)",20,59,stage_direction,5,7,inner_speech,,#benjowsky,1931.0,MALE,no_annotation,S,,1794.0,no_annotation,no_annotation
+3991,3991,3991,GerDracor/kotzebue-graf-benjowsky.xml,"(seine Tochter in frohem Wahnsinn an sein Herz drückend, indem er die andere nach
+              dem Schiffe ausstreckt.)",0,120,stage_direction,5,7,speech_part,,#gouverneur,1932.0,MALE,joy,S,,1794.0,positive,emotions of pleasure
+3992,3992,3992,GerDracor/kotzebue-graf-benjowsky.xml,"Gott segne dich, Fremdling!",0,27,character_speech,5,7,,Gouv.,#gouverneur,1932.0,MALE,joy,S,,1794.0,positive,emotions of pleasure
+3993,3993,3993,GerDracor/kotzebue-graf-benjowsky.xml,Gott segne dich!,28,44,character_speech,5,7,,Gouv.,#gouverneur,1932.0,MALE,"admiration, reverence",S,,1794.0,positive,emotions of affection
+3994,3994,3994,GerDracor/kotzebue-graf-benjowsky.xml,(Der Vorhang fällt.),0,20,stage_direction,5,7,pre_speech,,,,,no_annotation,S,,1794.0,no_annotation,no_annotation

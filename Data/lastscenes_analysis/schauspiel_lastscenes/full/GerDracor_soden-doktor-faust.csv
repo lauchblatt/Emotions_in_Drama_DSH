@@ -1,0 +1,206 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+3039,3039,3039,GerDracor/soden-doktor-faust.xml,Mephistopheles.,0,15,stage_direction,5,11,pre_speech,,,,,no_annotation,S,,1797.0,no_annotation,no_annotation
+3040,3040,3040,GerDracor/soden-doktor-faust.xml,Doktor Faust.,16,29,stage_direction,5,11,pre_speech,,,,,no_annotation,S,,1797.0,no_annotation,no_annotation
+3041,3041,3041,GerDracor/soden-doktor-faust.xml,Was wirfst du mir vor?,0,22,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1311.0,MALE,anger,S,,1797.0,negative,emotions of rejection
+3042,3042,3042,GerDracor/soden-doktor-faust.xml,"Ungeheuer, du erscheinst noch vor mir?",0,38,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1312.0,MALE,fear,S,,1797.0,negative,emotions of anxiety
+3043,3043,3043,GerDracor/soden-doktor-faust.xml,"Sprich, fordere Rechenschaft!",0,29,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1313.0,MALE,anger,S,,1797.0,negative,emotions of rejection
+3044,3044,3044,GerDracor/soden-doktor-faust.xml,Hier bin ich!,30,43,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1313.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3045,3045,3045,GerDracor/soden-doktor-faust.xml,"O daß ich allen Jammer der Schöpfung seit deinem Fall zusammenpressen könnte in einen
+              Laut, um, wär's möglich, dein Wesen damit zu zermalmen!",0,155,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1314.0,MALE,suffering,S,,1797.0,negative,emotions of suffering and empathy
+3046,3046,3046,GerDracor/soden-doktor-faust.xml,Versuch' es!,0,12,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1315.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3047,3047,3047,GerDracor/soden-doktor-faust.xml,O ohnmächtige Allmacht!,0,23,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1316.0,MALE,despair,S,,1797.0,negative,emotions of anxiety
+3048,3048,3048,GerDracor/soden-doktor-faust.xml,"Harmonie des Ganzen war dein großes Gesetz, und du läßt es
+              scheitern an diesem Wesen?",24,123,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1316.0,MALE,abhorrence,S,,1797.0,negative,emotions of rejection
+3049,3049,3049,GerDracor/soden-doktor-faust.xml,"Vernicht' es, wenn du kannst, oder entsage deinem
+              Plane!",124,194,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1316.0,MALE,abhorrence,S,,1797.0,negative,emotions of rejection
+3050,3050,3050,GerDracor/soden-doktor-faust.xml,Gut!,0,4,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1317.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3051,3051,3051,GerDracor/soden-doktor-faust.xml,"Murre, fluche der Vorsicht, die Stunde der Verwandlung naht.",5,65,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1317.0,MALE,fear,S,,1797.0,negative,emotions of anxiety
+3052,3052,3052,GerDracor/soden-doktor-faust.xml,"Ein Engel würde murren, wenn Satan Rechenschaft fordert.",0,56,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1318.0,MALE,anger,S,,1797.0,negative,emotions of rejection
+3053,3053,3053,GerDracor/soden-doktor-faust.xml,Wes klagst du mich an?,0,22,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1319.0,MALE,anger,S,,1797.0,negative,emotions of rejection
+3054,3054,3054,GerDracor/soden-doktor-faust.xml,Wessen?,0,7,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1320.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3055,3055,3055,GerDracor/soden-doktor-faust.xml,Am Abend leuchtet mir eine furchtbare Röte.,8,51,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1320.0,MALE,suffering,S,,1797.0,negative,emotions of suffering and empathy
+3056,3056,3056,GerDracor/soden-doktor-faust.xml,"Wer tötete in mir dies wohltätige
+              Ahnden veredelnder Unsterblichkeit, das die Welt in ihren Angeln hält?",52,170,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1320.0,MALE,"admiration, reverence",S,,1797.0,positive,emotions of affection
+3057,3057,3057,GerDracor/soden-doktor-faust.xml,Dein Herz!,0,10,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1321.0,MALE,love,S,,1797.0,positive,emotions of affection
+3058,3058,3058,GerDracor/soden-doktor-faust.xml,"Wer schlich sich in die tiefsten Abgründe meiner Seele, zog herauf den unmerkbarsten
+              Keim der Schwachheit, begoß ihn mit der Gelegenheit, der Schmeichelei schwellendem
+              Gifte, und zog ihn groß zum Laster?",0,231,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1322.0,MALE,suffering,S,,1797.0,negative,emotions of suffering and empathy
+3059,3059,3059,GerDracor/soden-doktor-faust.xml,"Wer hauchte jeden Funken von Tugend zur Flamme des
+              Lasters?",232,305,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1322.0,MALE,abhorrence,S,,1797.0,negative,emotions of rejection
+3060,3060,3060,GerDracor/soden-doktor-faust.xml,Ach!,306,310,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1322.0,MALE,suffering,S,,1797.0,negative,emotions of suffering and empathy
+3061,3061,3061,GerDracor/soden-doktor-faust.xml,Meine Tugenden selbst wurden Laster unter deiner vergiftenden Hand.,311,378,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1322.0,MALE,abhorrence,S,,1797.0,negative,emotions of rejection
+3062,3062,3062,GerDracor/soden-doktor-faust.xml,"–
+              Und ich war tugendhaft!",379,418,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1322.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3063,3063,3063,GerDracor/soden-doktor-faust.xml,Rein meine Seele von Druck und Raub.,419,455,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1322.0,MALE,suffering,S,,1797.0,negative,emotions of suffering and empathy
+3064,3064,3064,GerDracor/soden-doktor-faust.xml,"Hoch pochte mein Herz für
+              Menschenglück und Menschenrechte.",456,529,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1322.0,MALE,"admiration, reverence",S,,1797.0,positive,emotions of affection
+3065,3065,3065,GerDracor/soden-doktor-faust.xml,Und doch dein!,530,544,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1322.0,MALE,love,S,,1797.0,positive,emotions of affection
+3066,3066,3066,GerDracor/soden-doktor-faust.xml,Mein!,0,5,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1323.0,MALE,being moved,S,,1797.0,being moved,being moved
+3067,3067,3067,GerDracor/soden-doktor-faust.xml,Mensch!,6,13,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1323.0,MALE,being moved,S,,1797.0,being moved,being moved
+3068,3068,3068,GerDracor/soden-doktor-faust.xml,"Habe alle Tugenden und eine Leidenschaft, so bist du mein!",14,72,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1323.0,MALE,love,S,,1797.0,positive,emotions of affection
+3069,3069,3069,GerDracor/soden-doktor-faust.xml,Ha!,0,3,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1324.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3070,3070,3070,GerDracor/soden-doktor-faust.xml,So wäre dieses Dasein nur eine Mausfalle!,4,45,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1324.0,MALE,abhorrence,S,,1797.0,negative,emotions of rejection
+3071,3071,3071,GerDracor/soden-doktor-faust.xml,Aufgestellt dich zu belustigen?,46,77,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1324.0,MALE,Schadenfreude,S,,1797.0,positive,emotions of pleasure
+3072,3072,3072,GerDracor/soden-doktor-faust.xml,"Wer ist
+              ohne Leidenschaft?",78,118,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1324.0,MALE,love,S,,1797.0,positive,emotions of affection
+3073,3073,3073,GerDracor/soden-doktor-faust.xml,Wer entrönne ihr?,119,136,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1324.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3074,3074,3074,GerDracor/soden-doktor-faust.xml,Der sie alle beherrscht!,0,24,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1325.0,MALE,abhorrence,S,,1797.0,negative,emotions of rejection
+3075,3075,3075,GerDracor/soden-doktor-faust.xml,"– Faust, sei gerecht, denn auch Satan ist es.",25,70,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1325.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3076,3076,3076,GerDracor/soden-doktor-faust.xml,"Als die ganze
+              Schöpfung dir nicht genügte, riefst du nicht: Satan?",71,151,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1325.0,MALE,abhorrence,S,,1797.0,negative,emotions of rejection
+3077,3077,3077,GerDracor/soden-doktor-faust.xml,"O wahr, leider, wahr!",0,21,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1326.0,MALE,suffering,S,,1797.0,negative,emotions of suffering and empathy
+3078,3078,3078,GerDracor/soden-doktor-faust.xml,"Und du forderst, er sei ein Engel?",0,34,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1327.0,MALE,being moved,S,,1797.0,being moved,being moved
+3079,3079,3079,GerDracor/soden-doktor-faust.xml,Sterbliche!,35,46,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1327.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3080,3080,3080,GerDracor/soden-doktor-faust.xml,"Ihn ruft ihr rastlos zu Gericht, wenn
+              der anklagende Engel dort eure Schuld niederschreibt.",47,152,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1327.0,MALE,abhorrence,S,,1797.0,negative,emotions of rejection
+3081,3081,3081,GerDracor/soden-doktor-faust.xml,Toren!,153,159,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1327.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3082,3082,3082,GerDracor/soden-doktor-faust.xml,"Denkt ihr damit einen
+              Pardonbrief zu erschleichen für euer Herz?",160,238,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1327.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3083,3083,3083,GerDracor/soden-doktor-faust.xml,– Genuß hatte deine Sinne gestumpft.,239,275,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1327.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3084,3084,3084,GerDracor/soden-doktor-faust.xml,"Da
+              erwachte dein Geist und ward ein Schwelger wie sie, schwamm umher in der Wissenschaft
+              grundlosem Meere, ohne Steuermann; flog in ihm fremde Regionen mit Fittichen von
+              Goldpapier; strebte, rastlos getrieben von verworrener Ahndungen Stachel, vorwärts,
+              aufwärts – und fiel!",276,606,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1327.0,MALE,suffering,S,,1797.0,negative,emotions of suffering and empathy
+3085,3085,3085,GerDracor/soden-doktor-faust.xml,Und darüber klagst du mich an?,607,637,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1327.0,MALE,anger,S,,1797.0,negative,emotions of rejection
+3086,3086,3086,GerDracor/soden-doktor-faust.xml,"Ha, Elender!",0,12,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1328.0,MALE,abhorrence,S,,1797.0,negative,emotions of rejection
+3087,3087,3087,GerDracor/soden-doktor-faust.xml,"Ich kehrte zurück an den Busen der Natur, und du verfolgtest mich!",13,79,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1328.0,MALE,abhorrence,S,,1797.0,negative,emotions of rejection
+3088,3088,3088,GerDracor/soden-doktor-faust.xml,Wahr!,0,5,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1329.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3089,3089,3089,GerDracor/soden-doktor-faust.xml,"Ausgespannt ist mein Netz über die ganze Menschheit; denn seine Fäden spinnt
+              Leidenschaft.",6,110,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1329.0,MALE,love,S,,1797.0,positive,emotions of affection
+3090,3090,3090,GerDracor/soden-doktor-faust.xml," Nahe dich ihm, dringe vorwärts, rückwärts, seitwärts; ihre
+              Schlingen verweben sich dichter!",0,106,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1329.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3091,3091,3091,GerDracor/soden-doktor-faust.xml,– Horch!,107,115,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1329.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3092,3092,3092,GerDracor/soden-doktor-faust.xml,Die Uhr schlägt.,0,16,stage_direction,5,11,inner_speech,,#mephistopheles,1329.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3093,3093,3093,GerDracor/soden-doktor-faust.xml," Die Glocke
+              schlägt!",0,34,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1329.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3094,3094,3094,GerDracor/soden-doktor-faust.xml,Verräter!,0,9,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1330.0,MALE,abhorrence,S,,1797.0,negative,emotions of rejection
+3095,3095,3095,GerDracor/soden-doktor-faust.xml,"Ich hatte nur eine Leidenschaft und sie war nicht aus deinem Reiche; sie
+              war: zu beglücken!",10,115,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1330.0,MALE,love,S,,1797.0,positive,emotions of affection
+3096,3096,3096,GerDracor/soden-doktor-faust.xml,Wahr!,0,5,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1331.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3097,3097,3097,GerDracor/soden-doktor-faust.xml,Aber Tugend ist nur: Glückliche zu wissen.,6,48,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1331.0,MALE,joy,S,,1797.0,positive,emotions of pleasure
+3098,3098,3098,GerDracor/soden-doktor-faust.xml,"Faust, bedenk's!",49,65,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1331.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3099,3099,3099,GerDracor/soden-doktor-faust.xml,"Du wünschtest dir
+              Macht, und Macht ist der geborne Mörder der Tugend.",66,149,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1331.0,MALE,abhorrence,S,,1797.0,negative,emotions of rejection
+3100,3100,3100,GerDracor/soden-doktor-faust.xml,"Du hast erlangt, was du
+              wünschtest.",150,199,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1331.0,MALE,joy,S,,1797.0,positive,emotions of pleasure
+3101,3101,3101,GerDracor/soden-doktor-faust.xml,Ich hielt dir Wort.,200,219,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1331.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3102,3102,3102,GerDracor/soden-doktor-faust.xml,Halte das deinige!,220,238,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1331.0,MALE,love,S,,1797.0,positive,emotions of affection
+3103,3103,3103,GerDracor/soden-doktor-faust.xml,Du täuschtest mich!,0,19,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1332.0,MALE,being moved,S,,1797.0,being moved,being moved
+3104,3104,3104,GerDracor/soden-doktor-faust.xml,Du versprachst mir Glück.,20,45,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1332.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3105,3105,3105,GerDracor/soden-doktor-faust.xml,"Ich gab, was ich hatte, was du fordertest.",0,42,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1333.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3106,3106,3106,GerDracor/soden-doktor-faust.xml,Horch!,43,49,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1333.0,MALE,being moved,S,,1797.0,being moved,being moved
+3107,3107,3107,GerDracor/soden-doktor-faust.xml,Die Uhr schlägt.,0,16,stage_direction,5,11,inner_speech,,#mephistopheles,1333.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3108,3108,3108,GerDracor/soden-doktor-faust.xml," Die
+              Glocke schlägt!",0,34,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1333.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3109,3109,3109,GerDracor/soden-doktor-faust.xml,"Eins, zwei, drei – ein Vierteil einer Stunde noch, und du bist mein!",35,103,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1333.0,MALE,love,S,,1797.0,positive,emotions of affection
+3110,3110,3110,GerDracor/soden-doktor-faust.xml,Fasse dich!,118,129,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1333.0,MALE,being moved,S,,1797.0,being moved,being moved
+3111,3111,3111,GerDracor/soden-doktor-faust.xml,O weh mir!,0,10,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1334.0,MALE,suffering,S,,1797.0,negative,emotions of suffering and empathy
+3112,3112,3112,GerDracor/soden-doktor-faust.xml,– Nein!,11,18,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1334.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3113,3113,3113,GerDracor/soden-doktor-faust.xml,Nein!,19,24,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1334.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3114,3114,3114,GerDracor/soden-doktor-faust.xml,"Meine Seele ist nicht dein, sie ist frei – so lang sie ist
+              in der unermeßlichen Reihe der Wesen!",25,135,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1334.0,MALE,love,S,,1797.0,positive,emotions of affection
+3115,3115,3115,GerDracor/soden-doktor-faust.xml,"Und wäre sie ein Atom, so steht sie unter der
+              Allmacht Obhut!",136,211,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1334.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3116,3116,3116,GerDracor/soden-doktor-faust.xml,Ich trotze deinem Grimme.,212,237,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1334.0,MALE,anger,S,,1797.0,negative,emotions of rejection
+3117,3117,3117,GerDracor/soden-doktor-faust.xml,Elender!,0,8,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1335.0,MALE,anger,S,,1797.0,negative,emotions of rejection
+3118,3118,3118,GerDracor/soden-doktor-faust.xml,Ist der Mensch nicht ein freies Wesen?,9,47,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1335.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3119,3119,3119,GerDracor/soden-doktor-faust.xml,Sein Wille fessellos wie ein Gott?,48,82,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1335.0,MALE,being moved,S,,1797.0,being moved,being moved
+3120,3120,3120,GerDracor/soden-doktor-faust.xml,Beschwurst du nicht freiwillig den Bund?,97,137,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1335.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3121,3121,3121,GerDracor/soden-doktor-faust.xml,Ueber fremdes Eigentum!,0,23,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1336.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3122,3122,3122,GerDracor/soden-doktor-faust.xml,– Zittre!,24,33,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1336.0,MALE,fear,S,,1797.0,negative,emotions of anxiety
+3123,3123,3123,GerDracor/soden-doktor-faust.xml,"Ich kann niederfallen im Staub und anbeten und
+              versinken in den Schoß des Allerbarmers, vor dessen Stimme die Hölle erbebt!",34,171,character_speech,5,11,,DOKTOR FAUST.,#doktor_faust,1336.0,MALE,"admiration, reverence",S,,1797.0,positive,emotions of affection
+3124,3124,3124,GerDracor/soden-doktor-faust.xml,Wag es und bete!,0,16,character_speech,5,11,,MEPHISTOPHELES.,#mephistopheles,1337.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3125,3125,3125,GerDracor/soden-doktor-faust.xml,Verschwindet.,0,13,stage_direction,5,11,inner_speech,,#mephistopheles,1337.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3126,3126,3126,GerDracor/soden-doktor-faust.xml,"niederfallend, dann aufstehend; mit Verzweiflung ringend.",0,57,stage_direction,5,11,speech_part,,#doktor_faust,1338.0,MALE,despair,S,,1797.0,negative,emotions of anxiety
+3127,3127,3127,GerDracor/soden-doktor-faust.xml,O weh mir!,0,10,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,suffering,S,,1797.0,negative,emotions of suffering and empathy
+3128,3128,3128,GerDracor/soden-doktor-faust.xml,Ich vermag's nicht!,11,30,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,despair,S,,1797.0,negative,emotions of anxiety
+3129,3129,3129,GerDracor/soden-doktor-faust.xml,Ich bin verloren!,31,48,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,despair,S,,1797.0,negative,emotions of anxiety
+3130,3130,3130,GerDracor/soden-doktor-faust.xml,Hohngelächter.,0,14,stage_direction,5,11,inner_speech,,#doktor_faust,1338.0,MALE,Schadenfreude,S,,1797.0,positive,emotions of pleasure
+3131,3131,3131,GerDracor/soden-doktor-faust.xml," Ha,
+              was ist das?",0,31,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3132,3132,3132,GerDracor/soden-doktor-faust.xml,Der Hohn der Hölle?,32,51,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,abhorrence,S,,1797.0,negative,emotions of rejection
+3133,3133,3133,GerDracor/soden-doktor-faust.xml,"– O weint, Engel des Himmels!",52,81,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,suffering,S,,1797.0,negative,emotions of suffering and empathy
+3134,3134,3134,GerDracor/soden-doktor-faust.xml,Zerfließt in Tränen!,82,102,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,suffering,S,,1797.0,negative,emotions of suffering and empathy
+3135,3135,3135,GerDracor/soden-doktor-faust.xml,"Heule, Unschuld und Tugend, die Hölle lacht!",117,161,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,Schadenfreude,S,,1797.0,positive,emotions of pleasure
+3136,3136,3136,GerDracor/soden-doktor-faust.xml,"– Wo bist du, Vergangenheit?",162,190,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3137,3137,3137,GerDracor/soden-doktor-faust.xml,"Daß ich noch
+              einmal, zum letztenmal dich im täuschenden Wahnsinn an meinen Busen drücke!",191,293,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,despair,S,,1797.0,negative,emotions of anxiety
+3138,3138,3138,GerDracor/soden-doktor-faust.xml,"– Hinweg,
+              Kamäleon der Zukunft!",294,339,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,abhorrence,S,,1797.0,negative,emotions of rejection
+3139,3139,3139,GerDracor/soden-doktor-faust.xml,Hinweg!,340,347,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,anger,S,,1797.0,negative,emotions of rejection
+3140,3140,3140,GerDracor/soden-doktor-faust.xml,Hinweg!,348,355,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,anger,S,,1797.0,negative,emotions of rejection
+3141,3141,3141,GerDracor/soden-doktor-faust.xml,Ich hasse,356,365,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,abhorrence,S,,1797.0,negative,emotions of rejection
+3142,3142,3142,GerDracor/soden-doktor-faust.xml," dich, ich entsage dir!",0,23,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,despair,S,,1797.0,negative,emotions of anxiety
+3143,3143,3143,GerDracor/soden-doktor-faust.xml,"Vernichtung, umschlinge mich mit deinem zermalmen den Arme!",38,97,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,despair,S,,1797.0,negative,emotions of anxiety
+3144,3144,3144,GerDracor/soden-doktor-faust.xml,Fest!,98,103,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3145,3145,3145,GerDracor/soden-doktor-faust.xml,Fest!,104,109,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3146,3146,3146,GerDracor/soden-doktor-faust.xml,– Noch fester!,110,124,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3147,3147,3147,GerDracor/soden-doktor-faust.xml,Pause.,0,6,stage_direction,5,11,inner_speech,,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3148,3148,3148,GerDracor/soden-doktor-faust.xml,Oh!,0,3,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3149,3149,3149,GerDracor/soden-doktor-faust.xml,Oh!,4,7,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3150,3150,3150,GerDracor/soden-doktor-faust.xml,Wie ist mir?,8,20,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3151,3151,3151,GerDracor/soden-doktor-faust.xml,Glut in allen meinen Adern!,21,48,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,desire,S,,1797.0,positive,emotions of affection
+3152,3152,3152,GerDracor/soden-doktor-faust.xml,"Hab ich euch erwürgt, blutige
+              Gespenster?",49,104,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,fear,S,,1797.0,negative,emotions of anxiety
+3153,3153,3153,GerDracor/soden-doktor-faust.xml,"– Ha, der Hölle Angst rast in meinem Gebein!",105,149,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,fear,S,,1797.0,negative,emotions of anxiety
+3154,3154,3154,GerDracor/soden-doktor-faust.xml,– Luft!,150,157,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3155,3155,3155,GerDracor/soden-doktor-faust.xml,Luft!,158,163,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,anger,S,,1797.0,negative,emotions of rejection
+3156,3156,3156,GerDracor/soden-doktor-faust.xml,–,164,165,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3157,3157,3157,GerDracor/soden-doktor-faust.xml,Pause.,0,6,stage_direction,5,11,inner_speech,,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3158,3158,3158,GerDracor/soden-doktor-faust.xml,Grundlos ist der Barmherzigkeit Tiefe.,0,38,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,suffering,S,,1797.0,negative,emotions of suffering and empathy
+3159,3159,3159,GerDracor/soden-doktor-faust.xml,Ich wag's!,39,49,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,fear,S,,1797.0,negative,emotions of anxiety
+3160,3160,3160,GerDracor/soden-doktor-faust.xml,"Zur Erde, halsstarrige Knie!",50,78,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,abhorrence,S,,1797.0,negative,emotions of rejection
+3161,3161,3161,GerDracor/soden-doktor-faust.xml,"–
+              Umsonst!",79,103,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3162,3162,3162,GerDracor/soden-doktor-faust.xml,Umsonst!,104,112,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3163,3163,3163,GerDracor/soden-doktor-faust.xml,Furchtbarer Richter!,113,133,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,fear,S,,1797.0,negative,emotions of anxiety
+3164,3164,3164,GerDracor/soden-doktor-faust.xml,Erbarmung!,134,144,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,despair,S,,1797.0,negative,emotions of anxiety
+3165,3165,3165,GerDracor/soden-doktor-faust.xml,"Schleudre mich hinaus mit deinem
+              rächenden Blitze aus der Reihe der geschaffnen Wesen!",145,245,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,abhorrence,S,,1797.0,negative,emotions of rejection
+3166,3166,3166,GerDracor/soden-doktor-faust.xml,Pause.,0,6,stage_direction,5,11,inner_speech,,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3167,3167,3167,GerDracor/soden-doktor-faust.xml,Ich will mich fassen!,0,21,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,being moved,S,,1797.0,being moved,being moved
+3168,3168,3168,GerDracor/soden-doktor-faust.xml,In des Jammers voller Schale ist auch Trost!,22,66,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,suffering,S,,1797.0,negative,emotions of suffering and empathy
+3169,3169,3169,GerDracor/soden-doktor-faust.xml,"– O mein Vater,
+              mein Vater!",67,108,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3170,3170,3170,GerDracor/soden-doktor-faust.xml,– Was ist das?,109,123,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3171,3171,3171,GerDracor/soden-doktor-faust.xml,– Auch Erinnerung ist Satan?,124,152,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3172,3172,3172,GerDracor/soden-doktor-faust.xml,Meine Mutter!,153,166,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,being moved,S,,1797.0,being moved,being moved
+3173,3173,3173,GerDracor/soden-doktor-faust.xml,Mein Sohn!,167,177,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,being moved,S,,1797.0,being moved,being moved
+3174,3174,3174,GerDracor/soden-doktor-faust.xml,"Auf
+              ewig seid ihr für mich dahin!",178,225,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,love,S,,1797.0,positive,emotions of affection
+3175,3175,3175,GerDracor/soden-doktor-faust.xml,"– Reißt, reißt, des Herzens zarteste Adern!",226,269,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3176,3176,3176,GerDracor/soden-doktor-faust.xml,– Oh!,270,275,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3177,3177,3177,GerDracor/soden-doktor-faust.xml,Oh!,276,279,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3178,3178,3178,GerDracor/soden-doktor-faust.xml,Flucht meinem Andenken nicht!,294,323,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,suffering,S,,1797.0,negative,emotions of suffering and empathy
+3179,3179,3179,GerDracor/soden-doktor-faust.xml,"Zerstäub' es, Schwinge der Zeit!",324,356,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3180,3180,3180,GerDracor/soden-doktor-faust.xml,"Ich lasse ja keine
+              Stätte zurück, eure Tränen aufzunehmen.",357,429,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,suffering,S,,1797.0,negative,emotions of suffering and empathy
+3181,3181,3181,GerDracor/soden-doktor-faust.xml,–,430,431,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3182,3182,3182,GerDracor/soden-doktor-faust.xml,"Fausts Vater, Fausts Mutter, Liese,
+                Gürgel im Hintergrund erscheinend, in der Haltung der Verzweiflung, ihre Arme gegen
+                Faust ausstreckend.",0,171,stage_direction,5,11,inner_speech,,#doktor_faust,1338.0,MALE,despair,S,,1797.0,negative,emotions of anxiety
+3183,3183,3183,GerDracor/soden-doktor-faust.xml, Vater!,0,7,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,being moved,S,,1797.0,being moved,being moved
+3184,3184,3184,GerDracor/soden-doktor-faust.xml,Mutter!,8,15,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,being moved,S,,1797.0,being moved,being moved
+3185,3185,3185,GerDracor/soden-doktor-faust.xml,Weib!,16,21,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,anger,S,,1797.0,negative,emotions of rejection
+3186,3186,3186,GerDracor/soden-doktor-faust.xml,Sohn!,22,27,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3187,3187,3187,GerDracor/soden-doktor-faust.xml,"In furchtbarer
+                Verzweiflung; die Erscheinung verschwindet.",0,74,stage_direction,5,11,inner_speech,,#doktor_faust,1338.0,MALE,despair,S,,1797.0,negative,emotions of anxiety
+3188,3188,3188,GerDracor/soden-doktor-faust.xml,Ha!,0,3,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3189,3189,3189,GerDracor/soden-doktor-faust.xml,"Auch dies noch, Satan!",4,26,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,abhorrence,S,,1797.0,negative,emotions of rejection
+3190,3190,3190,GerDracor/soden-doktor-faust.xml,Du kennst den Dolch des Bewußtseins!,27,63,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3191,3191,3191,GerDracor/soden-doktor-faust.xml,"Du hast ihn
+              geschmiedet!",64,102,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3192,3192,3192,GerDracor/soden-doktor-faust.xml,"O Elemente, bedeckt mich!",0,25,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,suffering,S,,1797.0,negative,emotions of suffering and empathy
+3193,3193,3193,GerDracor/soden-doktor-faust.xml,"Verschlinge mich, Abgrund!",26,52,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,fear,S,,1797.0,negative,emotions of anxiety
+3194,3194,3194,GerDracor/soden-doktor-faust.xml,"Pein der Verdammten, ich lache
+              dein!",53,103,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,suffering,S,,1797.0,negative,emotions of suffering and empathy
+3195,3195,3195,GerDracor/soden-doktor-faust.xml,"Kühlende Flammen der Hölle, schlagt zusammen über das von der Natur
+              gebrandmarkte Wesen!",104,206,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,abhorrence,S,,1797.0,negative,emotions of rejection
+3196,3196,3196,GerDracor/soden-doktor-faust.xml,"Ergreife mich, Satan, oder ich erwürge dich selbst!",207,258,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,abhorrence,S,,1797.0,negative,emotions of rejection
+3197,3197,3197,GerDracor/soden-doktor-faust.xml,Oh!,259,262,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3198,3198,3198,GerDracor/soden-doktor-faust.xml,Oh!,263,266,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3199,3199,3199,GerDracor/soden-doktor-faust.xml,– –,267,270,character_speech,5,11,,DOKTOR FAUST,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation
+3200,3200,3200,GerDracor/soden-doktor-faust.xml,"Die Glocke schlägt zwölf; Flammen fahren auf, Geister umringen ihn und
+                entführen ihn in der Luft.",0,113,stage_direction,5,11,inner_speech,,#doktor_faust,1338.0,MALE,no_annotation,S,,1797.0,no_annotation,no_annotation

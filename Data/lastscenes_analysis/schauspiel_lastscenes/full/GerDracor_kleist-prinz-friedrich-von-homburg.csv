@@ -1,0 +1,52 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,pre1_base_polarity,pre1_main_emotion_class
+2119,2119,2119,GerDracor/kleist-prinz-friedrich-von-homburg.xml,"Der Kurfürst mit dem Lorbeerkranz, um welchen die goldne Kette geschlungen ist,
+            Kurfürstin, Prinzessin Natalie, Feldmarschall Dörfling, Obrist Kottwitz, Hohenzollern,
+            Golz usw.",0,200,stage_direction,5,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+2120,2120,2120,GerDracor/kleist-prinz-friedrich-von-homburg.xml,"– Hofdamen, Offiziere und Fackeln erscheinen auf der Rampe des Schlosses.",201,274,stage_direction,5,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+2121,2121,2121,GerDracor/kleist-prinz-friedrich-von-homburg.xml,"–
+            Hohenzollern tritt, mit einem Tuch, an das Geländer und winkt dem Rittmeister Stranz;
+            worauf dieser den Prinzen von Homburg verläßt, und im Hintergrund der Wache
+            spricht.",275,483,stage_direction,5,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+2122,2122,2122,GerDracor/kleist-prinz-friedrich-von-homburg.xml,"Lieber, was für ein Glanz verbreitet sich?",0,42,character_speech,5,11,,DER PRINZ VON HOMBURG.,#der_prinz_von_homburg,808.0,MALE,joy,positive,emotions of pleasure
+2123,2123,2123,GerDracor/kleist-prinz-friedrich-von-homburg.xml,kehrt zu ihm zurück.,0,20,stage_direction,5,11,speech_part,,#stranz,809.0,MALE,no_annotation,no_annotation,no_annotation
+2124,2124,2124,GerDracor/kleist-prinz-friedrich-von-homburg.xml,"Mein Prinz, willst du gefällig dich erheben?",0,44,character_speech,5,11,,STRANZ,#stranz,809.0,MALE,no_annotation,no_annotation,no_annotation
+2125,2125,2125,GerDracor/kleist-prinz-friedrich-von-homburg.xml,Was gibt es?,0,12,character_speech,5,11,,DER PRINZ VON HOMBURG.,#der_prinz_von_homburg,810.0,MALE,no_annotation,no_annotation,no_annotation
+2126,2126,2126,GerDracor/kleist-prinz-friedrich-von-homburg.xml,"
+              Nichts, das dich erschrecken dürfte!",0,51,character_speech,5,11,,STRANZ.,#stranz,811.0,MALE,fear,negative,emotions of anxiety
+2127,2127,2127,GerDracor/kleist-prinz-friedrich-von-homburg.xml,"–
+              Die Augen bloß will ich dir wieder öffnen.",52,110,character_speech,5,11,,STRANZ.,#stranz,811.0,MALE,no_annotation,no_annotation,no_annotation
+2128,2128,2128,GerDracor/kleist-prinz-friedrich-von-homburg.xml,Schlug meiner Leiden letzte Stunde?,0,35,character_speech,5,11,,DER PRINZ VON HOMBURG.,#der_prinz_von_homburg,812.0,MALE,suffering,negative,emotions of suffering and empathy
+2129,2129,2129,GerDracor/kleist-prinz-friedrich-von-homburg.xml,"
+              Ja!",0,18,character_speech,5,11,,STRANZ.,#stranz,813.0,MALE,no_annotation,no_annotation,no_annotation
+2130,2130,2130,GerDracor/kleist-prinz-friedrich-von-homburg.xml,"–
+              Heil dir und Segen, denn du bist es wert!",19,76,character_speech,5,11,,STRANZ.,#stranz,813.0,MALE,"admiration, reverence",positive,emotions of affection
+2131,2131,2131,GerDracor/kleist-prinz-friedrich-von-homburg.xml,"Der Kurfürst gibt den Kranz, an welchem die Kette hängt, der Prinzessin, nimmt
+              sie bei der Hand und führt sie die Rampe herab.",0,140,stage_direction,5,11,speech_part,,#stranz,813.0,MALE,no_annotation,no_annotation,no_annotation
+2132,2132,2132,GerDracor/kleist-prinz-friedrich-von-homburg.xml,Herren und Damen folgen.,141,165,stage_direction,5,11,speech_part,,#stranz,813.0,MALE,no_annotation,no_annotation,no_annotation
+2133,2133,2133,GerDracor/kleist-prinz-friedrich-von-homburg.xml,"Die
+              Prinzessin tritt, umgeben von Fackeln, vor den Prinzen, welcher erstaunt aufsteht;
+              setzt ihm den Kranz auf, hängt ihm die Kette um, und drückt seine Hand an ihr Herz.",166,364,stage_direction,5,11,speech_part,,#stranz,813.0,MALE,being moved,being moved,being moved
+2134,2134,2134,GerDracor/kleist-prinz-friedrich-von-homburg.xml,Der Prinz fällt in Ohnmacht.,379,407,stage_direction,5,11,speech_part,,#stranz,813.0,MALE,despair,negative,emotions of anxiety
+2135,2135,2135,GerDracor/kleist-prinz-friedrich-von-homburg.xml,Himmel!,0,7,character_speech,5,11,,NATALIE.,#natalie,814.0,FEMALE,being moved,being moved,being moved
+2136,2136,2136,GerDracor/kleist-prinz-friedrich-von-homburg.xml,die Freude tötet ihn!,8,29,character_speech,5,11,,NATALIE.,#natalie,814.0,FEMALE,joy,positive,emotions of pleasure
+2137,2137,2137,GerDracor/kleist-prinz-friedrich-von-homburg.xml,faßt ihn auf.,0,13,stage_direction,5,11,speech_part,,#hohenzollern,815.0,MALE,no_annotation,no_annotation,no_annotation
+2138,2138,2138,GerDracor/kleist-prinz-friedrich-von-homburg.xml,Zu Hülfe!,0,9,character_speech,5,11,,HOHENZOLLERN,#hohenzollern,815.0,MALE,fear,negative,emotions of anxiety
+2139,2139,2139,GerDracor/kleist-prinz-friedrich-von-homburg.xml,Laßt den Kanonendonner ihn erwecken!,0,36,character_speech,5,11,,DER KURFÜRST.,#der_kurfuerst,816.0,MALE,joy,positive,emotions of pleasure
+2140,2140,2140,GerDracor/kleist-prinz-friedrich-von-homburg.xml,Kanonenschüsse.,0,15,stage_direction,5,11,speech_part,,#der_kurfuerst,816.0,MALE,no_annotation,no_annotation,no_annotation
+2141,2141,2141,GerDracor/kleist-prinz-friedrich-von-homburg.xml,Ein Marsch.,16,27,stage_direction,5,11,speech_part,,#der_kurfuerst,816.0,MALE,no_annotation,no_annotation,no_annotation
+2142,2142,2142,GerDracor/kleist-prinz-friedrich-von-homburg.xml,Das Schloß erleuchtet sich.,28,55,stage_direction,5,11,speech_part,,#der_kurfuerst,816.0,MALE,no_annotation,no_annotation,no_annotation
+2143,2143,2143,GerDracor/kleist-prinz-friedrich-von-homburg.xml,"Heil, Heil dem Prinz von Homburg!",0,33,character_speech,5,11,,KOTTWITZ.,#kottwitz,817.0,MALE,"admiration, reverence",positive,emotions of affection
+2144,2144,2144,GerDracor/kleist-prinz-friedrich-von-homburg.xml,Heil!,0,5,character_speech,5,11,,DIE OFFIZIERE.,#die_offiziere_5-11,818.0,MALE,no_annotation,no_annotation,no_annotation
+2145,2145,2145,GerDracor/kleist-prinz-friedrich-von-homburg.xml,Heil!,6,11,character_speech,5,11,,DIE OFFIZIERE.,#die_offiziere_5-11,818.0,MALE,no_annotation,no_annotation,no_annotation
+2146,2146,2146,GerDracor/kleist-prinz-friedrich-von-homburg.xml,Heil!,12,17,character_speech,5,11,,DIE OFFIZIERE.,#die_offiziere_5-11,818.0,MALE,no_annotation,no_annotation,no_annotation
+2147,2147,2147,GerDracor/kleist-prinz-friedrich-von-homburg.xml,Dem Sieger in der Schlacht bei Fehrbellin!,0,42,character_speech,5,11,,ALLE.,#alle_5-11,819.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+2148,2148,2148,GerDracor/kleist-prinz-friedrich-von-homburg.xml,Augenblickliches Stillschweigen.,0,32,stage_direction,5,11,speech_part,,#alle_5-11,819.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+2149,2149,2149,GerDracor/kleist-prinz-friedrich-von-homburg.xml,"Nein, sagt!",0,11,character_speech,5,11,,DER PRINZ VON HOMBURG.,#der_prinz_von_homburg,820.0,MALE,anger,negative,emotions of rejection
+2150,2150,2150,GerDracor/kleist-prinz-friedrich-von-homburg.xml,Ist es ein Traum?,12,29,character_speech,5,11,,DER PRINZ VON HOMBURG.,#der_prinz_von_homburg,820.0,MALE,no_annotation,no_annotation,no_annotation
+2151,2151,2151,GerDracor/kleist-prinz-friedrich-von-homburg.xml,"Ein Traum, was sonst?",0,21,character_speech,5,11,,KOTTWITZ.,#kottwitz,821.0,MALE,no_annotation,no_annotation,no_annotation
+2152,2152,2152,GerDracor/kleist-prinz-friedrich-von-homburg.xml,Ins Feld!,0,9,character_speech,5,11,,MEHRERE OFFIZIERE.,#mehrere_offiziere_5-11,822.0,MALE,no_annotation,no_annotation,no_annotation
+2153,2153,2153,GerDracor/kleist-prinz-friedrich-von-homburg.xml,Ins Feld!,10,19,character_speech,5,11,,MEHRERE OFFIZIERE.,#mehrere_offiziere_5-11,822.0,MALE,no_annotation,no_annotation,no_annotation
+2154,2154,2154,GerDracor/kleist-prinz-friedrich-von-homburg.xml,Zur Schlacht!,0,13,character_speech,5,11,,GRAF TRUCHSS.,#graf_truchss,823.0,MALE,no_annotation,no_annotation,no_annotation
+2155,2155,2155,GerDracor/kleist-prinz-friedrich-von-homburg.xml,Zum Sieg!,0,9,character_speech,5,11,,FELDMARSCHALL.,#feldmarschall_doerfling,824.0,MALE,no_annotation,no_annotation,no_annotation
+2156,2156,2156,GerDracor/kleist-prinz-friedrich-von-homburg.xml,Zum Sieg!,10,19,character_speech,5,11,,FELDMARSCHALL.,#feldmarschall_doerfling,824.0,MALE,no_annotation,no_annotation,no_annotation
+2157,2157,2157,GerDracor/kleist-prinz-friedrich-von-homburg.xml,In Staub mit allen Feinden Brandenburgs!,0,40,character_speech,5,11,,ALLE.,#alle_5-11,825.0,UNKNOWN,abhorrence,negative,emotions of rejection

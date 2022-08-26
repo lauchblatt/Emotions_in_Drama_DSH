@@ -1,0 +1,47 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+747,747,747,GerDracor/gessner-evander-und-alcimna.xml,"Alcimna, mit ihren Aufwærterinnen hinten auf dem Theater; die vorigen.",0,70,stage_direction,3,7,pre_speech,,,,,no_annotation,S,,1762.0,no_annotation,no_annotation
+748,748,748,GerDracor/gessner-evander-und-alcimna.xml,O ihr Gœtter!,0,13,character_speech,3,7,,ALCIMNA.,#alcimna,294.0,FEMALE,suffering,S,,1762.0,negative,emotions of suffering and empathy
+749,749,749,GerDracor/gessner-evander-und-alcimna.xml,"So muss ich izt dem Prinz zur Schau zugeschleppet werden, und dich
+              nicht sehn, den ich allein liebe, den ich allein lieben werde.",14,157,character_speech,3,7,,ALCIMNA.,#alcimna,294.0,FEMALE,love,S,,1762.0,positive,emotions of affection
+750,750,750,GerDracor/gessner-evander-und-alcimna.xml,"steht ganz traurig, die Hand vor seinem Gesicht.",0,48,stage_direction,3,7,speech_part,,#evander,295.0,MALE,suffering,S,,1762.0,negative,emotions of suffering and empathy
+751,751,751,GerDracor/gessner-evander-und-alcimna.xml,"Sie kœmmt; ich hœr es, ich Elender!",0,35,character_speech,3,7,,EVANDER,#evander,295.0,MALE,abhorrence,S,,1762.0,negative,emotions of rejection
+752,752,752,GerDracor/gessner-evander-und-alcimna.xml,Ach!,0,4,character_speech,3,7,,ALCIMNA.,#alcimna,296.0,FEMALE,suffering,S,,1762.0,negative,emotions of suffering and empathy
+753,753,753,GerDracor/gessner-evander-und-alcimna.xml,da bin ich; ich vermag vor Schmerzen nicht zu reden.,5,57,character_speech,3,7,,ALCIMNA.,#alcimna,296.0,FEMALE,suffering,S,,1762.0,negative,emotions of suffering and empathy
+754,754,754,GerDracor/gessner-evander-und-alcimna.xml,sieht erstaunt auf.,0,19,stage_direction,3,7,speech_part,,#evander,297.0,MALE,being moved,S,,1762.0,being moved,being moved
+755,755,755,GerDracor/gessner-evander-und-alcimna.xml,Wie!,0,4,character_speech,3,7,,EVANDER,#evander,297.0,MALE,being moved,S,,1762.0,being moved,being moved
+756,756,756,GerDracor/gessner-evander-und-alcimna.xml,was tæuscht mich?,5,22,character_speech,3,7,,EVANDER,#evander,297.0,MALE,fear,S,,1762.0,negative,emotions of anxiety
+757,757,757,GerDracor/gessner-evander-und-alcimna.xml,Diese traurige Stimme kenn ich.,23,54,character_speech,3,7,,EVANDER,#evander,297.0,MALE,suffering,S,,1762.0,negative,emotions of suffering and empathy
+758,758,758,GerDracor/gessner-evander-und-alcimna.xml,Ist – – –,55,64,character_speech,3,7,,EVANDER,#evander,297.0,MALE,no_annotation,S,,1762.0,no_annotation,no_annotation
+759,759,759,GerDracor/gessner-evander-und-alcimna.xml,Gœtter!,0,7,character_speech,3,7,,ALCIMNA.,#alcimna,298.0,FEMALE,no_annotation,S,,1762.0,no_annotation,no_annotation
+760,760,760,GerDracor/gessner-evander-und-alcimna.xml,"Haltet mich, Freundinnen!",8,33,character_speech,3,7,,ALCIMNA.,#alcimna,298.0,FEMALE,friendship,S,,1762.0,positive,emotions of affection
+761,761,761,GerDracor/gessner-evander-und-alcimna.xml,haltet mich!,34,46,character_speech,3,7,,ALCIMNA.,#alcimna,298.0,FEMALE,being moved,S,,1762.0,being moved,being moved
+762,762,762,GerDracor/gessner-evander-und-alcimna.xml,Ist das der Prinz?,47,65,character_speech,3,7,,ALCIMNA.,#alcimna,298.0,FEMALE,no_annotation,S,,1762.0,no_annotation,no_annotation
+763,763,763,GerDracor/gessner-evander-und-alcimna.xml,O Evander!,66,76,character_speech,3,7,,ALCIMNA.,#alcimna,298.0,FEMALE,being moved,S,,1762.0,being moved,being moved
+764,764,764,GerDracor/gessner-evander-und-alcimna.xml,Verwirrung!,0,11,character_speech,3,7,,EVANDER.,#evander,299.0,MALE,being moved,S,,1762.0,being moved,being moved
+765,765,765,GerDracor/gessner-evander-und-alcimna.xml,Was seh ich!,12,24,character_speech,3,7,,EVANDER.,#evander,299.0,MALE,being moved,S,,1762.0,being moved,being moved
+766,766,766,GerDracor/gessner-evander-und-alcimna.xml,O Entzyken!,25,36,character_speech,3,7,,EVANDER.,#evander,299.0,MALE,suffering,S,,1762.0,negative,emotions of suffering and empathy
+767,767,767,GerDracor/gessner-evander-und-alcimna.xml,Bist du Alcimna?,37,53,character_speech,3,7,,EVANDER.,#evander,299.0,MALE,no_annotation,S,,1762.0,no_annotation,no_annotation
+768,768,768,GerDracor/gessner-evander-und-alcimna.xml,Gœtter!,0,7,character_speech,3,7,,ARATES.,#arates,300.0,MALE,no_annotation,S,,1762.0,no_annotation,no_annotation
+769,769,769,GerDracor/gessner-evander-und-alcimna.xml,Was seh ich!,8,20,character_speech,3,7,,ARATES.,#arates,300.0,MALE,being moved,S,,1762.0,being moved,being moved
+770,770,770,GerDracor/gessner-evander-und-alcimna.xml,Welch Entzyken schwebt auf ihren Gesichtern!,21,65,character_speech,3,7,,ARATES.,#arates,300.0,MALE,suffering,S,,1762.0,negative,emotions of suffering and empathy
+771,771,771,GerDracor/gessner-evander-und-alcimna.xml,"læuft zu Alcimna, und umarmt sie.",0,33,stage_direction,3,7,speech_part,,#evander,301.0,MALE,joy,S,,1762.0,positive,emotions of pleasure
+772,772,772,GerDracor/gessner-evander-und-alcimna.xml,O!,0,2,character_speech,3,7,,EVANDER,#evander,301.0,MALE,no_annotation,S,,1762.0,no_annotation,no_annotation
+773,773,773,GerDracor/gessner-evander-und-alcimna.xml,"mich tæuscht doch kein Traum; du bist es, du bist meine Alcimna.",3,67,character_speech,3,7,,EVANDER,#evander,301.0,MALE,joy,S,,1762.0,positive,emotions of pleasure
+774,774,774,GerDracor/gessner-evander-und-alcimna.xml,O Evander!,0,10,character_speech,3,7,,ALCIMNA.,#alcimna,302.0,FEMALE,being moved,S,,1762.0,being moved,being moved
+775,775,775,GerDracor/gessner-evander-und-alcimna.xml,Mein Geliebter!,11,26,character_speech,3,7,,ALCIMNA.,#alcimna,302.0,FEMALE,love,S,,1762.0,positive,emotions of affection
+776,776,776,GerDracor/gessner-evander-und-alcimna.xml,Was fyr Entzyken!,27,44,character_speech,3,7,,ALCIMNA.,#alcimna,302.0,FEMALE,abhorrence,S,,1762.0,negative,emotions of rejection
+777,777,777,GerDracor/gessner-evander-und-alcimna.xml,"Wie wunderbar haben wir uns wieder
+              gefunden!",45,103,character_speech,3,7,,ALCIMNA.,#alcimna,302.0,FEMALE,joy,S,,1762.0,positive,emotions of pleasure
+778,778,778,GerDracor/gessner-evander-und-alcimna.xml,"Den Augenblik noch hielt ich mich fyr den Elendesten; izt bin ich der Glykseligste
+              auf Erde.",0,106,character_speech,3,7,,EVANDER.,#evander,303.0,MALE,suffering,S,,1762.0,negative,emotions of suffering and empathy
+779,779,779,GerDracor/gessner-evander-und-alcimna.xml,"Den Augenblik dacht ich, vor Schmerzen zu sterben; und izt fass ich mein Entzyken
+              nicht.",0,102,character_speech,3,7,,ALCIMNA.,#alcimna,304.0,FEMALE,suffering,S,,1762.0,negative,emotions of suffering and empathy
+780,780,780,GerDracor/gessner-evander-und-alcimna.xml,"Eure Liebe, ihr Kinder!",0,23,character_speech,3,7,,PYRHUS.,#pyrhus,305.0,MALE,love,S,,1762.0,positive,emotions of affection
+781,781,781,GerDracor/gessner-evander-und-alcimna.xml,sey von den Gœttern gesegnet!,24,53,character_speech,3,7,,PYRHUS.,#pyrhus,305.0,MALE,"admiration, reverence",S,,1762.0,positive,emotions of affection
+782,782,782,GerDracor/gessner-evander-und-alcimna.xml,"Sie haben euch fyr einander
+              bestimmt.",54,105,character_speech,3,7,,PYRHUS.,#pyrhus,305.0,MALE,love,S,,1762.0,positive,emotions of affection
+783,783,783,GerDracor/gessner-evander-und-alcimna.xml,"Du bist es zufrieden, mein Freund?",106,140,character_speech,3,7,,PYRHUS.,#pyrhus,305.0,MALE,no_annotation,S,,1762.0,no_annotation,no_annotation
+784,784,784,GerDracor/gessner-evander-und-alcimna.xml,"Ich muss mich von meinem Erstaunen erholen, um meine Freude und meinen Dank dir zu
+              sagen.",0,103,character_speech,3,7,,ARATES.,#arates,306.0,MALE,joy,S,,1762.0,positive,emotions of pleasure
+785,785,785,GerDracor/gessner-evander-und-alcimna.xml,"Lasst uns gehen, Kinder!",0,24,character_speech,3,7,,PYRHUS.,#pyrhus,307.0,MALE,no_annotation,S,,1762.0,no_annotation,no_annotation
+786,786,786,GerDracor/gessner-evander-und-alcimna.xml,Die Hirten der Gegend mœgen euer Freuden-Fest feyern.,25,78,character_speech,3,7,,PYRHUS.,#pyrhus,307.0,MALE,joy,S,,1762.0,positive,emotions of pleasure

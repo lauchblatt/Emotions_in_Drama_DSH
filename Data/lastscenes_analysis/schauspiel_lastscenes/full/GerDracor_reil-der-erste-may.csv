@@ -1,0 +1,128 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+858,858,858,GerDracor/reil-der-erste-may.xml,Vorige.,0,7,stage_direction,1,16,pre_speech,,,,,no_annotation,S,,1816.0,no_annotation,no_annotation
+859,859,859,GerDracor/reil-der-erste-may.xml,Der Reisende mit Helmi an der Hand.,8,43,stage_direction,1,16,pre_speech,,,,,no_annotation,S,,1816.0,no_annotation,no_annotation
+860,860,860,GerDracor/reil-der-erste-may.xml,"(Helmi trägt sein Oberkleid auf dem Arm;
+          seine Hemdärmel sind noch naß).",44,126,stage_direction,1,16,pre_speech,,,,,no_annotation,S,,1816.0,no_annotation,no_annotation
+861,861,861,GerDracor/reil-der-erste-may.xml,"Hier bringe ich euch einen Helden,",0,34,character_speech,1,16,,Reisender.,#reisender,144.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+862,862,862,GerDracor/reil-der-erste-may.xml,"Wie ihre Monathschrift, und jede Zeitung",0,40,character_speech,1,16,,Reisender.,#reisender,144.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+863,863,863,GerDracor/reil-der-erste-may.xml,Noch keinen größern konnte melden.,0,34,character_speech,1,16,,Reisender.,#reisender,144.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+864,864,864,GerDracor/reil-der-erste-may.xml,Ha!,0,3,character_speech,1,16,,May.,#may,145.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+865,865,865,GerDracor/reil-der-erste-may.xml,welcher Tag der Vorbedeutung!,4,33,character_speech,1,16,,May.,#may,145.0,MALE,suffering,S,,1816.0,negative,emotions of suffering and empathy
+866,866,866,GerDracor/reil-der-erste-may.xml,(Alle küssen den Knaben).,0,25,stage_direction,1,16,speech_part,,#may,145.0,MALE,joy,S,,1816.0,positive,emotions of pleasure
+867,867,867,GerDracor/reil-der-erste-may.xml,(zum Reisenden).,0,16,stage_direction,1,16,speech_part,,#mutter,146.0,FEMALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+868,868,868,GerDracor/reil-der-erste-may.xml,Mein Gott!,0,10,character_speech,1,16,,Mutter,#mutter,146.0,FEMALE,being moved,S,,1816.0,being moved,being moved
+869,869,869,GerDracor/reil-der-erste-may.xml,wie ist das zugegangen?,11,34,character_speech,1,16,,Mutter,#mutter,146.0,FEMALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+870,870,870,GerDracor/reil-der-erste-may.xml,(ebenfalls).,0,12,stage_direction,1,16,speech_part,,#may,147.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+871,871,871,GerDracor/reil-der-erste-may.xml,Wie ging das her?,0,17,character_speech,1,16,,May,#may,147.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+872,872,872,GerDracor/reil-der-erste-may.xml,Laßt ihn das selber sprechen!,0,29,character_speech,1,16,,Reisender.,#reisender,148.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+873,873,873,GerDracor/reil-der-erste-may.xml,(zu Helmi).,0,11,stage_direction,1,16,speech_part,,#may,149.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+874,874,874,GerDracor/reil-der-erste-may.xml,"Wie hast du's, Engel, angefangen?",0,33,character_speech,1,16,,May,#may,149.0,MALE,being moved,S,,1816.0,being moved,being moved
+875,875,875,GerDracor/reil-der-erste-may.xml,Es war nicht schwer.,0,20,character_speech,1,16,,Helmi.,#helmi,150.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+876,876,876,GerDracor/reil-der-erste-may.xml,Er will die That noch schwächen.,0,32,character_speech,1,16,,Reisender.,#reisender,151.0,MALE,anger,S,,1816.0,negative,emotions of rejection
+877,877,877,GerDracor/reil-der-erste-may.xml,"Es war so schwer nicht, sag ich dir.",0,36,character_speech,1,16,,Helmi.,#helmi,152.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+878,878,878,GerDracor/reil-der-erste-may.xml,"Mein Helmi war weit ober mir,",0,29,character_speech,1,16,,Helmi.,#helmi,152.0,MALE,suffering,S,,1816.0,negative,emotions of suffering and empathy
+879,879,879,GerDracor/reil-der-erste-may.xml,Und sammelte den Schaum im Bach.,0,32,character_speech,1,16,,Helmi.,#helmi,152.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+880,880,880,GerDracor/reil-der-erste-may.xml,"Auf einmahl gab das Ufer nach,",0,30,character_speech,1,16,,Helmi.,#helmi,152.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+881,881,881,GerDracor/reil-der-erste-may.xml,"Und Helmi rutscht und hält sich kaum,",0,37,character_speech,1,16,,Helmi.,#helmi,152.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+882,882,882,GerDracor/reil-der-erste-may.xml,"Und zappelte schon in dem Schaum,",0,33,character_speech,1,16,,Helmi.,#helmi,152.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+883,883,883,GerDracor/reil-der-erste-may.xml,Und gleich der Mitte zu im Trieb.,0,33,character_speech,1,16,,Helmi.,#helmi,152.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+884,884,884,GerDracor/reil-der-erste-may.xml,"Da schnell, als wenn ein Wind mich hüb,",0,39,character_speech,1,16,,Helmi.,#helmi,152.0,MALE,being moved,S,,1816.0,being moved,being moved
+885,885,885,GerDracor/reil-der-erste-may.xml,Lauf gleich ich auf den Steg hinab,0,34,character_speech,1,16,,Helmi.,#helmi,152.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+886,886,886,GerDracor/reil-der-erste-may.xml,Und wart so meinen Helmi ab.,0,28,character_speech,1,16,,Helmi.,#helmi,152.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+887,887,887,GerDracor/reil-der-erste-may.xml,"Ich legte mich dem Striche gleich,",0,34,character_speech,1,16,,Helmi.,#helmi,152.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+888,888,888,GerDracor/reil-der-erste-may.xml,In dem mein Helmi todtenbleich,0,30,character_speech,1,16,,Helmi.,#helmi,152.0,MALE,suffering,S,,1816.0,negative,emotions of suffering and empathy
+889,889,889,GerDracor/reil-der-erste-may.xml,Der Stege zugeschwommen kam.,0,28,character_speech,1,16,,Helmi.,#helmi,152.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+890,890,890,GerDracor/reil-der-erste-may.xml,So liege ich.,0,13,character_speech,1,16,,Helmi.,#helmi,152.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+891,891,891,GerDracor/reil-der-erste-may.xml,Er kommt; da nahm,14,31,character_speech,1,16,,Helmi.,#helmi,152.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+892,892,892,GerDracor/reil-der-erste-may.xml,"Ich bey dem rechten Arm ihn fest,",0,33,character_speech,1,16,,Helmi.,#helmi,152.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+893,893,893,GerDracor/reil-der-erste-may.xml,"Den eben er mich sehen läßt,",0,28,character_speech,1,16,,Helmi.,#helmi,152.0,MALE,love,S,,1816.0,positive,emotions of affection
+894,894,894,GerDracor/reil-der-erste-may.xml,"Als gäb er mir es zu verstehn,",0,30,character_speech,1,16,,Helmi.,#helmi,152.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+895,895,895,GerDracor/reil-der-erste-may.xml,"Er wüßt', ich müßte nun ihn sehn;",0,33,character_speech,1,16,,Helmi.,#helmi,152.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+896,896,896,GerDracor/reil-der-erste-may.xml,"So hielt ich ihn und schrie so lang,",0,36,character_speech,1,16,,Helmi.,#helmi,152.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+897,897,897,GerDracor/reil-der-erste-may.xml,"Bis dieser Mann zum Stege sprang,",0,33,character_speech,1,16,,Helmi.,#helmi,152.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+898,898,898,GerDracor/reil-der-erste-may.xml,"Ein Engel wie vom Himmel flog,",0,30,character_speech,1,16,,Helmi.,#helmi,152.0,MALE,love,S,,1816.0,positive,emotions of affection
+899,899,899,GerDracor/reil-der-erste-may.xml,Und meinen Helmi zu sich zog.,0,29,character_speech,1,16,,Helmi.,#helmi,152.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+900,900,900,GerDracor/reil-der-erste-may.xml,Ich fuhr des Weges grad vorbey,0,30,character_speech,1,16,,Reisender.,#reisender,153.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+901,901,901,GerDracor/reil-der-erste-may.xml,"Und hörte das Geschrey,",0,23,character_speech,1,16,,Reisender.,#reisender,153.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+902,902,902,GerDracor/reil-der-erste-may.xml,Und sah die beyden Knaben,0,25,character_speech,1,16,,Reisender.,#reisender,153.0,MALE,love,S,,1816.0,positive,emotions of affection
+903,903,903,GerDracor/reil-der-erste-may.xml,So Arm in Arm sich haben;,0,25,character_speech,1,16,,Reisender.,#reisender,153.0,MALE,joy,S,,1816.0,positive,emotions of pleasure
+904,904,904,GerDracor/reil-der-erste-may.xml,Ich schnell dann aus dem Wagen –,0,32,character_speech,1,16,,Reisender.,#reisender,153.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+905,905,905,GerDracor/reil-der-erste-may.xml,Und Freude!,0,11,character_speech,1,16,,Reisender.,#reisender,153.0,MALE,joy,S,,1816.0,positive,emotions of pleasure
+906,906,906,GerDracor/reil-der-erste-may.xml,– Laßt mich nichts mehr sagen!,12,42,character_speech,1,16,,Reisender.,#reisender,153.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+907,907,907,GerDracor/reil-der-erste-may.xml,In Freudenthränen tauche,0,24,character_speech,1,16,,May.,#may,154.0,MALE,joy,S,,1816.0,positive,emotions of pleasure
+908,908,908,GerDracor/reil-der-erste-may.xml,Ich meine Feder ein;,0,20,character_speech,1,16,,May.,#may,154.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+909,909,909,GerDracor/reil-der-erste-may.xml,"Mein Wort, belebt von Gotteshauche,",0,35,character_speech,1,16,,May.,#may,154.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+910,910,910,GerDracor/reil-der-erste-may.xml,Soll es für deine Großthat seyn!,0,32,character_speech,1,16,,May.,#may,154.0,MALE,abhorrence,S,,1816.0,negative,emotions of rejection
+911,911,911,GerDracor/reil-der-erste-may.xml,Wen muß sie so nicht rühren?,0,28,character_speech,1,16,,Reisender.,#reisender,155.0,MALE,compassion,S,,1816.0,negative,emotions of suffering and empathy
+912,912,912,GerDracor/reil-der-erste-may.xml,Ja!,0,3,character_speech,1,16,,Reisender.,#reisender,155.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+913,913,913,GerDracor/reil-der-erste-may.xml,"eures Königs Ehrenlohn,",4,27,character_speech,1,16,,Reisender.,#reisender,155.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+914,914,914,GerDracor/reil-der-erste-may.xml,Den goldnen Pfennig seh ich schon,0,33,character_speech,1,16,,Reisender.,#reisender,155.0,MALE,joy,S,,1816.0,positive,emotions of pleasure
+915,915,915,GerDracor/reil-der-erste-may.xml,Die Brust des Knaben zieren;,0,28,character_speech,1,16,,Reisender.,#reisender,155.0,MALE,love,S,,1816.0,positive,emotions of affection
+916,916,916,GerDracor/reil-der-erste-may.xml,"Er läßt von jedem Predigtstuhle,",0,32,character_speech,1,16,,Reisender.,#reisender,155.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+917,917,917,GerDracor/reil-der-erste-may.xml,"In jedem Kreis, in jeder Schule",0,31,character_speech,1,16,,Reisender.,#reisender,155.0,MALE,joy,S,,1816.0,positive,emotions of pleasure
+918,918,918,GerDracor/reil-der-erste-may.xml,"Als Muster – diese That verkünden,",0,34,character_speech,1,16,,Reisender.,#reisender,155.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+919,919,919,GerDracor/reil-der-erste-may.xml,Um zur Nachahmung zu entzünden,0,30,character_speech,1,16,,Reisender.,#reisender,155.0,MALE,joy,S,,1816.0,positive,emotions of pleasure
+920,920,920,GerDracor/reil-der-erste-may.xml,Des Meisterwerks von Geistesgegenwart;,0,38,character_speech,1,16,,Reisender.,#reisender,155.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+921,921,921,GerDracor/reil-der-erste-may.xml,"Ja, er befiehlt auf diesen Knaben",0,33,character_speech,1,16,,Reisender.,#reisender,155.0,MALE,anger,S,,1816.0,negative,emotions of rejection
+922,922,922,GerDracor/reil-der-erste-may.xml,Gewiß besondre Acht zu haben.,0,29,character_speech,1,16,,Reisender.,#reisender,155.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+923,923,923,GerDracor/reil-der-erste-may.xml,"Wer preiset nicht des Königs Denkungsart,",0,41,character_speech,1,16,,Reisender.,#reisender,155.0,MALE,"admiration, reverence",S,,1816.0,positive,emotions of affection
+924,924,924,GerDracor/reil-der-erste-may.xml,"Wer kennet seine Weisheit nicht,",0,32,character_speech,1,16,,Reisender.,#reisender,155.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+925,925,925,GerDracor/reil-der-erste-may.xml,Wo leuchtet nicht ihr mildes Licht?,0,35,character_speech,1,16,,Reisender.,#reisender,155.0,MALE,love,S,,1816.0,positive,emotions of affection
+926,926,926,GerDracor/reil-der-erste-may.xml,"Und mir erlaubt zum Angedenken,",0,31,character_speech,1,16,,Reisender.,#reisender,155.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+927,927,927,GerDracor/reil-der-erste-may.xml,Dem Helden einen Lohn zu schenken!,0,34,character_speech,1,16,,Reisender.,#reisender,155.0,MALE,joy,S,,1816.0,positive,emotions of pleasure
+928,928,928,GerDracor/reil-der-erste-may.xml,(still für sich) Herr Gott!,0,27,character_speech,1,16,,Reisender.,#reisender,155.0,MALE,being moved,S,,1816.0,being moved,being moved
+929,929,929,GerDracor/reil-der-erste-may.xml,Sie werden blaß?,0,16,character_speech,1,16,,May.,#may,156.0,MALE,suffering,S,,1816.0,negative,emotions of suffering and empathy
+930,930,930,GerDracor/reil-der-erste-may.xml,(zu seiner Frau leise),0,22,stage_direction,1,16,speech_part,,#may,156.0,MALE,being moved,S,,1816.0,being moved,being moved
+931,931,931,GerDracor/reil-der-erste-may.xml,Gib Acht jetzt!,0,15,character_speech,1,16,,May.,#may,156.0,MALE,anger,S,,1816.0,negative,emotions of rejection
+932,932,932,GerDracor/reil-der-erste-may.xml,wir erhalten Licht.,16,35,character_speech,1,16,,May.,#may,156.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+933,933,933,GerDracor/reil-der-erste-may.xml,(ängstlich).,0,12,stage_direction,1,16,speech_part,,#reisender,157.0,MALE,fear,S,,1816.0,negative,emotions of anxiety
+934,934,934,GerDracor/reil-der-erste-may.xml,Ich finde meine Brieftasch' nicht.,0,34,character_speech,1,16,,Reisender,#reisender,157.0,MALE,being moved,S,,1816.0,being moved,being moved
+935,935,935,GerDracor/reil-der-erste-may.xml,"Vielleicht, du Edler, ist sie das?",0,34,character_speech,1,16,,May.,#may,158.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+936,936,936,GerDracor/reil-der-erste-may.xml,(will sie aus seiner Tasche hohlen),0,35,stage_direction,1,16,speech_part,,#may,158.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+937,937,937,GerDracor/reil-der-erste-may.xml,Der Knabe da hat sie gefunden (zeigt auf Fritzen).,0,50,character_speech,1,16,,May.,#may,158.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+938,938,938,GerDracor/reil-der-erste-may.xml,"Groß ist sie, und roth eingebunden.",0,35,character_speech,1,16,,Reisender.,#reisender,159.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+939,939,939,GerDracor/reil-der-erste-may.xml,So ist sie.,0,11,character_speech,1,16,,May.,#may,160.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+940,940,940,GerDracor/reil-der-erste-may.xml,Mit zwölftausend Pfunden.,0,25,character_speech,1,16,,Reisender.,#reisender,161.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+941,941,941,GerDracor/reil-der-erste-may.xml,"Ja, ja!",0,7,character_speech,1,16,,May.,#may,162.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+942,942,942,GerDracor/reil-der-erste-may.xml,(zeigt sie her),8,23,character_speech,1,16,,May.,#may,162.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+943,943,943,GerDracor/reil-der-erste-may.xml,Sie ists!,0,9,character_speech,1,16,,Reisender.,#reisender,163.0,MALE,love,S,,1816.0,positive,emotions of affection
+944,944,944,GerDracor/reil-der-erste-may.xml,"Mein Nahm steht drin,",10,31,character_speech,1,16,,Reisender.,#reisender,163.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+945,945,945,GerDracor/reil-der-erste-may.xml,Vorn: Gotthold Flamm aus dem Veltlin.,0,37,character_speech,1,16,,Reisender.,#reisender,163.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+946,946,946,GerDracor/reil-der-erste-may.xml,(hat hastig in der Brieftasche voran gelesen).,0,46,stage_direction,1,16,speech_part,,#may,164.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+947,947,947,GerDracor/reil-der-erste-may.xml,So stehet!,0,10,character_speech,1,16,,May,#may,164.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+948,948,948,GerDracor/reil-der-erste-may.xml,Und Sie selbst sind der?,11,35,character_speech,1,16,,May,#may,164.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+949,949,949,GerDracor/reil-der-erste-may.xml,Da seh'n Sie in den Aufsatz her!,0,32,character_speech,1,16,,Reisender.,#reisender,165.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+950,950,950,GerDracor/reil-der-erste-may.xml,"(auf dem Tisch, wo er ihn zuvor hingelegt hatte)",0,48,stage_direction,1,16,speech_part,,#reisender,165.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+951,951,951,GerDracor/reil-der-erste-may.xml,"Ich bin des Wegs, von Land zu Land zu eilen,",0,44,character_speech,1,16,,Reisender.,#reisender,165.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+952,952,952,GerDracor/reil-der-erste-may.xml,"Um einen Jugendfreund zu finden,",0,32,character_speech,1,16,,Reisender.,#reisender,165.0,MALE,friendship,S,,1816.0,positive,emotions of affection
+953,953,953,GerDracor/reil-der-erste-may.xml,Mit ihm mein Hab und Gut zu theilen.,0,36,character_speech,1,16,,Reisender.,#reisender,165.0,MALE,friendship,S,,1816.0,positive,emotions of affection
+954,954,954,GerDracor/reil-der-erste-may.xml,(lächelnd).,0,11,stage_direction,1,16,speech_part,,#may,166.0,MALE,joy,S,,1816.0,positive,emotions of pleasure
+955,955,955,GerDracor/reil-der-erste-may.xml,Erinnern Sie sich auch auf Linden?,0,34,character_speech,1,16,,May,#may,166.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+956,956,956,GerDracor/reil-der-erste-may.xml,(zeigt noch feuriger den Aufsatz her).,0,38,stage_direction,1,16,speech_part,,#reisender,167.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+957,957,957,GerDracor/reil-der-erste-may.xml,So heißt mein Freund.,0,21,character_speech,1,16,,Reisender,#reisender,167.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+958,958,958,GerDracor/reil-der-erste-may.xml,Nicht gleich erkennten Sie,0,26,character_speech,1,16,,May.,#may,168.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+959,959,959,GerDracor/reil-der-erste-may.xml,Ihn wieder?,0,11,character_speech,1,16,,May.,#may,168.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+960,960,960,GerDracor/reil-der-erste-may.xml,"Seine Narb vergeß ich nie,",0,26,character_speech,1,16,,Reisender.,#reisender,169.0,MALE,suffering,S,,1816.0,negative,emotions of suffering and empathy
+961,961,961,GerDracor/reil-der-erste-may.xml,"Die ihm, mich rettend, war geblieben.",0,37,character_speech,1,16,,Reisender.,#reisender,169.0,MALE,being moved,S,,1816.0,being moved,being moved
+962,962,962,GerDracor/reil-der-erste-may.xml,May ist mein Dichternahme,0,25,character_speech,1,16,,May.,#may,170.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+963,963,963,GerDracor/reil-der-erste-may.xml,(schürzt den Ärmel auf).,0,24,stage_direction,1,16,speech_part,,#may,170.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+964,964,964,GerDracor/reil-der-erste-may.xml,(in höchster Erwartung).,0,24,stage_direction,1,16,speech_part,,#reisender,171.0,MALE,joy,S,,1816.0,positive,emotions of pleasure
+965,965,965,GerDracor/reil-der-erste-may.xml,Nun?,0,4,character_speech,1,16,,Reisender,#reisender,171.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+966,966,966,GerDracor/reil-der-erste-may.xml,Und sieh!,0,9,character_speech,1,16,,May.,#may,172.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+967,967,967,GerDracor/reil-der-erste-may.xml,Hier hat ein Nagel meinen rechten eingeschrieben.,0,49,character_speech,1,16,,May.,#may,172.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+968,968,968,GerDracor/reil-der-erste-may.xml,Mein Retter!,0,12,character_speech,1,16,,Reisender.,#reisender,173.0,MALE,"admiration, reverence",S,,1816.0,positive,emotions of affection
+969,969,969,GerDracor/reil-der-erste-may.xml,(froh).,0,7,stage_direction,1,16,speech_part,,#may,174.0,MALE,joy,S,,1816.0,positive,emotions of pleasure
+970,970,970,GerDracor/reil-der-erste-may.xml,Ja!,0,3,character_speech,1,16,,May,#may,174.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+971,971,971,GerDracor/reil-der-erste-may.xml,"ich bin es, Freund!",4,23,character_speech,1,16,,May,#may,174.0,MALE,friendship,S,,1816.0,positive,emotions of affection
+972,972,972,GerDracor/reil-der-erste-may.xml,Mein Linden!,0,12,character_speech,1,16,,Reisender.,#reisender,175.0,MALE,love,S,,1816.0,positive,emotions of affection
+973,973,973,GerDracor/reil-der-erste-may.xml,auf ewig mir vereint.,13,34,character_speech,1,16,,Reisender.,#reisender,175.0,MALE,love,S,,1816.0,positive,emotions of affection
+974,974,974,GerDracor/reil-der-erste-may.xml,(feurige Umarmung).,0,19,stage_direction,1,16,speech_part,,#reisender,175.0,MALE,joy,S,,1816.0,positive,emotions of pleasure
+975,975,975,GerDracor/reil-der-erste-may.xml,"Zwey erste May von meinem Lebenslauf,",0,37,character_speech,1,16,,Reisender.,#reisender,175.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+976,976,976,GerDracor/reil-der-erste-may.xml,"Zwey zeichne ich in meinem Tagbuch auf,",0,39,character_speech,1,16,,Reisender.,#reisender,175.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+977,977,977,GerDracor/reil-der-erste-may.xml,"Wo ich verlornes Leben, dann die Hand (ergreift sie)",0,52,character_speech,1,16,,Reisender.,#reisender,175.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+978,978,978,GerDracor/reil-der-erste-may.xml,Des lang ersehnten Retters wieder fand.,0,39,character_speech,1,16,,Reisender.,#reisender,175.0,MALE,joy,S,,1816.0,positive,emotions of pleasure
+979,979,979,GerDracor/reil-der-erste-may.xml,(in der fröhlichsten Stimmung).,0,31,stage_direction,1,16,speech_part,,#may,176.0,MALE,joy,S,,1816.0,positive,emotions of pleasure
+980,980,980,GerDracor/reil-der-erste-may.xml,"Nun siehst du, Laura, doch?",0,27,character_speech,1,16,,May,#may,176.0,MALE,joy,S,,1816.0,positive,emotions of pleasure
+981,981,981,GerDracor/reil-der-erste-may.xml,Nie geht mein erster May,0,24,character_speech,1,16,,May,#may,176.0,MALE,love,S,,1816.0,positive,emotions of affection
+982,982,982,GerDracor/reil-der-erste-may.xml,Mir ohne Glück vorbey.,0,22,character_speech,1,16,,May,#may,176.0,MALE,no_annotation,S,,1816.0,no_annotation,no_annotation
+983,983,983,GerDracor/reil-der-erste-may.xml,Preist seinen Schöpfer hoch!,0,28,character_speech,1,16,,May,#may,176.0,MALE,"admiration, reverence",S,,1816.0,positive,emotions of affection

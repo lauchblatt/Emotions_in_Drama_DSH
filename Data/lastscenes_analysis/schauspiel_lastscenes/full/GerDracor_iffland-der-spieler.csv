@@ -1,0 +1,59 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+3535,3535,3535,GerDracor/iffland-der-spieler.xml,Vorige.,0,7,stage_direction,5,21,pre_speech,,,,,no_annotation,S,,1796.0,no_annotation,no_annotation
+3536,3536,3536,GerDracor/iffland-der-spieler.xml,Adjutant.,8,17,stage_direction,5,21,pre_speech,,,,,no_annotation,S,,1796.0,no_annotation,no_annotation
+3537,3537,3537,GerDracor/iffland-der-spieler.xml,"Er gesteht, daß er nicht Herr von Posert ist, sondern ein Galanteriekrämer aus Ulm,
+              und heißt Mosel.",0,114,character_speech,5,21,,ADJUTANT.,#adjutant,1603.0,MALE,no_annotation,S,,1796.0,no_annotation,no_annotation
+3538,3538,3538,GerDracor/iffland-der-spieler.xml,"Er soll dem Pfarrerssohne sein Geld restituiren, dann wird ihm sein Kram
+              nachgeschickt.",0,101,character_speech,5,21,,GENERAL.,#general,1604.0,MALE,no_annotation,S,,1796.0,no_annotation,no_annotation
+3539,3539,3539,GerDracor/iffland-der-spieler.xml,"In zwei Stunden muß er aus dem Thore sein, sonst lasse ich
+              ihn auf das Thor setzen.",102,199,character_speech,5,21,,GENERAL.,#general,1604.0,MALE,no_annotation,S,,1796.0,no_annotation,no_annotation
+3540,3540,3540,GerDracor/iffland-der-spieler.xml,geht.,0,5,stage_direction,5,21,speech_part,,#adjutant,1605.0,MALE,no_annotation,S,,1796.0,no_annotation,no_annotation
+3541,3541,3541,GerDracor/iffland-der-spieler.xml,geht.,0,5,stage_direction,5,21,speech_part,,#geheimerath,1606.0,MALE,no_annotation,S,,1796.0,no_annotation,no_annotation
+3542,3542,3542,GerDracor/iffland-der-spieler.xml,"Gute Nacht, Ihro Excellenz.",0,27,character_speech,5,21,,GEHEIMERATH,#geheimerath,1606.0,MALE,no_annotation,S,,1796.0,no_annotation,no_annotation
+3543,3543,3543,GerDracor/iffland-der-spieler.xml,folgt.,0,6,stage_direction,5,21,speech_part,,#hofrath,1607.0,MALE,no_annotation,S,,1796.0,no_annotation,no_annotation
+3544,3544,3544,GerDracor/iffland-der-spieler.xml,Ein ehrlicher Schulmann hat ihn gerettet;,0,41,character_speech,5,21,,GENERAL.,#general,1608.0,MALE,joy,S,,1796.0,positive,emotions of pleasure
+3545,3545,3545,GerDracor/iffland-der-spieler.xml,Zu Herrn von Wallenfeld.,0,24,stage_direction,5,21,inner_speech,,#general,1608.0,MALE,no_annotation,S,,1796.0,no_annotation,no_annotation
+3546,3546,3546,GerDracor/iffland-der-spieler.xml," und
+              Er?",0,22,character_speech,5,21,,GENERAL.,#general,1608.0,MALE,being moved,S,,1796.0,being moved,being moved
+3547,3547,3547,GerDracor/iffland-der-spieler.xml,hat dessen Sohn gerettet.,23,48,character_speech,5,21,,GENERAL.,#general,1608.0,MALE,joy,S,,1796.0,positive,emotions of pleasure
+3548,3548,3548,GerDracor/iffland-der-spieler.xml,"Es ist also noch Fond bei ihm da, und ich will in Gottes
+              Namen darauf bauen mit Vorsorge und – mit Geld, da die Andern nicht wollen.",49,195,character_speech,5,21,,GENERAL.,#general,1608.0,MALE,no_annotation,S,,1796.0,no_annotation,no_annotation
+3549,3549,3549,GerDracor/iffland-der-spieler.xml,Mensch – Held – Vater – mein Engel!,0,35,character_speech,5,21,,HERR VON WALLENFELD.,#herr_von_wallenfeld,1609.0,MALE,being moved,S,,1796.0,being moved,being moved
+3550,3550,3550,GerDracor/iffland-der-spieler.xml,Er stürzt zu seinen Füßen.,0,26,stage_direction,5,21,inner_speech,,#herr_von_wallenfeld,1609.0,MALE,no_annotation,S,,1796.0,no_annotation,no_annotation
+3551,3551,3551,GerDracor/iffland-der-spieler.xml," Karl,
+              hieher!",0,28,character_speech,5,21,,HERR VON WALLENFELD.,#herr_von_wallenfeld,1609.0,MALE,no_annotation,S,,1796.0,no_annotation,no_annotation
+3552,3552,3552,GerDracor/iffland-der-spieler.xml,Er zieht das Kind zu sich.,0,26,stage_direction,5,21,inner_speech,,#herr_von_wallenfeld,1609.0,MALE,no_annotation,S,,1796.0,no_annotation,no_annotation
+3553,3553,3553,GerDracor/iffland-der-spieler.xml," Umfasse seine Knie mit deinen Händen
+              – dieser Dank einer schuldlosen Seele, einer erretteten Nachkommenschaft, sei die
+              Belohnung des Menschenfreundes!",0,179,character_speech,5,21,,HERR VON WALLENFELD.,#herr_von_wallenfeld,1609.0,MALE,"admiration, reverence",S,,1796.0,positive,emotions of affection
+3554,3554,3554,GerDracor/iffland-der-spieler.xml,"der sich abwandte, eine Thräne unbemerkt zu trocknen.",0,53,stage_direction,5,21,speech_part,,#general,1610.0,MALE,suffering,S,,1796.0,negative,emotions of suffering and empathy
+3555,3555,3555,GerDracor/iffland-der-spieler.xml,Nicht so!,0,9,character_speech,5,21,,GENERAL,#general,1610.0,MALE,no_annotation,S,,1796.0,no_annotation,no_annotation
+3556,3556,3556,GerDracor/iffland-der-spieler.xml,Er hebt ihn auf.,0,16,stage_direction,5,21,inner_speech,,#general,1610.0,MALE,no_annotation,S,,1796.0,no_annotation,no_annotation
+3557,3557,3557,GerDracor/iffland-der-spieler.xml," Auf recht, aufrecht, junger Mensch!",0,36,character_speech,5,21,,GENERAL,#general,1610.0,MALE,no_annotation,S,,1796.0,no_annotation,no_annotation
+3558,3558,3558,GerDracor/iffland-der-spieler.xml,"Ich
+              habe ein kleines Gut, dreißig Meilen von hier, zwischen Bergen, Klippen und
+              Waldströmen; es trägt mäßigen Vortheil, wenn es emsig behandelt wird; aber man kann
+              davon leben; das soll dem Knaben gehören.",37,284,character_speech,5,21,,GENERAL,#general,1610.0,MALE,no_annotation,S,,1796.0,no_annotation,no_annotation
+3559,3559,3559,GerDracor/iffland-der-spieler.xml,"Dort lerne arbeiten, dort bessere dich.",285,324,character_speech,5,21,,GENERAL,#general,1610.0,MALE,joy,S,,1796.0,positive,emotions of pleasure
+3560,3560,3560,GerDracor/iffland-der-spieler.xml,"Thust du es nicht, weint Schwiegervater",339,378,character_speech,5,21,,GENERAL,#general,1610.0,MALE,suffering,S,,1796.0,negative,emotions of suffering and empathy
+3561,3561,3561,GerDracor/iffland-der-spieler.xml," und Frau ferner um dich, so
+              wirst du geschieden, und kommst Zeit Lebens auf die Festung.",0,103,character_speech,5,21,,GENERAL,#general,1610.0,MALE,suffering,S,,1796.0,negative,emotions of suffering and empathy
+3562,3562,3562,GerDracor/iffland-der-spieler.xml,"Mein Ehrenwort
+              darauf!",104,140,character_speech,5,21,,GENERAL,#general,1610.0,MALE,"admiration, reverence",S,,1796.0,positive,emotions of affection
+3563,3563,3563,GerDracor/iffland-der-spieler.xml,Mein Wohlthäter!,0,16,character_speech,5,21,,HERR VON WALLENFELD.,#herr_von_wallenfeld,1611.0,MALE,no_annotation,S,,1796.0,no_annotation,no_annotation
+3564,3564,3564,GerDracor/iffland-der-spieler.xml,Mein Erretter!,0,14,character_speech,5,21,,FRAU VON WALLENFELD.,#frau_von_wallenfeld,1612.0,FEMALE,"admiration, reverence",S,,1796.0,positive,emotions of affection
+3565,3565,3565,GerDracor/iffland-der-spieler.xml,Sie küssen seine Hand.,0,22,stage_direction,5,21,speech_part,,#frau_von_wallenfeld,1612.0,FEMALE,"admiration, reverence",S,,1796.0,positive,emotions of affection
+3566,3566,3566,GerDracor/iffland-der-spieler.xml,"Zu eurem Vater geht, ihm saget Dank!",0,36,character_speech,5,21,,GENERAL.,#general,1613.0,MALE,joy,S,,1796.0,positive,emotions of pleasure
+3567,3567,3567,GerDracor/iffland-der-spieler.xml,"Von allem, was euch jetzt
+              geschieht, hat er schon vor vierzig Jahren den baren Werth als Vorschuß gegeben.",37,157,character_speech,5,21,,GENERAL.,#general,1613.0,MALE,no_annotation,S,,1796.0,no_annotation,no_annotation
+3568,3568,3568,GerDracor/iffland-der-spieler.xml,umarmen den Major.,0,18,stage_direction,5,21,speech_part,,#herr_von_wallenfeld #frau_von_wallenfeld,1614.0,UNKNOWN,joy,S,,1796.0,positive,emotions of pleasure
+3569,3569,3569,GerDracor/iffland-der-spieler.xml,Vater!,0,6,character_speech,5,21,,HERR VON WALLENFELD UND FRAU VON WALLENFELD,#herr_von_wallenfeld #frau_von_wallenfeld,1614.0,UNKNOWN,being moved,S,,1796.0,being moved,being moved
+3570,3570,3570,GerDracor/iffland-der-spieler.xml,gerührt und mit lauter Freude.,0,30,stage_direction,5,21,speech_part,,#major_stern,1615.0,MALE,joy,S,,1796.0,positive,emotions of pleasure
+3571,3571,3571,GerDracor/iffland-der-spieler.xml,Mann!,0,5,character_speech,5,21,,MAJOR STERN,#major_stern,1615.0,MALE,anger,S,,1796.0,negative,emotions of rejection
+3572,3572,3572,GerDracor/iffland-der-spieler.xml,– Kinder!,6,15,character_speech,5,21,,MAJOR STERN,#major_stern,1615.0,MALE,no_annotation,S,,1796.0,no_annotation,no_annotation
+3573,3573,3573,GerDracor/iffland-der-spieler.xml,– O Gott!,16,25,character_speech,5,21,,MAJOR STERN,#major_stern,1615.0,MALE,no_annotation,S,,1796.0,no_annotation,no_annotation
+3574,3574,3574,GerDracor/iffland-der-spieler.xml,–,26,27,character_speech,5,21,,MAJOR STERN,#major_stern,1615.0,MALE,no_annotation,S,,1796.0,no_annotation,no_annotation
+3575,3575,3575,GerDracor/iffland-der-spieler.xml,"Bist du zufrieden, Kamerad?",0,27,character_speech,5,21,,GENERAL.,#general,1616.0,MALE,no_annotation,S,,1796.0,no_annotation,no_annotation
+3576,3576,3576,GerDracor/iffland-der-spieler.xml,– Nun dann –,28,40,character_speech,5,21,,GENERAL.,#general,1616.0,MALE,no_annotation,S,,1796.0,no_annotation,no_annotation
+3577,3577,3577,GerDracor/iffland-der-spieler.xml,"Er eilt in seinen Arm, und sagt mit
+                lautem Entzücken.",0,69,stage_direction,5,21,inner_speech,,#general,1616.0,MALE,joy,S,,1796.0,positive,emotions of pleasure

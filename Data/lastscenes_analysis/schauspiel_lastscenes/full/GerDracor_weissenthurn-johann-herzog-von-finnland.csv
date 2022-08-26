@@ -1,0 +1,27 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+2380,2380,2380,GerDracor/weissenthurn-johann-herzog-von-finnland.xml,"Braske, Jöran, die Vorigen.",0,27,stage_direction,5,9,pre_speech,,,,,no_annotation,S,,1811.0,no_annotation,no_annotation
+2381,2381,2381,GerDracor/weissenthurn-johann-herzog-von-finnland.xml,"im Hereintreten, wie er Johann erblickt.",0,40,stage_direction,5,9,speech_part,,#joeran,962.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2382,2382,2382,GerDracor/weissenthurn-johann-herzog-von-finnland.xml,Ha!,0,3,character_speech,5,9,,JÖRAN,#joeran,962.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2383,2383,2383,GerDracor/weissenthurn-johann-herzog-von-finnland.xml,was ist das?,4,16,character_speech,5,9,,JÖRAN,#joeran,962.0,MALE,being moved,S,,1811.0,being moved,being moved
+2384,2384,2384,GerDracor/weissenthurn-johann-herzog-von-finnland.xml,Der Herzog hier?,0,16,character_speech,5,9,,BRASKE.,#braske,963.0,MALE,being moved,S,,1811.0,being moved,being moved
+2385,2385,2385,GerDracor/weissenthurn-johann-herzog-von-finnland.xml,zu Jöran.,0,9,stage_direction,5,9,speech_part,,#koenig,964.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2386,2386,2386,GerDracor/weissenthurn-johann-herzog-von-finnland.xml,"Er entfloh seinen Feinden, und steht bey seinem Freund.",0,55,character_speech,5,9,,KÖNIG,#koenig,964.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2387,2387,2387,GerDracor/weissenthurn-johann-herzog-von-finnland.xml,"Seht diese blasse Wange an –
+              was ich ihm zu viel that, dazu habt ihr mich verleitet.",56,154,character_speech,5,9,,KÖNIG,#koenig,964.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+2388,2388,2388,GerDracor/weissenthurn-johann-herzog-von-finnland.xml,"Ihr legt eure Ämter und das
+              Reichs-Insiegel in dieses edlen Mannes Hand.",155,241,character_speech,5,9,,KÖNIG,#koenig,964.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+2389,2389,2389,GerDracor/weissenthurn-johann-herzog-von-finnland.xml,Deutet auf Braske.,0,18,stage_direction,5,9,inner_speech,,#koenig,964.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2390,2390,2390,GerDracor/weissenthurn-johann-herzog-von-finnland.xml," Er ist
+              menschlich, er wird mich menschlich handeln lehren.",0,73,character_speech,5,9,,KÖNIG,#koenig,964.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+2391,2391,2391,GerDracor/weissenthurn-johann-herzog-von-finnland.xml,Zu Johann.,0,10,stage_direction,5,9,inner_speech,,#koenig,964.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2392,2392,2392,GerDracor/weissenthurn-johann-herzog-von-finnland.xml," Herzog
+              von Finnland, ich setze euch in alle eure Rechte.",0,71,character_speech,5,9,,KÖNIG,#koenig,964.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2393,2393,2393,GerDracor/weissenthurn-johann-herzog-von-finnland.xml,"Marie, ich bereue es nicht, daß ich
+              dich jeder Fürstinn vorgezogen, denn fürstlich handeln lerne ich von dir.",72,195,character_speech,5,9,,KÖNIG,#koenig,964.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+2394,2394,2394,GerDracor/weissenthurn-johann-herzog-von-finnland.xml,Mein König –,0,12,character_speech,5,9,,KÖNIGINN.,#koeniginn,965.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2395,2395,2395,GerDracor/weissenthurn-johann-herzog-von-finnland.xml,Schwester – Bruder – Gattinn!,0,29,character_speech,5,9,,KÖNIG.,#koenig,966.0,MALE,being moved,S,,1811.0,being moved,being moved
+2396,2396,2396,GerDracor/weissenthurn-johann-herzog-von-finnland.xml,"Ja, du hast Recht.",30,48,character_speech,5,9,,KÖNIG.,#koenig,966.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2397,2397,2397,GerDracor/weissenthurn-johann-herzog-von-finnland.xml,"Eintracht ist der Weg zur Ruhe, ich
+              betrete ihn an eurer Hand.",49,125,character_speech,5,9,,KÖNIG.,#koenig,966.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2398,2398,2398,GerDracor/weissenthurn-johann-herzog-von-finnland.xml,außer Jöran.,0,12,stage_direction,5,9,speech_part,,#koeniginn #catharina #siegmund #johann #braske,967.0,UNKNOWN,no_annotation,S,,1811.0,no_annotation,no_annotation
+2399,2399,2399,GerDracor/weissenthurn-johann-herzog-von-finnland.xml,"Gott erhalte euch so, mein König!",0,33,character_speech,5,9,,ALLE,#koeniginn #catharina #siegmund #johann #braske,967.0,UNKNOWN,"admiration, reverence",S,,1811.0,positive,emotions of affection

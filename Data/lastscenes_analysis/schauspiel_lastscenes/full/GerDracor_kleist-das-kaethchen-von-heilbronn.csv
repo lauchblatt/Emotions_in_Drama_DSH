@@ -1,0 +1,36 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+3026,3026,3026,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,"Käthchen im kaiserlichen Brautschmuck, geführt von Gräfin Helena und Fräulein
+            Eleonore, ihre Schleppe von drei Pagen getragen; hinter ihr Burggraf von Freiburg usw.",0,176,stage_direction,5,14,pre_speech,,,,,no_annotation,S,,1810.0,no_annotation,no_annotation
+3027,3027,3027,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,steigen die Rampe herab.,189,213,stage_direction,5,14,pre_speech,,,,,no_annotation,S,,1810.0,no_annotation,no_annotation
+3028,3028,3028,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,"Heil dir, o Jungfrau!",0,21,character_speech,5,14,,GRAF OTTO.,#graf_otto,1243.0,MALE,suffering,S,,1810.0,negative,emotions of suffering and empathy
+3029,3029,3029,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,"Heil dir, Käthchen von Heilbronn, kaiserliche Prinzessin von Schwaben!",0,70,character_speech,5,14,,RITTER FLAMMBERG UND GOTTSCHALK.,#flammberg #gottschalk,1244.0,UNKNOWN,"admiration, reverence",S,,1810.0,positive,emotions of affection
+3030,3030,3030,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,Heil dir!,0,9,character_speech,5,14,,VOLK.,#volk_5-14,1245.0,UNKNOWN,suffering,S,,1810.0,negative,emotions of suffering and empathy
+3031,3031,3031,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,Heil!,10,15,character_speech,5,14,,VOLK.,#volk_5-14,1245.0,UNKNOWN,no_annotation,S,,1810.0,no_annotation,no_annotation
+3032,3032,3032,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,Heil dir!,16,25,character_speech,5,14,,VOLK.,#volk_5-14,1245.0,UNKNOWN,suffering,S,,1810.0,negative,emotions of suffering and empathy
+3033,3033,3033,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,die auf dem Platz geblieben.,0,28,stage_direction,5,14,speech_part,,#friedrich_von_herrnstadt #eginhardt_von_der_wart,1246.0,UNKNOWN,no_annotation,S,,1810.0,no_annotation,no_annotation
+3034,3034,3034,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,Ist dies die Braut?,0,19,character_speech,5,14,,HERRNSTADT UND VON DER WART,#friedrich_von_herrnstadt #eginhardt_von_der_wart,1246.0,UNKNOWN,no_annotation,S,,1810.0,no_annotation,no_annotation
+3035,3035,3035,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,Dies ist sie.,0,13,character_speech,5,14,,FREIBURG.,#freiburg,1247.0,MALE,no_annotation,S,,1810.0,no_annotation,no_annotation
+3036,3036,3036,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,Ich?,0,4,character_speech,5,14,,KÄTHCHEN.,#kaethchen,1248.0,FEMALE,being moved,S,,1810.0,being moved,being moved
+3037,3037,3037,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,Ihr hohen Herren!,5,22,character_speech,5,14,,KÄTHCHEN.,#kaethchen,1248.0,FEMALE,no_annotation,S,,1810.0,no_annotation,no_annotation
+3038,3038,3038,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,Wessen?,23,30,character_speech,5,14,,KÄTHCHEN.,#kaethchen,1248.0,FEMALE,no_annotation,S,,1810.0,no_annotation,no_annotation
+3039,3039,3039,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,"Dessen, den dir der Cherub geworben.",0,36,character_speech,5,14,,DER KAISER.,#der_kaiser,1249.0,MALE,no_annotation,S,,1810.0,no_annotation,no_annotation
+3040,3040,3040,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,Willst du diesen Ring mit ihm wechseln?,37,76,character_speech,5,14,,DER KAISER.,#der_kaiser,1249.0,MALE,no_annotation,S,,1810.0,no_annotation,no_annotation
+3041,3041,3041,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,Willst du dem Grafen deine Hand geben?,0,38,character_speech,5,14,,THEOBALD.,#theobald,1250.0,MALE,no_annotation,S,,1810.0,no_annotation,no_annotation
+3042,3042,3042,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,umfaßt sie.,0,11,stage_direction,5,14,speech_part,,#der_graf_vom_strahl,1251.0,MALE,love,S,,1810.0,positive,emotions of affection
+3043,3043,3043,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,Käthchen!,0,9,character_speech,5,14,,DER GRAF VOM STRAHL,#der_graf_vom_strahl,1251.0,MALE,being moved,S,,1810.0,being moved,being moved
+3044,3044,3044,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,Meine Braut!,10,22,character_speech,5,14,,DER GRAF VOM STRAHL,#der_graf_vom_strahl,1251.0,MALE,no_annotation,S,,1810.0,no_annotation,no_annotation
+3045,3045,3045,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,Willst du mich?,23,38,character_speech,5,14,,DER GRAF VOM STRAHL,#der_graf_vom_strahl,1251.0,MALE,anger,S,,1810.0,negative,emotions of rejection
+3046,3046,3046,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,Schütze mich Gott und alle Heiligen!,0,36,character_speech,5,14,,KÄTHCHEN.,#kaethchen,1252.0,FEMALE,fear,S,,1810.0,negative,emotions of anxiety
+3047,3047,3047,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,"Sie sinkt; die Gräfin empfängt
+                sie.",0,51,stage_direction,5,14,inner_speech,,#kaethchen,1252.0,FEMALE,no_annotation,S,,1810.0,no_annotation,no_annotation
+3048,3048,3048,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,"Wohlan, so nehmt sie, Herr Graf vom Strahl, und führt sie zur Kirche!",0,69,character_speech,5,14,,DER KAISER.,#der_kaiser,1253.0,MALE,no_annotation,S,,1810.0,no_annotation,no_annotation
+3049,3049,3049,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,Glockenklang.,0,13,stage_direction,5,14,speech_part,,#der_kaiser,1253.0,MALE,no_annotation,S,,1810.0,no_annotation,no_annotation
+3050,3050,3050,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,"Pest, Tod und Rache!",0,20,character_speech,5,14,,KUNIGUNDE.,#kunigunde,1254.0,FEMALE,abhorrence,S,,1810.0,negative,emotions of rejection
+3051,3051,3051,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,Diesen Schimpf sollt ihr mir büßen!,21,56,character_speech,5,14,,KUNIGUNDE.,#kunigunde,1254.0,FEMALE,anger,S,,1810.0,negative,emotions of rejection
+3052,3052,3052,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,"Ab, mit Gefolge.",0,16,stage_direction,5,14,speech_part,,#kunigunde,1254.0,FEMALE,no_annotation,S,,1810.0,no_annotation,no_annotation
+3053,3053,3053,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,Giftmischerin!,0,14,character_speech,5,14,,DER GRAF VOM STRAHL.,#der_graf_vom_strahl,1255.0,MALE,abhorrence,S,,1810.0,negative,emotions of rejection
+3054,3054,3054,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,"Marsch: Der Kaiser stellt sich mit Käthchen und dem Grafen vom Strahl unter den
+              Baldachin; die Damen und Ritter folgen.",0,133,stage_direction,5,14,speech_part,,#der_graf_vom_strahl,1255.0,MALE,no_annotation,S,,1810.0,no_annotation,no_annotation
+3055,3055,3055,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,Trabanten beschließen den Zug.,134,164,stage_direction,5,14,speech_part,,#der_graf_vom_strahl,1255.0,MALE,no_annotation,S,,1810.0,no_annotation,no_annotation
+3056,3056,3056,GerDracor/kleist-das-kaethchen-von-heilbronn.xml,"– Alle
+              ab.",165,189,stage_direction,5,14,speech_part,,#der_graf_vom_strahl,1255.0,MALE,no_annotation,S,,1810.0,no_annotation,no_annotation

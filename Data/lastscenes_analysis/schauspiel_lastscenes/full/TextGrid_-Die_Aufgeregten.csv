@@ -1,0 +1,68 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+1031,1031,1031,TextGrid/-Die_Aufgeregten.xml,"
+                                    Gräfin.",0,44,stage_direction,4,22,pre_speech,,,,,no_annotation,S,,1749.0,no_annotation,no_annotation
+1032,1032,1032,TextGrid/-Die_Aufgeregten.xml,Hofrat.,45,52,stage_direction,4,22,pre_speech,,,,,no_annotation,S,,1749.0,no_annotation,no_annotation
+1033,1033,1033,TextGrid/-Die_Aufgeregten.xml,Die Vorigen.,53,65,stage_direction,4,22,pre_speech,,,,,no_annotation,S,,1749.0,no_annotation,no_annotation
+1034,1034,1034,TextGrid/-Die_Aufgeregten.xml, Was gibt 's hier?,0,18,character_speech,4,22,,GRÄFIN.,GRÄFIN.,1.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1035,1035,1035,TextGrid/-Die_Aufgeregten.xml, Was machen Sie?,0,16,character_speech,4,22,,HOFRAT.,HOFRAT.,2.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1036,1036,1036,TextGrid/-Die_Aufgeregten.xml,"
+                                       immer zum Amtmann.",0,58,stage_direction,4,22,speech_part,,,3.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1037,1037,1037,TextGrid/-Die_Aufgeregten.xml," Rühren Sie sich nicht, oder Sie sind des Todes!",0,48,character_speech,4,22,,FRIEDERIKE,FRIEDERIKE,3.0,UNKNOWN,fear,S,,1749.0,negative,emotions of anxiety
+1038,1038,1038,TextGrid/-Die_Aufgeregten.xml,wo verschlossen?,49,65,character_speech,4,22,,FRIEDERIKE,FRIEDERIKE,3.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1039,1039,1039,TextGrid/-Die_Aufgeregten.xml, In meinem Pulte.,0,17,character_speech,4,22,,AMTMANN.,AMTMANN.,4.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1040,1040,1040,TextGrid/-Die_Aufgeregten.xml, Und in dem Pulte!,0,18,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,5.0,UNKNOWN,being moved,S,,1749.0,being moved,being moved
+1041,1041,1041,TextGrid/-Die_Aufgeregten.xml,wo?,19,22,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,5.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1042,1042,1042,TextGrid/-Die_Aufgeregten.xml, Zwischen einem Doppelboden.,0,28,character_speech,4,22,,AMTMANN.,AMTMANN.,6.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1043,1043,1043,TextGrid/-Die_Aufgeregten.xml, Wo ist der Schlüssel?,0,22,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,7.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1044,1044,1044,TextGrid/-Die_Aufgeregten.xml, In meiner Tasche.,0,18,character_speech,4,22,,AMTMANN.,AMTMANN.,8.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1045,1045,1045,TextGrid/-Die_Aufgeregten.xml, Und wie geht der doppelte Boden auf?,0,37,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,9.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1046,1046,1046,TextGrid/-Die_Aufgeregten.xml, Durch einen Druck an der rechten Seite.,0,40,character_speech,4,22,,AMTMANN.,AMTMANN.,10.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1047,1047,1047,TextGrid/-Die_Aufgeregten.xml, Heraus den Schlüssel!,0,22,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,11.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1048,1048,1048,TextGrid/-Die_Aufgeregten.xml, Hier ist er.,0,13,character_speech,4,22,,AMTMANN.,AMTMANN.,12.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1049,1049,1049,TextGrid/-Die_Aufgeregten.xml, Hingeworfen!,0,13,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,13.0,UNKNOWN,anger,S,,1749.0,negative,emotions of rejection
+1050,1050,1050,TextGrid/-Die_Aufgeregten.xml,"
+                                       wirft ihn auf die Erde.",0,63,stage_direction,4,22,speech_part,,,14.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1051,1051,1051,TextGrid/-Die_Aufgeregten.xml, Und die Stube?,0,15,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,15.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1052,1052,1052,TextGrid/-Die_Aufgeregten.xml, Ist offen.,0,11,character_speech,4,22,,AMTMANN.,AMTMANN.,16.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1053,1053,1053,TextGrid/-Die_Aufgeregten.xml, Wer ist drinnen?,0,17,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,17.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1054,1054,1054,TextGrid/-Die_Aufgeregten.xml, Meine Magd und mein Schreiber.,0,31,character_speech,4,22,,AMTMANN.,AMTMANN.,18.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1055,1055,1055,TextGrid/-Die_Aufgeregten.xml," Sie haben alles gehört, Herr Hofrat.",0,37,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,19.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1056,1056,1056,TextGrid/-Die_Aufgeregten.xml,Ich habe Ihnen ein umständliches Gespräch erspart.,38,88,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,19.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1057,1057,1057,TextGrid/-Die_Aufgeregten.xml,Nehmen Sie den Schlüssel und holen Sie das Dokument.,89,141,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,19.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1058,1058,1058,TextGrid/-Die_Aufgeregten.xml,"Bringen Sie es nicht zurück, so hat er gelogen, und ich schieße ihn darum tot.",142,220,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,19.0,UNKNOWN,abhorrence,S,,1749.0,negative,emotions of rejection
+1059,1059,1059,TextGrid/-Die_Aufgeregten.xml," Lassen Sie ihn mitgehen; bedenken Sie, was Sie tun.",0,52,character_speech,4,22,,HOFRAT.,HOFRAT.,20.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1060,1060,1060,TextGrid/-Die_Aufgeregten.xml," Ich weiß, was ich tue.",0,23,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,21.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1061,1061,1061,TextGrid/-Die_Aufgeregten.xml,Machen Sie mich nicht wild und gehen Sie.,24,65,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,21.0,UNKNOWN,anger,S,,1749.0,negative,emotions of rejection
+1062,1062,1062,TextGrid/-Die_Aufgeregten.xml,Hofrat ab.,66,76,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,21.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1063,1063,1063,TextGrid/-Die_Aufgeregten.xml," Meine Tochter, du erschreckst mich.",0,36,character_speech,4,22,,GRÄFIN.,GRÄFIN.,22.0,UNKNOWN,fear,S,,1749.0,negative,emotions of anxiety
+1064,1064,1064,TextGrid/-Die_Aufgeregten.xml,Tu das Gewehr weg!,37,55,character_speech,4,22,,GRÄFIN.,GRÄFIN.,22.0,UNKNOWN,fear,S,,1749.0,negative,emotions of anxiety
+1065,1065,1065,TextGrid/-Die_Aufgeregten.xml," Gewiß nicht eher, als bis ich das Dokument sehe.",0,49,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,23.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1066,1066,1066,TextGrid/-Die_Aufgeregten.xml, Hörst du nicht?,0,16,character_speech,4,22,,GRÄFIN.,GRÄFIN.,24.0,UNKNOWN,anger,S,,1749.0,negative,emotions of rejection
+1067,1067,1067,TextGrid/-Die_Aufgeregten.xml,deine Mutter befiehlt's.,17,41,character_speech,4,22,,GRÄFIN.,GRÄFIN.,24.0,UNKNOWN,anger,S,,1749.0,negative,emotions of rejection
+1068,1068,1068,TextGrid/-Die_Aufgeregten.xml," Und wenn mein Vater aus dem Grabe aufstünde, ich gehorchte nicht.",0,66,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,25.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1069,1069,1069,TextGrid/-Die_Aufgeregten.xml, Wenn es losginge!,0,18,character_speech,4,22,,GRÄFIN.,GRÄFIN.,26.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1070,1070,1070,TextGrid/-Die_Aufgeregten.xml, Welch Unglück wäre das?,0,24,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,27.0,UNKNOWN,suffering,S,,1749.0,negative,emotions of suffering and empathy
+1071,1071,1071,TextGrid/-Die_Aufgeregten.xml, Es würde Sie gereuen.,0,22,character_speech,4,22,,AMTMANN.,AMTMANN.,28.0,UNKNOWN,suffering,S,,1749.0,negative,emotions of suffering and empathy
+1072,1072,1072,TextGrid/-Die_Aufgeregten.xml, Gewiß nicht.,0,13,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,29.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1073,1073,1073,TextGrid/-Die_Aufgeregten.xml,"Erinnerst du dich noch, Nichtswürdiger, als ich vorm Jahr im Zorn nach dem Jägerburschen schoß, der meinen Hund prügelte, erinnerst du dich noch, da ich ausgescholten wurde und alle Menschen den glücklichen Zufall priesen, der mich hatte fehlen lassen, da warst du's allein, der hämisch lächelte und sagte: Was wär' es denn gewesen?",14,346,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,29.0,UNKNOWN,Schadenfreude,S,,1749.0,positive,emotions of pleasure
+1074,1074,1074,TextGrid/-Die_Aufgeregten.xml,ein Kind aus einem vornehmen Hause!,347,382,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,29.0,UNKNOWN,"admiration, reverence",S,,1749.0,positive,emotions of affection
+1075,1075,1075,TextGrid/-Die_Aufgeregten.xml,das wäre mit Geld abzutun.,383,409,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,29.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1076,1076,1076,TextGrid/-Die_Aufgeregten.xml,"Ich bin noch immer ein Kind, ich bin noch immer aus einem vornehmen Hause; so müßte das wohl auch mit Geld abzutun sein.",410,530,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,29.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1077,1077,1077,TextGrid/-Die_Aufgeregten.xml,"
+                                       kommt zurück.",0,53,stage_direction,4,22,speech_part,,,30.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1078,1078,1078,TextGrid/-Die_Aufgeregten.xml, Hier ist das Dokument.,0,23,character_speech,4,22,,HOFRAT,HOFRAT,30.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1079,1079,1079,TextGrid/-Die_Aufgeregten.xml, Ist es?,0,8,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,31.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1080,1080,1080,TextGrid/-Die_Aufgeregten.xml,Sie bringt das Gewehr in Ruh.,9,38,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,31.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1081,1081,1081,TextGrid/-Die_Aufgeregten.xml, Ist's möglich?,0,15,character_speech,4,22,,GRÄFIN.,GRÄFIN.,32.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1082,1082,1082,TextGrid/-Die_Aufgeregten.xml, O ich Unglücklicher!,0,21,character_speech,4,22,,AMTMANN.,AMTMANN.,33.0,UNKNOWN,suffering,S,,1749.0,negative,emotions of suffering and empathy
+1083,1083,1083,TextGrid/-Die_Aufgeregten.xml, Geh!,0,5,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,34.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1084,1084,1084,TextGrid/-Die_Aufgeregten.xml,Elender!,6,14,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,34.0,UNKNOWN,anger,S,,1749.0,negative,emotions of rejection
+1085,1085,1085,TextGrid/-Die_Aufgeregten.xml,daß deine Gegenwart meine Freude nicht vergälle!,15,63,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,34.0,UNKNOWN,joy,S,,1749.0,positive,emotions of pleasure
+1086,1086,1086,TextGrid/-Die_Aufgeregten.xml, Es ist das Original.,0,21,character_speech,4,22,,HOFRAT.,HOFRAT.,35.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1087,1087,1087,TextGrid/-Die_Aufgeregten.xml, Geben Sie mir's.,0,17,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,36.0,UNKNOWN,no_annotation,S,,1749.0,no_annotation,no_annotation
+1088,1088,1088,TextGrid/-Die_Aufgeregten.xml,"Morgen will ich's den Gemeinden selbst zeigen und sagen, daß ich's ihnen erobert habe.",18,104,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,36.0,UNKNOWN,joy,S,,1749.0,positive,emotions of pleasure
+1089,1089,1089,TextGrid/-Die_Aufgeregten.xml,"
+                                       sie umarmend.",0,53,stage_direction,4,22,speech_part,,,37.0,UNKNOWN,joy,S,,1749.0,positive,emotions of pleasure
+1090,1090,1090,TextGrid/-Die_Aufgeregten.xml, Meine Tochter!,0,15,character_speech,4,22,,GRÄFIN,GRÄFIN,37.0,UNKNOWN,being moved,S,,1749.0,being moved,being moved
+1091,1091,1091,TextGrid/-Die_Aufgeregten.xml, Wenn mir der Spaß nur die Lust an der Jagd nicht verdirbt.,0,59,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,38.0,UNKNOWN,joy,S,,1749.0,positive,emotions of pleasure
+1092,1092,1092,TextGrid/-Die_Aufgeregten.xml,Solch ein Wildpret schieß' ich nie wieder!,60,102,character_speech,4,22,,FRIEDERIKE.,FRIEDERIKE.,38.0,UNKNOWN,abhorrence,S,,1749.0,negative,emotions of rejection

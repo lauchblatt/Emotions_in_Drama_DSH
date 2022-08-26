@@ -1,0 +1,50 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+266,266,266,TextGrid/-Judith.xml,"
+                                       Der Höchste sei gelobt, Bethulien ist Loß!",0,82,character_speech,3,15,,CHOR DER EBREER.,CHOR DER EBREER.,1,UNKNOWN,"admiration, reverence",S,,1597.0,positive,emotions of affection
+267,267,267,TextGrid/-Judith.xml,"O daß man jederzeit der Judith Rhum vnd Ehre
+                                       Biß an deß Himmels Schloß
+                                       Durch Waldt vnd Feldt vnd Berg vnd Thal erschallen höre!",122,327,character_speech,3,15,,CHOR DER EBREER.,CHOR DER EBREER.,1,UNKNOWN,"admiration, reverence",S,,1597.0,positive,emotions of affection
+268,268,268,TextGrid/-Judith.xml,"
+                                       O Heldinn, Blum vnd Spiegel aller Zucht,
+                                       Der Feindt ist Todt, Todt oder in der Flucht.",0,165,character_speech,3,15,,OSIAS.,OSIAS.,2,UNKNOWN,"admiration, reverence",S,,1597.0,positive,emotions of affection
+269,269,269,TextGrid/-Judith.xml,"Sie ist dahin die stoltze grimme Schar,
+                                       Der fast die Welt zu enge worden war.",205,321,character_speech,3,15,,OSIAS.,OSIAS.,2,UNKNOWN,no_annotation,S,,1597.0,no_annotation,no_annotation
+270,270,270,TextGrid/-Judith.xml,"Die vns gedrewt zue schlagen in die Eysen,
+                                       Die müssen jetzt Wildt vnd Geflügel speisen.",361,487,character_speech,3,15,,OSIAS.,OSIAS.,2,UNKNOWN,no_annotation,S,,1597.0,no_annotation,no_annotation
+271,271,271,TextGrid/-Judith.xml,"Daß nun Bethulien noch steht,
+                                       Daß Sion nicht zue grunde geht,
+                                       Daß ich diß Zepter führen kan,
+                                       Das hast, O Judith, du gethan.",571,811,character_speech,3,15,,OSIAS.,OSIAS.,2,UNKNOWN,joy,S,,1597.0,positive,emotions of pleasure
+272,272,272,TextGrid/-Judith.xml,"
+                                       Osias, GOTT allein, der hat mich wollen leiten,
+                                       Hat meinen schwachen Arm gelehrt so kräfftig Streiten,
+                                       Die Finger meiner Handt erregt, Behertzt zue sein:
+                                       Drumb ehren wir auch recht vnd rhümen GOTT allein.",0,361,character_speech,3,15,,JUDITH.,JUDITH.,3,UNKNOWN,"admiration, reverence",S,,1597.0,positive,emotions of affection
+273,273,273,TextGrid/-Judith.xml,"
+                                       So laß vns Sion nun die Edle Beute bringen
+                                       Der jetzundt nicht mehr starcken Macht;
+                                       Worinnen sie zuvor so Stoltz vnd Mutig giengen,
+                                       Das wird jetzt sein des Tempels Pracht;
+                                       Vnd du, O Keuscher Stern des Landes, solt nun leben
+                                       Geruhig in derselben Stadt,
+                                       Die billich höchste Gunst vnd Liebe dir wird geben,
+                                       Weil sie von dir die Freyheit hat.",0,650,character_speech,3,15,,OSIAS.,OSIAS.,4,UNKNOWN,"admiration, reverence",S,,1597.0,positive,emotions of affection
+274,274,274,TextGrid/-Judith.xml,"
+                                       Der Höchste sey gelobt, Bethulien ist Loß!",0,82,character_speech,3,15,,VOLLER CHOR.,VOLLER CHOR.,5,UNKNOWN,"admiration, reverence",S,,1597.0,positive,emotions of affection
+275,275,275,TextGrid/-Judith.xml,"O daß man jederzeit der Judith Rhum vnd Ehre
+                                       Biß an deß Himmels Schloß
+                                       Durch Waldt vnd Feldt vnd Berg vnd Thal erschallen höre!",122,327,character_speech,3,15,,VOLLER CHOR.,VOLLER CHOR.,5,UNKNOWN,"admiration, reverence",S,,1597.0,positive,emotions of affection
+276,276,276,TextGrid/-Judith.xml,"
+                                       O GOTT, durch dessen Arm die Schwächeren gewinnen,
+                                       Verschaffe, daß hinfort das listige beginnen
+                                       Deß Volckes, so dich schertzt vnd frembde Götter ehrt,
+                                       Auch werde wie anjetzt gehindert vnd zerstört.",0,354,character_speech,3,15,,JUDITH.,JUDITH.,6,UNKNOWN,"admiration, reverence",S,,1597.0,positive,emotions of affection
+277,277,277,TextGrid/-Judith.xml,"Brich ihren Vbermuth, laß sie die Degen wetzen
+                                       Auff jhren eig'nen Kopff, vnd in dem Blute netzen,
+                                       Das gegen deine Schar so grimmig ist entbrandt.",394,617,character_speech,3,15,,JUDITH.,JUDITH.,6,UNKNOWN,abhorrence,S,,1597.0,negative,emotions of rejection
+278,278,278,TextGrid/-Judith.xml,"Du aber sey Gegrüßt, O liebes Vaterlandt!",657,698,character_speech,3,15,,JUDITH.,JUDITH.,6,UNKNOWN,"admiration, reverence",S,,1597.0,positive,emotions of affection
+279,279,279,TextGrid/-Judith.xml,"
+                                       Der Höchste sey gelobt, Bethulien ist Loß!",0,82,character_speech,3,15,,VOLLER CHOR.,VOLLER CHOR.,7,UNKNOWN,"admiration, reverence",S,,1597.0,positive,emotions of affection
+280,280,280,TextGrid/-Judith.xml,"O daß man jederzeit der Judith Rhum vnd Ehre
+                                       Biß an deß Himmels Schloß
+                                       Durch Waldt vndt Feldt vnd Berg vnd Thal erschallen höre!",122,328,character_speech,3,15,,VOLLER CHOR.,VOLLER CHOR.,7,UNKNOWN,"admiration, reverence",S,,1597.0,positive,emotions of affection

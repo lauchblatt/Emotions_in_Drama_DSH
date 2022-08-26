@@ -1,0 +1,193 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+1683,1683,1683,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Soudry, Judith, Hortensia, Marie, Wache.",0,40,stage_direction,5,9,pre_speech,,,,,no_annotation,S,,1821.0,no_annotation,no_annotation
+1684,1684,1684,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"
+              So ruf' ich mit, und fei're dieses Fest
+              mehr als Ihr alle, weil ich für Euch wache.",0,112,character_speech,5,9,,SOUDRY.,#soudry,639.0,MALE,"admiration, reverence",S,,1821.0,positive,emotions of affection
+1685,1685,1685,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Ihr wähnt das weiße Unkraut ausgerottet?,127,167,character_speech,5,9,,SOUDRY.,#soudry,639.0,MALE,abhorrence,S,,1821.0,negative,emotions of rejection
+1686,1686,1686,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Zwei üpp'ge Sprößlein bring' ich Euch hier mit.,182,229,character_speech,5,9,,SOUDRY.,#soudry,639.0,MALE,joy,S,,1821.0,positive,emotions of pleasure
+1687,1687,1687,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Schaut her, schaut her, die Töchter St.",244,283,character_speech,5,9,,SOUDRY.,#soudry,639.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1688,1688,1688,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Janvier.,284,292,character_speech,5,9,,SOUDRY.,#soudry,639.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1689,1689,1689,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Die Wache tritt auf sein Zeichen zurück.,0,40,stage_direction,5,9,speech_part,,#soudry,639.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1690,1690,1690,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Man sieht jetzt erst Hortensia und
+              Marie, die sich in Todesangst an Judithe klammern.",41,140,stage_direction,5,9,speech_part,,#soudry,639.0,MALE,fear,S,,1821.0,negative,emotions of anxiety
+1691,1691,1691,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,schreit.,0,8,stage_direction,5,9,speech_part,,#julia,640.0,FEMALE,fear,S,,1821.0,negative,emotions of anxiety
+1692,1692,1692,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Sie sind's – barmherz'ger Gott – o Dessalines!,0,46,character_speech,5,9,,JULIA,#julia,640.0,FEMALE,joy,S,,1821.0,positive,emotions of pleasure
+1693,1693,1693,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"nach einer Pause des Erstaunens wendet er sich zu Diakue, und sagt
+              fürchterlich.",0,94,stage_direction,5,9,speech_part,,#dessalines,641.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1694,1694,1694,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"
+              Das Diakue – das hast Du mir gethan?",0,51,character_speech,5,9,,DESSALINES,#dessalines,641.0,MALE,suffering,S,,1821.0,negative,emotions of suffering and empathy
+1695,1695,1695,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Mich so getäuscht – die Nattern nicht getödtet?,66,113,character_speech,5,9,,DESSALINES,#dessalines,641.0,MALE,being moved,S,,1821.0,being moved,being moved
+1696,1696,1696,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,entschlossen.,0,13,stage_direction,5,9,speech_part,,#diakue,642.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1697,1697,1697,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"
+              Ich konnt es nicht – Ihr Vater war mein Freund,
+              aus Mörderhänden hat er mich gerettet,
+              in seinen Kindern wollt' ich dankbar sein.",0,172,character_speech,5,9,,DIAKUE,#diakue,642.0,MALE,friendship,S,,1821.0,positive,emotions of affection
+1698,1698,1698,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,wüthend.,0,8,stage_direction,5,9,speech_part,,#dessalines,643.0,MALE,anger,S,,1821.0,negative,emotions of rejection
+1699,1699,1699,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"
+              Dem Weißen dankbar – treulos gegen mich?",0,55,character_speech,5,9,,DESSALINES,#dessalines,643.0,MALE,anger,S,,1821.0,negative,emotions of rejection
+1700,1700,1700,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Verruchter!,70,81,character_speech,5,9,,DESSALINES,#dessalines,643.0,MALE,abhorrence,S,,1821.0,negative,emotions of rejection
+1701,1701,1701,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Ha – doch nein, ich danke Dir
+              daß Du mir diese Wonne aufgespart.",82,160,character_speech,5,9,,DESSALINES,#dessalines,643.0,MALE,joy,S,,1821.0,positive,emotions of pleasure
+1702,1702,1702,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Höhnisch.,0,9,stage_direction,5,9,speech_part,,#dessalines,643.0,MALE,anger,S,,1821.0,negative,emotions of rejection
+1703,1703,1703,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"
+              Du wolltest dankbar sein?",0,40,character_speech,5,9,,DESSALINES,#dessalines,643.0,MALE,joy,S,,1821.0,positive,emotions of pleasure
+1704,1704,1704,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"So sei es denn,
+              und laß' die eig'nen Truppen auf sie feuern.",41,115,character_speech,5,9,,DESSALINES,#dessalines,643.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1705,1705,1705,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Dort stellt sie hin – dort – daß ich sie erblicke,
+              mich an dem Schauspiel letzen, weiden kann.",130,238,character_speech,5,9,,DESSALINES,#dessalines,643.0,MALE,love,S,,1821.0,positive,emotions of affection
+1706,1706,1706,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Fürchterlich.,0,13,stage_direction,5,9,speech_part,,#dessalines,643.0,MALE,suffering,S,,1821.0,negative,emotions of suffering and empathy
+1707,1707,1707,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Dort stellt sie hin!,0,20,character_speech,5,9,,DESSALINES,#dessalines,643.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1708,1708,1708,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"
+              O Dessalines – halt ein –
+              Erbarmen!",0,64,character_speech,5,9,,JULIA.,#julia,644.0,FEMALE,suffering,S,,1821.0,negative,emotions of suffering and empathy
+1709,1709,1709,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Schweig!,0,8,character_speech,5,9,,DESSALINES.,#dessalines,645.0,MALE,anger,S,,1821.0,negative,emotions of rejection
+1710,1710,1710,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Du bist kein Mensch, ein Mörder –",0,33,character_speech,5,9,,JULIA.,#julia,646.0,FEMALE,abhorrence,S,,1821.0,negative,emotions of rejection
+1711,1711,1711,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Schweig, fürchte meinen Zorn –",0,30,character_speech,5,9,,DESSALINES.,#dessalines,647.0,MALE,anger,S,,1821.0,negative,emotions of rejection
+1712,1712,1712,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"
+              Ich fürchte nichts.",0,34,character_speech,5,9,,JULIA.,#julia,648.0,FEMALE,fear,S,,1821.0,negative,emotions of anxiety
+1713,1713,1713,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Das Blut der Unschuld schrei't um Rache!,49,89,character_speech,5,9,,JULIA.,#julia,648.0,FEMALE,despair,S,,1821.0,negative,emotions of anxiety
+1714,1714,1714,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Ich rufe Rache, Rache über Dich!",104,136,character_speech,5,9,,JULIA.,#julia,648.0,FEMALE,abhorrence,S,,1821.0,negative,emotions of rejection
+1715,1715,1715,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Sie treffe Dich Verweg'ne!,0,26,character_speech,5,9,,DESSALINES.,#dessalines,649.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1716,1716,1716,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Fesselt sie!,27,39,character_speech,5,9,,DESSALINES.,#dessalines,649.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1717,1717,1717,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Tyranu, ich schütze sie mit meinem Leben.",0,41,character_speech,5,9,,JULIA.,#julia,650.0,FEMALE,fear,S,,1821.0,negative,emotions of anxiety
+1718,1718,1718,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Stürzt auf die Kinder hin.,0,26,stage_direction,5,9,speech_part,,#julia,650.0,FEMALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1719,1719,1719,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,wüthend.,0,8,stage_direction,5,9,speech_part,,#dessalines,651.0,MALE,anger,S,,1821.0,negative,emotions of rejection
+1720,1720,1720,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Reißt sie zurück!,0,17,character_speech,5,9,,DESSALINES,#dessalines,651.0,MALE,anger,S,,1821.0,negative,emotions of rejection
+1721,1721,1721,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Soldaten eure Pflicht.,18,40,character_speech,5,9,,DESSALINES,#dessalines,651.0,MALE,"admiration, reverence",S,,1821.0,positive,emotions of affection
+1722,1722,1722,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Soudry reißt sie weg.,0,21,stage_direction,5,9,speech_part,,#dessalines,651.0,MALE,anger,S,,1821.0,negative,emotions of rejection
+1723,1723,1723,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Weh mir!,0,8,character_speech,5,9,,JULIA.,#julia,652.0,FEMALE,suffering,S,,1821.0,negative,emotions of suffering and empathy
+1724,1724,1724,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,– Weh Euch!,9,20,character_speech,5,9,,JULIA.,#julia,652.0,FEMALE,abhorrence,S,,1821.0,negative,emotions of rejection
+1725,1725,1725,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,–,21,22,character_speech,5,9,,JULIA.,#julia,652.0,FEMALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1726,1726,1726,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,nach einer Pause höhnisch.,0,26,stage_direction,5,9,speech_part,,#dessalines,653.0,MALE,anger,S,,1821.0,negative,emotions of rejection
+1727,1727,1727,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"
+              Wie wird es nun so still!",0,40,character_speech,5,9,,DESSALINES,#dessalines,653.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1728,1728,1728,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Ha ha ha ha Dein schwaches Rachgeschrei
+              soll mir den Fluch des Himmels näher bringen?",55,154,character_speech,5,9,,DESSALINES,#dessalines,653.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1729,1729,1729,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Du siehst – er schützt sie nicht, sie bleiben mein,
+              und keine Wolke läßt sich auf sie nieder,
+              die meinem Strafgericht sie schnell entzieht.",169,336,character_speech,5,9,,DESSALINES,#dessalines,653.0,MALE,suffering,S,,1821.0,negative,emotions of suffering and empathy
+1730,1730,1730,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Zu Diakue gebieterisch.,0,23,stage_direction,5,9,speech_part,,#dessalines,653.0,MALE,anger,S,,1821.0,negative,emotions of rejection
+1731,1731,1731,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"
+              Wie wird es General?",0,35,character_speech,5,9,,DESSALINES,#dessalines,653.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1732,1732,1732,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Das Zeichen gieb.,36,53,character_speech,5,9,,DESSALINES,#dessalines,653.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1733,1733,1733,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Sträubt sich das schwache Herz?,68,99,character_speech,5,9,,DESSALINES,#dessalines,653.0,MALE,suffering,S,,1821.0,negative,emotions of suffering and empathy
+1734,1734,1734,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Stockt Dir das Wort.,100,120,character_speech,5,9,,DESSALINES,#dessalines,653.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1735,1735,1735,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Wir sind am Ende – wie?,135,158,character_speech,5,9,,DESSALINES,#dessalines,653.0,MALE,suffering,S,,1821.0,negative,emotions of suffering and empathy
+1736,1736,1736,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Du zögerst noch?,159,175,character_speech,5,9,,DESSALINES,#dessalines,653.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1737,1737,1737,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,schnell.,0,8,stage_direction,5,9,speech_part,,#diakue,654.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1738,1738,1738,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Nein, nun nicht mehr.",0,21,character_speech,5,9,,DIAKUE,#diakue,654.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1739,1739,1739,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,–,22,23,character_speech,5,9,,DIAKUE,#diakue,654.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1740,1740,1740,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Zu den drei Soldaten, die schon früher auf Diakues Befehl hervor traten.",0,72,stage_direction,5,9,speech_part,,#diakue,654.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1741,1741,1741,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Richt Euch – schlagt an – gebt Feuer.,0,37,character_speech,5,9,,DIAKUE,#diakue,654.0,MALE,anger,S,,1821.0,negative,emotions of rejection
+1742,1742,1742,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Sie schlagen auf Dessalines an, der auf die Kinder sah, die im Vordergrund
+              knieen, und sich fest umschlungen halten.",0,130,stage_direction,5,9,speech_part,,#diakue,654.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1743,1743,1743,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Soudry hat Judithe von ihnen gerissen.,131,169,stage_direction,5,9,speech_part,,#diakue,654.0,MALE,abhorrence,S,,1821.0,negative,emotions of rejection
+1744,1744,1744,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Julia
+              verbirgt ihr Gesicht, und lehnt sich auf ihre Frauen.",170,243,stage_direction,5,9,speech_part,,#diakue,654.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1745,1745,1745,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Dessalines fällt.,0,17,stage_direction,5,9,speech_part,,#diakue,654.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1746,1746,1746,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Gleich treten von Diakues Wachen einige vor und umgeben
+              schützend die Kinder.",18,109,stage_direction,5,9,speech_part,,#diakue,654.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1747,1747,1747,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Pause des Erstaunens.,0,21,stage_direction,5,9,speech_part,,#diakue,654.0,MALE,being moved,S,,1821.0,being moved,being moved
+1748,1748,1748,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Ha Dessalines – er fiel, er ist ermordet!",0,41,character_speech,5,9,,SOUDRY.,#soudry,655.0,MALE,despair,S,,1821.0,negative,emotions of anxiety
+1749,1749,1749,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Wie?,0,4,character_speech,5,9,,VOLK.,#das_volk_alle_5-8_und_5-9,656.0,UNKNOWN,no_annotation,S,,1821.0,no_annotation,no_annotation
+1750,1750,1750,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Dessalines?,5,16,character_speech,5,9,,VOLK.,#das_volk_alle_5-8_und_5-9,656.0,UNKNOWN,being moved,S,,1821.0,being moved,being moved
+1751,1751,1751,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,steigt auf das Gerüst.,0,22,stage_direction,5,9,speech_part,,#diakue,657.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1752,1752,1752,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Liegt hier in seinem Blut.,0,26,character_speech,5,9,,DIAKUE,#diakue,657.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1753,1753,1753,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Ha!,0,3,character_speech,5,9,,SOUDRY.,#soudry,658.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1754,1754,1754,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Wer that das?,4,17,character_speech,5,9,,SOUDRY.,#soudry,658.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1755,1755,1755,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Sprich, wer hat das gethan?",0,27,character_speech,5,9,,GOFFIER UND OPKU.,#goffier #opku,659.0,UNKNOWN,no_annotation,S,,1821.0,no_annotation,no_annotation
+1756,1756,1756,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,schreit.,0,8,stage_direction,5,9,speech_part,,#diakue,660.0,MALE,fear,S,,1821.0,negative,emotions of anxiety
+1757,1757,1757,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Ich – hört es alle, ich hab' Euch befreit!",0,42,character_speech,5,9,,DIAKUE,#diakue,660.0,MALE,joy,S,,1821.0,positive,emotions of pleasure
+1758,1758,1758,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Reißt ihn herab!,0,16,character_speech,5,9,,VOLK.,#das_volk_alle_5-8_und_5-9,661.0,UNKNOWN,anger,S,,1821.0,negative,emotions of rejection
+1759,1759,1759,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,–,17,18,character_speech,5,9,,VOLK.,#das_volk_alle_5-8_und_5-9,661.0,UNKNOWN,no_annotation,S,,1821.0,no_annotation,no_annotation
+1760,1760,1760,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Ergreifet, fesselt ihn!",0,23,character_speech,5,9,,SOUDRY.,#soudry,662.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1761,1761,1761,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,widersetzen sich dem Andringen des Volks.,0,41,stage_direction,5,9,speech_part,,#soldaten_5-9,663.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1762,1762,1762,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Ha wagt es nicht!,0,17,character_speech,5,9,,SOLDATEN,#soldaten_5-9,663.0,MALE,fear,S,,1821.0,negative,emotions of anxiety
+1763,1763,1763,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,– Er ist in unserm Schutz!,18,44,character_speech,5,9,,SOLDATEN,#soldaten_5-9,663.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1764,1764,1764,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"
+              Zurück ihr Wachen!",0,33,character_speech,5,9,,DIAKUE.,#diakue,664.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1765,1765,1765,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,– Laßt sie!,34,45,character_speech,5,9,,DIAKUE.,#diakue,664.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1766,1766,1766,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Dringt heran!,46,59,character_speech,5,9,,DIAKUE.,#diakue,664.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1767,1767,1767,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"–
+              Zu Eurer Rettung hab' ich das gethan.",60,113,character_speech,5,9,,DIAKUE.,#diakue,664.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1768,1768,1768,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Ich fällte einen Baum vom Blitz entzündet,
+              daß seine Flamme nicht den Wald verzehrt:
+              ihr seid die Stämme die sie bald ergriffen;
+              wähnt Ihr, er wollt' Euch frei und glücklich machen?",128,351,character_speech,5,9,,DIAKUE.,#diakue,664.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1769,1769,1769,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Der Ehrgeiz trieb ihn und Tyrannen – Wuth.,366,408,character_speech,5,9,,DIAKUE.,#diakue,664.0,MALE,abhorrence,S,,1821.0,negative,emotions of rejection
+1770,1770,1770,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Auf unsern Rücken stieg er hoch empor,
+              und wollt' uns wie Gewürm in Staub zertreten.",423,521,character_speech,5,9,,DIAKUE.,#diakue,664.0,MALE,fear,S,,1821.0,negative,emotions of anxiety
+1771,1771,1771,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Das fordert Rache –,536,555,character_speech,5,9,,DIAKUE.,#diakue,664.0,MALE,anger,S,,1821.0,negative,emotions of rejection
+1772,1772,1772,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Heiße, blut'ge Rache!",0,21,character_speech,5,9,,SOLDATEN.,#soldaten_5-9,665.0,MALE,abhorrence,S,,1821.0,negative,emotions of rejection
+1773,1773,1773,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"
+              Durch meine Hand hat sie ihn hier ereilt,
+              das Werkzeug war ich einer höh'ren Macht.",0,112,character_speech,5,9,,DIAKUE.,#diakue,666.0,MALE,"admiration, reverence",S,,1821.0,positive,emotions of affection
+1774,1774,1774,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Wer legt nun Hand an mich?,127,153,character_speech,5,9,,DIAKUE.,#diakue,666.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1775,1775,1775,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Er komm heran.,154,168,character_speech,5,9,,DIAKUE.,#diakue,666.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1776,1776,1776,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Zurück Soldaten, Ihr sollt mich nicht schützen.",183,230,character_speech,5,9,,DIAKUE.,#diakue,666.0,MALE,fear,S,,1821.0,negative,emotions of anxiety
+1777,1777,1777,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Wirft den Degen weg.,0,20,stage_direction,5,9,speech_part,,#diakue,666.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1778,1778,1778,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"
+              Auch keine Waffe führ' ich gegen Euch.",0,53,character_speech,5,9,,DIAKUE.,#diakue,666.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1779,1779,1779,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Mit dem Bewußtsein, daß ich Recht gethan,
+              gab' ich mich stolz als seinen Mörder an,
+              und fordre kühn für meine That den Lohn.",68,220,character_speech,5,9,,DIAKUE.,#diakue,666.0,MALE,joy,S,,1821.0,positive,emotions of pleasure
+1780,1780,1780,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Er werde ihm, er steig' auf Haitis Thron!",0,41,character_speech,5,9,,OFFIZIERE.,#offiziere_5-8_und_5-9,667.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1781,1781,1781,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Beherrsche uns!,0,15,character_speech,5,9,,SOLDATEN.,#soldaten_5-9,668.0,MALE,fear,S,,1821.0,negative,emotions of anxiety
+1782,1782,1782,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Wir schwören Treue Dir!,0,23,character_speech,5,9,,OFFIZIERE.,#offiziere_5-8_und_5-9,669.0,MALE,"admiration, reverence",S,,1821.0,positive,emotions of affection
+1783,1783,1783,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,springt herab.,0,14,stage_direction,5,9,speech_part,,#diakue,670.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1784,1784,1784,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"
+              Nein, nimmermehr – ich bin, und bleib' Euch gleich.",0,66,character_speech,5,9,,DIAKUE,#diakue,670.0,MALE,love,S,,1821.0,positive,emotions of affection
+1785,1785,1785,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Nicht Ehrgeiz hat mich zu der That verleitet,
+              nein, Dankbarkeit und meine Bürgerpflicht.",81,183,character_speech,5,9,,DIAKUE,#diakue,670.0,MALE,joy,S,,1821.0,positive,emotions of pleasure
+1786,1786,1786,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Sie ist erfüllt, im Blut schwimmt der Tyrann.",198,243,character_speech,5,9,,DIAKUE,#diakue,670.0,MALE,abhorrence,S,,1821.0,negative,emotions of rejection
+1787,1787,1787,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"–
+              Vernehmt nun Brüder, was mich lohnen kann.",244,302,character_speech,5,9,,DIAKUE,#diakue,670.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1788,1788,1788,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Reißt die Kinder an sich.,0,25,stage_direction,5,9,speech_part,,#diakue,670.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1789,1789,1789,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"
+              Das ist der Lohn, den ich von Euch begehre,
+              die Kinder gebt mir frei.",0,98,character_speech,5,9,,DIAKUE,#diakue,670.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1790,1790,1790,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"– O fürchtet nichts,
+              auf Haiti soll Euch keines Weißen Leben
+              zu neuer Furcht und Klage Anlaß geben.",99,226,character_speech,5,9,,DIAKUE,#diakue,670.0,MALE,fear,S,,1821.0,negative,emotions of anxiety
+1791,1791,1791,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Ein Schiff liegt schon bereit, sie segeln fort,
+              Gott leite sie in einem sichern Port.",241,340,character_speech,5,9,,DIAKUE,#diakue,670.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1792,1792,1792,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Ja – nimm sie hin!,0,18,character_speech,5,9,,ALLE.,#das_volk_alle_5-8_und_5-9,671.0,UNKNOWN,no_annotation,S,,1821.0,no_annotation,no_annotation
+1793,1793,1793,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,–,19,20,character_speech,5,9,,ALLE.,#das_volk_alle_5-8_und_5-9,671.0,UNKNOWN,no_annotation,S,,1821.0,no_annotation,no_annotation
+1794,1794,1794,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Dein sind sie, Dein, und frei.",0,30,character_speech,5,9,,OFFIZIERE.,#offiziere_5-8_und_5-9,672.0,MALE,joy,S,,1821.0,positive,emotions of pleasure
+1795,1795,1795,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,schreit.,0,8,stage_direction,5,9,speech_part,,#hortensia,673.0,FEMALE,fear,S,,1821.0,negative,emotions of anxiety
+1796,1796,1796,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Frei?,0,5,character_speech,5,9,,HORTENSIA,#hortensia,673.0,FEMALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1797,1797,1797,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Sinkt mit Marien dankend auf die Knie.,0,38,stage_direction,5,9,speech_part,,#hortensia,673.0,FEMALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1798,1798,1798,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"
+              Judith – Julia – doch stille, still,
+              noch kann sie Eure Rettung nicht erfreuen,
+              ehrt ihren Schmerz, und scheidet ernst und still.",0,172,character_speech,5,9,,DIAKUE.,#diakue,674.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1799,1799,1799,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Deutet auf Judith.,0,18,stage_direction,5,9,speech_part,,#diakue,674.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1800,1800,1800,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"
+              Hier, diese Mutter bleibt Euch treu zur Seite,
+              bis Euch das Schiff aus ihrem Arm empfängt.",0,119,character_speech,5,9,,DIAKUE.,#diakue,674.0,MALE,love,S,,1821.0,positive,emotions of affection
+1801,1801,1801,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Und seh'n wir es in blauer Ferne schweben,
+              dann ruf' ich jubelnd, Mutter!",134,221,character_speech,5,9,,DIAKUE.,#diakue,674.0,MALE,joy,S,,1821.0,positive,emotions of pleasure
+1802,1802,1802,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Sieh, sie leben,
+              gerettet sind sie.",222,271,character_speech,5,9,,DIAKUE.,#diakue,674.0,MALE,joy,S,,1821.0,positive,emotions of pleasure
+1803,1803,1803,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Kühn ward es vollbracht,
+              nun schützt sie der, der über alles wacht.",272,353,character_speech,5,9,,DIAKUE.,#diakue,674.0,MALE,"admiration, reverence",S,,1821.0,positive,emotions of affection
+1804,1804,1804,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,O Dank Euch – Dank!,0,19,character_speech,5,9,,HORTENSIA UND MARIE.,#hortensia #marie,675.0,UNKNOWN,joy,S,,1821.0,positive,emotions of pleasure
+1805,1805,1805,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Ich habe keine Worte –,0,22,character_speech,5,9,,HORTENSIA.,#hortensia,676.0,FEMALE,suffering,S,,1821.0,negative,emotions of suffering and empathy
+1806,1806,1806,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Nun fort, schnell fort!",0,23,character_speech,5,9,,DIAKUE.,#diakue,677.0,MALE,fear,S,,1821.0,negative,emotions of anxiety
+1807,1807,1807,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,ruft.,0,5,stage_direction,5,9,speech_part,,#julia,678.0,FEMALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1808,1808,1808,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Hortensia.,0,10,character_speech,5,9,,JULIA,#julia,678.0,FEMALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1809,1809,1809,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,–,11,12,character_speech,5,9,,JULIA,#julia,678.0,FEMALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1810,1810,1810,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"
+              Sie ruft!",0,24,character_speech,5,9,,HORTENSIA.,#hortensia,679.0,FEMALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1811,1811,1811,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Laß' uns zu Deinen Füßen –,39,65,character_speech,5,9,,HORTENSIA.,#hortensia,679.0,FEMALE,love,S,,1821.0,positive,emotions of affection
+1812,1812,1812,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Nein, an mein Herz.",0,19,character_speech,5,9,,JULIA.,#julia,680.0,FEMALE,love,S,,1821.0,positive,emotions of affection
+1813,1813,1813,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Umarmt Beide.,0,13,stage_direction,5,9,speech_part,,#julia,680.0,FEMALE,joy,S,,1821.0,positive,emotions of pleasure
+1814,1814,1814,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Nun fort, schnell fort!",0,23,character_speech,5,9,,JULIA.,#julia,680.0,FEMALE,fear,S,,1821.0,negative,emotions of anxiety
+1815,1815,1815,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,– Gott sei mit Euch!,24,44,character_speech,5,9,,JULIA.,#julia,680.0,FEMALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1816,1816,1816,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,zu Allen.,0,9,stage_direction,5,9,speech_part,,#hortensia #marie,681.0,UNKNOWN,no_annotation,S,,1821.0,no_annotation,no_annotation
+1817,1817,1817,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Lebt wohl!,0,10,character_speech,5,9,,HORTENSIA UND MARIE,#hortensia #marie,681.0,UNKNOWN,suffering,S,,1821.0,negative,emotions of suffering and empathy
+1818,1818,1818,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Alles ruft.,0,11,stage_direction,5,9,speech_part,,#hortensia #marie,681.0,UNKNOWN,no_annotation,S,,1821.0,no_annotation,no_annotation
+1819,1819,1819,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Glück auf!,0,10,character_speech,5,9,,HORTENSIA UND MARIE,#hortensia #marie,681.0,UNKNOWN,joy,S,,1821.0,positive,emotions of pleasure
+1820,1820,1820,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Wir sind nun frei!,0,18,character_speech,5,9,,OFFIZIERE.,#offiziere_5-8_und_5-9,682.0,MALE,joy,S,,1821.0,positive,emotions of pleasure
+1821,1821,1821,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,Ein freies Volk!,0,16,character_speech,5,9,,VOLK.,#das_volk_alle_5-8_und_5-9,683.0,UNKNOWN,joy,S,,1821.0,positive,emotions of pleasure
+1822,1822,1822,GerDracor/weissenthurn-die-schwestern-st-janvier.xml,"Durch ihn, durch Diakue, lang lebe Diakue!",0,42,character_speech,5,9,,OFFIZIERE.,#offiziere_5-8_und_5-9,684.0,MALE,"admiration, reverence",S,,1821.0,positive,emotions of affection

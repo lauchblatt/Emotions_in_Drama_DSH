@@ -1,0 +1,92 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+505,505,505,GerDracor/goethe-des-epimenides-erwachen.xml,"
+              Der Geist, der alle Welten schafft,
+              Durch mich belehrt er seine Teuren:
+              »Von der Gefahr, der ungeheuren,
+              Errettet nur gesamte Kraft.«
+              Das, was ich lehre, scheint so leicht,
+              Und fast unmöglich zu erfüllen:
+              »Nachgiebigkeit bei großem Willen.«
+              Nun ist des Wortes Ziel erreicht,
+              Den höchsten Wunsch seh' ich erfüllen.",0,440,character_speech,2,10,,DIE EINIGKEIT.,#die_einigkeit,109.0,UNKNOWN,no_annotation,S,,1815.0,no_annotation,no_annotation
+506,506,506,GerDracor/goethe-des-epimenides-erwachen.xml,"
+              Ja, alle Kronen seh' ich neu geschmückt
+              Mit eignem Gold, mit Feindes Beute;
+              Ihr habt das Volk, ihr habt euch selbst beglückt;
+              Was ihr besitzt, besitzt ihr erst von heute.",0,227,character_speech,2,10,,JUGENDFÜRST.,#jugendfuerst,110.0,MALE,joy,S,,1815.0,positive,emotions of pleasure
+507,507,507,GerDracor/goethe-des-epimenides-erwachen.xml,"Zwar hat der Ahnen würdiges Verdienst
+              Die goldnen Reife längst geflochten,
+              Doch nun ist's eigener Gewinst:
+              Ihr habt das Recht daran erfochten.",242,426,character_speech,2,10,,JUGENDFÜRST.,#jugendfuerst,110.0,MALE,no_annotation,S,,1815.0,no_annotation,no_annotation
+508,508,508,GerDracor/goethe-des-epimenides-erwachen.xml,"
+              Und wir sind alle neugeboren,
+              Das große Sehnen ist gestillt;
+              Bei Friedrichs Asche war's geschworen
+              Und ist auf ewig nun erfüllt.",0,185,character_speech,2,10,,EPIMENIDES.,#epimenides,111.0,MALE,joy,S,,1815.0,positive,emotions of pleasure
+509,509,509,GerDracor/goethe-des-epimenides-erwachen.xml,"
+              Und wir wandeln mit freien Schritten,
+              Weil wir uns was zugetraut,
+              Und empfangen in unsre Mitten
+              Gattin, Schwester, Tochter, Braut.",0,187,character_speech,2,10,,CHOR DER KRIEGER.,#chor_der_krieger,112.0,MALE,joy,S,,1815.0,positive,emotions of pleasure
+510,510,510,GerDracor/goethe-des-epimenides-erwachen.xml,Getan!,202,208,character_speech,2,10,,CHOR DER KRIEGER.,#chor_der_krieger,112.0,MALE,no_annotation,S,,1815.0,no_annotation,no_annotation
+511,511,511,GerDracor/goethe-des-epimenides-erwachen.xml,– Glück auf!,209,221,character_speech,2,10,,CHOR DER KRIEGER.,#chor_der_krieger,112.0,MALE,no_annotation,S,,1815.0,no_annotation,no_annotation
+512,512,512,GerDracor/goethe-des-epimenides-erwachen.xml,– Getan!,222,230,character_speech,2,10,,CHOR DER KRIEGER.,#chor_der_krieger,112.0,MALE,no_annotation,S,,1815.0,no_annotation,no_annotation
+513,513,513,GerDracor/goethe-des-epimenides-erwachen.xml,Und den Dank nun zum Himmel hinan!,245,279,character_speech,2,10,,CHOR DER KRIEGER.,#chor_der_krieger,112.0,MALE,joy,S,,1815.0,positive,emotions of pleasure
+514,514,514,GerDracor/goethe-des-epimenides-erwachen.xml,"
+              Euch zu laben,
+              Laßt uns eilen,
+              Unsre Gaben
+              Auszuteilen,
+              Eure Wunden
+              Auszuheilen:
+              Selige Stunden
+               Sind gegeben
+              Unsrem Leben!",0,250,character_speech,2,10,,CHOR DER FRAUEN.,#chor_der_frauen,113.0,FEMALE,joy,S,,1815.0,positive,emotions of pleasure
+515,515,515,GerDracor/goethe-des-epimenides-erwachen.xml,Große Gruppe.,0,13,stage_direction,2,10,pre_speech,,,,,no_annotation,S,,1815.0,no_annotation,no_annotation
+516,516,516,GerDracor/goethe-des-epimenides-erwachen.xml,"
+              Ich sehe nun mein frommes Hoffen
+              Nach Wundertaten eingetroffen;
+              Schön ist's, dem Höchsten sich vertraun.",0,147,character_speech,2,10,,EPIMENIDES.,#epimenides,114.0,MALE,joy,S,,1815.0,positive,emotions of pleasure
+517,517,517,GerDracor/goethe-des-epimenides-erwachen.xml,"Er lehrte mich das Gegenwärt'ge kennen;
+              Nun aber soll mein Blick entbrennen,
+              In fremde Zeiten auszuschaun.",162,296,character_speech,2,10,,EPIMENIDES.,#epimenides,114.0,MALE,no_annotation,S,,1815.0,no_annotation,no_annotation
+518,518,518,GerDracor/goethe-des-epimenides-erwachen.xml,"
+              Und nun soll Geist und Herz entbrennen,
+              Vergangnes fühlen, Zukunft schaun.",0,103,character_speech,2,10,,PRIESTER.,#priester,115.0,MALE,joy,S,,1815.0,positive,emotions of pleasure
+519,519,519,GerDracor/goethe-des-epimenides-erwachen.xml,"
+              So rissen wir uns ringsherum
+              Von fremden Banden los.",0,81,character_speech,2,10,,CHOR.,#chor_der_krieger #landbewohner #chor_der_frauen,116.0,UNKNOWN,no_annotation,S,,1815.0,no_annotation,no_annotation
+520,520,520,GerDracor/goethe-des-epimenides-erwachen.xml,"Nun sind wir Deutsche wiederum,
+              Nun sind wir wieder groß.",96,167,character_speech,2,10,,CHOR.,#chor_der_krieger #landbewohner #chor_der_frauen,116.0,UNKNOWN,joy,S,,1815.0,positive,emotions of pleasure
+521,521,521,GerDracor/goethe-des-epimenides-erwachen.xml,"So waren wir und sind es auch
+              Das edelste Geschlecht,
+              Von biederm Sinn und reinem Hauch
+              Und in der Taten Recht.",182,335,character_speech,2,10,,CHOR.,#chor_der_krieger #landbewohner #chor_der_frauen,116.0,UNKNOWN,"admiration, reverence",S,,1815.0,positive,emotions of affection
+522,522,522,GerDracor/goethe-des-epimenides-erwachen.xml,"
+              Und Fürst und Volk und Volk und Fürst
+              Sind alle frisch und neu!",0,92,character_speech,2,10,,CHOR.,#chor_der_krieger #landbewohner #chor_der_frauen,116.0,UNKNOWN,joy,S,,1815.0,positive,emotions of pleasure
+523,523,523,GerDracor/goethe-des-epimenides-erwachen.xml,"Wie du dich nun empfinden wirst
+              Nach eignem Sinne frei.",107,176,character_speech,2,10,,CHOR.,#chor_der_krieger #landbewohner #chor_der_frauen,116.0,UNKNOWN,no_annotation,S,,1815.0,no_annotation,no_annotation
+524,524,524,GerDracor/goethe-des-epimenides-erwachen.xml,"Wer dann das Innere begehrt,
+              Der ist schon groß und reich;
+              Zusammen haltet euren Wert,
+              Und euch ist niemand gleich.",191,348,character_speech,2,10,,CHOR.,#chor_der_krieger #landbewohner #chor_der_frauen,116.0,UNKNOWN,no_annotation,S,,1815.0,no_annotation,no_annotation
+525,525,525,GerDracor/goethe-des-epimenides-erwachen.xml,"
+              Gedenkt unendlicher Gefahr,
+              Des wohlvergoßnen Bluts,
+              Und freuet euch von Jahr zu Jahr
+              Des unschätzbaren Guts.",0,166,character_speech,2,10,,CHOR.,#chor_der_krieger #landbewohner #chor_der_frauen,116.0,UNKNOWN,joy,S,,1815.0,positive,emotions of pleasure
+526,526,526,GerDracor/goethe-des-epimenides-erwachen.xml,"Die große Stadt, am großen Tag,
+              Die unsre sollte sein –
+              Nach ungeheurem Doppelschlag
+              Zum zweitenmal hinein!",181,330,character_speech,2,10,,CHOR.,#chor_der_krieger #landbewohner #chor_der_frauen,116.0,UNKNOWN,suffering,S,,1815.0,negative,emotions of suffering and empathy
+527,527,527,GerDracor/goethe-des-epimenides-erwachen.xml,"
+              Nun töne laut: Der Herr ist da!",0,46,character_speech,2,10,,CHOR.,#chor_der_krieger #landbewohner #chor_der_frauen,116.0,UNKNOWN,no_annotation,S,,1815.0,no_annotation,no_annotation
+528,528,528,GerDracor/goethe-des-epimenides-erwachen.xml,Von Sternen glänzt die Nacht.,61,90,character_speech,2,10,,CHOR.,#chor_der_krieger #landbewohner #chor_der_frauen,116.0,UNKNOWN,"admiration, reverence",S,,1815.0,positive,emotions of affection
+529,529,529,GerDracor/goethe-des-epimenides-erwachen.xml,"Er hat, damit uns Heil geschah,
+              Gestritten und gewacht.",106,175,character_speech,2,10,,CHOR.,#chor_der_krieger #landbewohner #chor_der_frauen,116.0,UNKNOWN,"admiration, reverence",S,,1815.0,positive,emotions of affection
+530,530,530,GerDracor/goethe-des-epimenides-erwachen.xml,"Für alle, die ihm angestammt,
+              Für uns war es getan,
+              Und wie's von Berg zu Bergen flammt,
+              Entzücken flamm' hinan!",190,344,character_speech,2,10,,CHOR.,#chor_der_krieger #landbewohner #chor_der_frauen,116.0,UNKNOWN,joy,S,,1815.0,positive,emotions of pleasure
+531,531,531,GerDracor/goethe-des-epimenides-erwachen.xml,Der Vorhang fällt.,0,18,stage_direction,2,10,pre_speech,,,,,no_annotation,S,,1815.0,no_annotation,no_annotation

@@ -1,0 +1,170 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+2292,2292,2292,GerDracor/klopstock-hermanns-schlacht.xml,"Ach, dort!",0,10,character_speech,1,14,,BERCENNIS.,#bercennis,751.0,FEMALE,suffering,S,,1769.0,negative,emotions of suffering and empathy
+2293,2293,2293,GerDracor/klopstock-hermanns-schlacht.xml,... Nun darf ich kommen.,11,35,character_speech,1,14,,BERCENNIS.,#bercennis,751.0,FEMALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2294,2294,2294,GerDracor/klopstock-hermanns-schlacht.xml,"Nun weißt du, daß er todt ist!",36,66,character_speech,1,14,,BERCENNIS.,#bercennis,751.0,FEMALE,Schadenfreude,S,,1769.0,positive,emotions of pleasure
+2295,2295,2295,GerDracor/klopstock-hermanns-schlacht.xml,"Ach, meine Mutter!",0,18,character_speech,1,14,,HERMANN.,#hermann,752.0,MALE,suffering,S,,1769.0,negative,emotions of suffering and empathy
+2296,2296,2296,GerDracor/klopstock-hermanns-schlacht.xml,Er ist todt!,19,31,character_speech,1,14,,HERMANN.,#hermann,752.0,MALE,despair,S,,1769.0,negative,emotions of anxiety
+2297,2297,2297,GerDracor/klopstock-hermanns-schlacht.xml,"Wir haben Gefangne, Sohn!",0,25,character_speech,1,14,,BERCENNIS.,#bercennis,753.0,FEMALE,joy,S,,1769.0,positive,emotions of pleasure
+2298,2298,2298,GerDracor/klopstock-hermanns-schlacht.xml,"Ach, dort unter den Adlern!",0,27,character_speech,1,14,,HERMANN.,#hermann,754.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2299,2299,2299,GerDracor/klopstock-hermanns-schlacht.xml,"Wir haben viel Gefangne, vier Tribune!",0,38,character_speech,1,14,,BERCENNIS.,#bercennis,755.0,FEMALE,joy,S,,1769.0,positive,emotions of pleasure
+2300,2300,2300,GerDracor/klopstock-hermanns-schlacht.xml,"zwanzig Centurione und mehr als zweihundert
+            andre Tyrannensklaven!",39,117,character_speech,1,14,,BERCENNIS.,#bercennis,755.0,FEMALE,abhorrence,S,,1769.0,negative,emotions of rejection
+2301,2301,2301,GerDracor/klopstock-hermanns-schlacht.xml,"Meine arme Mutter, wie wirst du geweint haben!",0,46,character_speech,1,14,,HERMANN.,#hermann,756.0,MALE,compassion,S,,1769.0,negative,emotions of suffering and empathy
+2302,2302,2302,GerDracor/klopstock-hermanns-schlacht.xml,Geweint?,0,8,character_speech,1,14,,BERCENNIS.,#bercennis,757.0,FEMALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2303,2303,2303,GerDracor/klopstock-hermanns-schlacht.xml,"Ich hört's, und mein Auge starrte hin!",9,47,character_speech,1,14,,BERCENNIS.,#bercennis,757.0,FEMALE,suffering,S,,1769.0,negative,emotions of suffering and empathy
+2304,2304,2304,GerDracor/klopstock-hermanns-schlacht.xml,"... Sie hauen die Tannen schon um zu
+            seinem Todtenfeuer.",48,116,character_speech,1,14,,BERCENNIS.,#bercennis,757.0,FEMALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2305,2305,2305,GerDracor/klopstock-hermanns-schlacht.xml,"Ich lasse diesmal der Tannen viel mehr als sonst in den Bach
+            stürzen!",117,198,character_speech,1,14,,BERCENNIS.,#bercennis,757.0,FEMALE,suffering,S,,1769.0,negative,emotions of suffering and empathy
+2306,2306,2306,GerDracor/klopstock-hermanns-schlacht.xml,"Ich habe wie du gelitten, meine Mutter!",0,39,character_speech,1,14,,HERMANN.,#hermann,758.0,MALE,suffering,S,,1769.0,negative,emotions of suffering and empathy
+2307,2307,2307,GerDracor/klopstock-hermanns-schlacht.xml,Vier!,0,5,character_speech,1,14,,BERCENNIS.,#bercennis,759.0,FEMALE,joy,S,,1769.0,positive,emotions of pleasure
+2308,2308,2308,GerDracor/klopstock-hermanns-schlacht.xml,"sage ich, und Zwanzig!",6,28,character_speech,1,14,,BERCENNIS.,#bercennis,759.0,FEMALE,joy,S,,1769.0,positive,emotions of pleasure
+2309,2309,2309,GerDracor/klopstock-hermanns-schlacht.xml,und Zweihundert!,29,45,character_speech,1,14,,BERCENNIS.,#bercennis,759.0,FEMALE,joy,S,,1769.0,positive,emotions of pleasure
+2310,2310,2310,GerDracor/klopstock-hermanns-schlacht.xml,"Verstehest du nicht, was Die von dir
+            fordert, deren Auge nicht geweint hat, und die sein Weib und deine Mutter ist?",46,173,character_speech,1,14,,BERCENNIS.,#bercennis,759.0,FEMALE,being moved,S,,1769.0,being moved,being moved
+2311,2311,2311,GerDracor/klopstock-hermanns-schlacht.xml,Thusnelda legt vor Schrecken den Adler vor sich nieder.,0,55,stage_direction,1,14,inner_speech,,#bercennis,759.0,FEMALE,fear,S,,1769.0,negative,emotions of anxiety
+2312,2312,2312,GerDracor/klopstock-hermanns-schlacht.xml,O du Weib seiner Jugend und meine theure Mutter!,0,48,character_speech,1,14,,HERMANN.,#hermann,760.0,MALE,love,S,,1769.0,positive,emotions of affection
+2313,2313,2313,GerDracor/klopstock-hermanns-schlacht.xml,Sie sollen doch nicht etwa leben?,0,33,character_speech,1,14,,BERCENNIS.,#bercennis,761.0,FEMALE,being moved,S,,1769.0,being moved,being moved
+2314,2314,2314,GerDracor/klopstock-hermanns-schlacht.xml,"Wie kann ich Die tödten, die nicht mehr streiten?",0,49,character_speech,1,14,,HERMANN.,#hermann,762.0,MALE,being moved,S,,1769.0,being moved,being moved
+2315,2315,2315,GerDracor/klopstock-hermanns-schlacht.xml,"Die unsre Knaben erwürgt, die unsre Jungfrauen gezwungen haben, daß sie gegen ihr
+            eignes Leben wütheten, die ihn getödtet haben, Die lägen nicht um seine
+            Leiche her in dem Dampfe des Todtenfeuers?",0,220,character_speech,1,14,,BERCENNIS.,#bercennis,763.0,FEMALE,suffering,S,,1769.0,negative,emotions of suffering and empathy
+2316,2316,2316,GerDracor/klopstock-hermanns-schlacht.xml,"Ich kenne Wodan, und ich weiß, daß er das Mitleid liebt!",0,56,character_speech,1,14,,HERMANN.,#hermann,764.0,MALE,love,S,,1769.0,positive,emotions of affection
+2317,2317,2317,GerDracor/klopstock-hermanns-schlacht.xml,"Und Dieß rufet mir mein Herz
+            laut zu!",57,106,character_speech,1,14,,HERMANN.,#hermann,764.0,MALE,love,S,,1769.0,positive,emotions of affection
+2318,2318,2318,GerDracor/klopstock-hermanns-schlacht.xml,"Und ich weiß, daß die Göttin der Rache mit glühendem Blicke geschworen hat, daß kein
+            Römer leben soll, der den Bluttritt in unsre Haine wagt!",0,153,character_speech,1,14,,BERCENNIS.,#bercennis,765.0,FEMALE,abhorrence,S,,1769.0,negative,emotions of rejection
+2319,2319,2319,GerDracor/klopstock-hermanns-schlacht.xml,Ich zücke das Schwert gegen waffenlose Krieger nicht!,0,53,character_speech,1,14,,HERMANN.,#hermann,766.0,MALE,abhorrence,S,,1769.0,negative,emotions of rejection
+2320,2320,2320,GerDracor/klopstock-hermanns-schlacht.xml,Siegmar!,0,8,character_speech,1,14,,BERCENNIS.,#bercennis,767.0,FEMALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2321,2321,2321,GerDracor/klopstock-hermanns-schlacht.xml,Sie geht auf die Leiche zu.,0,27,stage_direction,1,14,inner_speech,,#bercennis,767.0,FEMALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2322,2322,2322,GerDracor/klopstock-hermanns-schlacht.xml," Ach, er ist todt!",0,18,character_speech,1,14,,BERCENNIS.,#bercennis,767.0,FEMALE,despair,S,,1769.0,negative,emotions of anxiety
+2323,2323,2323,GerDracor/klopstock-hermanns-schlacht.xml,"Siegmar, dein
+            Sohn will dein Blut nicht rächen!",19,78,character_speech,1,14,,BERCENNIS.,#bercennis,767.0,FEMALE,abhorrence,S,,1769.0,negative,emotions of rejection
+2324,2324,2324,GerDracor/klopstock-hermanns-schlacht.xml,"Ich will es rächen, aber an den neuen Legionen!",0,47,character_speech,1,14,,HERMANN.,#hermann,768.0,MALE,abhorrence,S,,1769.0,negative,emotions of rejection
+2325,2325,2325,GerDracor/klopstock-hermanns-schlacht.xml,Weh mir!,0,8,character_speech,1,14,,BERCENNIS.,#bercennis,769.0,FEMALE,suffering,S,,1769.0,negative,emotions of suffering and empathy
+2326,2326,2326,GerDracor/klopstock-hermanns-schlacht.xml,Leben sollen die Tyrannensklaven?,9,42,character_speech,1,14,,BERCENNIS.,#bercennis,769.0,FEMALE,abhorrence,S,,1769.0,negative,emotions of rejection
+2327,2327,2327,GerDracor/klopstock-hermanns-schlacht.xml,"Ja, und deine Sklaven seyn, deine Heerden hüten, deine Hürden tragen, dir den Bach
+            leiten, den Strauch durchhauen diese Söhne der hohen Geschlechte, diese künftigen
+            Senatoren!",0,199,character_speech,1,14,,HERMANN.,#hermann,770.0,MALE,abhorrence,S,,1769.0,negative,emotions of rejection
+2328,2328,2328,GerDracor/klopstock-hermanns-schlacht.xml,Diese künftigen Feldherrn!,0,26,character_speech,1,14,,BERCENNIS.,#bercennis,771.0,FEMALE,"admiration, reverence",S,,1769.0,positive,emotions of affection
+2329,2329,2329,GerDracor/klopstock-hermanns-schlacht.xml,"denn frei lässest du sie auch, die wiederkommen und mich und
+            dich zu ihren Triumphwagen fortschleppen!",27,141,character_speech,1,14,,BERCENNIS.,#bercennis,771.0,FEMALE,"admiration, reverence",S,,1769.0,positive,emotions of affection
+2330,2330,2330,GerDracor/klopstock-hermanns-schlacht.xml,"Wegen der Triumphwagen hat diese Schlacht gesorgt, und sie wird weiter sorgen.",0,78,character_speech,1,14,,HERMANN.,#hermann,772.0,MALE,suffering,S,,1769.0,negative,emotions of suffering and empathy
+2331,2331,2331,GerDracor/klopstock-hermanns-schlacht.xml,"Lebend soll ich Die vor mir sehn, die deinen Vater getödtet haben?",0,66,character_speech,1,14,,BERCENNIS.,#bercennis,773.0,FEMALE,being moved,S,,1769.0,being moved,being moved
+2332,2332,2332,GerDracor/klopstock-hermanns-schlacht.xml,"Liegt etwa den
+            andern Völkern Deutschlands unten ein Siegmar im Blute?",67,149,character_speech,1,14,,BERCENNIS.,#bercennis,773.0,FEMALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2333,2333,2333,GerDracor/klopstock-hermanns-schlacht.xml,Und doch müssen ihre  Gefangnen sterben!,150,190,character_speech,1,14,,BERCENNIS.,#bercennis,773.0,FEMALE,despair,S,,1769.0,negative,emotions of anxiety
+2334,2334,2334,GerDracor/klopstock-hermanns-schlacht.xml,"Ja, wenn diese Söhne der Fabier aus ihrem Schattenreich' herauf
+            wandeln und mir dienen müßten, dann!..",191,305,character_speech,1,14,,BERCENNIS.,#bercennis,773.0,FEMALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2335,2335,2335,GerDracor/klopstock-hermanns-schlacht.xml,Lebend sie?,306,317,character_speech,1,14,,BERCENNIS.,#bercennis,773.0,FEMALE,being moved,S,,1769.0,being moved,being moved
+2336,2336,2336,GerDracor/klopstock-hermanns-schlacht.xml,Druiden!,318,326,character_speech,1,14,,BERCENNIS.,#bercennis,773.0,FEMALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2337,2337,2337,GerDracor/klopstock-hermanns-schlacht.xml,wo sind die Fürsten?,327,347,character_speech,1,14,,BERCENNIS.,#bercennis,773.0,FEMALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2338,2338,2338,GerDracor/klopstock-hermanns-schlacht.xml,"Sie
+            lebend, die in unsre Haine das Richterbeil trugen, die deinen Vater in sein letztes Blut
+            stürzten!",348,474,character_speech,1,14,,BERCENNIS.,#bercennis,773.0,FEMALE,suffering,S,,1769.0,negative,emotions of suffering and empathy
+2339,2339,2339,GerDracor/klopstock-hermanns-schlacht.xml,"Bei Mana, meine Mutter, ich tödte die entwaffneten Römer nicht!",0,63,character_speech,1,14,,HERMANN.,#hermann,774.0,MALE,fear,S,,1769.0,negative,emotions of anxiety
+2340,2340,2340,GerDracor/klopstock-hermanns-schlacht.xml,"Dank sey's Hertha, daß ich nicht vor dir niedergefallen bin!",0,60,character_speech,1,14,,BERCENNIS.,#bercennis,775.0,FEMALE,joy,S,,1769.0,positive,emotions of pleasure
+2341,2341,2341,GerDracor/klopstock-hermanns-schlacht.xml,"denn ich wollt's thun, du
+            Unerbittlicher, Unerbittlicher gegen dein Volk und deine Mutter und deinen todten Vater!",61,187,character_speech,1,14,,BERCENNIS.,#bercennis,775.0,FEMALE,abhorrence,S,,1769.0,negative,emotions of rejection
+2342,2342,2342,GerDracor/klopstock-hermanns-schlacht.xml,Sie geht.,0,9,stage_direction,1,14,inner_speech,,#bercennis,775.0,FEMALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2343,2343,2343,GerDracor/klopstock-hermanns-schlacht.xml,nach einigem Stillschweigen.,0,28,stage_direction,1,14,speech_part,,#hermann,776.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2344,2344,2344,GerDracor/klopstock-hermanns-schlacht.xml,"Nein, ich halte diesen Anblick nicht mehr aus!",0,46,character_speech,1,14,,HERMANN,#hermann,776.0,MALE,suffering,S,,1769.0,negative,emotions of suffering and empathy
+2345,2345,2345,GerDracor/klopstock-hermanns-schlacht.xml,Entfernt meines Vaters Leiche von mir!,47,85,character_speech,1,14,,HERMANN,#hermann,776.0,MALE,despair,S,,1769.0,negative,emotions of anxiety
+2346,2346,2346,GerDracor/klopstock-hermanns-schlacht.xml,.. Legt die Adler auf den Altar!,98,130,character_speech,1,14,,HERMANN,#hermann,776.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2347,2347,2347,GerDracor/klopstock-hermanns-schlacht.xml,.. Eilt!,131,139,character_speech,1,14,,HERMANN,#hermann,776.0,MALE,fear,S,,1769.0,negative,emotions of anxiety
+2348,2348,2348,GerDracor/klopstock-hermanns-schlacht.xml,".. Du, Horst, und dreihundert Cherusker, ihr
+            umringt diese Nacht den Felsen.",140,228,character_speech,1,14,,HERMANN,#hermann,776.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2349,2349,2349,GerDracor/klopstock-hermanns-schlacht.xml,Du sollst bei der Leiche stehn!,229,260,character_speech,1,14,,HERMANN,#hermann,776.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2350,2350,2350,GerDracor/klopstock-hermanns-schlacht.xml,"Ich kann jetzt die
+            Eichen nicht wählen, Brenno.",261,320,character_speech,1,14,,HERMANN,#hermann,776.0,MALE,suffering,S,,1769.0,negative,emotions of suffering and empathy
+2351,2351,2351,GerDracor/klopstock-hermanns-schlacht.xml,nachdem die Leiche weg ist.,0,27,stage_direction,1,14,speech_part,,#brenno,777.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2352,2352,2352,GerDracor/klopstock-hermanns-schlacht.xml,"Druiden, deckt meinen todten Freund mit einem weißen Teppiche zu!",0,65,character_speech,1,14,,BRENNO,#brenno,777.0,MALE,friendship,S,,1769.0,positive,emotions of affection
+2353,2353,2353,GerDracor/klopstock-hermanns-schlacht.xml,"Ruf mir, Brenno, wenn du wieder opferst, so will ich die Eichen wahlen!",0,71,character_speech,1,14,,HERMANN.,#hermann,778.0,MALE,abhorrence,S,,1769.0,negative,emotions of rejection
+2354,2354,2354,GerDracor/klopstock-hermanns-schlacht.xml,"Ich kann jetzt
+            hier nicht mehr weilen!",72,122,character_speech,1,14,,HERMANN.,#hermann,778.0,MALE,suffering,S,,1769.0,negative,emotions of suffering and empathy
+2355,2355,2355,GerDracor/klopstock-hermanns-schlacht.xml,Ich bin immer noch dem Todten zu nah!,123,160,character_speech,1,14,,HERMANN.,#hermann,778.0,MALE,suffering,S,,1769.0,negative,emotions of suffering and empathy
+2356,2356,2356,GerDracor/klopstock-hermanns-schlacht.xml,"Er geht hin und
+              her.",0,34,stage_direction,1,14,inner_speech,,#hermann,778.0,MALE,being moved,S,,1769.0,being moved,being moved
+2357,2357,2357,GerDracor/klopstock-hermanns-schlacht.xml," Du sollst gerächt werden, mein Vater!",0,38,character_speech,1,14,,HERMANN.,#hermann,778.0,MALE,abhorrence,S,,1769.0,negative,emotions of rejection
+2358,2358,2358,GerDracor/klopstock-hermanns-schlacht.xml,"ja, du sollst gerächt an den neuen
+            Legionen werden, an allen ihren Tribunen und Legaten und Feldherrn!",39,153,character_speech,1,14,,HERMANN.,#hermann,778.0,MALE,abhorrence,S,,1769.0,negative,emotions of rejection
+2359,2359,2359,GerDracor/klopstock-hermanns-schlacht.xml,"... Ha, an ihren
+            hohen Tribunen gerächt mit Todesrache!",154,221,character_speech,1,14,,HERMANN.,#hermann,778.0,MALE,Schadenfreude,S,,1769.0,positive,emotions of pleasure
+2360,2360,2360,GerDracor/klopstock-hermanns-schlacht.xml,"Horst, eile, fleug hinunter zu den Cheruskern und
+            sag' ihnen, ruf' es ihnen laut zu, daß es alle, alle wissen!",222,344,character_speech,1,14,,HERMANN.,#hermann,778.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2361,2361,2361,GerDracor/klopstock-hermanns-schlacht.xml,"Dieß ruf' unter die
+            blutigen Lanzen hinein: Wenn ihr auf dem Altarfelsen die Hörner wüthen hört und singen
+            hört aus Wodans Gesang, dann schwören Hermann und Alle, die um ihn sind, bei dem",345,556,character_speech,1,14,,HERMANN.,#hermann,778.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2362,2362,2362,GerDracor/klopstock-hermanns-schlacht.xml," Schwert, zu rächen Siegmars Tod an allen Römern, die kommen werden!",0,68,character_speech,1,14,,HERMANN.,#hermann,778.0,MALE,abhorrence,S,,1769.0,negative,emotions of rejection
+2363,2363,2363,GerDracor/klopstock-hermanns-schlacht.xml,"Schreckliche, nie vergessende, nie verzeihende Rache, Blut oder Ketten, schwören wir bei
+            dem Schwert'!",81,195,character_speech,1,14,,HERMANN.,#hermann,778.0,MALE,abhorrence,S,,1769.0,negative,emotions of rejection
+2364,2364,2364,GerDracor/klopstock-hermanns-schlacht.xml,Eile nun gleich fort und komm' eben so schnell zurück!,196,250,character_speech,1,14,,HERMANN.,#hermann,778.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2365,2365,2365,GerDracor/klopstock-hermanns-schlacht.xml,"Hermann
+              reißt einem Barden das Schwert von der Seite.",0,67,stage_direction,1,14,inner_speech,,#hermann,778.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2366,2366,2366,GerDracor/klopstock-hermanns-schlacht.xml," Horst, bring Segest dieß Schwert
+            von mir!",0,54,character_speech,1,14,,HERMANN.,#hermann,778.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2367,2367,2367,GerDracor/klopstock-hermanns-schlacht.xml,Horst geht.,0,11,stage_direction,1,14,inner_speech,,#hermann,778.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2368,2368,2368,GerDracor/klopstock-hermanns-schlacht.xml," Ha, Das erluftet mein Herz, daß wir Cherusker Dieß
+            schwören.",0,73,character_speech,1,14,,HERMANN.,#hermann,778.0,MALE,joy,S,,1769.0,positive,emotions of pleasure
+2369,2369,2369,GerDracor/klopstock-hermanns-schlacht.xml,Er geht hin und her.,0,20,stage_direction,1,14,inner_speech,,#hermann,778.0,MALE,being moved,S,,1769.0,being moved,being moved
+2370,2370,2370,GerDracor/klopstock-hermanns-schlacht.xml," Nein, nein, Das ist noch nicht genug!",0,38,character_speech,1,14,,HERMANN.,#hermann,778.0,MALE,anger,S,,1769.0,negative,emotions of rejection
+2371,2371,2371,GerDracor/klopstock-hermanns-schlacht.xml,"Werdomar, tritt ganz auf dem Felsen vor und ruf's in das Thal hinab den Fürsten
+            Deutschlands zu, daß kein Schonen seyn soll, und daß wir's bei dem Schwert schwören!",51,227,character_speech,1,14,,HERMANN.,#hermann,778.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2372,2372,2372,GerDracor/klopstock-hermanns-schlacht.xml,Der Marse kömmt zurück.,0,23,stage_direction,1,14,speech_part,,#hermann,778.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2373,2373,2373,GerDracor/klopstock-hermanns-schlacht.xml,Er nimmt den Adler wieder.,24,50,stage_direction,1,14,speech_part,,#hermann,778.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2374,2374,2374,GerDracor/klopstock-hermanns-schlacht.xml,zu einem Barden.,0,16,stage_direction,1,14,speech_part,,#werdomar,779.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2375,2375,2375,GerDracor/klopstock-hermanns-schlacht.xml,"Komm du, dein Horn wüthet, komm!",0,32,character_speech,1,14,,WERDOMAR,#werdomar,779.0,MALE,abhorrence,S,,1769.0,negative,emotions of rejection
+2376,2376,2376,GerDracor/klopstock-hermanns-schlacht.xml,"Indem er den Barden schnell mit sich fortführt,
+              etwas leiser.",0,75,stage_direction,1,14,inner_speech,,#werdomar,779.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2377,2377,2377,GerDracor/klopstock-hermanns-schlacht.xml, So stell dich!,0,15,character_speech,1,14,,WERDOMAR,#werdomar,779.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2378,2378,2378,GerDracor/klopstock-hermanns-schlacht.xml,so!,16,19,character_speech,1,14,,WERDOMAR,#werdomar,779.0,MALE,being moved,S,,1769.0,being moved,being moved
+2379,2379,2379,GerDracor/klopstock-hermanns-schlacht.xml,blas jetzt ins Thal hinunter.,20,49,character_speech,1,14,,WERDOMAR,#werdomar,779.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2380,2380,2380,GerDracor/klopstock-hermanns-schlacht.xml,"Kriegsgeschrei,
+            Barde!",50,84,character_speech,1,14,,WERDOMAR,#werdomar,779.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2381,2381,2381,GerDracor/klopstock-hermanns-schlacht.xml,Nachdem der Barde geblasen hat.,0,31,stage_direction,1,14,inner_speech,,#werdomar,779.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2382,2382,2382,GerDracor/klopstock-hermanns-schlacht.xml," Ihr Sieger, ihr Rächer, ihr
+            Fürsten Deutschlands!",0,62,character_speech,1,14,,WERDOMAR,#werdomar,779.0,MALE,"admiration, reverence",S,,1769.0,positive,emotions of affection
+2383,2383,2383,GerDracor/klopstock-hermanns-schlacht.xml,"wenn hier die Hörner wüthen, hier oben bei dem Altar, wenn's tönt
+            ans Wodans Gesang: dann schwört Hermann bei dem Schwert, schwört Siegmund, schwört der
+            Bructerer, der den Adler nahm, der Marse, der den Adler nahm, schwört der Cherusker, der
+            den Adler nahm, schwören alle Jünglinge mit den Cohortenlanzen, alle Kriegsgefährten
+            Hermanns, schwören alle Cherusker bei dem Schwert, bei dem Schwert, zu rächen an den
+            neuen Legionen Siegmars Tod, der ein Mann de Vaterlands war, ein ganzes Heer",63,611,character_speech,1,14,,WERDOMAR,#werdomar,779.0,MALE,"admiration, reverence",S,,1769.0,positive,emotions of affection
+2384,2384,2384,GerDracor/klopstock-hermanns-schlacht.xml,"Werdomar, so im Walhallaton' hat mir nie eins deiner Lieder geklungen!",0,70,character_speech,1,14,,HERMANN.,#hermann,780.0,MALE,joy,S,,1769.0,positive,emotions of pleasure
+2385,2385,2385,GerDracor/klopstock-hermanns-schlacht.xml,"Beschließ' es
+            auch, o Wodan, was wir beschließen!",71,132,character_speech,1,14,,HERMANN.,#hermann,780.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2386,2386,2386,GerDracor/klopstock-hermanns-schlacht.xml,"Hermann, alle deine Cherusker haben ihre Hand an das Schwert gelegt!",0,68,character_speech,1,14,,HORST.,#horst,781.0,MALE,"admiration, reverence",S,,1769.0,positive,emotions of affection
+2387,2387,2387,GerDracor/klopstock-hermanns-schlacht.xml,"Sie drücken fest
+            am Griffe und werfen glühende Blicke der Rache umher!",69,151,character_speech,1,14,,HORST.,#horst,781.0,MALE,abhorrence,S,,1769.0,negative,emotions of rejection
+2388,2388,2388,GerDracor/klopstock-hermanns-schlacht.xml,Die Barden erheben auf Werdomars Wink ihre Hörner.,0,50,stage_direction,1,14,speech_part,,#horst,781.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2389,2389,2389,GerDracor/klopstock-hermanns-schlacht.xml,"Noch nicht, Werdomar, noch nicht.",0,33,character_speech,1,14,,HERMANN.,#hermann,782.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2390,2390,2390,GerDracor/klopstock-hermanns-schlacht.xml,"Die Fürsten Deutschlands müssen es erst ihren Heeren
+            zurufen.",34,107,character_speech,1,14,,HERMANN.,#hermann,782.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2391,2391,2391,GerDracor/klopstock-hermanns-schlacht.xml,Seyd ihr Alle meine Zeugen: Ich trage diesen Blutring bis an meinen Tod!,0,72,character_speech,1,14,,HORST.,#horst,783.0,MALE,abhorrence,S,,1769.0,negative,emotions of rejection
+2392,2392,2392,GerDracor/klopstock-hermanns-schlacht.xml,Halt' Einer meinem jungen Kriegsgefährten dort ein Schwert in der Hand!,0,71,character_speech,1,14,,HERMANN.,#hermann,784.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2393,2393,2393,GerDracor/klopstock-hermanns-schlacht.xml,"Er soll's auch
+            schwören!",72,108,character_speech,1,14,,HERMANN.,#hermann,784.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2394,2394,2394,GerDracor/klopstock-hermanns-schlacht.xml,"Vielleicht lebt er, und, wenn nicht –",109,146,character_speech,1,14,,HERMANN.,#hermann,784.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2395,2395,2395,GerDracor/klopstock-hermanns-schlacht.xml,"Ach, wie kann er?",0,17,character_speech,1,14,,WERDOMAR.,#werdomar,785.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2396,2396,2396,GerDracor/klopstock-hermanns-schlacht.xml,Seine Hand sinkt und ist schon kalt vom nahen Tode!,18,69,character_speech,1,14,,WERDOMAR.,#werdomar,785.0,MALE,despair,S,,1769.0,negative,emotions of anxiety
+2397,2397,2397,GerDracor/klopstock-hermanns-schlacht.xml,"Wenn denn nicht, so erzählt er Siegmar, was er mitgeschworen hat.",0,65,character_speech,1,14,,HERMANN.,#hermann,786.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2398,2398,2398,GerDracor/klopstock-hermanns-schlacht.xml,"Sein Vater
+              hält ihm das Schwert.",0,46,stage_direction,1,14,inner_speech,,#hermann,786.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2399,2399,2399,GerDracor/klopstock-hermanns-schlacht.xml,Was soll das schwere Schwert hier?,0,34,character_speech,1,14,,DER KNABE.,#der_knabe_werdomars_sohn,787.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2400,2400,2400,GerDracor/klopstock-hermanns-schlacht.xml,Ist es das Schwert des Centurio?,35,67,character_speech,1,14,,DER KNABE.,#der_knabe_werdomars_sohn,787.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2401,2401,2401,GerDracor/klopstock-hermanns-schlacht.xml,"Will mich der
+            blutige Mann vollends tödten?",68,123,character_speech,1,14,,DER KNABE.,#der_knabe_werdomars_sohn,787.0,MALE,abhorrence,S,,1769.0,negative,emotions of rejection
+2402,2402,2402,GerDracor/klopstock-hermanns-schlacht.xml,"Hörtest du nicht, du lieber Sohn, was ich hinunterrief?",0,55,character_speech,1,14,,WERDOMAR.,#werdomar,788.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2403,2403,2403,GerDracor/klopstock-hermanns-schlacht.xml,"Du sollst Das auch bei dem
+            Schwerte schwören.",56,113,character_speech,1,14,,WERDOMAR.,#werdomar,788.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2404,2404,2404,GerDracor/klopstock-hermanns-schlacht.xml,Hermann hat's geboten.,114,136,character_speech,1,14,,WERDOMAR.,#werdomar,788.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2405,2405,2405,GerDracor/klopstock-hermanns-schlacht.xml,"Ja, ich hörte es wohl, wie du auf der Harfe herunter rauschtest und meiner Mutter ein
+            Siegslied vorsangst.",0,118,character_speech,1,14,,DER KNABE.,#der_knabe_werdomars_sohn,789.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2406,2406,2406,GerDracor/klopstock-hermanns-schlacht.xml,"Wodan, Wodan, beschließ' es auch!",0,33,character_speech,1,14,,HERMANN.,#hermann,790.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2407,2407,2407,GerDracor/klopstock-hermanns-schlacht.xml,"Nun, nun, Werdomar, nun.",34,58,character_speech,1,14,,HERMANN.,#hermann,790.0,MALE,no_annotation,S,,1769.0,no_annotation,no_annotation
+2408,2408,2408,GerDracor/klopstock-hermanns-schlacht.xml,"So lange die Barden singen, halten Alle das Schwert in die Höh.",0,63,stage_direction,1,14,pre_speech,,,,,no_annotation,S,,1769.0,no_annotation,no_annotation
+2409,2409,2409,GerDracor/klopstock-hermanns-schlacht.xml,"
+            Wodan, unbeleidigt von uns,
+            Fielen sie bei deinen Altären uns an!",0,90,character_speech,1,14,,HERMANN.,#die_barden,791.0,MALE,suffering,S,,1769.0,negative,emotions of suffering and empathy
+2410,2410,2410,GerDracor/klopstock-hermanns-schlacht.xml,"Wodan, unbeleidigt von uns
+            Erhoben sie ihr Beil gegen dein freies Volk!",103,186,character_speech,1,14,,HERMANN.,#die_barden,791.0,MALE,suffering,S,,1769.0,negative,emotions of suffering and empathy

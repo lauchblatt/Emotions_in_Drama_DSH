@@ -1,0 +1,176 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+290,290,290,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Die Vollkommenheit als Minerva, mit Helm, Schild, Lanze und Harnisch, blau
+            gekleidet, kömmt rechter Hand langsam.",0,125,stage_direction,1,4,pre_speech,,,,,no_annotation,S,,1737.0,no_annotation,no_annotation
+291,291,291,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Der Verstand, als ein Held gekleidet, kömmt zu
+            gleicher Zeit linker Hand der Vollkommenheit entgegen, und machet ihr eine sehr tiefe
+            Ehrenbezeigung, tritt hernach ehrerbietig zurück, dass der Thron in der Mitte
+            freystehet, und die Vollkommenheit rechter Hand, und der Verstand linker Hand bleiben
+            kan.",126,475,stage_direction,1,4,pre_speech,,,,,"admiration, reverence",S,,1737.0,positive,emotions of affection
+292,292,292,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"So bald sie kommen, stehen der Fleis, das Alterthum und die Liebe zur
+            Vollkommenheit auf.",476,577,stage_direction,1,4,pre_speech,,,,,no_annotation,S,,1737.0,no_annotation,no_annotation
+293,293,293,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Die Liebe gehet zur Regel und zum Trauerspiele.,578,625,stage_direction,1,4,pre_speech,,,,,love,S,,1737.0,positive,emotions of affection
+294,294,294,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,zum Trauerspiele.,0,17,stage_direction,1,4,speech_part,,#regel,132.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+295,295,295,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"
+              Siehst du wohl?",0,30,character_speech,1,4,,REGEL,#regel,132.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+296,296,296,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Der Verstand ist hier stets gegenwärtig
+              Bey der Vollkommenheit.",31,108,character_speech,1,4,,REGEL,#regel,132.0,UNKNOWN,"admiration, reverence",S,,1737.0,positive,emotions of affection
+297,297,297,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,zur Regel und dem Trauerspiele.,0,31,stage_direction,1,4,speech_part,,#liebe,133.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+298,298,298,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"
+              Macht Euch nun beyde fertig,
+              Wenn ihr was bitten wollt.",0,84,character_speech,1,4,,LIEBE,#liebe,133.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+299,299,299,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,zur Regel.,0,10,stage_direction,1,4,speech_part,,#trauerspiel,134.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+300,300,300,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"
+              Itzt mach mir Herz und Muht
+              Und steh mir redlich bey.",0,82,character_speech,1,4,,TRAUERSPIEL,#trauerspiel,134.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+301,301,301,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"
+              Sey nur auf deiner Huht,
+              So wirst du glücklich seyn und keinen Fehler machen,
+              Denn zweifeln schickt sich nicht zu gründlich guten Sachen.",0,180,character_speech,1,4,,REGEL.,#regel,135.0,UNKNOWN,joy,S,,1737.0,positive,emotions of pleasure
+302,302,302,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Du aber, liebstes Kind!",195,218,character_speech,1,4,,REGEL.,#regel,135.0,UNKNOWN,love,S,,1737.0,positive,emotions of affection
+303,303,303,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,du solst uns melden.,219,239,character_speech,1,4,,REGEL.,#regel,135.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+304,304,304,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,zur Regel.,0,10,stage_direction,1,4,speech_part,,#liebe,136.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+305,305,305,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Ja.,0,3,character_speech,1,4,,LIEBE,#liebe,136.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+306,306,306,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Zum Verstand.,0,13,stage_direction,1,4,speech_part,,#liebe,136.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+307,307,307,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"
+              Es ist das Trauerspiel, es ist die Regel da.",0,59,character_speech,1,4,,LIEBE,#liebe,136.0,UNKNOWN,suffering,S,,1737.0,negative,emotions of suffering and empathy
+308,308,308,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Die erste hat bey dir in Demuht was zu bitten.,74,120,character_speech,1,4,,LIEBE,#liebe,136.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+309,309,309,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Wenn sie nur kein Gesetz durch Frevel überschritten.,0,52,character_speech,1,4,,VERSTAND.,#verstand,137.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+310,310,310,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"
+              O nein!",0,22,character_speech,1,4,,REGEL.,#regel,138.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+311,311,311,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Sie sucht sonst nichts, als dass ihr deutsches Spiel
+              Dürft künftig besser seyn, damit es wohl gefiel.",23,138,character_speech,1,4,,REGEL.,#regel,138.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+312,312,312,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Wenn ihr das möglich ist.,0,25,character_speech,1,4,,VERSTAND.,#verstand,139.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+313,313,313,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"
+              Ihr Fleis wird sich bestreben
+              Und ich will ihr dazu die besten Regeln geben.",0,105,character_speech,1,4,,REGEL.,#regel,140.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+314,314,314,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,zur Regel.,0,10,stage_direction,1,4,speech_part,,#vollkommenheit,141.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+315,315,315,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,So mach ihr deutsches Spiel von allen Fehlern rein.,0,51,character_speech,1,4,,VOLLKOMMENHEIT,#vollkommenheit,141.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+316,316,316,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"
+              Sie hat alhier ein Stück, das soll zum Muster seyn,
+              Es ist der Mithridat.",0,102,character_speech,1,4,,REGEL.,#regel,142.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+317,317,317,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Den kan sie?,0,12,character_speech,1,4,,VERSTAND.,#verstand,143.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+318,318,318,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"
+              Man wird sehen,
+              Was sie davon versteht.",0,68,character_speech,1,4,,REGEL.,#regel,144.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+319,319,319,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Drum lasse doch geschehen!,69,95,character_speech,1,4,,REGEL.,#regel,144.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+320,320,320,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Dass die Verehrung sich in diesem Stück auch zeigt,
+              Dass auch ein deutsches Stück noch immer höher steigt,
+              Gelehrt, vernünftig wird, die Laster-Possen fliehet
+              Und der Vollkommenheit zu Ehren sich bemühet.",110,356,character_speech,1,4,,REGEL.,#regel,144.0,UNKNOWN,"admiration, reverence",S,,1737.0,positive,emotions of affection
+321,321,321,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,zur Regel.,0,10,stage_direction,1,4,speech_part,,#verstand,145.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+322,322,322,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Das ist ihr wohl erlaubt.,0,25,character_speech,1,4,,VERSTAND,#verstand,145.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+323,323,323,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"
+              Ich bitt, vergönn auch mir
+              Das gute Stück zu sehn.",0,79,character_speech,1,4,,LIEBE.,#liebe,146.0,UNKNOWN,joy,S,,1737.0,positive,emotions of pleasure
+324,324,324,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Ja.,0,3,character_speech,1,4,,VOLLKOMMENHEIT.,#vollkommenheit,147.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+325,325,325,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Die Vollkommenheit gehet vor dem Thron verbey, und auf der Seiten hinweg, wo der
+              Verstand herausgegangen ist.",0,123,stage_direction,1,4,speech_part,,#vollkommenheit,147.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+326,326,326,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Der Verstand macht ihr mit Ehrerbiethigkeit Platz, dass
+              sie bey ihm verbey kan, und folget ihr gleich nach.",124,245,stage_direction,1,4,speech_part,,#vollkommenheit,147.0,UNKNOWN,"admiration, reverence",S,,1737.0,positive,emotions of affection
+327,327,327,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,zum Trauerspiele.,0,17,stage_direction,1,4,speech_part,,#regel,148.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+328,328,328,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"
+              Gehe gleich von hier.",0,36,character_speech,1,4,,REGEL,#regel,148.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+329,329,329,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Es ist kein Augenblick mehr übrig zu verschwenden,
+              Mach dich ja recht geschickt, und lass es gut vollenden!",51,172,character_speech,1,4,,REGEL,#regel,148.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+330,330,330,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Ich aber, wo ich dir hier noch was dienen kan,
+              Will bleiben.",187,261,character_speech,1,4,,REGEL,#regel,148.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+331,331,331,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Gehe nur, und fang dein Schauspiel an.",262,300,character_speech,1,4,,REGEL,#regel,148.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+332,332,332,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,zur Regel.,0,10,stage_direction,1,4,speech_part,,#trauerspiel,149.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+333,333,333,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Du, Freundin, wirst hernach doch auch alda erscheinen?",0,54,character_speech,1,4,,TRAUERSPIEL,#trauerspiel,149.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+334,334,334,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"
+              Ich bin gewis bey dir, eh du es wirst vermeynen.",0,63,character_speech,1,4,,REGEL.,#regel,150.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+335,335,335,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Halt dich nur nicht mehr auf.,78,107,character_speech,1,4,,REGEL.,#regel,150.0,UNKNOWN,anger,S,,1737.0,negative,emotions of rejection
+336,336,336,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"
+              Nun schenck mir dieses Buch,
+              So schwer es mir sonst schien, will ich doch zum Versuch
+              Mich drauf befleisigen die Regeln zu verstehen.",0,176,character_speech,1,4,,TRAUERSPIEL.,#trauerspiel,151.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+337,337,337,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"
+              Du solst es künftig bald in deutscher Sprache sehen,
+              Es ist schon übersetzt.",0,105,character_speech,1,4,,REGEL.,#regel,152.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+338,338,338,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Indessen steht dir frey
+              Zu forschen, ob dir die zu lernen möglich sey.",106,190,character_speech,1,4,,REGEL.,#regel,152.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+339,339,339,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Das ist ein schönes Werk, wer hat es unternommen?",0,49,character_speech,1,4,,TRAUERSPIEL.,#trauerspiel,153.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+340,340,340,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"
+              Es ist von fleisigen geschickten Händen kommen.",0,62,character_speech,1,4,,REGEL.,#regel,154.0,UNKNOWN,"admiration, reverence",S,,1737.0,positive,emotions of affection
+341,341,341,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"In Leipzig hat itzund ein kluger Edelmann,
+              Der ein Gelehrter ist, und andre lehren kan,
+              Es gut rein deutsch gemacht.",77,221,character_speech,1,4,,REGEL.,#regel,154.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+342,342,342,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Hernach kanst du das lesen,
+              Was dir so lange Zeit versteckt und fremd gewesen.",222,314,character_speech,1,4,,REGEL.,#regel,154.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+343,343,343,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Dann wird der Unterricht auch deutlich, rein und leicht,
+              Wenn immer neuer Fleis der Kunst die Hände reicht.",329,450,character_speech,1,4,,REGEL.,#regel,154.0,UNKNOWN,joy,S,,1737.0,positive,emotions of pleasure
+344,344,344,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Die Regel giebt dem Trauerspiele das Buch.,0,42,stage_direction,1,4,speech_part,,#regel,154.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+345,345,345,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Ich danke ihm und dir.,0,22,character_speech,1,4,,TRAUERSPIEL.,#trauerspiel,155.0,UNKNOWN,joy,S,,1737.0,positive,emotions of pleasure
+346,346,346,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Das Trauerspiel gehet auf eben der Seite, wo die Vollkommenheit hindurchgegangen
+              ist, nun auch weg.",0,113,stage_direction,1,4,speech_part,,#trauerspiel,155.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+347,347,347,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,zum Fleis und Alterthum.,0,24,stage_direction,1,4,speech_part,,#regel,156.0,UNKNOWN,"admiration, reverence",S,,1737.0,positive,emotions of affection
+348,348,348,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"
+              Ihr aber, lieben Freunde!",0,40,character_speech,1,4,,REGEL,#regel,156.0,UNKNOWN,friendship,S,,1737.0,positive,emotions of affection
+349,349,349,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Erhaltet diese Kunst, erleuchtet ihre Feinde!",55,100,character_speech,1,4,,REGEL,#regel,156.0,UNKNOWN,abhorrence,S,,1737.0,negative,emotions of rejection
+350,350,350,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Mein liebes Alterthum!,115,137,character_speech,1,4,,REGEL,#regel,156.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+351,351,351,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Mein edler schwerer Fleis!,138,164,character_speech,1,4,,REGEL,#regel,156.0,UNKNOWN,"admiration, reverence",S,,1737.0,positive,emotions of affection
+352,352,352,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Seht auch das Stück mit an!,179,206,character_speech,1,4,,REGEL,#regel,156.0,UNKNOWN,joy,S,,1737.0,positive,emotions of pleasure
+353,353,353,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"dass man zu sagen weis,
+              Wie ihr die Kunst verehrt.",207,271,character_speech,1,4,,REGEL,#regel,156.0,UNKNOWN,"admiration, reverence",S,,1737.0,positive,emotions of affection
+354,354,354,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Helft auch das Stück mit zieren!,272,304,character_speech,1,4,,REGEL,#regel,156.0,UNKNOWN,"admiration, reverence",S,,1737.0,positive,emotions of affection
+355,355,355,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Zum Alterthume.,0,15,stage_direction,1,4,speech_part,,#regel,156.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+356,356,356,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"
+              Wir müssen bey der Kunst dich, Heldin!",0,53,character_speech,1,4,,REGEL,#regel,156.0,UNKNOWN,"admiration, reverence",S,,1737.0,positive,emotions of affection
+357,357,357,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"nicht verliehren,
+              Schenk deine Bücher hier in dieses Heiligthum,
+              Alwo sie sicher sind, alwo zu deinem Ruhm
+              Darnach gehandelt wird.",54,226,character_speech,1,4,,REGEL,#regel,156.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+358,358,358,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Ich will sie dahin legen,
+              Daher empfangen sie die Wirkung und den Seegen.",227,314,character_speech,1,4,,REGEL,#regel,156.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+359,359,359,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Der Fleis begleitet das Alterthum dahin, wo das Trauerspiel hingegangen ist.",0,76,stage_direction,1,4,speech_part,,#regel,156.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+360,360,360,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Die
+              Regel trägt die Bücher auf die Stuffen des Throns.",77,145,stage_direction,1,4,speech_part,,#regel,156.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+361,361,361,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,zur Regel.,0,10,stage_direction,1,4,speech_part,,#liebe,157.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+362,362,362,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Ich aber bleib noch hier, und höre was du sagst.",0,48,character_speech,1,4,,LIEBE,#liebe,157.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+363,363,363,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Wie kömmt es denn, dass du so jung nach Regeln fragst?",0,54,character_speech,1,4,,REGEL.,#regel,158.0,UNKNOWN,being moved,S,,1737.0,being moved,being moved
+364,364,364,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"
+              Wir Kinder werden hier nach Regeln auferzogen.",0,61,character_speech,1,4,,LIEBE.,#liebe,159.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+365,365,365,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Drum kennen wir dich auch und sind dir gleich gewogen.,76,130,character_speech,1,4,,LIEBE.,#liebe,159.0,UNKNOWN,"admiration, reverence",S,,1737.0,positive,emotions of affection
+366,366,366,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Nicht wahr, du liebst uns auch, wenn wir vernünftig sind?",145,202,character_speech,1,4,,LIEBE.,#liebe,159.0,UNKNOWN,love,S,,1737.0,positive,emotions of affection
+367,367,367,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"
+              Ach ja!",0,22,character_speech,1,4,,REGEL.,#regel,160.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+368,368,368,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Ich sorg und wach auch für das kleinste Kind,
+              Und richte mich nach ihm, wenn schwere Stellen kommen,
+              So lang bis die Vernunft durch Vortheil zugenommen,
+              Und die Erfahrung bringt: dass ein gewisser Schluss,
+              Auf gut gelegten Grund, auch richtig folgen muss.",23,334,character_speech,1,4,,REGEL.,#regel,160.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+369,369,369,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Dann hab ich Ruhm davon.,349,373,character_speech,1,4,,REGEL.,#regel,160.0,UNKNOWN,Schadenfreude,S,,1737.0,positive,emotions of pleasure
+370,370,370,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Ich liebe dich vor allen.,374,399,character_speech,1,4,,REGEL.,#regel,160.0,UNKNOWN,love,S,,1737.0,positive,emotions of affection
+371,371,371,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Komm!,414,419,character_speech,1,4,,REGEL.,#regel,160.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+372,372,372,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,gib mir deine Hand!,420,439,character_speech,1,4,,REGEL.,#regel,160.0,UNKNOWN,love,S,,1737.0,positive,emotions of affection
+373,373,373,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"du solst bey mir nicht fallen,
+              Und gut verwahret seyn.",440,508,character_speech,1,4,,REGEL.,#regel,160.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+374,374,374,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"
+              Ach nein!",0,24,character_speech,1,4,,LIEBE.,#liebe,161.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+375,375,375,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,ich falle nicht.,25,41,character_speech,1,4,,LIEBE.,#liebe,161.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+376,376,376,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Bey der Vollkommenheit ist alles gut und licht.,56,103,character_speech,1,4,,LIEBE.,#liebe,161.0,UNKNOWN,joy,S,,1737.0,positive,emotions of pleasure
+377,377,377,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Es ist gerader Weg, den der Verstand gebähnet.",118,164,character_speech,1,4,,LIEBE.,#liebe,161.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+378,378,378,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Man geht doch sicherer, wenn man sich auf was lähnet.",0,53,character_speech,1,4,,REGEL.,#regel,162.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+379,379,379,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"
+              Vergiss mich nur itzund, und denk vielmehr daran,
+              Ob du in allen hier hast deine Pflicht gethan.",0,125,character_speech,1,4,,LIEBE.,#liebe,163.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+380,380,380,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"
+              So kan ein kluges Kind das Alter fast beschämen.",0,63,character_speech,1,4,,REGEL.,#regel,164.0,UNKNOWN,"admiration, reverence",S,,1737.0,positive,emotions of affection
+381,381,381,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Ich folge dir und will von dir die Vorschrift nehmen.,78,131,character_speech,1,4,,REGEL.,#regel,164.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+382,382,382,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Dadurch ich meinen Dank an euch befördern kan.,146,192,character_speech,1,4,,REGEL.,#regel,164.0,UNKNOWN,"admiration, reverence",S,,1737.0,positive,emotions of affection
+383,383,383,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Seht nun das Trauerspiel mit gutem Beyfall an!,207,253,character_speech,1,4,,REGEL.,#regel,164.0,UNKNOWN,suffering,S,,1737.0,negative,emotions of suffering and empathy
+384,384,384,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,O weiser Klinglin!,268,286,character_speech,1,4,,REGEL.,#regel,164.0,UNKNOWN,"admiration, reverence",S,,1737.0,positive,emotions of affection
+385,385,385,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Du!,287,290,character_speech,1,4,,REGEL.,#regel,164.0,UNKNOWN,abhorrence,S,,1737.0,negative,emotions of rejection
+386,386,386,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"der alle Künste liebet,
+              Solst heute Richter seyn, ob alles wohl geübet,
+              Und gut gerahten ist, was unser deutscher Fleis
+              Zum Dank für unsern Schutz hier zu erfünden weis.",291,502,character_speech,1,4,,REGEL.,#regel,164.0,UNKNOWN,"admiration, reverence",S,,1737.0,positive,emotions of affection
+387,387,387,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"Durch dich verehren wir den Herrscher dieses Reiches,
+              Wir finden nirgends was vollkommnes und ihm gleiches.",517,638,character_speech,1,4,,REGEL.,#regel,164.0,UNKNOWN,"admiration, reverence",S,,1737.0,positive,emotions of affection
+388,388,388,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"So gar die Niedrigkeit in unsern schlechten Stand
+              Macht des Monarchen Ruhm durch unsre Kunst bekannt.",653,768,character_speech,1,4,,REGEL.,#regel,164.0,UNKNOWN,no_annotation,S,,1737.0,no_annotation,no_annotation
+389,389,389,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,"So kan die Herrlichkeit, die Weisheit Früchte bringen,
+              Und auch aus schlechten Staub was nützliches erzwingen.",783,907,character_speech,1,4,,REGEL.,#regel,164.0,UNKNOWN,joy,S,,1737.0,positive,emotions of pleasure
+390,390,390,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Der König lebe lang!,0,20,character_speech,1,4,,LIEBE.,#liebe,165.0,UNKNOWN,"admiration, reverence",S,,1737.0,positive,emotions of affection
+391,391,391,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Es blühe Frankreichs Staat!,21,48,character_speech,1,4,,LIEBE.,#liebe,165.0,UNKNOWN,joy,S,,1737.0,positive,emotions of pleasure
+392,392,392,GerDracor/neuber-die-verehrung-der-vollkommenheit.xml,Damit die ganze Welt an Ihm ein Muster hat.,0,43,character_speech,1,4,,REGE.,#regel,166.0,UNKNOWN,"admiration, reverence",S,,1737.0,positive,emotions of affection

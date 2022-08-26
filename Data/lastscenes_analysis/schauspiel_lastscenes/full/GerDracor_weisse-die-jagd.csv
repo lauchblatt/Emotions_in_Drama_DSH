@@ -1,0 +1,89 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+2527,2527,2527,GerDracor/weisse-die-jagd.xml,Michel.,0,7,stage_direction,3,14,pre_speech,,,,,no_annotation,S,,1770.0,no_annotation,no_annotation
+2528,2528,2528,GerDracor/weisse-die-jagd.xml,Marthe.,8,15,stage_direction,3,14,pre_speech,,,,,no_annotation,S,,1770.0,no_annotation,no_annotation
+2529,2529,2529,GerDracor/weisse-die-jagd.xml,Die Vorigen.,16,28,stage_direction,3,14,pre_speech,,,,,no_annotation,S,,1770.0,no_annotation,no_annotation
+2530,2530,2530,GerDracor/weisse-die-jagd.xml,"Die abgeschickten Bauren kommen zu gleicher Zeit zurück, und bringen noch eine
+            Gesellschaft mit.",0,108,stage_direction,3,14,pre_speech,,,,,no_annotation,S,,1770.0,no_annotation,no_annotation
+2531,2531,2531,GerDracor/weisse-die-jagd.xml,"Nu, da sind wir ja alle wieder beysammen.",0,41,character_speech,3,14,,MICHEL.,#michel,764.0,MALE,no_annotation,S,,1770.0,no_annotation,no_annotation
+2532,2532,2532,GerDracor/weisse-die-jagd.xml,"Frisch, meine Kinder, Freunde, Nachbarn und
+              Gevattern, laßt uns eine Runde unserm guten Könige zu Ehren anstimmen!",42,170,character_speech,3,14,,MICHEL.,#michel,764.0,MALE,joy,S,,1770.0,positive,emotions of pleasure
+2533,2533,2533,GerDracor/weisse-die-jagd.xml,"
+              Wer wollte nicht sein Gut und Leben
+              Für einen solchen König geben,
+              Der uns wie seine Kinder liebt,
+              Uns Ruhe, Glück und Freyheit giebt.",0,191,character_speech,3,14,,MICHEL.,#michel,765.0,MALE,love,S,,1770.0,positive,emotions of affection
+2534,2534,2534,GerDracor/weisse-die-jagd.xml,"Auch fühl' ich mich aufs neu verjünget:
+              Es jauchzt mein Mund, mein Herze springet:
+              Es lebe der König, mein Marthchen, und ich!",206,360,character_speech,3,14,,MICHEL.,#michel,765.0,MALE,joy,S,,1770.0,positive,emotions of pleasure
+2535,2535,2535,GerDracor/weisse-die-jagd.xml,Der König für alle!,375,394,character_speech,3,14,,MICHEL.,#michel,765.0,MALE,"admiration, reverence",S,,1770.0,positive,emotions of affection
+2536,2536,2536,GerDracor/weisse-die-jagd.xml,mein Marthchen für mich.,395,419,character_speech,3,14,,MICHEL.,#michel,765.0,MALE,suffering,S,,1770.0,negative,emotions of suffering and empathy
+2537,2537,2537,GerDracor/weisse-die-jagd.xml,"
+              Es lebe der König, mein Schätzchen, und ich!",0,59,character_speech,3,14,,CHOR.,#chor_3-14,766.0,UNKNOWN,joy,S,,1770.0,positive,emotions of pleasure
+2538,2538,2538,GerDracor/weisse-die-jagd.xml,"Der König für alle, mein Schätzchen für mich.",74,119,character_speech,3,14,,CHOR.,#chor_3-14,766.0,UNKNOWN,love,S,,1770.0,positive,emotions of affection
+2539,2539,2539,GerDracor/weisse-die-jagd.xml,"
+              So spröde mich die Jahre machen,
+              So hätt' ich heute Lust zu lachen;",0,96,character_speech,3,14,,MARTHE.,#marthe,767.0,FEMALE,joy,S,,1770.0,positive,emotions of pleasure
+2540,2540,2540,GerDracor/weisse-die-jagd.xml,"
+              (O was ein guter König thut!)",0,44,character_speech,3,14,,MARTHE.,#marthe,767.0,FEMALE,joy,S,,1770.0,positive,emotions of pleasure
+2541,2541,2541,GerDracor/weisse-die-jagd.xml,"Mein Auge glänzt, es wallt mein Blut.",59,96,character_speech,3,14,,MARTHE.,#marthe,767.0,FEMALE,love,S,,1770.0,positive,emotions of affection
+2542,2542,2542,GerDracor/weisse-die-jagd.xml,"Dir, Michel, hüpft mein Herz entgegen,
+              Und wünscht dem, der uns segnet, Segen!",111,203,character_speech,3,14,,MARTHE.,#marthe,767.0,FEMALE,joy,S,,1770.0,positive,emotions of pleasure
+2543,2543,2543,GerDracor/weisse-die-jagd.xml,"Es lebe der König, mein Michel, und ich!",218,258,character_speech,3,14,,MARTHE.,#marthe,767.0,FEMALE,joy,S,,1770.0,positive,emotions of pleasure
+2544,2544,2544,GerDracor/weisse-die-jagd.xml,Der König für alle!,273,292,character_speech,3,14,,MARTHE.,#marthe,767.0,FEMALE,"admiration, reverence",S,,1770.0,positive,emotions of affection
+2545,2545,2545,GerDracor/weisse-die-jagd.xml,mein Michel für mich!,293,314,character_speech,3,14,,MARTHE.,#marthe,767.0,FEMALE,joy,S,,1770.0,positive,emotions of pleasure
+2546,2546,2546,GerDracor/weisse-die-jagd.xml,"Es lebe der König, mein Schätzchen, und ich etc.",0,48,character_speech,3,14,,CHOR.,#chor_3-14,768.0,UNKNOWN,joy,S,,1770.0,positive,emotions of pleasure
+2547,2547,2547,GerDracor/weisse-die-jagd.xml,Mein Glücke blüht in vollem Lenzen;,0,35,character_speech,3,14,,CHRISTEL.,#christel,769.0,MALE,joy,S,,1770.0,positive,emotions of pleasure
+2548,2548,2548,GerDracor/weisse-die-jagd.xml,Zu Hannchen.,0,12,stage_direction,3,14,speech_part,,#christel,769.0,MALE,no_annotation,S,,1770.0,no_annotation,no_annotation
+2549,2549,2549,GerDracor/weisse-die-jagd.xml,"
+              In dir seh ich den Morgen glänzen;
+              O Lieb' und Eintracht, welches Glück
+              Verspricht uns jeder Augenblick!",0,147,character_speech,3,14,,CHRISTEL.,#christel,769.0,MALE,love,S,,1770.0,positive,emotions of affection
+2550,2550,2550,GerDracor/weisse-die-jagd.xml,Und wer hat uns dieß Glück gegeben?,162,197,character_speech,3,14,,CHRISTEL.,#christel,769.0,MALE,joy,S,,1770.0,positive,emotions of pleasure
+2551,2551,2551,GerDracor/weisse-die-jagd.xml,Der beste König!,212,228,character_speech,3,14,,CHRISTEL.,#christel,769.0,MALE,no_annotation,S,,1770.0,no_annotation,no_annotation
+2552,2552,2552,GerDracor/weisse-die-jagd.xml,er soll leben.,229,243,character_speech,3,14,,CHRISTEL.,#christel,769.0,MALE,love,S,,1770.0,positive,emotions of affection
+2553,2553,2553,GerDracor/weisse-die-jagd.xml,"Es lebe der König, mein Hannchen, und ich!",258,300,character_speech,3,14,,CHRISTEL.,#christel,769.0,MALE,joy,S,,1770.0,positive,emotions of pleasure
+2554,2554,2554,GerDracor/weisse-die-jagd.xml,Der König für alle mein Hannchen für mich!,315,357,character_speech,3,14,,CHRISTEL.,#christel,769.0,MALE,love,S,,1770.0,positive,emotions of affection
+2555,2555,2555,GerDracor/weisse-die-jagd.xml,"Es lebe der König, mein Schätzchen, und ich etc.",0,48,character_speech,3,14,,CHOR.,#chor_3-14,770.0,UNKNOWN,joy,S,,1770.0,positive,emotions of pleasure
+2556,2556,2556,GerDracor/weisse-die-jagd.xml,"
+              Dich hab' ich, Christel!",0,39,character_speech,3,14,,HANNCHEN.,#hannchen,771.0,FEMALE,love,S,,1770.0,positive,emotions of affection
+2557,2557,2557,GerDracor/weisse-die-jagd.xml,"Diesen Morgen
+              War mir die Sonne noch verborgen:
+              O wie entzückend!",40,133,character_speech,3,14,,HANNCHEN.,#hannchen,771.0,FEMALE,joy,S,,1770.0,positive,emotions of pleasure
+2558,2558,2558,GerDracor/weisse-die-jagd.xml,"o wie schön
+              Seh ich sie jetzund untergehn!",134,190,character_speech,3,14,,HANNCHEN.,#hannchen,771.0,FEMALE,love,S,,1770.0,positive,emotions of affection
+2559,2559,2559,GerDracor/weisse-die-jagd.xml,"So siegt, von Unschuld unterstützet,
+              Die Schönheit, wenn ein Fürst sie schützet!",205,299,character_speech,3,14,,HANNCHEN.,#hannchen,771.0,FEMALE,"admiration, reverence",S,,1770.0,positive,emotions of affection
+2560,2560,2560,GerDracor/weisse-die-jagd.xml,"Es lebe der König, mein Christel, und ich!",314,356,character_speech,3,14,,HANNCHEN.,#hannchen,771.0,FEMALE,joy,S,,1770.0,positive,emotions of pleasure
+2561,2561,2561,GerDracor/weisse-die-jagd.xml,Der König für alle!,371,390,character_speech,3,14,,HANNCHEN.,#hannchen,771.0,FEMALE,"admiration, reverence",S,,1770.0,positive,emotions of affection
+2562,2562,2562,GerDracor/weisse-die-jagd.xml,mein Christel für mich!,391,414,character_speech,3,14,,HANNCHEN.,#hannchen,771.0,FEMALE,joy,S,,1770.0,positive,emotions of pleasure
+2563,2563,2563,GerDracor/weisse-die-jagd.xml,"Es lebe der König, mein Schätzchen, und ich etc.",0,48,character_speech,3,14,,CHOR.,#chor_3-14,772.0,UNKNOWN,joy,S,,1770.0,positive,emotions of pleasure
+2564,2564,2564,GerDracor/weisse-die-jagd.xml,"
+              Ich taumle noch, als wie im Traume:
+              Aus einem Pilz werd ich zum Baume;
+               Zweytausend Thaler bin ich werth,
+              Vorher kaum funfzig.",0,183,character_speech,3,14,,TÖFFEL.,#toeffel,773.0,MALE,joy,S,,1770.0,positive,emotions of pleasure
+2565,2565,2565,GerDracor/weisse-die-jagd.xml,– Unerhört!,184,195,character_speech,3,14,,TÖFFEL.,#toeffel,773.0,MALE,no_annotation,S,,1770.0,no_annotation,no_annotation
+2566,2566,2566,GerDracor/weisse-die-jagd.xml,"Nun wird sich Michel nach mir reißen:
+              Das laßt mir einen König heißen!",210,294,character_speech,3,14,,TÖFFEL.,#toeffel,773.0,MALE,joy,S,,1770.0,positive,emotions of pleasure
+2567,2567,2567,GerDracor/weisse-die-jagd.xml,"Es lebe der König, mein Röschen, und ich!",309,350,character_speech,3,14,,TÖFFEL.,#toeffel,773.0,MALE,joy,S,,1770.0,positive,emotions of pleasure
+2568,2568,2568,GerDracor/weisse-die-jagd.xml,Der König für alle!,365,384,character_speech,3,14,,TÖFFEL.,#toeffel,773.0,MALE,"admiration, reverence",S,,1770.0,positive,emotions of affection
+2569,2569,2569,GerDracor/weisse-die-jagd.xml,mein Röschen für mich!,385,407,character_speech,3,14,,TÖFFEL.,#toeffel,773.0,MALE,love,S,,1770.0,positive,emotions of affection
+2570,2570,2570,GerDracor/weisse-die-jagd.xml,"
+              Es lebe der König, mein Schätzchen, und
+              ich etc.",0,77,character_speech,3,14,,CHOR.,#chor_3-14,774.0,UNKNOWN,joy,S,,1770.0,positive,emotions of pleasure
+2571,2571,2571,GerDracor/weisse-die-jagd.xml,ans Parterr.,0,12,stage_direction,3,14,speech_part,,#roeschen,775.0,FEMALE,no_annotation,S,,1770.0,no_annotation,no_annotation
+2572,2572,2572,GerDracor/weisse-die-jagd.xml,"
+              Hat Euch, Ihr Herrn, der Fürst gefallen:
+              So glaub ich auch, es fällt Euch allen,
+              (Wie kann es anders möglich seyn?)",0,158,character_speech,3,14,,RÖSCHEN,#roeschen,775.0,FEMALE,joy,S,,1770.0,positive,emotions of pleasure
+2573,2573,2573,GerDracor/weisse-die-jagd.xml,An Gnad' und Huld ein gleicher ein.,173,208,character_speech,3,14,,RÖSCHEN,#roeschen,775.0,FEMALE,"admiration, reverence",S,,1770.0,positive,emotions of affection
+2574,2574,2574,GerDracor/weisse-die-jagd.xml,"Verbeut die Ehrfurcht, ihn zu nennen,
+              Genug, daß wir ihn alle kennen.",223,306,character_speech,3,14,,RÖSCHEN,#roeschen,775.0,FEMALE,no_annotation,S,,1770.0,no_annotation,no_annotation
+2575,2575,2575,GerDracor/weisse-die-jagd.xml,"Es lebe der Churfürst, mein Töffel, und ich!",321,365,character_speech,3,14,,RÖSCHEN,#roeschen,775.0,FEMALE,abhorrence,S,,1770.0,negative,emotions of rejection
+2576,2576,2576,GerDracor/weisse-die-jagd.xml,Der Churfürst für alle!,380,403,character_speech,3,14,,RÖSCHEN,#roeschen,775.0,FEMALE,"admiration, reverence",S,,1770.0,positive,emotions of affection
+2577,2577,2577,GerDracor/weisse-die-jagd.xml,mein Töffel für mich!,404,425,character_speech,3,14,,RÖSCHEN,#roeschen,775.0,FEMALE,Schadenfreude,S,,1770.0,positive,emotions of pleasure
+2578,2578,2578,GerDracor/weisse-die-jagd.xml,"
+              Es lebe der Churfürst, mein Schätzchen, und ich!",0,63,character_speech,3,14,,DER GANZE CHOR.,#chor_3-14,776.0,UNKNOWN,joy,S,,1770.0,positive,emotions of pleasure
+2579,2579,2579,GerDracor/weisse-die-jagd.xml,Der Churfürst für alle!,78,101,character_speech,3,14,,DER GANZE CHOR.,#chor_3-14,776.0,UNKNOWN,"admiration, reverence",S,,1770.0,positive,emotions of affection
+2580,2580,2580,GerDracor/weisse-die-jagd.xml,mein Schätzchen für mich.,102,127,character_speech,3,14,,DER GANZE CHOR.,#chor_3-14,776.0,UNKNOWN,joy,S,,1770.0,positive,emotions of pleasure
+2581,2581,2581,GerDracor/weisse-die-jagd.xml,Nach Gutbefinden kann mit einem Bauertanz beschlossen werden.,0,61,stage_direction,3,14,speech_part,,#chor_3-14,776.0,UNKNOWN,no_annotation,S,,1770.0,no_annotation,no_annotation

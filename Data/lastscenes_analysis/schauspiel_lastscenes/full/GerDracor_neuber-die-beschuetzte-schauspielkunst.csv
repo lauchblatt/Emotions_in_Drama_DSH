@@ -1,0 +1,63 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+357,357,357,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Erhaben.,0,8,stage_direction,1,13,pre_speech,,,,,no_annotation,S,,1736.0,no_annotation,no_annotation
+358,358,358,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Geschmack, Nutzen, Schauspielkunst.",9,44,stage_direction,1,13,pre_speech,,,,,no_annotation,S,,1736.0,no_annotation,no_annotation
+359,359,359,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Nun kan mich kein Verdrus und Unglücksfall mehr rühren.",0,70,character_speech,1,13,,SCHAUSPIELKUNST.,#schauspielkunst,160.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+360,360,360,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Ihr beyde seyd genung mich also zu regieren /
+              Daß ich zufrieden seyn und ruhig leben kan;
+              Tref ich gleich hier und da noch viel Verhindrung an.",85,256,character_speech,1,13,,SCHAUSPIELKUNST.,#schauspielkunst,160.0,UNKNOWN,"admiration, reverence",S,,1736.0,positive,emotions of affection
+361,361,361,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Das / was dich hindert / sind die unerkanten Dinge /
+              Man schätzt sie meistens zwar verächtlich und geringe /
+              Und dennoch schaden sie.",0,176,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+362,362,362,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Was dich zurücke schlägt /
+              Ist dieses: daß die Kunst so einen Namen trägt /
+              Dem sich ein jeder Schwarm zusammgelaufner Leute
+              Selbst geben darf und giebt.",177,372,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+363,363,363,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Man sieht auf einer Seite
+              Dich auch dem Namen nach für solch Gesindel an /
+              Das dir / sich / und der Welt viel Schaden hat gethan /
+              Und manchen klugen Mann so weit damit bethöret /
+              Daß er das schlechte Zeug vors Beste angehöret /
+              Daher kömmt dein Verlust.",373,697,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+364,364,364,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Der Spott / der dich betrift:
+              Das ist vor deinem Fleis der allerstärkste Gift /
+              Der dich und ihn verletzt / die Einsicht von dir haben /
+              Erkennen dieses wohl.",698,898,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+365,365,365,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Indeß brauch deine Gaben /
+              Damit du nützen kanst.",899,962,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+366,366,366,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Gieb jeder Wissenschaft
+              Die Käntnis / brauche sie mit ihrer rechten Kraft /
+              Und richte dich darnach so gut / als dein Vermögen
+              Dich dahin kommen läßt / sie recht an Tag zu legen:
+               Daß man den Unterscheid von deiner Kunst erkennt /
+              Ob man euch beyde schon mit einem Namen nennt.",963,1310,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+367,367,367,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Man muß die Welt mit dir / und dich mit ihr vergleichen /
+              Es muß ein braver Mann oft einem Bösen weichen:
+              Es gibt auch böses Volk in ihr / als wie bey dir:
+              Es gehn daneben auch so schlechte Dinge für.",1325,1567,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+368,368,368,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Sie sind einander auch zuwider und gehässig /
+              Faul / trotzig / boshaft / dumm / ja glaube zuverlässig:
+              Die Welt beklaget sich mit dir im gleichen Tohn.",1582,1761,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+369,369,369,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Verfolget man dich nun / spricht man dir boshaft Hohn /
+              So sorge / daß du die Verfolgung nicht verdienest /
+              Und dich aus eignem Trieb zu rächen nicht erkünest!",1776,1963,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+370,370,370,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Stößt dir ein Schaden zu / so sey dahin bedacht /
+              Daß keine Uppigkeit von dir den Schaden macht.",1978,2088,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,fear,S,,1736.0,negative,emotions of anxiety
+371,371,371,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Wirst du vom sorgen matt / und von der Arbeit müde /
+              So suche deine Lust in Tugend / hege Friede /
+              Und ruh in dem Geschmack vernünftger Kenner aus /
+              Zieh ihren wahren Ruhm / und dir ein Vorbild draus.",2103,2345,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+372,372,372,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Und ist dein kleiner Raum gleich ziemlich eingeschlossen /
+              So bleibe unverzagt!",2360,2453,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+373,373,373,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Sey fleissig unverdrossen!,2454,2480,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+374,374,374,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ach!,2495,2499,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+375,375,375,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"sey nur nicht besorgt / daß da das Wichtigste
+              Auf diesem kleinen Raum / wie in der Welt gescheh.",2500,2610,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,fear,S,,1736.0,negative,emotions of anxiety
+376,376,376,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Du must die grosse Welt durch diese käntlich machen /
+              Der Spiegel zeiget ihr die gut und bösen Sachen:
+              Der Unterschied davon fällt jedem ins Gesicht:
+              Dazu schenkt die Vernunft und Weisheit gern ihr Licht.",2625,2871,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+377,377,377,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Das soll mich durch die Welt / durch die Verhindrung führen.",0,75,character_speech,1,13,,SCHAUSPIELKUNST.,#schauspielkunst,162.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+378,378,378,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Von deinem Unterricht will ich kein Wort verliehren.,90,142,character_speech,1,13,,SCHAUSPIELKUNST.,#schauspielkunst,162.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation

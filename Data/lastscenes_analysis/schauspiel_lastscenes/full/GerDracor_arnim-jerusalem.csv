@@ -1,0 +1,646 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+1238,1238,1238,GerDracor/arnim-jerusalem.xml,"Die Kirche des heiligen Grabes in der Frühe nur wenigen Pilgern eröffnet, die in den
+          einzelnen Kapellen vertheilt, theils beten, theils die heiligen Überbleibsel von dem
+          Leiden Christi, sein Kreuz, die Säule, an der er gegeisselt, beschauen.",0,261,stage_direction,1,13,pre_speech,,,,,no_annotation,S,,1811.0,no_annotation,no_annotation
+1239,1239,1239,GerDracor/arnim-jerusalem.xml,Viren und Bromly kommen zusammen und lesen in Briefen.,0,54,stage_direction,1,13,pre_speech,,,,,no_annotation,S,,1811.0,no_annotation,no_annotation
+1240,1240,1240,GerDracor/arnim-jerusalem.xml,"Ein für allemal gesagt, der Glaube geht mir nicht recht ein, was sie mir hier gezeigt,
+            das thut auf mich noch keine Wirkung; mit ausgehungertem Magen, wie hier die meisten
+            Pilger, da sieht man freilich manches; ich habe gut gefrühstückt, bin nun fest.",0,275,character_speech,1,13,,BROMLY.,#bromly,721.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1241,1241,1241,GerDracor/arnim-jerusalem.xml,"Das
+            Wunder mit dem Lichtanzünden ist ein Skandal, wer weiß, die Priester schämen sich
+            desselben wohl, doch müssen sie es wegen dieses allgemeinen Glaubens jährlich
+            wiederholen.",276,488,character_speech,1,13,,BROMLY.,#bromly,721.0,MALE,anger,S,,1811.0,negative,emotions of rejection
+1242,1242,1242,GerDracor/arnim-jerusalem.xml,"Ja freilich schlag ich einen in die Augen, so sieht er Licht, solch Licht
+            wirds heute geben; die Armenianer und die Griechen balgten sich schon in des Bassa Saale
+            heute Morgen tüchtig um den ersten Platz am heiligen Grabe, die Hälfte ist gebläut,
+            zerschunden und zerkratzt, ein schöner Anblick für die Christenheit.",489,840,character_speech,1,13,,BROMLY.,#bromly,721.0,MALE,Schadenfreude,S,,1811.0,positive,emotions of pleasure
+1243,1243,1243,GerDracor/arnim-jerusalem.xml,"Ich halt nicht viel auf Mönche und auf Priester, doch, das ist des Glaubens
+            herrlichster Triumph, wenn er durch schlechte Priester nicht entstellt, durch gute nicht
+            erhöhet werden kann, wenn wie der Fixstern er im Fernrohr und mit bloßen Angen gleich
+            erscheint.",0,297,character_speech,1,13,,VIREN.,#viren,722.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+1244,1244,1244,GerDracor/arnim-jerusalem.xml,"Mir kommt der Glaube wie die Sonne vor, die längst herunter ist gesunken untern
+            Horizont, wenn sie am größten scheint; macht sich der Glaube gar zu breit, da ist gewiß
+            nichts an ihm, der Glaube in den ersten Christen, das war ein ander Wesen, wenig Worte,
+            viele Thaten, jetzt wiederholen sie ein Halleluja tausendmal mit sauerem Gesicht.",0,373,character_speech,1,13,,BROMLY.,#bromly,723.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1245,1245,1245,GerDracor/arnim-jerusalem.xml,"Das Halleluja kann ich gar nicht leiden, ich muß dabei an Halle denken; der Traum in
+            dieser Nacht, die Briefe haben mir den alten Grundmorast schnell aufgerührt, ich ahnete
+            im Traum die Briefe.",0,217,character_speech,1,13,,VIREN.,#viren,724.0,MALE,being moved,S,,1811.0,being moved,being moved
+1246,1246,1246,GerDracor/arnim-jerusalem.xml,Was schreibt man dir?,0,21,character_speech,1,13,,BROMLY.,#bromly,725.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1247,1247,1247,GerDracor/arnim-jerusalem.xml,"Es ist nichts Wichtiges, und doch er greift es mich.",0,52,character_speech,1,13,,VIREN.,#viren,726.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1248,1248,1248,GerDracor/arnim-jerusalem.xml,"Für einen Spottpreis hat Nathanael
+            mein groß Familienhaus gekauft, es ist der Sohn des Juden Nathan, der am Cardenio
+            gestorben, darauf hat er sich einen Grafentitel angeschafft und ein Paar Klöster, ein
+            Mönchs-, ein Nonnenkloster als der Mindestfordernde sich zur Verpflegung übernommen, das
+            alte Volk in meinem Haus zusammengesperrt und die vermehren sich darin nach Herzenslust.",53,481,character_speech,1,13,,VIREN.,#viren,726.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+1249,1249,1249,GerDracor/arnim-jerusalem.xml,"Pamphillo,  ein lustger Freund Cardenios, hat sich zum Abt darüber setzen
+            lassen und treibt sein Wesen drin in lustiger Erfindung.",494,636,character_speech,1,13,,VIREN.,#viren,726.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+1250,1250,1250,GerDracor/arnim-jerusalem.xml,"Je das ist ja unendlich lächerlich, ich platz vor Lachen, komm ich nicht ins Freie;
+            begleit mich Bruder, sieh nur den Bruder Reisenden mit einem großen Kräuterbündel und
+            zwei Lämmern durch diese Hallen zu dem Altar milder Gaben schreiten.",0,262,character_speech,1,13,,BROMLY.,#bromly,727.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+1251,1251,1251,GerDracor/arnim-jerusalem.xml,Herr Voyageur.,0,14,character_speech,1,13,,VIREN.,#viren,728.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1252,1252,1252,GerDracor/arnim-jerusalem.xml,"Jetzt hört, nun hab ich fertig meine Zueignung der Opfer.",0,57,character_speech,1,13,,DER REISENDE.,#reisender,729.0,MALE,Schadenfreude,S,,1811.0,positive,emotions of pleasure
+1253,1253,1253,GerDracor/arnim-jerusalem.xml,"
+            Als ich ein sinniger Knecht des Herrn, die Welt mir erschauet,
+            Lag mir in mystischem Duft, tief am Altare das Herz,
+            Doch da entzündet mein Flehn der Kerzen eine, die höchste,
+            Streifig leuchtete sie durch in Jerusalems Nacht,
+            Und ich sahe die Stäubchen durchzuckt von Freuden im Hirne,
+            Und ich beschrieb es so gern wie mir der Staub noch so lieb.",0,418,character_speech,1,13,,DER REISENDE.,#reisender,729.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+1254,1254,1254,GerDracor/arnim-jerusalem.xml,"Doch da haben die Ritter der Wallfahrt gar höhnend gelachet,
+            Und ihr Lachen verdarbs, wirbelnd den ewgen Staub.",431,554,character_speech,1,13,,DER REISENDE.,#reisender,729.0,MALE,Schadenfreude,S,,1811.0,positive,emotions of pleasure
+1255,1255,1255,GerDracor/arnim-jerusalem.xml,"Traurig befürchtete ich zu sinken ins mystische Dunkel,
+            Denn die Flamme sie war ohne den Staub mir nicht lieb.",567,689,character_speech,1,13,,DER REISENDE.,#reisender,729.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1256,1256,1256,GerDracor/arnim-jerusalem.xml,"Aber da zündet sich hell die Flamme der anderen Seite,
+            Blumen die sah ich verwelkt, nirgend ein Opfer das lebt,
+            Und die Ritter sie schwanden wie leere Gestalten im Zwielicht,
+            Und das heilige Grab war von Pilgern so leer.",702,958,character_speech,1,13,,DER REISENDE.,#reisender,729.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1257,1257,1257,GerDracor/arnim-jerusalem.xml,"Doch da rief mir von oben, denn eben das Höchste war helle,
+            Jene, beschrieb ich sie wem, der sie nicht selber gesehn:
+            Lasse den Staub, wer des Staubes, nehme was Eins und verbunden
+            Drücke ans höhere Herz Blumen und Thiere mit Lust.",971,1238,character_speech,1,13,,DER REISENDE.,#reisender,729.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1258,1258,1258,GerDracor/arnim-jerusalem.xml,"Zum Teufel, ich weiß ja das Ganze, du hast es uns täglich wiedergekäut.",0,71,character_speech,1,13,,BROMLY.,#bromly,730.0,MALE,anger,S,,1811.0,negative,emotions of rejection
+1259,1259,1259,GerDracor/arnim-jerusalem.xml,"So viele Mühe gabst du dir, dein elend Opfer zu beschönen, es ist kein Bettelweib im
+            Orte, die nicht was besseres an diesem Fest verehrte.",0,150,character_speech,1,13,,VIREN.,#viren,731.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1260,1260,1260,GerDracor/arnim-jerusalem.xml,"Ich möchte deine Braut nicht sein, ich glaub, du bringst ihr welke Blumen und ein
+            langes Lied zur Morgengabe.",0,121,character_speech,1,13,,BROMLY.,#bromly,732.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1261,1261,1261,GerDracor/arnim-jerusalem.xml,"So stört ihr mich in meinem Glück, doch seht gleich stört der Himmel euch in eurem
+            Spott, seht Sidney ernst den Gang hinunter schreiten, gleich seid ihr ernst und weichet
+            ihm.",0,199,character_speech,1,13,,REISENDER.,#reisender,733.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+1262,1262,1262,GerDracor/arnim-jerusalem.xml,Alle drei ab.,0,13,stage_direction,1,13,speech_part,,#reisender,733.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1263,1263,1263,GerDracor/arnim-jerusalem.xml,Schon heller Tag!,0,17,character_speech,1,13,,SIDNEY.,#sidney,734.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+1264,1264,1264,GerDracor/arnim-jerusalem.xml,"– Das waren große Stunden, da kämpfte tief in sich mein ganzes Wesen
+            und kann ich nicht zum Tage kommen so weiß ich doch, wo mich das Dunkel drückt.",18,178,character_speech,1,13,,SIDNEY.,#sidney,734.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1265,1265,1265,GerDracor/arnim-jerusalem.xml,"– Es
+            scheint die Kirche mir jetzt enge, hat sich mein eignes Wesen so gedehnt?",179,269,character_speech,1,13,,SIDNEY.,#sidney,734.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1266,1266,1266,GerDracor/arnim-jerusalem.xml,"– so wüst, so
+            weit ist mir im Kopfe, als hätte ich in andrer Welt geschwebt.",270,358,character_speech,1,13,,SIDNEY.,#sidney,734.0,MALE,being moved,S,,1811.0,being moved,being moved
+1267,1267,1267,GerDracor/arnim-jerusalem.xml,"O wunderbare Rechenschaft
+            vor unserm eignen Wesen, wer richtet, wer warnt uns, was scheuen wir in uns, ist denn
+            nicht alles, was aus uns stammt, aus einem Wesen?",359,544,character_speech,1,13,,SIDNEY.,#sidney,734.0,MALE,being moved,S,,1811.0,being moved,being moved
+1268,1268,1268,GerDracor/arnim-jerusalem.xml,"– Es kann nicht sein – es ist ein
+            doppeltes Gewebe und durch das Netz gemeiner Fäden schlinget sich das Silber und das
+            Gold des höhern Lebens, an dem die Sonne glänzt und das kein Feuer kann verbrennen.",545,771,character_speech,1,13,,SIDNEY.,#sidney,734.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1269,1269,1269,GerDracor/arnim-jerusalem.xml,"– So
+            lang die Neugier mich von einem Bild zum andern trieb, und Wunderschauer mich ergriff
+            von tausendfachen  Zeichen jenes heilgen Lebens in dem engen Kreise, das
+            alle Welt vom Tod erlöst, da ließ sich diese Gegenwart ertragen und wie ich mir
+            verschwand so ward die Welt mir größer.",772,1103,character_speech,1,13,,SIDNEY.,#sidney,734.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1270,1270,1270,GerDracor/arnim-jerusalem.xml,"Doch wie ich sah den Felsenriß, der nach dem Tod
+            des Herrn seine Macht verkündete, da hab auch ich gefühlt daß ich noch Großes Herrliches
+            zu Gottes Ehre oft mir zugeschworen und wie das alles jetzt so fern von mir im Nebel
+            ruht.",1104,1368,character_speech,1,13,,SIDNEY.,#sidney,734.0,MALE,being moved,S,,1811.0,being moved,being moved
+1271,1271,1271,GerDracor/arnim-jerusalem.xml,"Es ging die eigene Bestimmung mir so ernst vorüber, ich wollte mit den
+            Hoffnungsbildern eigner Schöpfung reden, doch meine Zunge, wie von einem Schlag gelähmt,
+            sie rief denselben fremden Namen, Olympie, da wendeten sich die Gestalten fort von mir
+            und kannten mich nicht mehr.",1369,1680,character_speech,1,13,,SIDNEY.,#sidney,734.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1272,1272,1272,GerDracor/arnim-jerusalem.xml,"Ach dieser Name, dieser Name bezeichnet mir jetzt jeglichen
+            Gedanken und alles ist in ihr und all mein Willen ist von ihr erschöpft, der Eimer
+            steckt so fest im irdschen Sand, daß meine Kraft ihn nicht mehr von dem Boden hebt, o du
+            Erlöser erlös meine Seele von dem Übel irdscher Liebe.",1681,2003,character_speech,1,13,,SIDNEY.,#sidney,734.0,MALE,love,S,,1811.0,positive,emotions of affection
+1273,1273,1273,GerDracor/arnim-jerusalem.xml,"Im Glück und Unglück hab ich Gott
+            erkannt und war sein treuer Sohn, doch in des Zweifels Drang erkenn ich dich Erlöser und
+            deines Lebens Wahrheit, du schauest die Gedanken, du kennst des Menschen wandelbar
+            Gemüth, o Herr, du kennest meinen ernsten Willen, laß mich in deiner Gnade stehen, laß
+            nicht mein festes helles Werk in dunkler Liebe irrend untergehen, ist unvereinbar meiner
+            Thaten Lauf mit meiner Liebe Glück,  laß nicht mein höhres Streben
+            untergehen in der Vergänglichkeit.",2004,2559,character_speech,1,13,,SIDNEY.,#sidney,734.0,MALE,love,S,,1811.0,positive,emotions of affection
+1274,1274,1274,GerDracor/arnim-jerusalem.xml,"O Herr gieb mir die Klarheit wieder und die Kraft,
+            gieb mir ein einzig Zeichen deines Willens, noch immer hab ich deinem Triebe mich
+            veschlossen, ich harre nur auf dich, auf deinem Leidenwege will gern mein Herz
+            verbluten, sein Blut vermischen mit dem deinen, doch lasse meine Stirn noch in der
+            Schlacht an deiner Treuen Spitze leuchten.",2560,2945,character_speech,1,13,,SIDNEY.,#sidney,734.0,MALE,despair,S,,1811.0,negative,emotions of anxiety
+1275,1275,1275,GerDracor/arnim-jerusalem.xml,"O Herr du läßt mich nicht, ich fühle deine
+            Nähe, gewiß du giebst mir bald ein Zeichen deines Willens.",2946,3059,character_speech,1,13,,SIDNEY.,#sidney,734.0,MALE,fear,S,,1811.0,negative,emotions of anxiety
+1276,1276,1276,GerDracor/arnim-jerusalem.xml,"Der Guardian des Klosters, einer der drei Alten, tritt zu ihm.",0,62,stage_direction,1,13,speech_part,,#sidney,734.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1277,1277,1277,GerDracor/arnim-jerusalem.xml,"Geendet ist mein Morgendienst mit Gottes Hülfe, ich komm zu dir zurück mein
+            vielgeliebter Sohn.",0,107,character_speech,1,13,,GUARDIAN.,#erster_alter,735.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1278,1278,1278,GerDracor/arnim-jerusalem.xml,"Ich zeigte dir zuletzt den tiefen Riß im Felsen, du sahst in dieser
+            Kirche weitem Raum, um dieses heilgen Grabes Rand, das Leben des Erlösers in treuer
+            Darstellung erscheinen, wir führen alle Pilger durch sein heilges Leben, damit die Seele
+            ganz begreife, ganz durchdrungen werde von seinem Geist, der sich in seinem Leben wie in
+            seinem Tode gleich gespiegelt, der uns das ewig wechselnde und ewig gleiche Jahr mit
+            seiner hohen Deutsarnkeit erfüllt und tausend Wunder an uns thut, wogegen alle, womit
+            der heilge Ort verherrlicht und begnadet ist, schier ganz verschwinden.",108,752,character_speech,1,13,,GUARDIAN.,#erster_alter,735.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1279,1279,1279,GerDracor/arnim-jerusalem.xml,"Was ists daß
+            jährlich fromme Schwalben uns so viele Ölbeern bringen, die Lampen zu erfüllen, die
+            heute  von dem heilgen Licht entflammet werden, doch was ist dieser Dienst
+            der kleinen Vögel, wenn wir es mit dem Trost vergleichen, den er dem Frommen im Gebete
+            in die Seele träufelt, da geht dem Menschen auf das wahre Licht in alles Lebens
+            Zweifeln; was ist das Licht, das aus dem Grabe steiget, gegen jenes das allen Gläubigen
+            aus seinem Tod im Herzen flammet, dies alles was ihr seht ist nur ein Bild des innern
+            Lebens, mag dieses nicht die wahre Stätte sein, wo er gestorben, mag Erdbeben diese
+            heilgen Stellen ganz dem Aug entrücket haben und nur ein frommer Sinn in diesen Steinen
+            seines Lebens Spuren sich erträumet haben, o dieses Träumen ist das schönste Zeichen
+            tiefer innerer Bedeutung, sie werden tausend rohe Sinne auferwecken aus des gemeinen
+            Lebens ewigem Genießen; doch selig sind wie Christus spricht die glauben und nicht
+            sehen, doch wenige erreichen dieses Glaubens Höhe.",753,1885,character_speech,1,13,,GUARDIAN.,#erster_alter,735.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1280,1280,1280,GerDracor/arnim-jerusalem.xml,"Das spricht wohl gegen unsern Glauben, wir schämen uns des Wunderbaren in dem Leben und
+            achtens nur in der Vergangenheit.",0,133,character_speech,1,13,,SIDNEY.,#sidney,736.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1281,1281,1281,GerDracor/arnim-jerusalem.xml,"Es läßt sich manches sagen gegen euch, ihr urtheilt früher als ihr habt empfunden, doch
+            ihr seid stark in euerm Glauben, ihr glaubt an Christus, das ist genug, wir alle weichen
+            hier in allerlei Gewohnheit ab, in allen den Begriffen, da fällt uns eure Lehre gar
+            nicht auf, wir ehren sie wenn sie euch genüget.",0,344,character_speech,1,13,,GUARDIAN.,#erster_alter,737.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1282,1282,1282,GerDracor/arnim-jerusalem.xml,"Mir genügt sie nicht ehrwürdger Vater, mir fehlt bei uns ich weiß es jetzt bestimmt
+            dies äußere mich immer wieder mahnde Reich des Herrn; die innere Andacht kann in jedem
+            Gläubigen erwachen; was hilft der Wille ohne That, der in Gedanken wie ein Fluß im Sande
+            sich verirret und verliert.",0,323,character_speech,1,13,,SIDNEY.,#sidney,738.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1283,1283,1283,GerDracor/arnim-jerusalem.xml,O sagt was ist bei uns de Glaubens wegen noch geschehen?,324,380,character_speech,1,13,,SIDNEY.,#sidney,738.0,MALE,being moved,S,,1811.0,being moved,being moved
+1284,1284,1284,GerDracor/arnim-jerusalem.xml,"Ein
+            jeder braucht ihn nur für sich in müßgen Augenblicken, die Welt hat keine Freude mehr an
+            ihm; daß ich zum heilgen Grabe bin gewallt, das würde unsern Predgern Thorheit scheinen
+            und wären sie nun hier, statt aller heiligen Erhebung erzählten sie von eueren
+            Gebräuchen wie von Wahnsinnspossen.",381,724,character_speech,1,13,,SIDNEY.,#sidney,738.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+1285,1285,1285,GerDracor/arnim-jerusalem.xml,"Heut als ich in der Nacht den Vollmond scheinen sah
+            durch diese bunten Scheiben, da fühlte ich daß uns bei allem Reichthum, der aus dem Ost
+            und West der Wahren Pracht uns lockt gar vieles fehlt; nie hätte ich zu dieser Zeit
+            gewacht als zum Geschäft, wir wissen nur durch Stille unsern Feiertag zu heiligen, doch
+            meine Feier müßte jubelnd sein und alle Zeit umfassen, der herrlichste Gesang, der
+            schönsten Bilder Pracht müßt alle Elemente unterworfen zeigen, und was ein frommer Sinn
+            erfunden das müßte nicht als Neuerung besprochen werden, nein, frei und offen müßte es
+            sich zeigen und gleiche Sinne locken und verbinden, oder still in sich verblühn.",725,1459,character_speech,1,13,,SIDNEY.,#sidney,738.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1286,1286,1286,GerDracor/arnim-jerusalem.xml,"Du hast ein großes Wort gesprochen, du fühlst was allem Glauben unsrer
+            Tage fehlt, nicht deines Volkes Glauben nur allein, das thätig Strebende das alles
+            anpaßt und den Glauben bindet und nicht als angewohnte Überlieferung das ewig
+            Neuerschaffene im Herzen kennet.",0,300,character_speech,1,13,,GUARDIAN.,#erster_alter,739.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1287,1287,1287,GerDracor/arnim-jerusalem.xml,"Doch sieh, auch unserm Glauben fehlt jetzt diese Kraft,
+            wir zehren auch von einer reichen Vorzeit Überfluß und legen keinen Wein der Zukunft ein
+            und plötzlich wird der Keller dann geleert sich finden – und darum bleib bei jenem
+            ernsten Glauben der dich bei Akre hat gestärkt, die Welt muß ihn durchlaufen eh sie sich
+            schaffend dehnen kann, – doch findest du in deinem Volke oder in der Fremde viele die
+            jenen hehren Mondenschimmer kennen, der dich durch wunderbarliche Geschichten in den
+            Fenstern angeblickt, die achten was die Sinne reizt und sich nicht dran versündigen, da
+            binde sie in treuer Freundschaft fest zusammen, dein Land giebt Freiheit allem Glauben,
+            so sollt es sein in aller Welt.",301,1092,character_speech,1,13,,GUARDIAN.,#erster_alter,739.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1288,1288,1288,GerDracor/arnim-jerusalem.xml,Doch glaub ich nicht daß du zu diesem Werk berufen.,1093,1144,character_speech,1,13,,GUARDIAN.,#erster_alter,739.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1289,1289,1289,GerDracor/arnim-jerusalem.xml,"O sprich wozu bin ich berufen, in Zweifeln irret meine Seele; kann ich das Glück und
+            auch die That erfassen, das sage mir mit einem Wort, ich nehme es als eine Stimme aus
+            der höhern Welt, bedenk ob du dazu berufen bist dies Wort mir zu verkünden.",0,270,character_speech,1,13,,SIDNEY.,#sidney,740.0,MALE,being moved,S,,1811.0,being moved,being moved
+1290,1290,1290,GerDracor/arnim-jerusalem.xml,Ich bins.,0,9,character_speech,1,13,,GUARDIAN.,#erster_alter,741.0,MALE,love,S,,1811.0,positive,emotions of affection
+1291,1291,1291,GerDracor/arnim-jerusalem.xml,Nur im Entbehren findest du die Kraft.,10,48,character_speech,1,13,,GUARDIAN.,#erster_alter,741.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1292,1292,1292,GerDracor/arnim-jerusalem.xml,Ab.,0,3,stage_direction,1,13,inner_speech,,#erster_alter,741.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1293,1293,1293,GerDracor/arnim-jerusalem.xml,"Weh mir, er sprach das Wort, weh mir, o haltet mich ihr Mauern, warum ist mir so
+            Schweres aufgebürdet, warum soll ich entbehren wo Schuldige genießen, im seligen Genuß
+            den Herrn erkennen.",0,211,character_speech,1,13,,SIDNEY.,#sidney,742.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1294,1294,1294,GerDracor/arnim-jerusalem.xml,"Weh mir, da kommt sie lieblicher als je, und nahet sich als hätte
+            sie in Liebe mich erwählt, was soll ich sprechen zu der Vielgeliebten.",212,360,character_speech,1,13,,SIDNEY.,#sidney,742.0,MALE,love,S,,1811.0,positive,emotions of affection
+1295,1295,1295,GerDracor/arnim-jerusalem.xml,Olympie und die Äbtissin treten auf.,0,36,stage_direction,1,13,speech_part,,#sidney,742.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1296,1296,1296,GerDracor/arnim-jerusalem.xml,"Du siehst ihn liebe Tochter, sprich jetzt zu ihm so wie dein Herz dir sagt, ich kann
+            ihm deine Worte nicht verkünden.",0,129,character_speech,1,13,,ÄBTISSIN.,#aebtissin,743.0,FEMALE,love,S,,1811.0,positive,emotions of affection
+1297,1297,1297,GerDracor/arnim-jerusalem.xml,Mein gütger Freund.,0,19,character_speech,1,13,,OLYMPIE.,#olympie,744.0,FEMALE,friendship,S,,1811.0,positive,emotions of affection
+1298,1298,1298,GerDracor/arnim-jerusalem.xml,"O sprecht von meiner Güte nicht, o sprecht von meiner Liebe.",0,60,character_speech,1,13,,SIDNEY.,#sidney,745.0,MALE,love,S,,1811.0,positive,emotions of affection
+1299,1299,1299,GerDracor/arnim-jerusalem.xml,"Ich soll in heilgen Grabe einen Bruder finden, so ist mir einst verkündet, ich finde
+            euch, o seid mein Bruder, mein vielverehrter Bruder, das Unglück hat mein irdisch Dasein
+            ausgelöscht, laßt mir den Frieden eines stillen Klosters; unwerth bin ich dem frischen
+            Leben einer neuen Welt das in euch strahlt.",0,340,character_speech,1,13,,OLYMPIE.,#olympie,746.0,FEMALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1300,1300,1300,GerDracor/arnim-jerusalem.xml,"O setzt mich nicht so tief herab daß ihr mich trennt von euch, ach eure Demuth ist so
+            grausam wie der Stolz in andern Frauen.",0,137,character_speech,1,13,,SIDNEY.,#sidney,747.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1301,1301,1301,GerDracor/arnim-jerusalem.xml,Sollt ich in Demuth nicht vor euch erscheinen?,0,46,character_speech,1,13,,OLYMPIE.,#olympie,748.0,FEMALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1302,1302,1302,GerDracor/arnim-jerusalem.xml,"Ich will den Kindern lehren Gebet und
+            Schrift, die Sprache und den Glauben, ihr edler Freund, ihr redet zu der Welt in Thaten,
+            sie glaubt au euch, wir sind vereint, wir sind getrennt, getrennt vor
+            dieser Welt, in höherm Sinn verbunden, so hat die ewge Weisheit über uns
+            beschlossen.",47,377,character_speech,1,13,,OLYMPIE.,#olympie,748.0,FEMALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1303,1303,1303,GerDracor/arnim-jerusalem.xml,"So ists beschlossen – und so sollt es sein, ich bin vernichtet und doch rufe ich, so
+            sollt es sein; o gebet nur ein Zeichen der Gewißheit, nur ein Angedenken daß eine höhre
+            Hand uns trennt.",0,213,character_speech,1,13,,SIDNEY.,#sidney,749.0,MALE,despair,S,,1811.0,negative,emotions of anxiety
+1304,1304,1304,GerDracor/arnim-jerusalem.xml,übergiebt ihm ihr Kind.,0,23,stage_direction,1,13,speech_part,,#olympie,750.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1305,1305,1305,GerDracor/arnim-jerusalem.xml,"Hier ist das schönste liebste Angedenken, mein einzig Kind, es soll dem Vaterlande
+            dienen, ihr sollet ihm ein Vater werden, mit diesem Schmerzenskusse geb ichs euch, es
+            soll der Welt gehören, in allen seinen Kräften sie erkennen, ein Frauenkloster ziemet
+            nicht dem Knaben, führt es zu Thaten ein ins Leben, ich bin dem Himmel scholl vermählt.",0,378,character_speech,1,13,,OLYMPIE,#olympie,750.0,FEMALE,love,S,,1811.0,positive,emotions of affection
+1306,1306,1306,GerDracor/arnim-jerusalem.xml,Ab nach dem Chore.,0,18,stage_direction,1,13,inner_speech,,#olympie,750.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1307,1307,1307,GerDracor/arnim-jerusalem.xml,"Gott schenk euch Trost, es ist des Himmels Werk, nicht meine Überredung, daß diese
+            fromme Seele in den Orden eingetreten.",0,133,character_speech,1,13,,ÄBTISSIN.,#aebtissin,751.0,FEMALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1308,1308,1308,GerDracor/arnim-jerusalem.xml,"In diesem heißen Land ist ihre Andacht schnell
+            erblüht, sie ist die erste reine Lilie auf dem Grabe Christi die ich geschaut, ihr seid
+            das erste Christenschwert dem ich vertraue.",134,336,character_speech,1,13,,ÄBTISSIN.,#aebtissin,751.0,FEMALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1309,1309,1309,GerDracor/arnim-jerusalem.xml,Ab nach dem Chore.,0,18,stage_direction,1,13,inner_speech,,#aebtissin,751.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1310,1310,1310,GerDracor/arnim-jerusalem.xml,Ich sollt ein Schwert des Ewgen sein und fühl sein Schwert in meinem Herzen.,0,76,character_speech,1,13,,SIDNEY.,#sidney,752.0,MALE,love,S,,1811.0,positive,emotions of affection
+1311,1311,1311,GerDracor/arnim-jerusalem.xml,"O könnt
+            ich weinen, doch das versagte mir sogar der Herr zum Trost.",77,156,character_speech,1,13,,SIDNEY.,#sidney,752.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1312,1312,1312,GerDracor/arnim-jerusalem.xml,"Weh mir da ich so ungeheure
+            Schmerzen kann ertragen, ich fühle daß dies nicht die",157,250,character_speech,1,13,,SIDNEY.,#sidney,752.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1313,1313,1313,GerDracor/arnim-jerusalem.xml, letzten sind.,0,14,character_speech,1,13,,SIDNEY.,#sidney,752.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1314,1314,1314,GerDracor/arnim-jerusalem.xml,"–
+            Gelobt sei Gott in der Verzweiflung, gelobt sei Gott, jetzt weiß ich was ich muß.",15,110,character_speech,1,13,,SIDNEY.,#sidney,752.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+1315,1315,1315,GerDracor/arnim-jerusalem.xml,Ab.,0,3,stage_direction,1,13,inner_speech,,#sidney,752.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1316,1316,1316,GerDracor/arnim-jerusalem.xml,"Der Bube als Einsiedler gekleidet mit einer Kreuzfahne tritt ein von vielen kleinen
+            Hirten und Hirtinnen begleitet, mühsam schleichen ihm Cardenio und Celinde nach.",0,176,stage_direction,1,13,speech_part,,#sidney,752.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1317,1317,1317,GerDracor/arnim-jerusalem.xml,"
+            Wir haben Jesus wohl erkannt,
+            Da er mit uns gespielt,
+            Daß er vom höchsten Gott gesandt,
+            Das haben wir gefühlt,
+            An seiner Blicke Wunderkraft,
+            An seiner Worte Meisterschaft.",0,244,character_speech,1,13,,HIRTINNEN.,#hirtinnen,753.0,FEMALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1318,1318,1318,GerDracor/arnim-jerusalem.xml,"
+            Erst war er klein, dann ward er groß,
+            Doch macht er sich von uns nicht los,
+            Er sprach noch wie in alter Zeit,
+            Als er berühmt so weit und breit.",0,192,character_speech,1,13,,HIRTEN.,#hirten,754.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1319,1319,1319,GerDracor/arnim-jerusalem.xml,"
+            Wir gehen ihm nun treulich nach,
+            Bis wir erreicht sein heilges Dach.",0,93,character_speech,1,13,,BUBE.,#kleiner_bube,755.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1320,1320,1320,GerDracor/arnim-jerusalem.xml,"
+            Die Welt wird jährlich wieder jung,
+            Die Weihnacht hell von Freuden klung,
+            Da sangen wir so hoch so tief,
+            Als noch der kleine Jesus schlief,
+            Wir grüßten ihn als arme Hirten
+            Und unsre Schäflein sich verirrten,
+            Wir suchten sie in allen Landen
+            Und als wir sie dann endlich fanden,
+            Da seufzte Jesus schon am Kreuze,
+            Da reute uns die weite Reise,
+            Doch als der Herr dann lag im Grab,
+            Da sank uns allen der Wanderstab.",0,555,character_speech,1,13,,ALLE.,#hirtinnen #hirten #kleiner_bube,756.0,UNKNOWN,joy,S,,1811.0,positive,emotions of pleasure
+1321,1321,1321,GerDracor/arnim-jerusalem.xml,"Wir harren an dem Grabesthor
+            Bis er zum Himmel steigt empor.",568,640,character_speech,1,13,,ALLE.,#hirtinnen #hirten #kleiner_bube,756.0,UNKNOWN,no_annotation,S,,1811.0,no_annotation,no_annotation
+1322,1322,1322,GerDracor/arnim-jerusalem.xml,"
+            Ich pflanze meine Fahne ein
+            Hier an des Herren Grabesstein.",0,84,character_speech,1,13,,BUBE.,#kleiner_bube,757.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1323,1323,1323,GerDracor/arnim-jerusalem.xml,"Du heilger Gott, ich glaub ich bin im Grabe, es ist so dunkel hier.",0,67,character_speech,1,13,,CARDENIO.,#cardenio,758.0,MALE,despair,S,,1811.0,negative,emotions of anxiety
+1324,1324,1324,GerDracor/arnim-jerusalem.xml,"So ruhen wir zusammen, wo reine Liebe wohnt, dem irdschen Trieb entladen.",0,73,character_speech,1,13,,CELINDE.,#celinde,759.0,FEMALE,love,S,,1811.0,positive,emotions of affection
+1325,1325,1325,GerDracor/arnim-jerusalem.xml,"Noch lebet ihr auf Erden, wir sind gewürdigt das irdische Leben unsers Herrn
+            anzuschauen, des Lichtes Wunder zu erblicken.",0,134,character_speech,1,13,,BUBE.,#kleiner_bube,760.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1326,1326,1326,GerDracor/arnim-jerusalem.xml,"Du heilger Gott, gieb mir die Stärke unsre Kerzen mit diesem heilgen reinen Lichte zu
+            entzünden, daß ich darauf mag sehen in dem Sterben, wenn mir die Augen löschen aus.",0,181,character_speech,1,13,,CARDENIO.,#cardenio,761.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1327,1327,1327,GerDracor/arnim-jerusalem.xml,Laß mich in deine Augen sehen.,0,30,character_speech,1,13,,CELINDE.,#celinde,762.0,FEMALE,love,S,,1811.0,positive,emotions of affection
+1328,1328,1328,GerDracor/arnim-jerusalem.xml,"Schleicht hier zur Seite armen Freunde, ihr seid so schwach und bald wird sich die
+            Kirchenthüre öffnen.",0,115,character_speech,1,13,,BUBE.,#kleiner_bube,763.0,MALE,compassion,S,,1811.0,negative,emotions of suffering and empathy
+1329,1329,1329,GerDracor/arnim-jerusalem.xml,Sie treten auf die Seite.,0,25,stage_direction,1,13,inner_speech,,#kleiner_bube,763.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1330,1330,1330,GerDracor/arnim-jerusalem.xml,"Es öffnet sich die Kirchenthüre, geführt vom Guardian tritt Sidney herein, paarweis
+            folgen alle andern Engländer und einige Pilger.",0,143,stage_direction,1,13,speech_part,,#kleiner_bube,763.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1331,1331,1331,GerDracor/arnim-jerusalem.xml,Kirchengesang.,0,14,stage_direction,1,13,speech_part,,#chor_der_nonnen,764.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1332,1332,1332,GerDracor/arnim-jerusalem.xml,"Veni sancte spiritus, reple tuorum corda fidelium et tui amoris in eis ignem
+              accende, qui per diversitatem linguarum cunctarum gentes in unitate fidei congreavit.",0,176,character_speech,1,13,,CHOR DER NONNEN,#chor_der_nonnen,764.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1333,1333,1333,GerDracor/arnim-jerusalem.xml,Alleluja.,191,200,character_speech,1,13,,CHOR DER NONNEN,#chor_der_nonnen,764.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1334,1334,1334,GerDracor/arnim-jerusalem.xml,Alleluja.,201,210,character_speech,1,13,,CHOR DER NONNEN,#chor_der_nonnen,764.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1335,1335,1335,GerDracor/arnim-jerusalem.xml,Die Griechen und Armenianer drängen sich gegen einander durch zwei Thüren.,0,74,stage_direction,1,13,speech_part,,#chor_der_nonnen,764.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1336,1336,1336,GerDracor/arnim-jerusalem.xml,"Nein wir halten vor die Fahnen, uns gebührt die Gnadennähe an des Grabes heilgem
+            Rand.",0,98,character_speech,1,13,,GRIECHEN.,#griechen,765.0,UNKNOWN,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1337,1337,1337,GerDracor/arnim-jerusalem.xml,"Allen Christen steht der Himmel offen, allen Christen ist das Grab des Herrn eigen,
+            denn es starb der Herr für alle Seelen.",0,135,character_speech,1,13,,ARMENIANER.,#armenianer,766.0,UNKNOWN,joy,S,,1811.0,positive,emotions of pleasure
+1338,1338,1338,GerDracor/arnim-jerusalem.xml,"Haltet eure Fahnen vor, dränget zu der heilgen
+            Quelle, unser Blut gehört dem Herrn denn er gab für uns das Blut.",136,260,character_speech,1,13,,ARMENIANER.,#armenianer,766.0,UNKNOWN,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1339,1339,1339,GerDracor/arnim-jerusalem.xml,"Griechische Männer zeiget eures frommen Sinnes wandellose Festigkeit, eurer Ahnherrn
+            hohen Muth, der im Heidenthum gegolten, wie viel höher jetzt für Christus.",0,171,character_speech,1,13,,GRIECHEN.,#griechen,767.0,UNKNOWN,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1340,1340,1340,GerDracor/arnim-jerusalem.xml,Schont der Schwachen die zum Heil sich sehnen.,0,46,character_speech,1,13,,CARDENIO.,#cardenio,768.0,MALE,compassion,S,,1811.0,negative,emotions of suffering and empathy
+1341,1341,1341,GerDracor/arnim-jerusalem.xml,Euer Drängen reißt mich nieder.,47,78,character_speech,1,13,,CARDENIO.,#cardenio,768.0,MALE,anger,S,,1811.0,negative,emotions of rejection
+1342,1342,1342,GerDracor/arnim-jerusalem.xml,"Dränget wie zu Gottes Gnade durch die schwarze Finsterniß, wie zum Lichtstrahl, wie das
+            Kind zur Mutterbrust.",0,121,character_speech,1,13,,ARMENIANER.,#armenianer,769.0,UNKNOWN,no_annotation,S,,1811.0,no_annotation,no_annotation
+1343,1343,1343,GerDracor/arnim-jerusalem.xml,"Harte Männer tretet ihr den heilgen Mann mit Füßen, zu dem Heile zu gelangen.",0,77,character_speech,1,13,,CELINDE.,#celinde,770.0,FEMALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1344,1344,1344,GerDracor/arnim-jerusalem.xml,"Weh
+            Cardenio du bis verloren.",78,119,character_speech,1,13,,CELINDE.,#celinde,770.0,FEMALE,despair,S,,1811.0,negative,emotions of anxiety
+1345,1345,1345,GerDracor/arnim-jerusalem.xml,"Haltet fest an euerm Glauben, steht wie Mauern fest gekettet, und die Lebenden die
+            Todten sollen noch verbunden stehen.",0,131,character_speech,1,13,,GRIECHEN.,#griechen,771.0,UNKNOWN,friendship,S,,1811.0,positive,emotions of affection
+1346,1346,1346,GerDracor/arnim-jerusalem.xml,Weh mir.,0,8,character_speech,1,13,,CARDENIO.,#cardenio,772.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1347,1347,1347,GerDracor/arnim-jerusalem.xml,Weh!,9,13,character_speech,1,13,,CARDENIO.,#cardenio,772.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1348,1348,1348,GerDracor/arnim-jerusalem.xml,"Mein Gott mein Herr, welche Marter, welch Zerfleischen unter dieser
+            Christen Füßen.",14,109,character_speech,1,13,,CARDENIO.,#cardenio,772.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1349,1349,1349,GerDracor/arnim-jerusalem.xml,Gnädger Gott beschütz Celinden.,110,141,character_speech,1,13,,CARDENIO.,#cardenio,772.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1350,1350,1350,GerDracor/arnim-jerusalem.xml,"Der Sturm wird im Dunkel immer schrecklicher, Cardenio",0,54,stage_direction,1,13,speech_part,,#cardenio,772.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1351,1351,1351,GerDracor/arnim-jerusalem.xml,Kirchengesang.,0,14,stage_direction,1,13,speech_part,,#chor_der_nonnen,773.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1352,1352,1352,GerDracor/arnim-jerusalem.xml,"
+            Erstanden ist der heilge Geist,
+            Der aller Welt ein Tröster heißt.",0,90,character_speech,1,13,,CHOR DER NONNEN,#chor_der_nonnen,773.0,FEMALE,joy,S,,1811.0,positive,emotions of pleasure
+1353,1353,1353,GerDracor/arnim-jerusalem.xml,Halleluja.,91,101,character_speech,1,13,,CHOR DER NONNEN,#chor_der_nonnen,773.0,FEMALE,joy,S,,1811.0,positive,emotions of pleasure
+1354,1354,1354,GerDracor/arnim-jerusalem.xml,"Und wär er nicht erstanden,
+            So wär die Welt vergangen.",114,180,character_speech,1,13,,CHOR DER NONNEN,#chor_der_nonnen,773.0,FEMALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1355,1355,1355,GerDracor/arnim-jerusalem.xml,"Es gingen drei heilge Frauen
+            Des Morgens früh im Thauen.",193,261,character_speech,1,13,,CHOR DER NONNEN,#chor_der_nonnen,773.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1356,1356,1356,GerDracor/arnim-jerusalem.xml,"Die Weiber kamen zu dem Grab,
+            Sie brachten Salben mit hinab.",274,346,character_speech,1,13,,CHOR DER NONNEN,#chor_der_nonnen,773.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1357,1357,1357,GerDracor/arnim-jerusalem.xml,"Sie suchten unsern Jesum Christ,
+            Der von dem Tod erstanden ist.",359,434,character_speech,1,13,,CHOR DER NONNEN,#chor_der_nonnen,773.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1358,1358,1358,GerDracor/arnim-jerusalem.xml,"Und in dem Grab zwei Engel sahn,
+            Die trösten die Frauen lobesan.",447,523,character_speech,1,13,,CHOR DER NONNEN,#chor_der_nonnen,773.0,FEMALE,joy,S,,1811.0,positive,emotions of pleasure
+1359,1359,1359,GerDracor/arnim-jerusalem.xml,"»Ach Engel, liebe Engel fein,
+            Wo find ich denn den Herren mein?«
+            Er ist erstanden aus dem Grab,
+            Heut an dem heilgen Ostertag.",536,697,character_speech,1,13,,CHOR DER NONNEN,#chor_der_nonnen,773.0,FEMALE,joy,S,,1811.0,positive,emotions of pleasure
+1360,1360,1360,GerDracor/arnim-jerusalem.xml,"»Zeig uns den Herren Jesum Christ,
+            Der von dem Tod erstanden ist.«
+            So tretet zu der heilgen Statt,
+            Wo man ihn hingeleget hat.",710,871,character_speech,1,13,,CHOR DER NONNEN,#chor_der_nonnen,773.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1361,1361,1361,GerDracor/arnim-jerusalem.xml,"Seht an das Tuch, darin er lag
+            Gewickelt bis zum dritten Tag.",884,957,character_speech,1,13,,CHOR DER NONNEN,#chor_der_nonnen,773.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1362,1362,1362,GerDracor/arnim-jerusalem.xml,"»Wir sehens wohl zu dieser Frist,
+            Zeigt uns den Herren Jesum Christ.«
+            Seht an das Licht in dunkler Zeit,
+            Das ist der Herr, der ist nicht weit.",970,1148,character_speech,1,13,,CHOR DER NONNEN,#chor_der_nonnen,773.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1363,1363,1363,GerDracor/arnim-jerusalem.xml,Halleluja.,1149,1159,character_speech,1,13,,CHOR DER NONNEN,#chor_der_nonnen,773.0,FEMALE,joy,S,,1811.0,positive,emotions of pleasure
+1364,1364,1364,GerDracor/arnim-jerusalem.xml,"Der kleine Bube hat Cardenios Licht zuerst angezündet,",0,54,stage_direction,1,13,speech_part,,#chor_der_nonnen,773.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1365,1365,1365,GerDracor/arnim-jerusalem.xml,"Du lebst noch, siehst das Licht?",0,32,character_speech,1,13,,CELINDE.,#celinde,774.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1366,1366,1366,GerDracor/arnim-jerusalem.xml,Ach unsrer Wunden Blut fließt hier zusammen.,33,77,character_speech,1,13,,CELINDE.,#celinde,774.0,FEMALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1367,1367,1367,GerDracor/arnim-jerusalem.xml,"Lobt Gott der große Wunder wirkt, der wilde Sturm der Christen zu dem heilgen Grabe hat
+            mich in Staub getreten und erleuchtet.",0,138,character_speech,1,13,,CARDENIO.,#cardenio,775.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1368,1368,1368,GerDracor/arnim-jerusalem.xml,kommt vom Chore herab.,0,22,stage_direction,1,13,speech_part,,#olympie,776.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1369,1369,1369,GerDracor/arnim-jerusalem.xml,"Mein Bruder, mein Bruder, so jammervoll zerschmettert muß ich dich hier wiederfinden,
+            du armer Märtyrer.",0,116,character_speech,1,13,,OLYMPIE,#olympie,776.0,FEMALE,compassion,S,,1811.0,negative,emotions of suffering and empathy
+1370,1370,1370,GerDracor/arnim-jerusalem.xml,"Du bists, du liebst mich, du er kennst mich, wie hast du mich so brüderlich
+            erkannt.",0,96,character_speech,1,13,,CARDENIO.,#cardenio,777.0,MALE,love,S,,1811.0,positive,emotions of affection
+1371,1371,1371,GerDracor/arnim-jerusalem.xml,"Dem Pflegevater hat es uns verkündet – doch sprich jetzt nicht, schon eilen fromme
+            Schwestern deine Wunden mild zu salben.",0,134,character_speech,1,13,,OLYMPIE.,#olympie,778.0,FEMALE,compassion,S,,1811.0,negative,emotions of suffering and empathy
+1372,1372,1372,GerDracor/arnim-jerusalem.xml,"Auf Erden hilft mir nichts, dir sah ich noch so freudenhell ins Auge bei diesem heilgen
+            Licht, und diese Freude ist so sturmlos, ist so sicher.",0,155,character_speech,1,13,,CARDENIO.,#cardenio,779.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+1373,1373,1373,GerDracor/arnim-jerusalem.xml,"Sieh hier Celinden, sie ist zum
+            Heil gelangt.",156,213,character_speech,1,13,,CARDENIO.,#cardenio,779.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+1374,1374,1374,GerDracor/arnim-jerusalem.xml,kommt.,0,6,stage_direction,1,13,speech_part,,#viren,780.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1375,1375,1375,GerDracor/arnim-jerusalem.xml,"Weh mir, sie ists!",0,18,character_speech,1,13,,VIREN,#viren,780.0,MALE,despair,S,,1811.0,negative,emotions of anxiety
+1376,1376,1376,GerDracor/arnim-jerusalem.xml,"So muß ich dich Celinde hier in Noth und Elend sehen, mit Blut
+            bedeckt, von falschen Christen hier zerschmettert.",19,144,character_speech,1,13,,VIREN,#viren,780.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1377,1377,1377,GerDracor/arnim-jerusalem.xml,"Wir wurden nirgend aufgenommen in der Nacht, ich muß verschmachten und fühle mich so
+            glücklich, wir wurden hier im Heiligthum der Kirche in den Staub getreten, ich fühl mich
+            glücklich in dem neuen Lichte.",0,228,character_speech,1,13,,CELINDE.,#celinde,781.0,FEMALE,joy,S,,1811.0,positive,emotions of pleasure
+1378,1378,1378,GerDracor/arnim-jerusalem.xml,"Jetzt weiß ich alles, von meinem Lager bist du fortgewiesen, die ich nach meinem Lager
+            tausendmal ersehnt, ich hörte deine Stimme und folgte ihr doch nicht, o Gott so hab ich
+            deine Stimme oft vernommen und bin ihr nicht gefolgt.",0,252,character_speech,1,13,,VIREN.,#viren,782.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1379,1379,1379,GerDracor/arnim-jerusalem.xml,"Du Heilige verzeihe mir, dein
+            Wandel bricht die Kälte meines Herzens, ich fühl den warmen Strom des Heiles in mir
+            rinnen.",253,398,character_speech,1,13,,VIREN.,#viren,782.0,MALE,love,S,,1811.0,positive,emotions of affection
+1380,1380,1380,GerDracor/arnim-jerusalem.xml,Er kniet nieder bei ihr.,0,24,stage_direction,1,13,inner_speech,,#viren,782.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1381,1381,1381,GerDracor/arnim-jerusalem.xml,"Kann ich euch Armen hülfreich sein, ich bringe Öl und Wein.",0,59,character_speech,1,13,,GUARDIAN.,#erster_alter,783.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1382,1382,1382,GerDracor/arnim-jerusalem.xml,Gieb einen Tropfen Öl in meine Schläfe.,0,39,character_speech,1,13,,CELINDE.,#celinde,784.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1383,1383,1383,GerDracor/arnim-jerusalem.xml,er giebt ihr die letzte Ölung.,0,30,stage_direction,1,13,speech_part,,#erster_alter,785.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1384,1384,1384,GerDracor/arnim-jerusalem.xml,Zieh hin in Frieden.,0,20,character_speech,1,13,,GUARDIAN,#erster_alter,785.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1385,1385,1385,GerDracor/arnim-jerusalem.xml,"
+            In mir so tief verschlossen,
+            Was brennt so lichterloh,
+            Hat mir die Welt erschlossen,
+            Und macht mich einzig froh,
+            Ich möchte ihn wohl schauen
+            Der dort im Innern haust,
+            Ich konnt mich ihm vertrauen,
+            Als mich der Sturm umbraust.",0,322,character_speech,1,13,,CELINDE.,#celinde,786.0,FEMALE,love,S,,1811.0,positive,emotions of affection
+1386,1386,1386,GerDracor/arnim-jerusalem.xml,"
+            Er hob mich über Wogen,
+            Er trug mich übers Eis,
+            Mit Jesu bin ich gezogen
+            So froh in heilgem Fleiß.",0,147,character_speech,1,13,,CELINDE.,#celinde,786.0,FEMALE,joy,S,,1811.0,positive,emotions of pleasure
+1387,1387,1387,GerDracor/arnim-jerusalem.xml,"Er hat in dunkeln Träumen
+            Mein schwaches Herz erfüllt,
+            Wenn hoch die Wellen schäumen,
+            Ein Tropfen Öl sie stillt.",160,308,character_speech,1,13,,CELINDE.,#celinde,786.0,FEMALE,love,S,,1811.0,positive,emotions of affection
+1388,1388,1388,GerDracor/arnim-jerusalem.xml,"
+             Dies letzte Öl soll geben
+            Dem Tode Lebensmuth,
+            Den Schranken mich entheben,
+            In seiner innern Gluth;
+            Durchs Dunkel werd ich sehen
+            In Seines Lichtes Kraft,
+            Und leitend euch beistehen,
+            Frei von des Leibes Haft.",0,305,character_speech,1,13,,CELINDE.,#celinde,786.0,FEMALE,love,S,,1811.0,positive,emotions of affection
+1389,1389,1389,GerDracor/arnim-jerusalem.xml,"Ihr Licht verlöscht, sie stirbt.",0,32,stage_direction,1,13,speech_part,,#celinde,786.0,FEMALE,despair,S,,1811.0,negative,emotions of anxiety
+1390,1390,1390,GerDracor/arnim-jerusalem.xml,"O leite mich auf deinen frommen Weg, wie du mich sonst geleitet zu dem Bösen.",0,77,character_speech,1,13,,VIREN.,#viren,787.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1391,1391,1391,GerDracor/arnim-jerusalem.xml,"Die
+            Heilige stirbt, sie ist gestorben, – schon ist sie todt; was will ich auf der Erde, an
+            ihrem Grab werd ich der Jugend Thorheit erst betrauern.",78,248,character_speech,1,13,,VIREN.,#viren,787.0,MALE,despair,S,,1811.0,negative,emotions of anxiety
+1392,1392,1392,GerDracor/arnim-jerusalem.xml,"Fahr wohl du Mitgenossin schwerer Prüfungszeit, hier sterb auch ich, hier bin ich nah
+            dem Paradiese, doch kann ich noch nicht sterben, die Mutter wird mir hier erscheinen und
+            mich zur Ruhe bringen.",0,221,character_speech,1,13,,CARDENIO.,#cardenio,788.0,MALE,despair,S,,1811.0,negative,emotions of anxiety
+1393,1393,1393,GerDracor/arnim-jerusalem.xml,"Geliebte Schwester sprich, wem lasse ich dich hier, ist denn
+            Lysander fern von dir?",222,317,character_speech,1,13,,CARDENIO.,#cardenio,788.0,MALE,love,S,,1811.0,positive,emotions of affection
+1394,1394,1394,GerDracor/arnim-jerusalem.xml,"Er ist im Himmel – ich bin im Kloster, bete singe und lehre Gottes Wort den armen
+            Kindern, mein Kind wird wachsen unter Sidneys Augen.",0,146,character_speech,1,13,,OLYMPIE.,#olympie,789.0,FEMALE,joy,S,,1811.0,positive,emotions of pleasure
+1395,1395,1395,GerDracor/arnim-jerusalem.xml,So ist für alle wohl gesorgt.,0,29,character_speech,1,13,,CARDENIO.,#cardenio,790.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1396,1396,1396,GerDracor/arnim-jerusalem.xml,"Geliebte Schwester leb in Frieden, was mich wie schuldge
+            Liebe einst zu dir gebannt, das war des Blutes Stimme die uns verband; in böser Lust nur
+            ist sie mißverstanden, die Mutter sei gepriesen die uns mit geistgem Flügel hat
+            beschützt, o könnt ich ihr mit diesem heilgen  Lichte Ruhe geben für die
+            zweifache Ehe um die sie leidet, es würde ihr den Weg zum Himmel zeigen.",30,449,character_speech,1,13,,CARDENIO.,#cardenio,790.0,MALE,love,S,,1811.0,positive,emotions of affection
+1397,1397,1397,GerDracor/arnim-jerusalem.xml,Sie kommt.,450,460,character_speech,1,13,,CARDENIO.,#cardenio,790.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1398,1398,1398,GerDracor/arnim-jerusalem.xml,"O
+            Mutter, nun ist alles mir gewährt dir bring ich die geweihte Kerze zum Opfer dar, du
+            wirst mich führen durch des Todes Sturz, du hast ihn überstanden, was ich verbrochen
+            habe ich gebüßt o Jugendlust, so bleibt auf Erden nichts von mir als Liebesgruß.",461,749,character_speech,1,13,,CARDENIO.,#cardenio,790.0,MALE,love,S,,1811.0,positive,emotions of affection
+1399,1399,1399,GerDracor/arnim-jerusalem.xml,"Die Mutter erscheint, nimmt sein Licht, sein Leichnam sinkt nieder, seine
+            Lichtgestalt verschwindet mit ihr durch das geöffnete heilige Grab.",0,153,stage_direction,1,13,speech_part,,#cardenio,790.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1400,1400,1400,GerDracor/arnim-jerusalem.xml,"
+            Nahe sind wir hier
+            Dem Paradiese,
+            Durch des Grabes Thür
+            Ging ein Riese,
+            Wo der Felsen bis zum Grund
+            Ist zerrissen,
+            Daß wir seinen ewgen Bund
+            Innig wissen,
+            Die Erlösten gehen ein
+            Durch den offnen Grabesstein,
+            Gehen ein zum Paradies,
+            Das der Heiland uns verhieß.",0,405,character_speech,1,13,,GUARDIAN.,#erster_alter,791.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+1401,1401,1401,GerDracor/arnim-jerusalem.xml,"Heiliger Gott, es war meine Mutter, dir nach du vielgeliebte Mutter, hinab in den
+            Felsenschooß.",0,107,character_speech,1,13,,BROMLY.,#bromly,792.0,MALE,despair,S,,1811.0,negative,emotions of anxiety
+1402,1402,1402,GerDracor/arnim-jerusalem.xml,"Er will nach dem heiligen Grabe, der Guardian hält ihn.",0,55,stage_direction,1,13,speech_part,,#bromly,792.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1403,1403,1403,GerDracor/arnim-jerusalem.xml,Schmerz verwirret deine Sinne.,0,30,character_speech,1,13,,GUARDIAN.,#erster_alter,793.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1404,1404,1404,GerDracor/arnim-jerusalem.xml,"Laß mich sterben, laß mich untergehen, Thorheit, Frevel, Glaubensleere
+            haben dieses Herz befleckt, nun die Wahrheit mir erschienen, flieh ich nichts so sehr
+            auf Erden als mich selber.",0,207,character_speech,1,13,,BROMLY.,#bromly,794.0,MALE,despair,S,,1811.0,negative,emotions of anxiety
+1405,1405,1405,GerDracor/arnim-jerusalem.xml,"Gott und Christus habe ich geleugnet, meine Lust war mir der
+            Himmel, nimmer wird der Himmel mir verzeihen.",208,326,character_speech,1,13,,BROMLY.,#bromly,794.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+1406,1406,1406,GerDracor/arnim-jerusalem.xml,"Endlos ist des Himmels Gnade ist die Reue tief und dauernd, aus dem Saulus ward ein
+            Paulus, aus dem Spötter alles Glaubens wird ein Retter unsres Glaubens.",0,167,character_speech,1,13,,GUARDIAN.,#erster_alter,795.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+1407,1407,1407,GerDracor/arnim-jerusalem.xml,"Zeig mir Wege unersteiglich, die ich für den Glauben soll erklimmen, zeig mir Inseln
+            unerreichlich, Meere die mein Glauben soll durchschwimmen, fort ins Meer und aufs
+            Gebirge, mit Gazellen will ich klettern, daß mich zählt zu ihren Rettern, Christi ewge
+            Gnadenkirche.",0,303,character_speech,1,13,,BROMLY.,#bromly,796.0,MALE,despair,S,,1811.0,negative,emotions of anxiety
+1408,1408,1408,GerDracor/arnim-jerusalem.xml,"Kann nicht sprechen, kann doch handeln, Tod und Liebe mich verwandeln, für den Glauben
+            will ich sterben und die ewge Lieb erwerben.",0,143,character_speech,1,13,,VIREN.,#viren,797.0,MALE,love,S,,1811.0,positive,emotions of affection
+1409,1409,1409,GerDracor/arnim-jerusalem.xml,tritt mit einem Schwert ein.,0,28,stage_direction,1,13,speech_part,,#reisender,798.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1410,1410,1410,GerDracor/arnim-jerusalem.xml,"
+            Nein noch ist nicht das heilge Grab verloren,
+            Aus dem das ewge Leben quillt,
+            Ha meiner Andacht Strömung schwillt
+            Und kühnen Plan hat brausend sie geboren,
+            Der Himmel hat zum Ritter mich erkoren,
+            Das Heidenthum soll untergehen,
+            Ein Engel wird an meiner Seite stehen,
+            Ich hab es bei dem heilgen Grab geschworen
+            Und sollt ich kämpfend untergehen
+            Wird nimmer doch der Thaten Ruhm verwehen.",0,506,character_speech,1,13,,REISENDER,#reisender,798.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+1411,1411,1411,GerDracor/arnim-jerusalem.xml,Er kniet am Grabe.,0,18,stage_direction,1,13,speech_part,,#reisender,798.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1412,1412,1412,GerDracor/arnim-jerusalem.xml,"Ich weiß die trauervollen und die wunder baren Zeichen, die diesen Tag erschüttern, der
+            schmerzerfüllten Seele geben sie die Klarheit und die Kraft, Begeisterung zur That
+            zurück; die Gemeinschaft aller Geister, die zu allen nieder wirket, ihre Rechenschaft
+            und Gnade füllet mich mit Zuversicht und ich fühl, ich bin in ihren Händen nur ein
+            Werkzeug, und ich möcht ein Zeichen nehmen, daß sie meine Lehnherrn sind.",0,461,character_speech,1,13,,SIDNEY.,#sidney,799.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1413,1413,1413,GerDracor/arnim-jerusalem.xml,Was begehrst du?,0,16,character_speech,1,13,,GUARDIAN.,#erster_alter,800.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1414,1414,1414,GerDracor/arnim-jerusalem.xml,kniet nieder.,0,13,stage_direction,1,13,speech_part,,#sidney,801.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1415,1415,1415,GerDracor/arnim-jerusalem.xml,Ich begehr ein Ritter von dem heilgen Grab zu werden.,0,53,character_speech,1,13,,SIDNEY,#sidney,801.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1416,1416,1416,GerDracor/arnim-jerusalem.xml,"So schwöre mir daß du ein freier Mann daß du zu jeder Zeit mit deines Leibes Kraft mit
+            deines Geistes Weisheit den Glauben schützen willst.",0,151,character_speech,1,13,,GUARDIAN.,#erster_alter,802.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1417,1417,1417,GerDracor/arnim-jerusalem.xml,Ich schwörs.,0,12,character_speech,1,13,,SIDNEY.,#sidney,803.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1418,1418,1418,GerDracor/arnim-jerusalem.xml,"So sei ein treuer Ritter deines Herren Jesu Christi, ein Schützer seines heiligen
+            Grabes, zum Zeichen rühre ich dich an mit diesem heilgen Kreuzesstamm, woran er für uns
+            alle hat gelitten, ich gürte dieses Schwert um deine Lenden und hänge diese Kette um den
+            Hals, die Kette bindet dich, das Schwert beschütze dich, es giebt dir Kraft, wem du
+            vertraust, durch Ritterschlag zu gleicher Gnade ihn zu erheben.",0,454,character_speech,1,13,,GUARDIAN.,#erster_alter,804.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1419,1419,1419,GerDracor/arnim-jerusalem.xml,steht auf.,0,10,stage_direction,1,13,speech_part,,#sidney,805.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1420,1420,1420,GerDracor/arnim-jerusalem.xml,"Ich danke Gott, in dessen Namen du dieses Werk vollbracht und wer sich tüchtig glaubt zum großen Werk, den wird mein Schwert berühren, es tödtet die
+            Unwürdigen.",0,172,character_speech,1,13,,SIDNEY,#sidney,805.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1421,1421,1421,GerDracor/arnim-jerusalem.xml,Auf Segen oder Tod knie ich hier nieder.,0,40,character_speech,1,13,,BROMLY.,#bromly,806.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1422,1422,1422,GerDracor/arnim-jerusalem.xml,schlägt ihn dreimal mit dem Schwerte.,0,37,stage_direction,1,13,speech_part,,#sidney,807.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1423,1423,1423,GerDracor/arnim-jerusalem.xml,Du stehst als Ritter auf.,0,25,character_speech,1,13,,SIDNEY,#sidney,807.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1424,1424,1424,GerDracor/arnim-jerusalem.xml,Ich bin bereit zum Sterben.,0,27,character_speech,1,13,,VIREN.,#viren,808.0,MALE,despair,S,,1811.0,negative,emotions of anxiety
+1425,1425,1425,GerDracor/arnim-jerusalem.xml,schlägt ihn dreimal mit dem Schwerte.,0,37,stage_direction,1,13,speech_part,,#sidney,809.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1426,1426,1426,GerDracor/arnim-jerusalem.xml,Du stehst als Ritter auf.,0,25,character_speech,1,13,,SIDNEY,#sidney,809.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1427,1427,1427,GerDracor/arnim-jerusalem.xml,Ich bin bereit zum Sterben.,0,27,character_speech,1,13,,VIREN.,#viren,810.0,MALE,despair,S,,1811.0,negative,emotions of anxiety
+1428,1428,1428,GerDracor/arnim-jerusalem.xml,schlägt ihn dreimal mit dem Schwerte.,0,37,stage_direction,1,13,speech_part,,#sidney,811.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1429,1429,1429,GerDracor/arnim-jerusalem.xml,Du stehst als Ritter auf.,0,25,character_speech,1,13,,SIDNEY,#sidney,811.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1430,1430,1430,GerDracor/arnim-jerusalem.xml,Ich will das heilge Grab befreien von des Türken Macht.,0,55,character_speech,1,13,,DER REISENDE.,#reisender,812.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+1431,1431,1431,GerDracor/arnim-jerusalem.xml,erhebt das Schwert.,0,19,stage_direction,1,13,speech_part,,#sidney,813.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1432,1432,1432,GerDracor/arnim-jerusalem.xml,"Erst thu's, dann sags!",0,22,character_speech,1,13,,SIDNEY,#sidney,813.0,MALE,anger,S,,1811.0,negative,emotions of rejection
+1433,1433,1433,GerDracor/arnim-jerusalem.xml,"Der Reisende wendet sich beschämt fort und zieht in alle Welt und spricht vom
+            Christenthum in tausend Worten, aber seine Worte haben keine Kraft des ewigen Lebens,
+            weil seine Liebe ohne That ist, von ihm kommen alle neuen poetischen Christen, ich rede
+            von denen die es nur in ihren Liedern sind.",0,331,stage_direction,1,13,speech_part,,#sidney,813.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1434,1434,1434,GerDracor/arnim-jerusalem.xml,"Er flieht vor einer höhern Hand, ich hab das Schwert geführt wie bei den andern, doch
+            übergeb ich es zum Angedenken dieses Wunders, das meines Weges mich versichert,
+            Olympien, der tiefbetrübten, die bei der Leiche ihres Bruders trauert, in heilgen Mauern
+            sei es aufbewahrt.",0,309,character_speech,1,13,,SIDNEY.,#sidney,814.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1435,1435,1435,GerDracor/arnim-jerusalem.xml,"In meiner Hand wird dieses blutge Schwert zum Kreuz, ich geh damit voran die Todten zu
+            bestatten, sie sollen ruhn bei jenen ersten Christen die dieses heilge Grab befreit.",0,183,character_speech,1,13,,OLYMPIE.,#olympie,815.0,FEMALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1436,1436,1436,GerDracor/arnim-jerusalem.xml,"Ich trag Lysander, meinen Retter, den Gefährten meiner Thaten, meinen Freund zu Grabe,
+            er  ruh an Gottfrieds Seite, ihr Freunde singt ein freudig Lied, er hat
+            erreicht, wonach sein edles Herz getrachtet.",0,227,character_speech,1,13,,SIDNEY.,#sidney,816.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+1437,1437,1437,GerDracor/arnim-jerusalem.xml,"
+            Schwenket hoch die Freudenfahn
+            Über unserm Heldentodten,
+            Denn er fiel auf großer Bahn,
+            Und er ruht bei großen Todten,
+            Ruht bei Gottfried,
+            Der befreit das heilge Grab,
+            Gottes Fried
+            Sank auf ihn herab.",0,296,character_speech,1,13,,DIE ENGLÄNDER.,#die_englaender_13,817.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+1438,1438,1438,GerDracor/arnim-jerusalem.xml,"Heilger Krieg
+            Kränzte ihn mit Sieg.",309,356,character_speech,1,13,,DIE ENGLÄNDER.,#die_englaender_13,817.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1439,1439,1439,GerDracor/arnim-jerusalem.xml,"Lasset alle Trommeln schallen,
+            Alle Pfeifen fröhlich klingen,
+            Das Gewölb muß wiederhallen,
+            Laßt uns volle Becher bringen,
+            Gebet Feuer
+            Bei der Feier,
+            Rufet ihm ein dreifach Hurrah,
+            Singt dem Herrn Halleluja.",369,659,character_speech,1,13,,DIE ENGLÄNDER.,#die_englaender_13,817.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+1440,1440,1440,GerDracor/arnim-jerusalem.xml,"Ich trage die Geliebte hier zu Grabe ihre Schönheit, fast erlöscht in Kummer, blühet
+            aus dem Tode neu hervor, sie ruh an Balduins Seite den Schönheit in dem Leben
+            hochbeglückt.",0,200,character_speech,1,13,,VIREN.,#viren,818.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1441,1441,1441,GerDracor/arnim-jerusalem.xml,"
+            Unschuld stehe für die Schuld,
+            Die hier still zu Grab getragen,
+            Reue bringt ihr ewge Huld,
+            Und kein Sünder soll verzagen,
+            Decket sie mit Blumen zu,
+            Ihre Seele finde Ruh.",0,242,character_speech,1,13,,CHOR DER NONNEN.,#chor_der_nonnen,819.0,FEMALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1442,1442,1442,GerDracor/arnim-jerusalem.xml,"Ich trage meinen unbekannten Bruder hier zu Grabe und sehe staunend noch in den
+            erblaßten Zügen ein Wunderbild von jeder Kraft, die einst in ihm gebunden
+            war, doch wie ein Samenkorn auf dürren Fels gestreut, ist nichts auf Erden von ihm aus
+            geblühet, mag seine Seele hoch im Himmel blühen.",0,325,character_speech,1,13,,BROMLY.,#bromly,820.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1443,1443,1443,GerDracor/arnim-jerusalem.xml,"
+            Leise tönet unsre Klage
+            Um den Starken, Großen, Kühnen,
+            Der die frischen Lebenstage
+            Nicht mit Thaten konnt verdienen,
+            Sondern sie in Liebes Bann
+            Nur nach Thränen messen kann,
+            Christus hat die Lieb gebrochen,
+            Die nur mit dem Tod gekettet,
+            Und der Tag ist angebrochen
+            Der ihn von dem Tod errettet,
+            Ewger Liebe hohes Licht
+            Seiner Augen Dunkel bricht.",0,492,character_speech,1,13,,ALLE.,#chor_der_nonnen #die_englaender_13,821.0,UNKNOWN,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1444,1444,1444,GerDracor/arnim-jerusalem.xml,"Olympie nimm der Trauer und des Abschieds Kuß, er schließet meinen Mund für jede
+            Frau.",0,98,character_speech,1,13,,SIDNEY.,#sidney,822.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1445,1445,1445,GerDracor/arnim-jerusalem.xml,Ich bin die deine im Gebet.,0,27,character_speech,1,13,,OLYMPIE.,#olympie,823.0,FEMALE,love,S,,1811.0,positive,emotions of affection
+1446,1446,1446,GerDracor/arnim-jerusalem.xml,Sie küßt ihn.,0,13,stage_direction,1,13,inner_speech,,#olympie,823.0,FEMALE,love,S,,1811.0,positive,emotions of affection
+1447,1447,1447,GerDracor/arnim-jerusalem.xml,"
+            Als die Jünger in dem Dunkel saßen
+            Trat der Herr zu ihnen ein,
+            Und ein Grauen thät sie alle fassen,
+            Daß es sei ein Geisterschein,
+            Doch er sprach: Was seid ihr so verstöret,
+            Fühlt die Narben meiner Hände,
+            Daß ihr aller Welt die Wahrheit lehret,
+            Bleib ich bei euch bis zu dem Weltende.",0,380,character_speech,1,13,,CHORGESANG.,#chor_der_nonnen,824.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1448,1448,1448,GerDracor/arnim-jerusalem.xml,"Selig wer mich nicht gesehn und glaubet,
+            Auf ihn baue ich mein Haus,
+            Weil die Welt ihm nie den Glauben raubet,
+            Er besteht des Todes Graus.",393,567,character_speech,1,13,,CHORGESANG.,#chor_der_nonnen,824.0,FEMALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1449,1449,1449,GerDracor/arnim-jerusalem.xml,"
+            Selig sind die glauben
+            Und nicht sehen.",0,64,character_speech,1,13,,CHOR.,#chor_der_nonnen,825.0,FEMALE,joy,S,,1811.0,positive,emotions of pleasure
+1450,1450,1450,GerDracor/arnim-jerusalem.xml,"
+            Ich will sehen
+            Und will glauben.",0,57,character_speech,1,13,,GEGENCHOR.,#chor_der_nonnen,826.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1451,1451,1451,GerDracor/arnim-jerusalem.xml,"
+            Was ist Sehen
+            Ohne Glauben?",0,52,character_speech,1,13,,CHOR.,#chor_der_nonnen,827.0,FEMALE,being moved,S,,1811.0,being moved,being moved
+1452,1452,1452,GerDracor/arnim-jerusalem.xml,"
+            Was ist Glauben
+            Ohne Sehen?",0,52,character_speech,1,13,,GEGENCHOR.,#chor_der_nonnen,828.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1453,1453,1453,GerDracor/arnim-jerusalem.xml,"
+            Ihr sollt sehen in dem Glauben
+            Und mit Feuer tauf ich euch,
+            Und der Tod soll keinen rauben,
+            Der geschaut mein ewges Reich.",0,171,character_speech,1,13,,STIMME AUS DEM HEILGEN GRABE.,#stimme_aus_dem_heilgen_grabe,829.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+1454,1454,1454,GerDracor/arnim-jerusalem.xml,"Mit dem Speere will ich stechen
+            In der Schlange Feueraug,
+            Und mit meinem Schwerte brechen
+            Ihrer Flamme schwarzen Ranch.",184,339,character_speech,1,13,,STIMME AUS DEM HEILGEN GRABE.,#stimme_aus_dem_heilgen_grabe,829.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+1455,1455,1455,GerDracor/arnim-jerusalem.xml,"Helles Licht bricht durch die Wolke,
+            Blaue Luft euch froh umquillt,
+            Wer da steht in meinem Volke
+            Ist gedeckt von meinem Schild.",352,515,character_speech,1,13,,STIMME AUS DEM HEILGEN GRABE.,#stimme_aus_dem_heilgen_grabe,829.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+1456,1456,1456,GerDracor/arnim-jerusalem.xml,"Hängt euch an die goldnen Sporen,
+            Seht der Füße Wunden an
+            Und ihr gehet nie verloren,
+            Flüchtet nie von eurer Bahn.",528,678,character_speech,1,13,,STIMME AUS DEM HEILGEN GRABE.,#stimme_aus_dem_heilgen_grabe,829.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1457,1457,1457,GerDracor/arnim-jerusalem.xml,"Seht mein Kreuz, das wird zum Schwerte,
+            Kommt der böse Antichrist,
+            Und ich schütze meine Heerde
+            Gegen alle Teufelslist.",691,846,character_speech,1,13,,STIMME AUS DEM HEILGEN GRABE.,#stimme_aus_dem_heilgen_grabe,829.0,MALE,fear,S,,1811.0,negative,emotions of anxiety
+1458,1458,1458,GerDracor/arnim-jerusalem.xml,"Ähnlich möcht er sich mir stellen,
+            Aber seht mein Wappenschild,
+            Sehet seine Schandgesellen,
+            Sehet eurer Todten Bild.",859,1011,character_speech,1,13,,STIMME AUS DEM HEILGEN GRABE.,#stimme_aus_dem_heilgen_grabe,829.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+1459,1459,1459,GerDracor/arnim-jerusalem.xml,"Wer in diesem Kampf gefallen
+            Für mein irdisch heilges Haus,
+            Den wird hohe Ehr umwallen,
+            Denn er steigt zu Gott hinaus.",1024,1178,character_speech,1,13,,STIMME AUS DEM HEILGEN GRABE.,#stimme_aus_dem_heilgen_grabe,829.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1460,1460,1460,GerDracor/arnim-jerusalem.xml,"Lasset die Posaunen klingen,
+            Eh der jüngste Tag begann,
+            Diese Helden sollen dringen
+             Zu dem Himmelsthor hinan.",1191,1337,character_speech,1,13,,STIMME AUS DEM HEILGEN GRABE.,#stimme_aus_dem_heilgen_grabe,829.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1461,1461,1461,GerDracor/arnim-jerusalem.xml,"Gott mit seinem Richterschwerte,
+            Schon den weiten Raum bewegt,
+            Und im Zittern eurer Erde
+            Sie zu Grabesrittern schlägt.",1350,1504,character_speech,1,13,,STIMME AUS DEM HEILGEN GRABE.,#stimme_aus_dem_heilgen_grabe,829.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1462,1462,1462,GerDracor/arnim-jerusalem.xml,"Seht zum Zeichen ihrer Ehre
+            Schwebt ein Kreuz von leichtem Licht
+            Über ihres Leichnams Schwere,
+            Frei zum Himmel aufgericht.",1517,1675,character_speech,1,13,,STIMME AUS DEM HEILGEN GRABE.,#stimme_aus_dem_heilgen_grabe,829.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1463,1463,1463,GerDracor/arnim-jerusalem.xml,"Drei helle Kreuze erscheinen über den Gräbern Lysanders, Celindens und
+            Cardenios.",0,93,stage_direction,1,13,speech_part,,#stimme_aus_dem_heilgen_grabe,829.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1464,1464,1464,GerDracor/arnim-jerusalem.xml,"
+            Wir glauben und wir sehen
+            Der Brüder ewgen Lohn,
+            Sie stehn vor Gottes Thron,
+            Als Ritter in den Höhen.",0,150,character_speech,1,13,,CHORGESANG.,#chor_der_nonnen,830.0,FEMALE,joy,S,,1811.0,positive,emotions of pleasure
+1465,1465,1465,GerDracor/arnim-jerusalem.xml,"Kein Tod schlug sie darnieder,
+            Der Herr schlug sie zu Rittern,
+            Die Erde hebt die Glieder,
+            Es muß das Todte zittern.",163,314,character_speech,1,13,,CHORGESANG.,#chor_der_nonnen,830.0,FEMALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+1466,1466,1466,GerDracor/arnim-jerusalem.xml,"Die hohen Kreuzessfammen,
+            Durchstrahlen Zions Mauern,
+            Und stürzten sie zusammen,
+            Wir stürben ohne Trauern.",327,469,character_speech,1,13,,CHORGESANG.,#chor_der_nonnen,830.0,FEMALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+1467,1467,1467,GerDracor/arnim-jerusalem.xml,"Der Mittelpunkt der Erde,
+            Ist Christi heilges Grab,
+            Es rufet uns herab
+            Der Schöpfung ewges Werde",482,614,character_speech,1,13,,CHORGESANG.,#chor_der_nonnen,830.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1468,1468,1468,GerDracor/arnim-jerusalem.xml,Das Erdbeben endet.,0,19,stage_direction,1,13,speech_part,,#chor_der_nonnen,830.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+1469,1469,1469,GerDracor/arnim-jerusalem.xml,"
+            Schaffen zeigt sich im Verwandeln,
+            Ernst verwandelt sich in Spiel,
+            Dieses ist der Worte Ziel,
+            Doch des Lebens Ziel ist Handeln.",0,176,character_speech,1,13,,DER DICHTER.,#der_dichter,831.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation

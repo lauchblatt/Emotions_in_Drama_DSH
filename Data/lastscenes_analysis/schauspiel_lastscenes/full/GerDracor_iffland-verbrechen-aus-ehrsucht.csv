@@ -1,0 +1,114 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,pre1_base_polarity,pre1_main_emotion_class
+2500,2500,2500,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Vorige.,0,7,stage_direction,5,15,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+2501,2501,2501,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Madame Ruhberg.,8,23,stage_direction,5,15,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+2502,2502,2502,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Sekretär Ahlden.,24,40,stage_direction,5,15,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+2503,2503,2503,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Oberkommissär.,41,55,stage_direction,5,15,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+2504,2504,2504,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Ahlden.,56,63,stage_direction,5,15,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+2505,2505,2505,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Der Mensch an seinem Halse, fort von ihm!",0,41,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1178.0,MALE,compassion,negative,emotions of suffering and empathy
+2506,2506,2506,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Armer, unglücklicher Märtirer!",0,30,character_speech,5,15,,MADAME RUHBERG.,#madame_ruhberg,1179.0,FEMALE,compassion,negative,emotions of suffering and empathy
+2507,2507,2507,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Er lebt, liebe Mutter!",0,22,character_speech,5,15,,LOUISE.,#louise,1180.0,FEMALE,love,positive,emotions of affection
+2508,2508,2508,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Fort mit dem da.,0,16,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1181.0,MALE,no_annotation,no_annotation,no_annotation
+2509,2509,2509,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Er schleudert ihn weg.,0,22,stage_direction,5,15,inner_speech,,#oberkommissaer,1181.0,MALE,anger,negative,emotions of rejection
+2510,2510,2510,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Mein Vater – mein theurer Vater!,0,32,character_speech,5,15,,SEKRETÄR.,#sekretaer,1182.0,MALE,"admiration, reverence",positive,emotions of affection
+2511,2511,2511,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Retten Sie meinen Vater!,0,24,character_speech,5,15,,RUHBERG DER SOHN.,#ruhberg_der_sohn,1183.0,MALE,despair,negative,emotions of anxiety
+2512,2512,2512,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Ich flehe Ihre Barmherzigkeit an, um Rache gegen mich.",25,79,character_speech,5,15,,RUHBERG DER SOHN.,#ruhberg_der_sohn,1183.0,MALE,suffering,negative,emotions of suffering and empathy
+2513,2513,2513,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,hart.,0,5,stage_direction,5,15,speech_part,,#oberkommissaer,1184.0,MALE,anger,negative,emotions of rejection
+2514,2514,2514,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Die will ich nehmen – darum komme ich.,0,38,character_speech,5,15,,OBERKOMMISSÄR,#oberkommissaer,1184.0,MALE,no_annotation,no_annotation,no_annotation
+2515,2515,2515,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Darum führten Sie mich her – Zeuge soll ich sein, wie Sie uns zertreten, unserer Noth
+              spotten?",0,108,character_speech,5,15,,MADAME RUHBERG.,#madame_ruhberg,1185.0,FEMALE,suffering,negative,emotions of suffering and empathy
+2516,2516,2516,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Sie sind nicht hilflos.,0,23,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1186.0,MALE,no_annotation,no_annotation,no_annotation
+2517,2517,2517,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Suchen Sie nur bei Ihren vornehmen Freunden.,24,68,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1186.0,MALE,friendship,positive,emotions of affection
+2518,2518,2518,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Mein Vater!,0,11,character_speech,5,15,,SEKRETÄR.,#sekretaer,1187.0,MALE,being moved,being moved,being moved
+2519,2519,2519,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Schonen Sie unser!,0,18,character_speech,5,15,,LOUISE.,#louise,1188.0,FEMALE,fear,negative,emotions of anxiety
+2520,2520,2520,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Sie opferten ihnen ja Vermögen, Ehre, Vaterfreuden, Glück und Himmel auf.",0,73,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1189.0,MALE,joy,positive,emotions of pleasure
+2521,2521,2521,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Fünftausend
+              Thaler können Sie jetzt vom Verderben retten.",74,145,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1189.0,MALE,joy,positive,emotions of pleasure
+2522,2522,2522,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"– Es ist eine Summe, die vielleicht eben
+              jetzt auf ihren Spieltischen liegt.",146,236,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1189.0,MALE,no_annotation,no_annotation,no_annotation
+2523,2523,2523,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Gehen Sie, suchen Sie doch ihre Hilfe!",237,275,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1189.0,MALE,no_annotation,no_annotation,no_annotation
+2524,2524,2524,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Unmensch!,0,9,character_speech,5,15,,MADAME RUHBERG.,#madame_ruhberg,1190.0,FEMALE,anger,negative,emotions of rejection
+2525,2525,2525,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,O mein Herr!,0,12,character_speech,5,15,,RUHBERG VATER.,#ruhberg_vater,1191.0,MALE,being moved,being moved,being moved
+2526,2526,2526,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Mein Vater!,0,11,character_speech,5,15,,SEKRETÄR.,#sekretaer,1192.0,MALE,being moved,being moved,being moved
+2527,2527,2527,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Ach Gott!,0,9,character_speech,5,15,,LOUISE.,#louise,1193.0,FEMALE,being moved,being moved,being moved
+2528,2528,2528,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Nur zu, mein Herr.",0,18,character_speech,5,15,,RUHBERG DER SOHN.,#ruhberg_der_sohn,1194.0,MALE,no_annotation,no_annotation,no_annotation
+2529,2529,2529,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Ihre Grausamkeit ist mein Trost.,19,51,character_speech,5,15,,RUHBERG DER SOHN.,#ruhberg_der_sohn,1194.0,MALE,suffering,negative,emotions of suffering and empathy
+2530,2530,2530,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Ich, der Mörder eines theuern
+              Vaters, soll frei ausgehen?",52,123,character_speech,5,15,,RUHBERG DER SOHN.,#ruhberg_der_sohn,1194.0,MALE,being moved,being moved,being moved
+2531,2531,2531,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Dulden Sie das nicht, gerechter Mann!",124,161,character_speech,5,15,,RUHBERG DER SOHN.,#ruhberg_der_sohn,1194.0,MALE,compassion,negative,emotions of suffering and empathy
+2532,2532,2532,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"– Geben Sie mich an;
+              oder haben Sie bereits Ihre Pflicht gethan?",162,240,character_speech,5,15,,RUHBERG DER SOHN.,#ruhberg_der_sohn,1194.0,MALE,no_annotation,no_annotation,no_annotation
+2533,2533,2533,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Ja Herr, das habe ich.",0,22,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1195.0,MALE,no_annotation,no_annotation,no_annotation
+2534,2534,2534,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,O Gott!,0,7,character_speech,5,15,,LOUISE.,#louise,1196.0,FEMALE,being moved,being moved,being moved
+2535,2535,2535,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Ich unglückliche Mutter!,0,24,character_speech,5,15,,MADAME RUHBERG.,#madame_ruhberg,1197.0,FEMALE,suffering,negative,emotions of suffering and empathy
+2536,2536,2536,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Herr, ich fordere mein Kind von Ihnen.",0,38,character_speech,5,15,,RUHBERG VATER.,#ruhberg_vater,1198.0,MALE,no_annotation,no_annotation,no_annotation
+2537,2537,2537,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Und ich, Herr, fordere von Ihnen Rechenschaft für eine Seele, deren Bildung Ihnen
+              Gott anvertraute.",0,113,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1199.0,MALE,no_annotation,no_annotation,no_annotation
+2538,2538,2538,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"– Da steht er, das Opfer von Maximen und Weibererziehung.",114,171,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1199.0,MALE,no_annotation,no_annotation,no_annotation
+2539,2539,2539,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Jetzt soll
+              er hingehen in Freiheit, und sich vervollkommnen zum Bösewicht, und vollenden als
+              Selbstmörder!",172,306,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1199.0,MALE,abhorrence,negative,emotions of rejection
+2540,2540,2540,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Elend, Schande und Verzweiflung sind die Folgen eurer Erziehung.",307,371,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1199.0,MALE,despair,negative,emotions of anxiety
+2541,2541,2541,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Und du
+              – Mensch!",372,402,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1199.0,MALE,anger,negative,emotions of rejection
+2542,2542,2542,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"weißt du es, wohin du sie gebracht hast?",403,443,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1199.0,MALE,no_annotation,no_annotation,no_annotation
+2543,2543,2543,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"deine Mutter wollte sich als
+              Thäterin angeben.",444,504,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1199.0,MALE,no_annotation,no_annotation,no_annotation
+2544,2544,2544,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Ich hielt sie zurück.,505,526,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1199.0,MALE,no_annotation,no_annotation,no_annotation
+2545,2545,2545,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Meine Frau!,0,11,character_speech,5,15,,RUHBERG VATER.,#ruhberg_vater,1200.0,MALE,being moved,being moved,being moved
+2546,2546,2546,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,O ich Ungeheuer – meine Mutter!,0,31,character_speech,5,15,,RUHBERG DER SOHN.,#ruhberg_der_sohn,1201.0,MALE,despair,negative,emotions of anxiety
+2547,2547,2547,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Auf allen Seiten Elend und nirgends Rettung.,0,44,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1202.0,MALE,suffering,negative,emotions of suffering and empathy
+2548,2548,2548,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Rettet euch – rette dich, unglücklicher Mann!",0,45,character_speech,5,15,,MADAME RUHBERG.,#madame_ruhberg,1203.0,FEMALE,compassion,negative,emotions of suffering and empathy
+2549,2549,2549,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Fliehen Sie, mein Vater!",0,24,character_speech,5,15,,LOUISE.,#louise,1204.0,FEMALE,fear,negative,emotions of anxiety
+2550,2550,2550,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,geht im Hintergrunde heftig auf und nieder.,0,43,stage_direction,5,15,speech_part,,#sekretaer,1205.0,MALE,being moved,being moved,being moved
+2551,2551,2551,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Es ist zu spät, meine Veranstaltung mach die Flucht unnütze.",0,60,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1206.0,MALE,no_annotation,no_annotation,no_annotation
+2552,2552,2552,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Mein Vater – bei dem Andenken meinem Mutter beschwöre ich Sie!,0,62,character_speech,5,15,,SEKRETÄR.,#sekretaer,1207.0,MALE,love,positive,emotions of affection
+2553,2553,2553,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Erbarmen für meinen Vater!,0,26,character_speech,5,15,,RUHBERG DER SOHN.,#ruhberg_der_sohn,1208.0,MALE,compassion,negative,emotions of suffering and empathy
+2554,2554,2554,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Um Gottes willen, Erbarmen!",0,27,character_speech,5,15,,LOUISE.,#louise,1209.0,FEMALE,compassion,negative,emotions of suffering and empathy
+2555,2555,2555,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Die Thüren eurer vornehmen Freunde sind verschlossen – es ekelt ihnen vor eurer Noth.,0,85,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1210.0,MALE,abhorrence,negative,emotions of rejection
+2556,2556,2556,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Mit großer Härte steigend.,0,26,stage_direction,5,15,inner_speech,,#oberkommissaer,1210.0,MALE,no_annotation,no_annotation,no_annotation
+2557,2557,2557,GerDracor/iffland-verbrechen-aus-ehrsucht.xml," Mich habt ihr verkannt, vielleicht
+              verachtet, meine altväterische Sitte verspottet.",0,98,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1210.0,MALE,abhorrence,negative,emotions of rejection
+2558,2558,2558,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"– Meinen Sohn haben Sie für Ihre
+              Tochter nicht gewollt – nun will ich Ihre Tochter nicht für meinen Sohn.",99,218,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1210.0,MALE,no_annotation,no_annotation,no_annotation
+2559,2559,2559,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,–,219,220,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1210.0,MALE,no_annotation,no_annotation,no_annotation
+2560,2560,2560,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Alle
+                drücken in willkürlichen Worten Verachtung aus.",0,68,stage_direction,5,15,inner_speech,,#oberkommissaer,1210.0,MALE,abhorrence,negative,emotions of rejection
+2561,2561,2561,GerDracor/iffland-verbrechen-aus-ehrsucht.xml," Mein Sohn soll ein reiches
+              Mädchen heirathen – ein Mädchen –",0,75,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1210.0,MALE,love,positive,emotions of affection
+2562,2562,2562,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Er wirft einen Geldsack hin, und umarmt
+                Louisen.",0,64,stage_direction,5,15,inner_speech,,#oberkommissaer,1210.0,MALE,love,positive,emotions of affection
+2563,2563,2563,GerDracor/iffland-verbrechen-aus-ehrsucht.xml, – die allenfalls einen unglücklichen Vater auslösen kann.,0,58,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1210.0,MALE,no_annotation,no_annotation,no_annotation
+2564,2564,2564,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Alle erstaunen lebhaft in einzelnen unartikulirten Tönen, aber niemand
+                spricht.",0,95,stage_direction,5,15,inner_speech,,#oberkommissaer,1210.0,MALE,being moved,being moved,being moved
+2565,2565,2565,GerDracor/iffland-verbrechen-aus-ehrsucht.xml," Ja, ich wäre gern schuldenfrei gestorben – es soll nicht sein.",0,63,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1210.0,MALE,suffering,negative,emotions of suffering and empathy
+2566,2566,2566,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"–
+              Nun die Schuld wird mir Gott mit Wucher ersetzen!",64,129,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1210.0,MALE,suffering,negative,emotions of suffering and empathy
+2567,2567,2567,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Engel der Rettung!,0,18,character_speech,5,15,,RUHBERG DER SOHN.,#ruhberg_der_sohn,1211.0,MALE,joy,positive,emotions of pleasure
+2568,2568,2568,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Ich kann Ihnen nicht danken – ich bin außer mir.,0,48,character_speech,5,15,,MADAME RUHBERG.,#madame_ruhberg,1212.0,FEMALE,suffering,negative,emotions of suffering and empathy
+2569,2569,2569,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Komm mein Sohn, dir bin ich diese Belohnung schuldig gewesen.",0,61,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1213.0,MALE,joy,positive,emotions of pleasure
+2570,2570,2570,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Deinetwegen habe ich
+              selbst von Juden  und Christen geborgt.",62,136,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1213.0,MALE,no_annotation,no_annotation,no_annotation
+2571,2571,2571,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Du warst immer ein guter Sohn,
+              ein gehorsamer Sohn, ein fleißiger Bürger – Gott wird dir gute Tage geben, dich
+              segnen, und ich segne dich auch.",137,308,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1213.0,MALE,"admiration, reverence",positive,emotions of affection
+2572,2572,2572,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Mann, Sie retten mich vom Verderben.",0,36,character_speech,5,15,,RUHBERG VATER.,#ruhberg_vater,1214.0,MALE,fear,negative,emotions of anxiety
+2573,2573,2573,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Die Kur war etwas hart – aber auch ein böser Schaden.,0,53,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1215.0,MALE,suffering,negative,emotions of suffering and empathy
+2574,2574,2574,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Junger Mensch, – fort muß Er,
+              das versteht sich.",54,116,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1215.0,MALE,no_annotation,no_annotation,no_annotation
+2575,2575,2575,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Aber ich will Ihm schon Auskunft geben.,117,156,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1215.0,MALE,no_annotation,no_annotation,no_annotation
+2576,2576,2576,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Apropos – ich höre, das
+              Fräulein hat Ihm eine Rekreation geschickt – die gebe Er mir – im Ernst gesprochen –
+              die gebe Er mir.",157,310,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1215.0,MALE,no_annotation,no_annotation,no_annotation
+2577,2577,2577,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,Ruhberg der Sohn gibt ihm die zwanzig Louisd'or.,0,48,stage_direction,5,15,inner_speech,,#oberkommissaer,1215.0,MALE,no_annotation,no_annotation,no_annotation
+2578,2578,2578,GerDracor/iffland-verbrechen-aus-ehrsucht.xml," So,
+              die will ich dem Fräulein Jesabel persönlich zur schuldigen Danksagung restituiren,
+              und noch ein paar Wörtchen im Kauf!",0,152,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1215.0,MALE,joy,positive,emotions of pleasure
+2579,2579,2579,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"O mein Herr, Dank ist von mir Unglücklichen zu wenig – Aber Gott sei mein Zeuge –",0,81,character_speech,5,15,,RUHBERG DER SOHN.,#ruhberg_der_sohn,1216.0,MALE,suffering,negative,emotions of suffering and empathy
+2580,2580,2580,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Meiner gegen Ihn an jenem Tage, wenn Er jetzt nicht ein braver Kerl wird!",0,73,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1217.0,MALE,abhorrence,negative,emotions of rejection
+2581,2581,2581,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"– Nun bitte
+              ich euch, vergebt ihm; Unglück mag ihn bessern!",74,147,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1217.0,MALE,no_annotation,no_annotation,no_annotation
+2582,2582,2582,GerDracor/iffland-verbrechen-aus-ehrsucht.xml,"Ehre Er eine edle Freiheit, bleibe Er
+              bei seines gleichen – sei Er redlich, gut und froh – und wenn ich schon lange
+              vermodert bin – sage Er seinen Kindern, daß sie es auch so machen – und, wenn es Ihm
+              dann nach geändertem Wandel gut geht, so trinkt ein Glas deutschen Weins zum Andenken
+              des alten Oberkommissärs.",148,516,character_speech,5,15,,OBERKOMMISSÄR.,#oberkommissaer,1217.0,MALE,"admiration, reverence",positive,emotions of affection

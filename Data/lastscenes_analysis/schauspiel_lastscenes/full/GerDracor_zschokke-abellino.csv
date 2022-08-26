@@ -1,0 +1,179 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+3156,3156,3156,GerDracor/zschokke-abellino.xml,Die Vorigen.,0,12,stage_direction,5,5,pre_speech,,,,,no_annotation,S,,1795.0,no_annotation,no_annotation
+3157,3157,3157,GerDracor/zschokke-abellino.xml,"Canari und Dandolo, von Flodoardo geführt, nahen sich langsam durch
+            die Versammlung dem Dogen.",13,119,stage_direction,5,5,pre_speech,,,,,no_annotation,S,,1795.0,no_annotation,no_annotation
+3158,3158,3158,GerDracor/zschokke-abellino.xml,– Alles fährt auf.,120,138,stage_direction,5,5,pre_speech,,,,,no_annotation,S,,1795.0,no_annotation,no_annotation
+3159,3159,3159,GerDracor/zschokke-abellino.xml,– Todesstille.,139,153,stage_direction,5,5,pre_speech,,,,,no_annotation,S,,1795.0,no_annotation,no_annotation
+3160,3160,3160,GerDracor/zschokke-abellino.xml,"– Der Doge starrt, ohne
+            Bewegung, mit Grauen und Entzücken den Kommenden entgegen.",154,248,stage_direction,5,5,pre_speech,,,,,no_annotation,S,,1795.0,no_annotation,no_annotation
+3161,3161,3161,GerDracor/zschokke-abellino.xml,"– Rosamunde hebt in
+            sprachloser Inbrunst die Blicke und gefalteten Hände zum Himmel.",249,345,stage_direction,5,5,pre_speech,,,,,no_annotation,S,,1795.0,no_annotation,no_annotation
+3162,3162,3162,GerDracor/zschokke-abellino.xml,"– Die Verschwornen
+            verhüllen ihr Antlitz.",346,399,stage_direction,5,5,pre_speech,,,,,no_annotation,S,,1795.0,no_annotation,no_annotation
+3163,3163,3163,GerDracor/zschokke-abellino.xml,entgeistert.,0,12,stage_direction,5,5,speech_part,,#parozzi,915.0,MALE,being moved,S,,1795.0,being moved,being moved
+3164,3164,3164,GerDracor/zschokke-abellino.xml,Aus!,0,4,character_speech,5,5,,PAROZZI,#parozzi,915.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3165,3165,3165,GerDracor/zschokke-abellino.xml,... nun aus!,5,17,character_speech,5,5,,PAROZZI,#parozzi,915.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3166,3166,3166,GerDracor/zschokke-abellino.xml,... und Alles aus!,18,36,character_speech,5,5,,PAROZZI,#parozzi,915.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3167,3167,3167,GerDracor/zschokke-abellino.xml,Er stößt sich einen Dolch in die Brust und stürzt zu Boden.,0,59,stage_direction,5,5,speech_part,,#parozzi,915.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3168,3168,3168,GerDracor/zschokke-abellino.xml,Seid Ihr's!,0,11,character_speech,5,5,,DOGE.,#doge,916.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3169,3169,3169,GerDracor/zschokke-abellino.xml,Geister meiner Sel'gen!,12,35,character_speech,5,5,,DOGE.,#doge,916.0,MALE,despair,S,,1795.0,negative,emotions of anxiety
+3170,3170,3170,GerDracor/zschokke-abellino.xml,...,36,39,character_speech,5,5,,DOGE.,#doge,916.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3171,3171,3171,GerDracor/zschokke-abellino.xml,mit Rührung.,0,12,stage_direction,5,5,speech_part,,#canari,917.0,MALE,suffering,S,,1795.0,negative,emotions of suffering and empathy
+3172,3172,3172,GerDracor/zschokke-abellino.xml,O mein Herzog!,0,14,character_speech,5,5,,CANARI,#canari,917.0,MALE,being moved,S,,1795.0,being moved,being moved
+3173,3173,3173,GerDracor/zschokke-abellino.xml,...,15,18,character_speech,5,5,,CANARI,#canari,917.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3174,3174,3174,GerDracor/zschokke-abellino.xml,O mein Fürst!,0,13,character_speech,5,5,,DANDOLO.,#dandolo,918.0,MALE,being moved,S,,1795.0,being moved,being moved
+3175,3175,3175,GerDracor/zschokke-abellino.xml,...,14,17,character_speech,5,5,,DANDOLO.,#dandolo,918.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3176,3176,3176,GerDracor/zschokke-abellino.xml,"Die drei Greise umschlingen sich mit ihren Armen, still weinend.",0,64,stage_direction,5,5,speech_part,,#dandolo,918.0,MALE,suffering,S,,1795.0,negative,emotions of suffering and empathy
+3177,3177,3177,GerDracor/zschokke-abellino.xml,in Verklärung die Hände gen Himmel streckend.,0,45,stage_direction,5,5,speech_part,,#rosamunde,919.0,FEMALE,love,S,,1795.0,positive,emotions of affection
+3178,3178,3178,GerDracor/zschokke-abellino.xml,"
+              Der Vergeltung Himmelskrone
+              Strahlet Gottes stillen Duldern
+              Schon hienieden um das Haupt!",0,132,character_speech,5,5,,ROSAMUNDE,#rosamunde,919.0,FEMALE,"admiration, reverence",S,,1795.0,positive,emotions of affection
+3179,3179,3179,GerDracor/zschokke-abellino.xml,"aus dem Hintergrund herangekommen, zu den Verschwornen.",0,55,stage_direction,5,5,speech_part,,#ein_senator,920.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3180,3180,3180,GerDracor/zschokke-abellino.xml,"
+              Auf Befehl und in dem Namen
+              Der Großstaatsinquisitoren,
+              Signor Contarino, Memmo,
+              Falieri, folget mir!",0,158,character_speech,5,5,,EIN SENATOR,#ein_senator,920.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3181,3181,3181,GerDracor/zschokke-abellino.xml,"Folgt, Abbate Tolomeo!",173,195,character_speech,5,5,,EIN SENATOR,#ein_senator,920.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3182,3182,3182,GerDracor/zschokke-abellino.xml,auf Parozzi's Leiche deutend.,0,29,stage_direction,5,5,speech_part,,#flodoardo,921.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3183,3183,3183,GerDracor/zschokke-abellino.xml,Doch der Feigste ist entwischt.,0,31,character_speech,5,5,,FLODOARDO,#flodoardo,921.0,MALE,fear,S,,1795.0,negative,emotions of anxiety
+3184,3184,3184,GerDracor/zschokke-abellino.xml,Wachten!,0,8,character_speech,5,5,,SENATOR.,#ein_senator,922.0,MALE,being moved,S,,1795.0,being moved,being moved
+3185,3185,3185,GerDracor/zschokke-abellino.xml,Ihr begleitet uns!,9,27,character_speech,5,5,,SENATOR.,#ein_senator,922.0,MALE,love,S,,1795.0,positive,emotions of affection
+3186,3186,3186,GerDracor/zschokke-abellino.xml,Die nahe stehenden Dalmatier schleppen Parozzi's Leichnam fort.,0,63,stage_direction,5,5,speech_part,,#ein_senator,922.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3187,3187,3187,GerDracor/zschokke-abellino.xml,"Mit gesenkten
+              Häuptern folgen Tolomeo, Contarino, Falieri und Memmo.",64,146,stage_direction,5,5,speech_part,,#ein_senator,922.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3188,3188,3188,GerDracor/zschokke-abellino.xml,"Die Hallebardierer von des
+              Dogen Stuhl schließen sich dem Zuge an.",147,227,stage_direction,5,5,speech_part,,#ein_senator,922.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3189,3189,3189,GerDracor/zschokke-abellino.xml,Flodoardo folgt ihnen einige Schritte.,228,266,stage_direction,5,5,speech_part,,#ein_senator,922.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3190,3190,3190,GerDracor/zschokke-abellino.xml,"Mehrere
+              Herren begegnen ihm glückwünschend.",267,324,stage_direction,5,5,speech_part,,#ein_senator,922.0,MALE,joy,S,,1795.0,positive,emotions of pleasure
+3191,3191,3191,GerDracor/zschokke-abellino.xml,Rosamunde steht von Frauenzimmern umringt.,325,367,stage_direction,5,5,speech_part,,#ein_senator,922.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3192,3192,3192,GerDracor/zschokke-abellino.xml,"Die
+              gesammten Anwesenden bilden, in froher Aufmerksamkeit sich nähernd, einen Halbkreis um
+              die drei Greise.",368,503,stage_direction,5,5,speech_part,,#ein_senator,922.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3193,3193,3193,GerDracor/zschokke-abellino.xml,betrachtet die beiden Freunde.,0,30,stage_direction,5,5,speech_part,,#doge,923.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3194,3194,3194,GerDracor/zschokke-abellino.xml,"
+              Bin ich wach?",0,28,character_speech,5,5,,DOGE,#doge,923.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3195,3195,3195,GerDracor/zschokke-abellino.xml,"War das Vergangne
+              Fiebrische Gespensterei?",29,85,character_speech,5,5,,DOGE,#doge,923.0,MALE,being moved,S,,1795.0,being moved,being moved
+3196,3196,3196,GerDracor/zschokke-abellino.xml,"Oder tröstet mich ein Wahnsinn,
+              Voll Erbarmens, um Verlornes?",100,175,character_speech,5,5,,DOGE,#doge,923.0,MALE,despair,S,,1795.0,negative,emotions of anxiety
+3197,3197,3197,GerDracor/zschokke-abellino.xml,"Redet, daß ich auch das Leben
+              Eurer Stimmen wieder höre.",191,261,character_speech,5,5,,DOGE,#doge,923.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3198,3198,3198,GerDracor/zschokke-abellino.xml,"Redet, daß der warme Hauch
+              Eurer Worte mir bezeuge,
+              Was mir Aug' und Hände sagen.",276,385,character_speech,5,5,,DOGE,#doge,923.0,MALE,love,S,,1795.0,positive,emotions of affection
+3199,3199,3199,GerDracor/zschokke-abellino.xml,"
+              In der Einsamkeit, worin uns
+              Flodoardo's Lieb' und Klugheit
+              Achtundvierzig Stunden barg,
+              Hörten wir von Euerm Gram;
+              Hörten ihn mit Schmerz und – Freude.",0,223,character_speech,5,5,,CANARI.,#canari,924.0,MALE,suffering,S,,1795.0,negative,emotions of suffering and empathy
+3200,3200,3200,GerDracor/zschokke-abellino.xml,"Dieser edle Gram der Freundschaft
+              In der Brust des frommen Herrn
+              Ist der reinste Sold im Leben,
+              Und der schönste Ehrenkranz
+              Auf dem Sarg des treuen Dieners.",238,450,character_speech,5,5,,CANARI.,#canari,924.0,MALE,friendship,S,,1795.0,positive,emotions of affection
+3201,3201,3201,GerDracor/zschokke-abellino.xml,"–
+              O verzeiht uns, wenn wir Euch
+              Und Venedig schmerzlich täuschten.",451,545,character_speech,5,5,,CANARI.,#canari,924.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3202,3202,3202,GerDracor/zschokke-abellino.xml,"So nur ließ allein die Rotte
+              Der Berschwornen sich, geblendet,
+              In den eignen Schlingen fahn.",560,680,character_speech,5,5,,CANARI.,#canari,924.0,MALE,abhorrence,S,,1795.0,negative,emotions of rejection
+3203,3203,3203,GerDracor/zschokke-abellino.xml,"Als wir die Gefahr des Staates,
+              Und des treuen Flodoardo
+              Unfehlbare Wege sahn,
+              Boten willig wir die Hände
+              Zu dem schlau verweg'nen Plan.",695,887,character_speech,5,5,,CANARI.,#canari,924.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3204,3204,3204,GerDracor/zschokke-abellino.xml,heiter.,0,7,stage_direction,5,5,speech_part,,#dandolo,925.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3205,3205,3205,GerDracor/zschokke-abellino.xml,"
+              Stark und fest noch steht Venedig!",0,49,character_speech,5,5,,DANDOLO,#dandolo,925.0,MALE,"admiration, reverence",S,,1795.0,positive,emotions of affection
+3206,3206,3206,GerDracor/zschokke-abellino.xml,"Heere wanken, Flotten sinken,
+              Wenn die Tugend wankt und sinkt;
+              Doch wo sie auch in der Brust
+               Eines einz'gen Bürgers noch
+              Treu für Fürst und Vaterland
+              Mit der alten Liebe flammt,
+              Wird sie eine Welt entzünden,
+              Und die Hölle überwinden.",64,396,character_speech,5,5,,DANDOLO,#dandolo,925.0,MALE,love,S,,1795.0,positive,emotions of affection
+3207,3207,3207,GerDracor/zschokke-abellino.xml,Flodoardo Mocenigho ...,411,434,character_speech,5,5,,DANDOLO,#dandolo,925.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3208,3208,3208,GerDracor/zschokke-abellino.xml,"
+              Meine blöden Sinne taumeln.",0,42,character_speech,5,5,,DOGE.,#doge,926.0,MALE,being moved,S,,1795.0,being moved,being moved
+3209,3209,3209,GerDracor/zschokke-abellino.xml,Gönnt mir Frist.,57,73,character_speech,5,5,,DOGE.,#doge,926.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3210,3210,3210,GerDracor/zschokke-abellino.xml,Ich will mich sammeln.,74,96,character_speech,5,5,,DOGE.,#doge,926.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3211,3211,3211,GerDracor/zschokke-abellino.xml,"Ah, wie bleiern macht das Alter
+              Den sonst schnellen Flug des Geistes;
+              Und wie blitzesschnell dagegen
+              Den sonst lahmen Flug der Zeit.",111,285,character_speech,5,5,,DOGE.,#doge,926.0,MALE,suffering,S,,1795.0,negative,emotions of suffering and empathy
+3212,3212,3212,GerDracor/zschokke-abellino.xml,"Eh mein Auge sieht, was kömmt,
+              Ist's nicht mehr.",300,362,character_speech,5,5,,DOGE.,#doge,926.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3213,3213,3213,GerDracor/zschokke-abellino.xml,– Wo war ich?,363,376,character_speech,5,5,,DOGE.,#doge,926.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3214,3214,3214,GerDracor/zschokke-abellino.xml,Wie?,377,381,character_speech,5,5,,DOGE.,#doge,926.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3215,3215,3215,GerDracor/zschokke-abellino.xml,"...
+              Ja, Ihr lebt!",382,413,character_speech,5,5,,DOGE.,#doge,926.0,MALE,joy,S,,1795.0,positive,emotions of pleasure
+3216,3216,3216,GerDracor/zschokke-abellino.xml,... Ihr seid es Beide!,414,436,character_speech,5,5,,DOGE.,#doge,926.0,MALE,joy,S,,1795.0,positive,emotions of pleasure
+3217,3217,3217,GerDracor/zschokke-abellino.xml,"Euer Tod – die blut'gen Spuren
+              Eurer fortgeschleppten Leichen –
+              Alles Täuschung!",451,559,character_speech,5,5,,DOGE.,#doge,926.0,MALE,being moved,S,,1795.0,being moved,being moved
+3218,3218,3218,GerDracor/zschokke-abellino.xml,"Ja, Ihr seid's; –
+              Die Verbrecher sind entlarvt;
+              Ihre Anschläg' offenbart,
+              Eingestanden, hier; von ihnen
+              Eingestanden!",560,733,character_speech,5,5,,DOGE.,#doge,926.0,MALE,joy,S,,1795.0,positive,emotions of pleasure
+3219,3219,3219,GerDracor/zschokke-abellino.xml,– War es möglich?,734,751,character_speech,5,5,,DOGE.,#doge,926.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3220,3220,3220,GerDracor/zschokke-abellino.xml,"Söhne des uralten Adels
+              Hochverräther!",766,818,character_speech,5,5,,DOGE.,#doge,926.0,MALE,abhorrence,S,,1795.0,negative,emotions of rejection
+3221,3221,3221,GerDracor/zschokke-abellino.xml,– Eingestanden!,819,834,character_speech,5,5,,DOGE.,#doge,926.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3222,3222,3222,GerDracor/zschokke-abellino.xml,Unsre Ohren wurden Zeugen.,849,875,character_speech,5,5,,DOGE.,#doge,926.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3223,3223,3223,GerDracor/zschokke-abellino.xml,"Abellino lag ja selber
+              Hier, zu unsern Füßen!",890,949,character_speech,5,5,,DOGE.,#doge,926.0,MALE,love,S,,1795.0,positive,emotions of affection
+3224,3224,3224,GerDracor/zschokke-abellino.xml,"– Nicht doch,
+              Flodoardo wollt' ich sagen!",950,1005,character_speech,5,5,,DOGE.,#doge,926.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3225,3225,3225,GerDracor/zschokke-abellino.xml,"Seht, ich schwindle.",1020,1040,character_speech,5,5,,DOGE.,#doge,926.0,MALE,being moved,S,,1795.0,being moved,being moved
+3226,3226,3226,GerDracor/zschokke-abellino.xml,Viel zuviel war's!,1041,1059,character_speech,5,5,,DOGE.,#doge,926.0,MALE,suffering,S,,1795.0,negative,emotions of suffering and empathy
+3227,3227,3227,GerDracor/zschokke-abellino.xml,"Wärt ihr Beide nicht die Bürgen
+               Dieser heitern Wirklichkeit,
+              Müßt ich irre an mir werden.",1074,1192,character_speech,5,5,,DOGE.,#doge,926.0,MALE,suffering,S,,1795.0,negative,emotions of suffering and empathy
+3228,3228,3228,GerDracor/zschokke-abellino.xml,Kommt!,1207,1213,character_speech,5,5,,DOGE.,#doge,926.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3229,3229,3229,GerDracor/zschokke-abellino.xml,zerstreut mich!,1214,1229,character_speech,5,5,,DOGE.,#doge,926.0,MALE,being moved,S,,1795.0,being moved,being moved
+3230,3230,3230,GerDracor/zschokke-abellino.xml,– Nur Zerstreuung!,1230,1248,character_speech,5,5,,DOGE.,#doge,926.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3231,3231,3231,GerDracor/zschokke-abellino.xml,"Heut', am Rosamundenfeste,
+              Feiern wir im Leben schon
+              Wiedersehen nach dem Tode!",1263,1370,character_speech,5,5,,DOGE.,#doge,926.0,MALE,joy,S,,1795.0,positive,emotions of pleasure
+3232,3232,3232,GerDracor/zschokke-abellino.xml,Kommt!,1385,1391,character_speech,5,5,,DOGE.,#doge,926.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3233,3233,3233,GerDracor/zschokke-abellino.xml,"Es harren längst die Gäste ...
+              Aber ... Einer fehlt!",1392,1458,character_speech,5,5,,DOGE.,#doge,926.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3234,3234,3234,GerDracor/zschokke-abellino.xml,... der Beste!,1459,1473,character_speech,5,5,,DOGE.,#doge,926.0,MALE,"admiration, reverence",S,,1795.0,positive,emotions of affection
+3235,3235,3235,GerDracor/zschokke-abellino.xml,"Er, der wunderkühne Mann,
+              Der die schwierigste der Schlachten
+              Für die Republik gewann.",1488,1602,character_speech,5,5,,DOGE.,#doge,926.0,MALE,"admiration, reverence",S,,1795.0,positive,emotions of affection
+3236,3236,3236,GerDracor/zschokke-abellino.xml,Eilt zu Flodoardo und führt ihn vor.,0,36,stage_direction,5,5,speech_part,,#doge,926.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3237,3237,3237,GerDracor/zschokke-abellino.xml,"
+              Wo verbirgt er sich?",0,35,character_speech,5,5,,DOGE.,#doge,926.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3238,3238,3238,GerDracor/zschokke-abellino.xml,– Heran?,36,44,character_speech,5,5,,DOGE.,#doge,926.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3239,3239,3239,GerDracor/zschokke-abellino.xml,"O, wie konnt' ich dich verkennen!",59,92,character_speech,5,5,,DOGE.,#doge,926.0,MALE,"admiration, reverence",S,,1795.0,positive,emotions of affection
+3240,3240,3240,GerDracor/zschokke-abellino.xml,Er umarmt ihn bewegt.,0,21,stage_direction,5,5,speech_part,,#doge,926.0,MALE,being moved,S,,1795.0,being moved,being moved
+3241,3241,3241,GerDracor/zschokke-abellino.xml,"
+              Zürne mir nicht, edler Mann ...
+              Und wie können wir dich ehren?",0,91,character_speech,5,5,,DOGE.,#doge,926.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3242,3242,3242,GerDracor/zschokke-abellino.xml,"Zu Rosamunden, die sich nähert.",0,31,stage_direction,5,5,speech_part,,#doge,926.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3243,3243,3243,GerDracor/zschokke-abellino.xml,"
+              Schmücke du des Helden Schläfe
+              Mit dem immergrünen Lorbeer.",0,88,character_speech,5,5,,DOGE.,#doge,926.0,MALE,"admiration, reverence",S,,1795.0,positive,emotions of affection
+3244,3244,3244,GerDracor/zschokke-abellino.xml,Liebe lohnt die schwersten Opfer.,103,136,character_speech,5,5,,DOGE.,#doge,926.0,MALE,love,S,,1795.0,positive,emotions of affection
+3245,3245,3245,GerDracor/zschokke-abellino.xml,dem Flodoardo gegenüber mit niedergesenkten Augen.,0,50,stage_direction,5,5,speech_part,,#rosamunde,927.0,FEMALE,suffering,S,,1795.0,negative,emotions of suffering and empathy
+3246,3246,3246,GerDracor/zschokke-abellino.xml,Reiner lohnet das Bewußtsein.,0,29,character_speech,5,5,,ROSAMUNDE,#rosamunde,927.0,FEMALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3247,3247,3247,GerDracor/zschokke-abellino.xml,"Sie hebt einen Myrthenkranz von ihrem Haarschmuck und legt ihn um Flodoardo's
+              Scheitel, indem sie ihn anlächelt.",0,126,stage_direction,5,5,speech_part,,#rosamunde,927.0,FEMALE,joy,S,,1795.0,positive,emotions of pleasure
+3248,3248,3248,GerDracor/zschokke-abellino.xml,Glauben hab' ich Euch gehalten!,0,31,character_speech,5,5,,ROSAMUNDE,#rosamunde,927.0,FEMALE,joy,S,,1795.0,positive,emotions of pleasure
+3249,3249,3249,GerDracor/zschokke-abellino.xml,"kniet, indem sie ihn bekränzt, vor ihr nieder.",0,46,stage_direction,5,5,speech_part,,#flodoardo,928.0,MALE,"admiration, reverence",S,,1795.0,positive,emotions of affection
+3250,3250,3250,GerDracor/zschokke-abellino.xml,Und die Hoffnung?,0,17,character_speech,5,5,,FLODOARDO,#flodoardo,928.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3251,3251,3251,GerDracor/zschokke-abellino.xml,und die Liebe?,18,32,character_speech,5,5,,FLODOARDO,#flodoardo,928.0,MALE,love,S,,1795.0,positive,emotions of affection
+3252,3252,3252,GerDracor/zschokke-abellino.xml,mit großer Rührung.,0,19,stage_direction,5,5,speech_part,,#doge,929.0,MALE,suffering,S,,1795.0,negative,emotions of suffering and empathy
+3253,3253,3253,GerDracor/zschokke-abellino.xml,"
+              Rosamunde, ... Nichte ... Tochter, ...
+              Beut ihm dar die Hand des Danks!",0,100,character_speech,5,5,,DOGE,#doge,929.0,MALE,joy,S,,1795.0,positive,emotions of pleasure
+3254,3254,3254,GerDracor/zschokke-abellino.xml,"Beut sie ihm ... Er ist mein Sohn;
+              Und empfah' des Vaters Segen.",115,193,character_speech,5,5,,DOGE,#doge,929.0,MALE,no_annotation,S,,1795.0,no_annotation,no_annotation
+3255,3255,3255,GerDracor/zschokke-abellino.xml,sinkt neben Flodoardo vor dem Dogen auf die Knie.,0,49,stage_direction,5,5,speech_part,,#rosamunde,930.0,FEMALE,no_annotation,S,,1795.0,no_annotation,no_annotation

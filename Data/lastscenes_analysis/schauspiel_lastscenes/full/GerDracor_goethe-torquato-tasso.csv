@@ -1,0 +1,216 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,pre1_base_polarity,pre1_main_emotion_class
+1631,1631,1631,GerDracor/goethe-torquato-tasso.xml,Tasso.,0,6,stage_direction,5,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+1632,1632,1632,GerDracor/goethe-torquato-tasso.xml,Antonio.,7,15,stage_direction,5,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+1633,1633,1633,GerDracor/goethe-torquato-tasso.xml,"
+              O stünde jetzt, so wie du immer glaubst
+              Daß du von Feinden rings umgeben bist,
+              Ein Feind bei dir, wie würd er triumphieren?",0,166,character_speech,5,5,,ANTONIO.,#antonio,411.0,MALE,fear,negative,emotions of anxiety
+1634,1634,1634,GerDracor/goethe-torquato-tasso.xml,"Unglücklicher, noch kaum erhol ich mich!",181,221,character_speech,5,5,,ANTONIO.,#antonio,411.0,MALE,suffering,negative,emotions of suffering and empathy
+1635,1635,1635,GerDracor/goethe-torquato-tasso.xml,"Wenn ganz was Unerwartetes begegnet,
+              Wenn unser Blick was Ungeheures sieht,
+              Steht unser Geist auf eine Weile still,
+              Wir haben nichts womit wir das vergleichen.",236,437,character_speech,5,5,,ANTONIO.,#antonio,411.0,MALE,no_annotation,no_annotation,no_annotation
+1636,1636,1636,GerDracor/goethe-torquato-tasso.xml,nach einer langen Pause.,0,24,stage_direction,5,5,speech_part,,#tasso,412.0,MALE,no_annotation,no_annotation,no_annotation
+1637,1637,1637,GerDracor/goethe-torquato-tasso.xml,"
+              Vollende nur dein Amt, ich seh du bist's!",0,56,character_speech,5,5,,TASSO,#tasso,412.0,MALE,joy,positive,emotions of pleasure
+1638,1638,1638,GerDracor/goethe-torquato-tasso.xml,"Ja du verdienst das fürstliche Vertraun,
+              Vollende nur dein Amt, und martre mich,
+              Da mir der Stab gebrochen ist, noch langsam
+              Zu Tode!",71,246,character_speech,5,5,,TASSO,#tasso,412.0,MALE,despair,negative,emotions of anxiety
+1639,1639,1639,GerDracor/goethe-torquato-tasso.xml,Ziehe!,247,253,character_speech,5,5,,TASSO,#tasso,412.0,MALE,no_annotation,no_annotation,no_annotation
+1640,1640,1640,GerDracor/goethe-torquato-tasso.xml,"Zieh am Pfeile nur,
+              Daß ich den Widerhaken grimmig fühle
+              Der mich zerfleischt!",254,360,character_speech,5,5,,TASSO,#tasso,412.0,MALE,fear,negative,emotions of anxiety
+1641,1641,1641,GerDracor/goethe-torquato-tasso.xml,"Du bist ein teures Werkzeug des Tyrannen,
+              Sei Kerkermeister, sei der Marterknecht,
+              Wie wohl!",375,495,character_speech,5,5,,TASSO,#tasso,412.0,MALE,abhorrence,negative,emotions of rejection
+1642,1642,1642,GerDracor/goethe-torquato-tasso.xml,wie eigen steht dir beides an!,496,526,character_speech,5,5,,TASSO,#tasso,412.0,MALE,Schadenfreude,positive,emotions of pleasure
+1643,1643,1643,GerDracor/goethe-torquato-tasso.xml,Gegen die Szene.,0,16,stage_direction,5,5,speech_part,,#tasso,412.0,MALE,no_annotation,no_annotation,no_annotation
+1644,1644,1644,GerDracor/goethe-torquato-tasso.xml,"
+              Ja, gehe nur Tyrann!",0,35,character_speech,5,5,,TASSO,#tasso,412.0,MALE,abhorrence,negative,emotions of rejection
+1645,1645,1645,GerDracor/goethe-torquato-tasso.xml,"Du konntest dich
+              Nicht bis zuletzt verstellen, triumphiere!",36,109,character_speech,5,5,,TASSO,#tasso,412.0,MALE,no_annotation,no_annotation,no_annotation
+1646,1646,1646,GerDracor/goethe-torquato-tasso.xml,"Du hast den Sklaven wohl gekettet, hast
+              Ihn wohl gespart zu ausgedachten Qualen:
+              Geh nur, ich hasse dich, ich fühle ganz
+              Den Abscheu, den die Übermacht erregt,
+              Die frevelhaft und ungerecht ergreift.",124,378,character_speech,5,5,,TASSO,#tasso,412.0,MALE,abhorrence,negative,emotions of rejection
+1647,1647,1647,GerDracor/goethe-torquato-tasso.xml,Nach einer Pause.,0,17,stage_direction,5,5,speech_part,,#tasso,412.0,MALE,no_annotation,no_annotation,no_annotation
+1648,1648,1648,GerDracor/goethe-torquato-tasso.xml,"
+              So seh ich mich am Ende denn verbannt,
+              Verstoßen und verbannt als Bettler hier?",0,108,character_speech,5,5,,TASSO,#tasso,412.0,MALE,suffering,negative,emotions of suffering and empathy
+1649,1649,1649,GerDracor/goethe-torquato-tasso.xml,"So hat man mich bekränzt, um mich geschmückt
+              Als Opfertier vor den Altar zu führen.",123,220,character_speech,5,5,,TASSO,#tasso,412.0,MALE,"admiration, reverence",positive,emotions of affection
+1650,1650,1650,GerDracor/goethe-torquato-tasso.xml,"So lockte man mir noch am letzten Tage
+              Mein einzig Eigentum, mir mein Gedicht
+              Mit glatten Worten ab und hielt es fest!",235,381,character_speech,5,5,,TASSO,#tasso,412.0,MALE,suffering,negative,emotions of suffering and empathy
+1651,1651,1651,GerDracor/goethe-torquato-tasso.xml,"Mein einzig Gut ist nun in euren Händen,
+              Das mich an jedem Ort empfohlen hätte,
+              Das mir noch blieb vom Hunger mich zu retten!",396,549,character_speech,5,5,,TASSO,#tasso,412.0,MALE,joy,positive,emotions of pleasure
+1652,1652,1652,GerDracor/goethe-torquato-tasso.xml,Jetzt seh ich wohl warum ich feiern soll.,564,605,character_speech,5,5,,TASSO,#tasso,412.0,MALE,joy,positive,emotions of pleasure
+1653,1653,1653,GerDracor/goethe-torquato-tasso.xml,"Es ist Verschwörung, und du bist das Haupt.",620,663,character_speech,5,5,,TASSO,#tasso,412.0,MALE,abhorrence,negative,emotions of rejection
+1654,1654,1654,GerDracor/goethe-torquato-tasso.xml,"Damit mein Lied nur nicht vollkommner werde,
+              Daß nur mein Name sich nicht mehr verbreite,
+              Daß meine Neider tausend Schwächen finden,
+              Daß man am Ende meiner gar vergesse;
+              Drum soll ich mich zum Müßiggang gewöhnen,
+              Drum soll ich mich und meine Sinne schonen.",678,1004,character_speech,5,5,,TASSO,#tasso,412.0,MALE,suffering,negative,emotions of suffering and empathy
+1655,1655,1655,GerDracor/goethe-torquato-tasso.xml,"O werte Freundschaft, teure Sorglichkeit!",1019,1060,character_speech,5,5,,TASSO,#tasso,412.0,MALE,friendship,positive,emotions of affection
+1656,1656,1656,GerDracor/goethe-torquato-tasso.xml,"Abscheulich dacht ich die Verschwörung mir,
+              Die unsichtbar und rastlos mich umspann,
+              Allein abscheulicher ist es geworden.",1076,1226,character_speech,5,5,,TASSO,#tasso,412.0,MALE,abhorrence,negative,emotions of rejection
+1657,1657,1657,GerDracor/goethe-torquato-tasso.xml,"
+              Und du, Sirene!",0,30,character_speech,5,5,,TASSO,#tasso,412.0,MALE,abhorrence,negative,emotions of rejection
+1658,1658,1658,GerDracor/goethe-torquato-tasso.xml,"die du mich so zart,
+              So himmlisch angelockt, ich sehe nun
+              Dich auf einmal!",31,133,character_speech,5,5,,TASSO,#tasso,412.0,MALE,love,positive,emotions of affection
+1659,1659,1659,GerDracor/goethe-torquato-tasso.xml,O Gott warum so spät!,134,155,character_speech,5,5,,TASSO,#tasso,412.0,MALE,no_annotation,no_annotation,no_annotation
+1660,1660,1660,GerDracor/goethe-torquato-tasso.xml,"
+              Allein wir selbst betrügen uns so gern,
+              Und ehren die Verworfnen die uns ehren.",0,108,character_speech,5,5,,TASSO,#tasso,412.0,MALE,"admiration, reverence",positive,emotions of affection
+1661,1661,1661,GerDracor/goethe-torquato-tasso.xml,"Die Menschen kennen sich einander nicht;
+              Nur die Galeerensklaven kennen sich,
+              Die eng an eine Bank geschmiedet keuchen;
+              Wo keiner was zu fordern hat und keiner
+              Was zu verlieren hat, die kennen sich!",123,377,character_speech,5,5,,TASSO,#tasso,412.0,MALE,no_annotation,no_annotation,no_annotation
+1662,1662,1662,GerDracor/goethe-torquato-tasso.xml,"Wo jeder sich für einen Schelmen gibt,
+              Und seinesgleichen auch für Schelmen nimmt.",392,488,character_speech,5,5,,TASSO,#tasso,412.0,MALE,abhorrence,negative,emotions of rejection
+1663,1663,1663,GerDracor/goethe-torquato-tasso.xml,"Doch wir verkennen nur die andern höflich,
+              Damit sie wieder uns verkennen sollen.",503,598,character_speech,5,5,,TASSO,#tasso,412.0,MALE,anger,negative,emotions of rejection
+1664,1664,1664,GerDracor/goethe-torquato-tasso.xml,"
+              Wie lang verdeckte mir dein heilig Bild
+              Die Buhlerin, die kleine Künste treibt.",0,108,character_speech,5,5,,TASSO,#tasso,412.0,MALE,no_annotation,no_annotation,no_annotation
+1665,1665,1665,GerDracor/goethe-torquato-tasso.xml,"Die Maske fällt, Armiden seh ich nun
+              Entblößt von allen Reizen – ja, du bist's!",123,216,character_speech,5,5,,TASSO,#tasso,412.0,MALE,joy,positive,emotions of pleasure
+1666,1666,1666,GerDracor/goethe-torquato-tasso.xml,Von dir hat ahndungsvoll mein Lied gesungen!,231,275,character_speech,5,5,,TASSO,#tasso,412.0,MALE,love,positive,emotions of affection
+1667,1667,1667,GerDracor/goethe-torquato-tasso.xml,"
+              Und die verschmitzte kleine Mittlerin!",0,53,character_speech,5,5,,TASSO,#tasso,412.0,MALE,Schadenfreude,positive,emotions of pleasure
+1668,1668,1668,GerDracor/goethe-torquato-tasso.xml,Wie tief erniedrigt seh ich sie vor mir!,68,108,character_speech,5,5,,TASSO,#tasso,412.0,MALE,suffering,negative,emotions of suffering and empathy
+1669,1669,1669,GerDracor/goethe-torquato-tasso.xml,"Ich höre nun die leisen Tritte rauschen,
+              Ich kenne nun den Kreis um den sie schlich.",123,221,character_speech,5,5,,TASSO,#tasso,412.0,MALE,no_annotation,no_annotation,no_annotation
+1670,1670,1670,GerDracor/goethe-torquato-tasso.xml,Euch alle kenn ich!,236,255,character_speech,5,5,,TASSO,#tasso,412.0,MALE,anger,negative,emotions of rejection
+1671,1671,1671,GerDracor/goethe-torquato-tasso.xml,Sei mir das genug!,256,274,character_speech,5,5,,TASSO,#tasso,412.0,MALE,anger,negative,emotions of rejection
+1672,1672,1672,GerDracor/goethe-torquato-tasso.xml,"Und wenn das Elend alles mir geraubt,
+              So preis ich's doch, die Wahrheit lehrt es mich.",289,389,character_speech,5,5,,TASSO,#tasso,412.0,MALE,joy,positive,emotions of pleasure
+1673,1673,1673,GerDracor/goethe-torquato-tasso.xml,"
+              Ich höre, Tasso, dich mit Staunen an,
+              So sehr ich weiß wie leicht dein rascher Geist
+              Von einer Grenze zu der andern schwankt.",0,168,character_speech,5,5,,ANTONIO.,#antonio,413.0,MALE,being moved,being moved,being moved
+1674,1674,1674,GerDracor/goethe-torquato-tasso.xml,Besinne dich!,183,196,character_speech,5,5,,ANTONIO.,#antonio,413.0,MALE,no_annotation,no_annotation,no_annotation
+1675,1675,1675,GerDracor/goethe-torquato-tasso.xml,Gebiete dieser Wut!,197,216,character_speech,5,5,,ANTONIO.,#antonio,413.0,MALE,anger,negative,emotions of rejection
+1676,1676,1676,GerDracor/goethe-torquato-tasso.xml,"Du lästerst, du erlaubst dir Wort auf Wort,
+              Das deinen Schmerzen zu verzeihen ist,
+              Doch das du selbst dir nie verzeihen kannst.",231,386,character_speech,5,5,,ANTONIO.,#antonio,413.0,MALE,suffering,negative,emotions of suffering and empathy
+1677,1677,1677,GerDracor/goethe-torquato-tasso.xml,"
+              O sprich mir nicht mit sanfter Lippe zu,
+              Laß mich kein kluges Wort von dir vernehmen!",0,114,character_speech,5,5,,TASSO.,#tasso,414.0,MALE,no_annotation,no_annotation,no_annotation
+1678,1678,1678,GerDracor/goethe-torquato-tasso.xml,"Laß mir das dumpfe Glück, damit ich nicht
+              Mich erst besinne, dann von Sinnen komme.",129,226,character_speech,5,5,,TASSO.,#tasso,414.0,MALE,joy,positive,emotions of pleasure
+1679,1679,1679,GerDracor/goethe-torquato-tasso.xml,"Ich fühle mir das innerste Gebein
+              Zerschmettert, und ich leb um es zu fühlen.",241,332,character_speech,5,5,,TASSO.,#tasso,414.0,MALE,suffering,negative,emotions of suffering and empathy
+1680,1680,1680,GerDracor/goethe-torquato-tasso.xml,"Verzweiflung faßt mit aller Wut mich an,
+              Und in der Höllenqual die mich vernichtet
+              Wird Lästrung nur ein leiser Schmerzenslaut.",347,502,character_speech,5,5,,TASSO.,#tasso,414.0,MALE,despair,negative,emotions of anxiety
+1681,1681,1681,GerDracor/goethe-torquato-tasso.xml,Ich will hinweg!,517,533,character_speech,5,5,,TASSO.,#tasso,414.0,MALE,anger,negative,emotions of rejection
+1682,1682,1682,GerDracor/goethe-torquato-tasso.xml,"Und wenn du redlich bist,
+              So zeig es mir, und laß mich gleich von hinnen.",534,621,character_speech,5,5,,TASSO.,#tasso,414.0,MALE,no_annotation,no_annotation,no_annotation
+1683,1683,1683,GerDracor/goethe-torquato-tasso.xml,"
+              Ich werde dich in dieser Not nicht lassen;
+              Und wenn es dir an Fassung ganz gebricht,
+              So soll mir's an Geduld gewiß nicht fehlen.",0,171,character_speech,5,5,,ANTONIO.,#antonio,415.0,MALE,compassion,negative,emotions of suffering and empathy
+1684,1684,1684,GerDracor/goethe-torquato-tasso.xml,"
+              So muß ich mich dir denn gefangen geben?",0,55,character_speech,5,5,,TASSO.,#tasso,416.0,MALE,no_annotation,no_annotation,no_annotation
+1685,1685,1685,GerDracor/goethe-torquato-tasso.xml,"Ich gebe mich und so ist es getan;
+              Ich widerstehe nicht, so ist mir wohl –
+              Und laß es dann mich schmerzlich wiederholen,
+              Wie schön es war was ich mir selbst verscherzte.",70,281,character_speech,5,5,,TASSO.,#tasso,416.0,MALE,Schadenfreude,positive,emotions of pleasure
+1686,1686,1686,GerDracor/goethe-torquato-tasso.xml,Sie gehn hinweg – O Gott!,296,321,character_speech,5,5,,TASSO.,#tasso,416.0,MALE,being moved,being moved,being moved
+1687,1687,1687,GerDracor/goethe-torquato-tasso.xml,"dort seh ich schon
+              Den Staub der von den Wagen sich erhebt –
+              Die Reuter sind voraus – dort fahren sie,
+              Dort gehn sie hin!",322,485,character_speech,5,5,,TASSO.,#tasso,416.0,MALE,no_annotation,no_annotation,no_annotation
+1688,1688,1688,GerDracor/goethe-torquato-tasso.xml,Kam ich nicht auch daher?,486,511,character_speech,5,5,,TASSO.,#tasso,416.0,MALE,no_annotation,no_annotation,no_annotation
+1689,1689,1689,GerDracor/goethe-torquato-tasso.xml,"Sie sind hinweg, sie sind erzürnt auf mich.",526,569,character_speech,5,5,,TASSO.,#tasso,416.0,MALE,anger,negative,emotions of rejection
+1690,1690,1690,GerDracor/goethe-torquato-tasso.xml,O küßt ich nur noch einmal seine Hand!,584,622,character_speech,5,5,,TASSO.,#tasso,416.0,MALE,love,positive,emotions of affection
+1691,1691,1691,GerDracor/goethe-torquato-tasso.xml,O daß ich nur noch Abschied nehmen könnte!,637,679,character_speech,5,5,,TASSO.,#tasso,416.0,MALE,suffering,negative,emotions of suffering and empathy
+1692,1692,1692,GerDracor/goethe-torquato-tasso.xml,Nur einmal noch zu sagen: o verzeiht!,694,731,character_speech,5,5,,TASSO.,#tasso,416.0,MALE,no_annotation,no_annotation,no_annotation
+1693,1693,1693,GerDracor/goethe-torquato-tasso.xml,"Nur noch zu hören: Geh, dir ist verziehn!",746,787,character_speech,5,5,,TASSO.,#tasso,416.0,MALE,anger,negative,emotions of rejection
+1694,1694,1694,GerDracor/goethe-torquato-tasso.xml,"Allein ich hör es nicht, ich hör es nie –
+              Ich will ja gehn!",802,875,character_speech,5,5,,TASSO.,#tasso,416.0,MALE,despair,negative,emotions of anxiety
+1695,1695,1695,GerDracor/goethe-torquato-tasso.xml,"Laßt mich nur Abschied nehmen,
+              Nur Abschied nehmen!",876,941,character_speech,5,5,,TASSO.,#tasso,416.0,MALE,suffering,negative,emotions of suffering and empathy
+1696,1696,1696,GerDracor/goethe-torquato-tasso.xml,"Gebt, o gebt mir nur
+              Auf einen Augenblick die Gegenwart
+              Zurück!",942,1033,character_speech,5,5,,TASSO.,#tasso,416.0,MALE,no_annotation,no_annotation,no_annotation
+1697,1697,1697,GerDracor/goethe-torquato-tasso.xml,Vielleicht genes ich wieder.,1034,1062,character_speech,5,5,,TASSO.,#tasso,416.0,MALE,joy,positive,emotions of pleasure
+1698,1698,1698,GerDracor/goethe-torquato-tasso.xml,"Nein,
+              Ich bin verstoßen, bin verbannt, ich habe
+              Mich selbst verbannt, ich werde diese Stimme
+              Nicht mehr vernehmen, diesem Blicke nicht,
+              Nicht mehr begegnen –",1063,1276,character_speech,5,5,,TASSO.,#tasso,416.0,MALE,despair,negative,emotions of anxiety
+1699,1699,1699,GerDracor/goethe-torquato-tasso.xml,"
+              Laß eines Mannes Stimme dich erinnern,
+              Der neben dir nicht ohne Rührung steht!",0,107,character_speech,5,5,,ANTONIO.,#antonio,417.0,MALE,suffering,negative,emotions of suffering and empathy
+1700,1700,1700,GerDracor/goethe-torquato-tasso.xml,Du bist so elend nicht als wie du glaubst.,123,165,character_speech,5,5,,ANTONIO.,#antonio,417.0,MALE,suffering,negative,emotions of suffering and empathy
+1701,1701,1701,GerDracor/goethe-torquato-tasso.xml,Ermanne dich!,180,193,character_speech,5,5,,ANTONIO.,#antonio,417.0,MALE,no_annotation,no_annotation,no_annotation
+1702,1702,1702,GerDracor/goethe-torquato-tasso.xml,Du gibst zu viel dir nach.,194,220,character_speech,5,5,,ANTONIO.,#antonio,417.0,MALE,no_annotation,no_annotation,no_annotation
+1703,1703,1703,GerDracor/goethe-torquato-tasso.xml,"
+              Und bin ich denn so elend wie ich scheine?",0,57,character_speech,5,5,,TASSO.,#tasso,418.0,MALE,suffering,negative,emotions of suffering and empathy
+1704,1704,1704,GerDracor/goethe-torquato-tasso.xml,Bin ich so schwach wie ich vor dir mich zeige?,72,118,character_speech,5,5,,TASSO.,#tasso,418.0,MALE,suffering,negative,emotions of suffering and empathy
+1705,1705,1705,GerDracor/goethe-torquato-tasso.xml,Ist alles denn verloren?,133,157,character_speech,5,5,,TASSO.,#tasso,418.0,MALE,despair,negative,emotions of anxiety
+1706,1706,1706,GerDracor/goethe-torquato-tasso.xml,"Hat der Schmerz,
+              Als schütterte der Boden, das Gebäude
+              In einen grausen Haufen Schutt verwandelt?",158,283,character_speech,5,5,,TASSO.,#tasso,418.0,MALE,suffering,negative,emotions of suffering and empathy
+1707,1707,1707,GerDracor/goethe-torquato-tasso.xml,"Ist kein Talent mehr übrig, tausendfältig
+              Mich zu zerstreun, zu unterstützen?",298,389,character_speech,5,5,,TASSO.,#tasso,418.0,MALE,suffering,negative,emotions of suffering and empathy
+1708,1708,1708,GerDracor/goethe-torquato-tasso.xml,"Ist alle Kraft verloschen, die sich sonst
+              In meinem Busen regte?",404,482,character_speech,5,5,,TASSO.,#tasso,418.0,MALE,suffering,negative,emotions of suffering and empathy
+1709,1709,1709,GerDracor/goethe-torquato-tasso.xml,"bin ich nichts,
+              Ganz nichts geworden?",483,534,character_speech,5,5,,TASSO.,#tasso,418.0,MALE,suffering,negative,emotions of suffering and empathy
+1710,1710,1710,GerDracor/goethe-torquato-tasso.xml,"Nein, es ist alles da und ich bin nichts;
+              Ich bin mir selbst entwandt, sie ist es mir!",549,649,character_speech,5,5,,TASSO.,#tasso,418.0,MALE,love,positive,emotions of affection
+1711,1711,1711,GerDracor/goethe-torquato-tasso.xml,"
+              Und wenn du ganz dich zu verlieren scheinst,
+              Vergleiche dich!",0,90,character_speech,5,5,,ANTONIO.,#antonio,419.0,MALE,no_annotation,no_annotation,no_annotation
+1712,1712,1712,GerDracor/goethe-torquato-tasso.xml,Erkenne was du bist!,91,111,character_speech,5,5,,ANTONIO.,#antonio,419.0,MALE,joy,positive,emotions of pleasure
+1713,1713,1713,GerDracor/goethe-torquato-tasso.xml,"
+              Ja, du erinnerst mich zur rechten Zeit!",0,54,character_speech,5,5,,TASSO.,#tasso,420.0,MALE,no_annotation,no_annotation,no_annotation
+1714,1714,1714,GerDracor/goethe-torquato-tasso.xml,"–
+              Hilft denn kein Beispiel der Geschichte mehr?",55,116,character_speech,5,5,,TASSO.,#tasso,420.0,MALE,no_annotation,no_annotation,no_annotation
+1715,1715,1715,GerDracor/goethe-torquato-tasso.xml,"Stellt sich kein edler Mann mir vor die Augen,
+              Der mehr gelitten als ich jemals litt,
+              Damit ich mich mit ihm vergleichend fasse?",131,287,character_speech,5,5,,TASSO.,#tasso,420.0,MALE,suffering,negative,emotions of suffering and empathy
+1716,1716,1716,GerDracor/goethe-torquato-tasso.xml,"Nein, alles ist dahin!",302,324,character_speech,5,5,,TASSO.,#tasso,420.0,MALE,suffering,negative,emotions of suffering and empathy
+1717,1717,1717,GerDracor/goethe-torquato-tasso.xml,"– Nur eines bleibt:
+              Die Träne hat uns die Natur verliehen,
+              Den Schrei des Schmerzens, wenn der Mann zuletzt
+              Es nicht mehr trägt – Und mir noch über alles –
+              Sie ließ im Schmerz mir Melodie und Rede,
+              Die tiefste Fülle meiner Not zu klagen:
+              Und wenn der Mensch in seiner Qual verstummt,
+              Gab mir ein Gott zu sagen, wie ich leide.",325,748,character_speech,5,5,,TASSO.,#tasso,420.0,MALE,suffering,negative,emotions of suffering and empathy
+1718,1718,1718,GerDracor/goethe-torquato-tasso.xml,Antonio tritt zu ihm und nimmt ihn bei der Hand.,0,48,stage_direction,5,5,speech_part,,#tasso,420.0,MALE,no_annotation,no_annotation,no_annotation
+1719,1719,1719,GerDracor/goethe-torquato-tasso.xml,"
+              O edler Mann!",0,28,character_speech,5,5,,TASSO.,#tasso,421.0,MALE,"admiration, reverence",positive,emotions of affection
+1720,1720,1720,GerDracor/goethe-torquato-tasso.xml,"Du stehest fest und still,
+              Ich scheine nur die sturmbewegte Welle.",29,109,character_speech,5,5,,TASSO.,#tasso,421.0,MALE,no_annotation,no_annotation,no_annotation
+1721,1721,1721,GerDracor/goethe-torquato-tasso.xml,"Allein bedenk, und überhebe nicht
+              Dich deiner Kraft!",124,190,character_speech,5,5,,TASSO.,#tasso,421.0,MALE,no_annotation,no_annotation,no_annotation
+1722,1722,1722,GerDracor/goethe-torquato-tasso.xml,"Die mächtige Natur,
+              Die diesen Felsen gründete, hat auch
+              Der Welle die Beweglichkeit gegeben.",191,312,character_speech,5,5,,TASSO.,#tasso,421.0,MALE,no_annotation,no_annotation,no_annotation
+1723,1723,1723,GerDracor/goethe-torquato-tasso.xml,"Sie sendet ihren Sturm, die Welle flieht
+              Und schwankt und schwillt und beugt sich schäumend über
+              In dieser Woge spiegelte so schön
+               Die Sonne sich, es ruhten die Gestirne
+              An dieser Brust, die zärtlich sich bewegte.",327,597,character_speech,5,5,,TASSO.,#tasso,421.0,MALE,love,positive,emotions of affection
+1724,1724,1724,GerDracor/goethe-torquato-tasso.xml,"Verschwunden ist der Glanz, entflohn die Ruhe.",612,658,character_speech,5,5,,TASSO.,#tasso,421.0,MALE,suffering,negative,emotions of suffering and empathy
+1725,1725,1725,GerDracor/goethe-torquato-tasso.xml,"Ich kenne mich in der Gefahr nicht mehr,
+              Und schäme mich nicht mehr es zu bekennen.",673,770,character_speech,5,5,,TASSO.,#tasso,421.0,MALE,abhorrence,negative,emotions of rejection
+1726,1726,1726,GerDracor/goethe-torquato-tasso.xml,"Zerbrochen ist das Steuer und es kracht
+              Das Schiff an allen Seiten.",785,866,character_speech,5,5,,TASSO.,#tasso,421.0,MALE,suffering,negative,emotions of suffering and empathy
+1727,1727,1727,GerDracor/goethe-torquato-tasso.xml,"Berstend reißt
+              Der Boden unter meinen Füßen auf!",867,929,character_speech,5,5,,TASSO.,#tasso,421.0,MALE,fear,negative,emotions of anxiety
+1728,1728,1728,GerDracor/goethe-torquato-tasso.xml,Ich fasse dich mit beiden Armen an!,944,979,character_speech,5,5,,TASSO.,#tasso,421.0,MALE,love,positive,emotions of affection
+1729,1729,1729,GerDracor/goethe-torquato-tasso.xml,"So klammert sich der Schiffer endlich noch
+              Am Felsen fest, an dem er scheitern sollte.",994,1094,character_speech,5,5,,TASSO.,#tasso,421.0,MALE,no_annotation,no_annotation,no_annotation

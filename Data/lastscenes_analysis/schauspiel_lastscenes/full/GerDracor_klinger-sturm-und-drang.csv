@@ -1,0 +1,186 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,pre1_base_polarity,pre1_main_emotion_class
+2671,2671,2671,GerDracor/klinger-sturm-und-drang.xml,Kapitän.,0,8,stage_direction,5,12,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+2672,2672,2672,GerDracor/klinger-sturm-und-drang.xml,"Berkley, hastig nach.",9,30,stage_direction,5,12,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+2673,2673,2673,GerDracor/klinger-sturm-und-drang.xml,Harry!,0,6,character_speech,5,12,,BERKLEY.,#berkley,737.0,MALE,no_annotation,no_annotation,no_annotation
+2674,2674,2674,GerDracor/klinger-sturm-und-drang.xml,Harry!,7,13,character_speech,5,12,,BERKLEY.,#berkley,737.0,MALE,no_annotation,no_annotation,no_annotation
+2675,2675,2675,GerDracor/klinger-sturm-und-drang.xml,He Harry!,14,23,character_speech,5,12,,BERKLEY.,#berkley,737.0,MALE,no_annotation,no_annotation,no_annotation
+2676,2676,2676,GerDracor/klinger-sturm-und-drang.xml,du sollst nicht!,24,40,character_speech,5,12,,BERKLEY.,#berkley,737.0,MALE,no_annotation,no_annotation,no_annotation
+2677,2677,2677,GerDracor/klinger-sturm-und-drang.xml,zu Wild.,0,8,stage_direction,5,12,speech_part,,#kapitaen,738.0,MALE,no_annotation,no_annotation,no_annotation
+2678,2678,2678,GerDracor/klinger-sturm-und-drang.xml,"Wo bleibst du denn, he?",0,23,character_speech,5,12,,KAPITÄN,#kapitaen,738.0,MALE,no_annotation,no_annotation,no_annotation
+2679,2679,2679,GerDracor/klinger-sturm-und-drang.xml,"– Was hier, Miß?",24,40,character_speech,5,12,,KAPITÄN,#kapitaen,738.0,MALE,no_annotation,no_annotation,no_annotation
+2680,2680,2680,GerDracor/klinger-sturm-und-drang.xml,–,41,42,character_speech,5,12,,KAPITÄN,#kapitaen,738.0,MALE,no_annotation,no_annotation,no_annotation
+2681,2681,2681,GerDracor/klinger-sturm-und-drang.xml,"Indem er Lord Bushy gewahr
+                wird.",0,48,stage_direction,5,12,inner_speech,,#kapitaen,738.0,MALE,no_annotation,no_annotation,no_annotation
+2682,2682,2682,GerDracor/klinger-sturm-und-drang.xml, Ist das Traum?,0,15,character_speech,5,12,,KAPITÄN,#kapitaen,738.0,MALE,no_annotation,no_annotation,no_annotation
+2683,2683,2683,GerDracor/klinger-sturm-und-drang.xml,"he, Mylord Bushy, bist du Fleisch und Bein?",16,59,character_speech,5,12,,KAPITÄN,#kapitaen,738.0,MALE,abhorrence,negative,emotions of rejection
+2684,2684,2684,GerDracor/klinger-sturm-und-drang.xml,Berkley fährt zusammen.,0,23,stage_direction,5,12,speech_part,,#kapitaen,738.0,MALE,no_annotation,no_annotation,no_annotation
+2685,2685,2685,GerDracor/klinger-sturm-und-drang.xml,"Ich bin's, Kapitän.",0,19,character_speech,5,12,,LORD BUSHY.,#lord_bushy,739.0,MALE,no_annotation,no_annotation,no_annotation
+2686,2686,2686,GerDracor/klinger-sturm-und-drang.xml,Teufel und Hölle!,0,17,character_speech,5,12,,KAPITÄN.,#kapitaen,740.0,MALE,abhorrence,negative,emotions of rejection
+2687,2687,2687,GerDracor/klinger-sturm-und-drang.xml,Hat dich die See so lieb?,18,43,character_speech,5,12,,KAPITÄN.,#kapitaen,740.0,MALE,love,positive,emotions of affection
+2688,2688,2688,GerDracor/klinger-sturm-und-drang.xml,"Vater, es ist Bushy, der alte Bushy!",44,80,character_speech,5,12,,KAPITÄN.,#kapitaen,740.0,MALE,no_annotation,no_annotation,no_annotation
+2689,2689,2689,GerDracor/klinger-sturm-und-drang.xml,"Ich seh es ja, ich fühl es ja.",0,30,character_speech,5,12,,BERKLEY.,#berkley,741.0,MALE,being moved,being moved,being moved
+2690,2690,2690,GerDracor/klinger-sturm-und-drang.xml,"Komm doch fort mit mir, Harry!",31,61,character_speech,5,12,,BERKLEY.,#berkley,741.0,MALE,no_annotation,no_annotation,no_annotation
+2691,2691,2691,GerDracor/klinger-sturm-und-drang.xml,"Es geht mir so warm ums
+              Herz –",62,106,character_speech,5,12,,BERKLEY.,#berkley,741.0,MALE,joy,positive,emotions of pleasure
+2692,2692,2692,GerDracor/klinger-sturm-und-drang.xml,Lord Berkley!,0,13,character_speech,5,12,,LORD BUSHY.,#lord_bushy,742.0,MALE,no_annotation,no_annotation,no_annotation
+2693,2693,2693,GerDracor/klinger-sturm-und-drang.xml,Nur deine Stimme nicht!,0,23,character_speech,5,12,,BERKLEY.,#berkley,743.0,MALE,no_annotation,no_annotation,no_annotation
+2694,2694,2694,GerDracor/klinger-sturm-und-drang.xml,ich fürchte deine Stimme!,24,49,character_speech,5,12,,BERKLEY.,#berkley,743.0,MALE,fear,negative,emotions of anxiety
+2695,2695,2695,GerDracor/klinger-sturm-und-drang.xml,"Was für Anschläge wider mich führen
+              dich hierher?",50,113,character_speech,5,12,,BERKLEY.,#berkley,743.0,MALE,no_annotation,no_annotation,no_annotation
+2696,2696,2696,GerDracor/klinger-sturm-und-drang.xml,Anschläge des Friedens und der Liebe.,0,37,character_speech,5,12,,LORD BUSHY.,#lord_bushy,744.0,MALE,no_annotation,no_annotation,no_annotation
+2697,2697,2697,GerDracor/klinger-sturm-und-drang.xml,"Will seine Hand fassen, er hält sie
+                zurück.",0,59,stage_direction,5,12,inner_speech,,#lord_bushy,744.0,MALE,no_annotation,no_annotation,no_annotation
+2698,2698,2698,GerDracor/klinger-sturm-und-drang.xml, Reue meines vergangenen Lebens: Vergessen der wilden Leidenschaften!,0,69,character_speech,5,12,,LORD BUSHY.,#lord_bushy,744.0,MALE,suffering,negative,emotions of suffering and empathy
+2699,2699,2699,GerDracor/klinger-sturm-und-drang.xml,Mylord!,84,91,character_speech,5,12,,LORD BUSHY.,#lord_bushy,744.0,MALE,no_annotation,no_annotation,no_annotation
+2700,2700,2700,GerDracor/klinger-sturm-und-drang.xml,"ich hab alle Sünden auf mich genommen, hab eine Pilgrimschaft vollendet hier,
+              voll Kummer und Leiden, laß mich hier die Fahne der Ruhe aufstecken!",92,252,character_speech,5,12,,LORD BUSHY.,#lord_bushy,744.0,MALE,suffering,negative,emotions of suffering and empathy
+2701,2701,2701,GerDracor/klinger-sturm-und-drang.xml,Geh doch nun weg hier!,0,22,character_speech,5,12,,BERKLEY.,#berkley,745.0,MALE,anger,negative,emotions of rejection
+2702,2702,2702,GerDracor/klinger-sturm-und-drang.xml,"– Komm fort, Miß!",23,40,character_speech,5,12,,BERKLEY.,#berkley,745.0,MALE,no_annotation,no_annotation,no_annotation
+2703,2703,2703,GerDracor/klinger-sturm-und-drang.xml,"daß ich nicht in Versuchung komme, zu diesem
+              oder jenen.",41,111,character_speech,5,12,,BERKLEY.,#berkley,745.0,MALE,no_annotation,no_annotation,no_annotation
+2704,2704,2704,GerDracor/klinger-sturm-und-drang.xml,Berkley!,0,8,character_speech,5,12,,LORD BUSHY.,#lord_bushy,746.0,MALE,no_annotation,no_annotation,no_annotation
+2705,2705,2705,GerDracor/klinger-sturm-und-drang.xml,bist du noch nicht da wo man Ruhe gern fühlt?,9,54,character_speech,5,12,,LORD BUSHY.,#lord_bushy,746.0,MALE,no_annotation,no_annotation,no_annotation
+2706,2706,2706,GerDracor/klinger-sturm-und-drang.xml,Nu Sir!,0,7,character_speech,5,12,,KAPITÄN.,#kapitaen,747.0,MALE,no_annotation,no_annotation,no_annotation
+2707,2707,2707,GerDracor/klinger-sturm-und-drang.xml,"meine Pistolen und Pferd ist bereit, meine Wunde vergessen.",8,67,character_speech,5,12,,KAPITÄN.,#kapitaen,747.0,MALE,no_annotation,no_annotation,no_annotation
+2708,2708,2708,GerDracor/klinger-sturm-und-drang.xml,"Ich hab dir vergeben, Kapitän, da ich ihn wieder fand.",0,54,character_speech,5,12,,WILD.,#wild,748.0,MALE,no_annotation,no_annotation,no_annotation
+2709,2709,2709,GerDracor/klinger-sturm-und-drang.xml,"Und ich dir nicht, Sir!",0,23,character_speech,5,12,,KAPITÄN.,#kapitaen,749.0,MALE,abhorrence,negative,emotions of rejection
+2710,2710,2710,GerDracor/klinger-sturm-und-drang.xml,"Kömmst du bald zu mir, Miß!",0,27,character_speech,5,12,,BERKLEY.,#berkley,750.0,MALE,no_annotation,no_annotation,no_annotation
+2711,2711,2711,GerDracor/klinger-sturm-und-drang.xml,was stehst du da unter Bushys?,28,58,character_speech,5,12,,BERKLEY.,#berkley,750.0,MALE,no_annotation,no_annotation,no_annotation
+2712,2712,2712,GerDracor/klinger-sturm-und-drang.xml,O mein Vater!,0,13,character_speech,5,12,,CAROLINE.,#caroline,751.0,FEMALE,being moved,being moved,being moved
+2713,2713,2713,GerDracor/klinger-sturm-und-drang.xml,sie umfassend.,0,14,stage_direction,5,12,speech_part,,#wild,752.0,MALE,no_annotation,no_annotation,no_annotation
+2714,2714,2714,GerDracor/klinger-sturm-und-drang.xml,"Sie ist mein, Mylord!",0,21,character_speech,5,12,,WILD,#wild,752.0,MALE,love,positive,emotions of affection
+2715,2715,2715,GerDracor/klinger-sturm-und-drang.xml,"Du gabst mir sie als ich Knabe war, sie ist mein!",22,71,character_speech,5,12,,WILD,#wild,752.0,MALE,love,positive,emotions of affection
+2716,2716,2716,GerDracor/klinger-sturm-und-drang.xml,"Soll ich dir fluchen, Miß?",0,26,character_speech,5,12,,BERKLEY.,#berkley,753.0,MALE,abhorrence,negative,emotions of rejection
+2717,2717,2717,GerDracor/klinger-sturm-und-drang.xml,komm Kind!,27,37,character_speech,5,12,,BERKLEY.,#berkley,753.0,MALE,no_annotation,no_annotation,no_annotation
+2718,2718,2718,GerDracor/klinger-sturm-und-drang.xml,Mein Vater!,0,11,character_speech,5,12,,CAROLINE.,#caroline,754.0,FEMALE,being moved,being moved,being moved
+2719,2719,2719,GerDracor/klinger-sturm-und-drang.xml,Berkley!,0,8,character_speech,5,12,,KAPITÄN.,#kapitaen,755.0,MALE,no_annotation,no_annotation,no_annotation
+2720,2720,2720,GerDracor/klinger-sturm-und-drang.xml,ich werde toll hier!,9,29,character_speech,5,12,,KAPITÄN.,#kapitaen,755.0,MALE,joy,positive,emotions of pleasure
+2721,2721,2721,GerDracor/klinger-sturm-und-drang.xml,die Miß umfassend.,0,18,stage_direction,5,12,speech_part,,#wild,756.0,MALE,no_annotation,no_annotation,no_annotation
+2722,2722,2722,GerDracor/klinger-sturm-und-drang.xml,"Wir wollen weg hier, Grausame!",0,30,character_speech,5,12,,WILD,#wild,756.0,MALE,despair,negative,emotions of anxiety
+2723,2723,2723,GerDracor/klinger-sturm-und-drang.xml,Aber die Miß geht mit.,31,53,character_speech,5,12,,WILD,#wild,756.0,MALE,no_annotation,no_annotation,no_annotation
+2724,2724,2724,GerDracor/klinger-sturm-und-drang.xml,"Hier ist Pistole, und hier ist
+              Tod!",54,103,character_speech,5,12,,WILD,#wild,756.0,MALE,fear,negative,emotions of anxiety
+2725,2725,2725,GerDracor/klinger-sturm-und-drang.xml,Nehmt sie!,104,114,character_speech,5,12,,WILD,#wild,756.0,MALE,no_annotation,no_annotation,no_annotation
+2726,2726,2726,GerDracor/klinger-sturm-und-drang.xml,"Laß mich ihn doch niederschießen, Mylord!",0,41,character_speech,5,12,,KAPITÄN.,#kapitaen,757.0,MALE,anger,negative,emotions of rejection
+2727,2727,2727,GerDracor/klinger-sturm-und-drang.xml,Hund du toller!,0,15,character_speech,5,12,,BERKLEY.,#berkley,758.0,MALE,abhorrence,negative,emotions of rejection
+2728,2728,2728,GerDracor/klinger-sturm-und-drang.xml,Und hält Miß so fest in seinen Armen.,0,37,stage_direction,5,12,inner_speech,,#berkley,758.0,MALE,love,positive,emotions of affection
+2729,2729,2729,GerDracor/klinger-sturm-und-drang.xml," Da knall sie mit
+              nieder, und aller Welt Anmut liegt begraben für mich.",0,85,character_speech,5,12,,BERKLEY.,#berkley,758.0,MALE,abhorrence,negative,emotions of rejection
+2730,2730,2730,GerDracor/klinger-sturm-und-drang.xml,"Sieh das Mädchen an so schön und
+              gut, und so häßlich in Bushys Armen.",86,169,character_speech,5,12,,BERKLEY.,#berkley,758.0,MALE,"admiration, reverence",positive,emotions of affection
+2731,2731,2731,GerDracor/klinger-sturm-und-drang.xml,Liebe Miß!,170,180,character_speech,5,12,,BERKLEY.,#berkley,758.0,MALE,love,positive,emotions of affection
+2732,2732,2732,GerDracor/klinger-sturm-und-drang.xml,will dich locken!,181,198,character_speech,5,12,,BERKLEY.,#berkley,758.0,MALE,Schadenfreude,positive,emotions of pleasure
+2733,2733,2733,GerDracor/klinger-sturm-und-drang.xml,mit Liebe locken!,199,216,character_speech,5,12,,BERKLEY.,#berkley,758.0,MALE,love,positive,emotions of affection
+2734,2734,2734,GerDracor/klinger-sturm-und-drang.xml,"willst du nicht bald kommen, schöne Miß!",231,271,character_speech,5,12,,BERKLEY.,#berkley,758.0,MALE,no_annotation,no_annotation,no_annotation
+2735,2735,2735,GerDracor/klinger-sturm-und-drang.xml,willst du wohl!,272,287,character_speech,5,12,,BERKLEY.,#berkley,758.0,MALE,no_annotation,no_annotation,no_annotation
+2736,2736,2736,GerDracor/klinger-sturm-und-drang.xml,"Komm doch, liebes, sittsames
+              Kind zu deinem alten Vater!",288,358,character_speech,5,12,,BERKLEY.,#berkley,758.0,MALE,no_annotation,no_annotation,no_annotation
+2737,2737,2737,GerDracor/klinger-sturm-und-drang.xml,"Du nur allein kannst seine Nerven sanft und mild stimmen,
+              das fühl ich soeben.",359,451,character_speech,5,12,,BERKLEY.,#berkley,758.0,MALE,compassion,negative,emotions of suffering and empathy
+2738,2738,2738,GerDracor/klinger-sturm-und-drang.xml,"Komm doch nur, ich will die Bushys ruhig ziehen lassen.",452,507,character_speech,5,12,,BERKLEY.,#berkley,758.0,MALE,no_annotation,no_annotation,no_annotation
+2739,2739,2739,GerDracor/klinger-sturm-und-drang.xml,"Soll ich hier mein Leben enden, Miß?",0,36,character_speech,5,12,,WILD.,#wild,759.0,MALE,despair,negative,emotions of anxiety
+2740,2740,2740,GerDracor/klinger-sturm-und-drang.xml,Vergebet!,0,9,character_speech,5,12,,CAROLINE.,#caroline,760.0,FEMALE,suffering,negative,emotions of suffering and empathy
+2741,2741,2741,GerDracor/klinger-sturm-und-drang.xml,mein Vater vergeßt!,10,29,character_speech,5,12,,CAROLINE.,#caroline,760.0,FEMALE,no_annotation,no_annotation,no_annotation
+2742,2742,2742,GerDracor/klinger-sturm-und-drang.xml,"Nach Berkley immer reichend, von Wild wieder zurückgehalten.",0,60,stage_direction,5,12,speech_part,,#caroline,760.0,FEMALE,no_annotation,no_annotation,no_annotation
+2743,2743,2743,GerDracor/klinger-sturm-und-drang.xml,Pfui Miß!,0,9,character_speech,5,12,,BERKLEY.,#berkley,761.0,MALE,abhorrence,negative,emotions of rejection
+2744,2744,2744,GerDracor/klinger-sturm-und-drang.xml,schäme dich!,10,22,character_speech,5,12,,BERKLEY.,#berkley,761.0,MALE,abhorrence,negative,emotions of rejection
+2745,2745,2745,GerDracor/klinger-sturm-und-drang.xml,"Ich bitt dich, Mädchen, bring mich nicht auf.",23,68,character_speech,5,12,,BERKLEY.,#berkley,761.0,MALE,anger,negative,emotions of rejection
+2746,2746,2746,GerDracor/klinger-sturm-und-drang.xml,Miß!,69,73,character_speech,5,12,,BERKLEY.,#berkley,761.0,MALE,no_annotation,no_annotation,no_annotation
+2747,2747,2747,GerDracor/klinger-sturm-und-drang.xml,"ich bitt,
+              ich flehe dich, und meine graue Haare, mein alter Kopf, halt's nicht mit meinen
+              Feinden, und komm geschwinde zu mir!",74,228,character_speech,5,12,,BERKLEY.,#berkley,761.0,MALE,despair,negative,emotions of anxiety
+2748,2748,2748,GerDracor/klinger-sturm-und-drang.xml,"Komm doch, Kind!",229,245,character_speech,5,12,,BERKLEY.,#berkley,761.0,MALE,no_annotation,no_annotation,no_annotation
+2749,2749,2749,GerDracor/klinger-sturm-und-drang.xml,"Du pflegtest und wartetest mich,
+              ich will jetzt dich pflegen und warten.",246,332,character_speech,5,12,,BERKLEY.,#berkley,761.0,MALE,no_annotation,no_annotation,no_annotation
+2750,2750,2750,GerDracor/klinger-sturm-und-drang.xml,He Miß!,333,340,character_speech,5,12,,BERKLEY.,#berkley,761.0,MALE,no_annotation,no_annotation,no_annotation
+2751,2751,2751,GerDracor/klinger-sturm-und-drang.xml,"soll ich wahnsinnig werden, Miß?",341,373,character_speech,5,12,,BERKLEY.,#berkley,761.0,MALE,being moved,being moved,being moved
+2752,2752,2752,GerDracor/klinger-sturm-und-drang.xml,"Soll
+              ich Ekel und Haß für mein Kind kriegen?",374,432,character_speech,5,12,,BERKLEY.,#berkley,761.0,MALE,abhorrence,negative,emotions of rejection
+2753,2753,2753,GerDracor/klinger-sturm-und-drang.xml,Dich verfluchen und die Welt?,433,462,character_speech,5,12,,BERKLEY.,#berkley,761.0,MALE,abhorrence,negative,emotions of rejection
+2754,2754,2754,GerDracor/klinger-sturm-und-drang.xml,"es wird mir toll
+              ums Herz, Miß!",463,508,character_speech,5,12,,BERKLEY.,#berkley,761.0,MALE,being moved,being moved,being moved
+2755,2755,2755,GerDracor/klinger-sturm-und-drang.xml,"Ich bin dein Kind, Lord!",0,24,character_speech,5,12,,CAROLINE.,#caroline,762.0,FEMALE,being moved,being moved,being moved
+2756,2756,2756,GerDracor/klinger-sturm-und-drang.xml,"Dein gutes, treues Kind!",25,49,character_speech,5,12,,CAROLINE.,#caroline,762.0,FEMALE,love,positive,emotions of affection
+2757,2757,2757,GerDracor/klinger-sturm-und-drang.xml,"Sie spielen mit uns, Vater!",0,27,character_speech,5,12,,KAPITÄN.,#kapitaen,763.0,MALE,joy,positive,emotions of pleasure
+2758,2758,2758,GerDracor/klinger-sturm-und-drang.xml,"Nur diese Gnade, lieber Himmel!",0,31,character_speech,5,12,,BERKLEY.,#berkley,764.0,MALE,despair,negative,emotions of anxiety
+2759,2759,2759,GerDracor/klinger-sturm-und-drang.xml,daß ich dieses Kind vergesse!,32,61,character_speech,5,12,,BERKLEY.,#berkley,764.0,MALE,love,positive,emotions of affection
+2760,2760,2760,GerDracor/klinger-sturm-und-drang.xml,"aus diesem verworrnen
+              Drang komme!",62,110,character_speech,5,12,,BERKLEY.,#berkley,764.0,MALE,being moved,being moved,being moved
+2761,2761,2761,GerDracor/klinger-sturm-und-drang.xml,"Berkley, wir nannten uns einstens Bruder.",0,41,character_speech,5,12,,LORD BUSHY.,#lord_bushy,765.0,MALE,no_annotation,no_annotation,no_annotation
+2762,2762,2762,GerDracor/klinger-sturm-und-drang.xml,Lebten in Freundschaft und Liebe.,42,75,character_speech,5,12,,LORD BUSHY.,#lord_bushy,765.0,MALE,friendship,positive,emotions of affection
+2763,2763,2763,GerDracor/klinger-sturm-und-drang.xml,"Ein böser
+              Geist trennte uns.",76,118,character_speech,5,12,,LORD BUSHY.,#lord_bushy,765.0,MALE,no_annotation,no_annotation,no_annotation
+2764,2764,2764,GerDracor/klinger-sturm-und-drang.xml,"Mir ist die vorige Empfindung längst zurückgekehrt, sollte es bei
+              dir nicht geschehen können?",119,226,character_speech,5,12,,LORD BUSHY.,#lord_bushy,765.0,MALE,suffering,negative,emotions of suffering and empathy
+2765,2765,2765,GerDracor/klinger-sturm-und-drang.xml,Bruder!,227,234,character_speech,5,12,,LORD BUSHY.,#lord_bushy,765.0,MALE,friendship,positive,emotions of affection
+2766,2766,2766,GerDracor/klinger-sturm-und-drang.xml,Rede nicht!,0,11,character_speech,5,12,,BERKLEY.,#berkley,766.0,MALE,no_annotation,no_annotation,no_annotation
+2767,2767,2767,GerDracor/klinger-sturm-und-drang.xml,Bushy rede nicht!,12,29,character_speech,5,12,,BERKLEY.,#berkley,766.0,MALE,anger,negative,emotions of rejection
+2768,2768,2768,GerDracor/klinger-sturm-und-drang.xml,"ich haß und hasse, lieb und liebe!",30,64,character_speech,5,12,,BERKLEY.,#berkley,766.0,MALE,love,positive,emotions of affection
+2769,2769,2769,GerDracor/klinger-sturm-und-drang.xml,"Dein Haß ist mir schwergefallen, jetzt verdien ich ihn nicht mehr.",0,66,character_speech,5,12,,LORD BUSHY.,#lord_bushy,767.0,MALE,abhorrence,negative,emotions of rejection
+2770,2770,2770,GerDracor/klinger-sturm-und-drang.xml,"Sieh ich stehe am
+              Rande des Grabes.",67,116,character_speech,5,12,,LORD BUSHY.,#lord_bushy,767.0,MALE,suffering,negative,emotions of suffering and empathy
+2771,2771,2771,GerDracor/klinger-sturm-und-drang.xml,"Gedanken der ewigen Ruhe haben längst meine Seele gefüllt, und geben
+              mir Stärke, je mehr mein schwacher Körper zusammensinkt.",117,256,character_speech,5,12,,LORD BUSHY.,#lord_bushy,767.0,MALE,suffering,negative,emotions of suffering and empathy
+2772,2772,2772,GerDracor/klinger-sturm-und-drang.xml,"Berkley, da lügt man nicht,
+              und ich tat's nie.",257,317,character_speech,5,12,,LORD BUSHY.,#lord_bushy,767.0,MALE,no_annotation,no_annotation,no_annotation
+2773,2773,2773,GerDracor/klinger-sturm-und-drang.xml,"Hier, wo Wahres vom Falschen getrennt wird, sag ich dir, daß ich
+              unschuldig bin am Verheeren deines Hauses, an deiner Verbannung.",318,461,character_speech,5,12,,LORD BUSHY.,#lord_bushy,767.0,MALE,abhorrence,negative,emotions of rejection
+2774,2774,2774,GerDracor/klinger-sturm-und-drang.xml,"Der es tat, liegt
+              längst im Tale des Todes verschlossen.",462,532,character_speech,5,12,,LORD BUSHY.,#lord_bushy,767.0,MALE,no_annotation,no_annotation,no_annotation
+2775,2775,2775,GerDracor/klinger-sturm-und-drang.xml,Ruhe seiner Asche!,533,551,character_speech,5,12,,LORD BUSHY.,#lord_bushy,767.0,MALE,no_annotation,no_annotation,no_annotation
+2776,2776,2776,GerDracor/klinger-sturm-und-drang.xml,"sein Name und seine
+              Triebfedern sollen nicht über dieses Herz kommen.",552,635,character_speech,5,12,,LORD BUSHY.,#lord_bushy,767.0,MALE,no_annotation,no_annotation,no_annotation
+2777,2777,2777,GerDracor/klinger-sturm-und-drang.xml,Du hättest das nicht getan?,0,27,character_speech,5,12,,BERKLEY.,#berkley,768.0,MALE,no_annotation,no_annotation,no_annotation
+2778,2778,2778,GerDracor/klinger-sturm-und-drang.xml,– alter Heuchler!,28,45,character_speech,5,12,,BERKLEY.,#berkley,768.0,MALE,anger,negative,emotions of rejection
+2779,2779,2779,GerDracor/klinger-sturm-und-drang.xml,"Es ist hart, Berkley!",0,21,character_speech,5,12,,LORD BUSHY.,#lord_bushy,769.0,MALE,suffering,negative,emotions of suffering and empathy
+2780,2780,2780,GerDracor/klinger-sturm-und-drang.xml,"mein Angesicht spricht für mich, und meine Offenheit, die mich
+              viel gekostet hat.",22,117,character_speech,5,12,,LORD BUSHY.,#lord_bushy,769.0,MALE,love,positive,emotions of affection
+2781,2781,2781,GerDracor/klinger-sturm-und-drang.xml,"Unser Unglück war Mißverständnis, daß wir nach einem Ziel trieben,
+              unsere Interessen sich aneinander stießen, meine zu hastigen Leidenschaften, und deine
+              noch feurigere.",118,315,character_speech,5,12,,LORD BUSHY.,#lord_bushy,769.0,MALE,suffering,negative,emotions of suffering and empathy
+2782,2782,2782,GerDracor/klinger-sturm-und-drang.xml,O Mylord!,316,325,character_speech,5,12,,LORD BUSHY.,#lord_bushy,769.0,MALE,no_annotation,no_annotation,no_annotation
+2783,2783,2783,GerDracor/klinger-sturm-und-drang.xml,was erhielten wir!,326,344,character_speech,5,12,,LORD BUSHY.,#lord_bushy,769.0,MALE,joy,positive,emotions of pleasure
+2784,2784,2784,GerDracor/klinger-sturm-und-drang.xml,was wurden wir beide?,345,366,character_speech,5,12,,LORD BUSHY.,#lord_bushy,769.0,MALE,no_annotation,no_annotation,no_annotation
+2785,2785,2785,GerDracor/klinger-sturm-und-drang.xml,"Laß uns alles gut
+              machen, laß uns in Liebe leben!",367,430,character_speech,5,12,,LORD BUSHY.,#lord_bushy,769.0,MALE,love,positive,emotions of affection
+2786,2786,2786,GerDracor/klinger-sturm-und-drang.xml,O mein Vater!,0,13,character_speech,5,12,,CAROLINE.,#caroline,770.0,FEMALE,being moved,being moved,being moved
+2787,2787,2787,GerDracor/klinger-sturm-und-drang.xml,es ist alles so wahr was Mylord sagt –,14,52,character_speech,5,12,,CAROLINE.,#caroline,770.0,FEMALE,no_annotation,no_annotation,no_annotation
+2788,2788,2788,GerDracor/klinger-sturm-und-drang.xml,An seinen Hals.,0,15,stage_direction,5,12,inner_speech,,#caroline,770.0,FEMALE,love,positive,emotions of affection
+2789,2789,2789,GerDracor/klinger-sturm-und-drang.xml,"
+              Deine Jenny!",0,27,character_speech,5,12,,CAROLINE.,#caroline,770.0,FEMALE,being moved,being moved,being moved
+2790,2790,2790,GerDracor/klinger-sturm-und-drang.xml,Du bist erweicht!,28,45,character_speech,5,12,,CAROLINE.,#caroline,770.0,FEMALE,despair,negative,emotions of anxiety
+2791,2791,2791,GerDracor/klinger-sturm-und-drang.xml,Edler Berkley!,0,14,character_speech,5,12,,WILD.,#wild,771.0,MALE,"admiration, reverence",positive,emotions of affection
+2792,2792,2792,GerDracor/klinger-sturm-und-drang.xml,"Es ist schändlich, sich vertragen wie Weibsleute am Ende.",0,57,character_speech,5,12,,KAPITÄN.,#kapitaen,772.0,MALE,no_annotation,no_annotation,no_annotation
+2793,2793,2793,GerDracor/klinger-sturm-und-drang.xml,Harry!,0,6,character_speech,5,12,,CAROLINE.,#caroline,773.0,FEMALE,no_annotation,no_annotation,no_annotation
+2794,2794,2794,GerDracor/klinger-sturm-und-drang.xml,lüge dir keine Empfindung an!,7,36,character_speech,5,12,,CAROLINE.,#caroline,773.0,FEMALE,no_annotation,no_annotation,no_annotation
+2795,2795,2795,GerDracor/klinger-sturm-und-drang.xml,"Ich seh dir an, daß du gerne wünschtest –",37,78,character_speech,5,12,,CAROLINE.,#caroline,773.0,FEMALE,no_annotation,no_annotation,no_annotation
+2796,2796,2796,GerDracor/klinger-sturm-und-drang.xml,Geh doch!,0,9,character_speech,5,12,,KAPITÄN.,#kapitaen,774.0,MALE,no_annotation,no_annotation,no_annotation
+2797,2797,2797,GerDracor/klinger-sturm-und-drang.xml,– ich will auf mein Schiff.,10,37,character_speech,5,12,,KAPITÄN.,#kapitaen,774.0,MALE,no_annotation,no_annotation,no_annotation
+2798,2798,2798,GerDracor/klinger-sturm-und-drang.xml,"Bruder Berkley, ich will mich rechtfertigen vor dir, nur erkenne jetzt mein Herz
+              rein!",0,100,character_speech,5,12,,LORD BUSHY.,#lord_bushy,775.0,MALE,love,positive,emotions of affection
+2799,2799,2799,GerDracor/klinger-sturm-und-drang.xml,Ich kann dich nicht liebhaben – bleibe hier!,0,44,character_speech,5,12,,BERKLEY.,#berkley,776.0,MALE,love,positive,emotions of affection
+2800,2800,2800,GerDracor/klinger-sturm-und-drang.xml,ihn umarmend.,0,13,stage_direction,5,12,speech_part,,#lord_bushy,777.0,MALE,joy,positive,emotions of pleasure
+2801,2801,2801,GerDracor/klinger-sturm-und-drang.xml,Ich erkenne dich.,0,17,character_speech,5,12,,LORD BUSHY,#lord_bushy,777.0,MALE,no_annotation,no_annotation,no_annotation
+2802,2802,2802,GerDracor/klinger-sturm-und-drang.xml,Laß mich nur!,0,13,character_speech,5,12,,BERKLEY.,#berkley,778.0,MALE,no_annotation,no_annotation,no_annotation
+2803,2803,2803,GerDracor/klinger-sturm-und-drang.xml,"es ist mir so wirr noch, bleibt nur hier beisammen!",14,65,character_speech,5,12,,BERKLEY.,#berkley,778.0,MALE,being moved,being moved,being moved
+2804,2804,2804,GerDracor/klinger-sturm-und-drang.xml,Brav Mylord!,0,12,character_speech,5,12,,WILD.,#wild,779.0,MALE,joy,positive,emotions of pleasure
+2805,2805,2805,GerDracor/klinger-sturm-und-drang.xml,und du Kapitän?,13,28,character_speech,5,12,,WILD.,#wild,779.0,MALE,being moved,being moved,being moved
+2806,2806,2806,GerDracor/klinger-sturm-und-drang.xml,Ich weiß das noch all nicht.,0,28,character_speech,5,12,,KAPITÄN.,#kapitaen,780.0,MALE,no_annotation,no_annotation,no_annotation
+2807,2807,2807,GerDracor/klinger-sturm-und-drang.xml,Komm Knabe!,29,40,character_speech,5,12,,KAPITÄN.,#kapitaen,780.0,MALE,anger,negative,emotions of rejection
+2808,2808,2808,GerDracor/klinger-sturm-und-drang.xml,Bleib Harry!,0,12,character_speech,5,12,,BERKLEY.,#berkley,781.0,MALE,being moved,being moved,being moved
+2809,2809,2809,GerDracor/klinger-sturm-und-drang.xml,Es mißfällt mir ja.,0,19,character_speech,5,12,,KAPITÄN.,#kapitaen,782.0,MALE,suffering,negative,emotions of suffering and empathy
+2810,2810,2810,GerDracor/klinger-sturm-und-drang.xml,"Ich muß erst einig mit mir werden, eh ich's mit andern werden
+              kann.",20,101,character_speech,5,12,,KAPITÄN.,#kapitaen,782.0,MALE,no_annotation,no_annotation,no_annotation
+2811,2811,2811,GerDracor/klinger-sturm-und-drang.xml,Mohr!,102,107,character_speech,5,12,,KAPITÄN.,#kapitaen,782.0,MALE,anger,negative,emotions of rejection
+2812,2812,2812,GerDracor/klinger-sturm-und-drang.xml,Mohr!,108,113,character_speech,5,12,,KAPITÄN.,#kapitaen,782.0,MALE,anger,negative,emotions of rejection
+2813,2813,2813,GerDracor/klinger-sturm-und-drang.xml,Hier lieber Lord!,0,17,character_speech,5,12,,MOHR.,#mohr,783.0,MALE,no_annotation,no_annotation,no_annotation
+2814,2814,2814,GerDracor/klinger-sturm-und-drang.xml,"Komm mit, und mach mir Spaß!",0,28,character_speech,5,12,,KAPITÄN.,#kapitaen,784.0,MALE,joy,positive,emotions of pleasure
+2815,2815,2815,GerDracor/klinger-sturm-und-drang.xml,Ab.,0,3,stage_direction,5,12,speech_part,,#kapitaen,784.0,MALE,no_annotation,no_annotation,no_annotation
+2816,2816,2816,GerDracor/klinger-sturm-und-drang.xml,"Ja weinen für Freude, wenn dir das Spaß macht.",0,46,character_speech,5,12,,MOHR.,#mohr,785.0,MALE,joy,positive,emotions of pleasure
+2817,2817,2817,GerDracor/klinger-sturm-und-drang.xml,Ab.,0,3,stage_direction,5,12,speech_part,,#mohr,785.0,MALE,no_annotation,no_annotation,no_annotation
+2818,2818,2818,GerDracor/klinger-sturm-und-drang.xml,"Komm, Bushy, die Allee hinab, ich will versuchen, ob ich mich mit dir vertragen kann.",0,85,character_speech,5,12,,BERKLEY.,#berkley,786.0,MALE,no_annotation,no_annotation,no_annotation
+2819,2819,2819,GerDracor/klinger-sturm-und-drang.xml,"Ich kann dir noch über keine meiner Empfindungen Wort geben, haß dich noch, und – es
+              fällt mir so vieles ein – Komm nur!",100,234,character_speech,5,12,,BERKLEY.,#berkley,786.0,MALE,abhorrence,negative,emotions of rejection
+2820,2820,2820,GerDracor/klinger-sturm-und-drang.xml,Ab.,0,3,stage_direction,5,12,inner_speech,,#berkley,786.0,MALE,no_annotation,no_annotation,no_annotation
+2821,2821,2821,GerDracor/klinger-sturm-und-drang.xml,Wild und Caroline in allem Gefühl der Liebe sich umarmend.,0,58,stage_direction,5,12,speech_part,,#berkley,786.0,MALE,love,positive,emotions of affection
+2822,2822,2822,GerDracor/klinger-sturm-und-drang.xml,Der Vorhang fällt zu.,0,21,stage_direction,5,12,pre_speech,,,,,no_annotation,no_annotation,no_annotation

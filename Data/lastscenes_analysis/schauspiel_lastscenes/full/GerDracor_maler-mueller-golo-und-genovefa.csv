@@ -1,0 +1,60 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+5315,5315,5315,GerDracor/maler-mueller-golo-und-genovefa.xml,Weidengebüsch.,0,14,stage_direction,5,12,pre_speech,,,,,no_annotation,S,,1811.0,no_annotation,no_annotation
+5316,5316,5316,GerDracor/maler-mueller-golo-und-genovefa.xml,"Von fern die Melodie des Liedes: mein Grab sey unter Weiden, mit
+            Waldhörnern.",0,89,stage_direction,5,12,pre_speech,,,,,no_annotation,S,,1811.0,no_annotation,no_annotation
+5317,5317,5317,GerDracor/maler-mueller-golo-und-genovefa.xml,"Golo, Bernhard, Ulrich.",0,23,stage_direction,5,12,pre_speech,,,,,no_annotation,S,,1811.0,no_annotation,no_annotation
+5318,5318,5318,GerDracor/maler-mueller-golo-und-genovefa.xml,"Ha, mein Sterbegesang!",0,22,character_speech,5,12,,GOLO.,#golo,1889.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+5319,5319,5319,GerDracor/maler-mueller-golo-und-genovefa.xml,"Drunten rauscht der Bach, sag' an seinen Tod, wie er sterben soll.",0,66,character_speech,5,12,,ULRICH.,#ulrich,1890.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+5320,5320,5320,GerDracor/maler-mueller-golo-und-genovefa.xml,"Niedergestochen wie ein Thier, sein Blut im Bach rinnend, zerhauen die Glieder und
+              aufgehenkt in die Aeste, daß einmahl des Himmels Geyer in seinen Knochen horsten!",0,178,character_speech,5,12,,BERNHARD.,#bernhard,1891.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+5321,5321,5321,GerDracor/maler-mueller-golo-und-genovefa.xml,"faßt wüthig Bernhard, wirft ihn nieder, reißt das Schwert ihm aus der Faust und
+              verwundet ihn.",0,108,stage_direction,5,12,speech_part,,#golo,1892.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+5322,5322,5322,GerDracor/maler-mueller-golo-und-genovefa.xml,Noch brennt Mannheit in mir!,0,28,character_speech,5,12,,GOLO,#golo,1892.0,MALE,being moved,S,,1811.0,being moved,being moved
+5323,5323,5323,GerDracor/maler-mueller-golo-und-genovefa.xml,"Verflucht neunmahl die Zunge, die solch Urtheil mir
+              sprach!",29,102,character_speech,5,12,,GOLO,#golo,1892.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+5324,5324,5324,GerDracor/maler-mueller-golo-und-genovefa.xml,Ha!,0,3,character_speech,5,12,,ULRICH.,#ulrich,1893.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+5325,5325,5325,GerDracor/maler-mueller-golo-und-genovefa.xml,Noch meinen Bruder erschlagen?,4,34,character_speech,5,12,,ULRICH.,#ulrich,1893.0,MALE,being moved,S,,1811.0,being moved,being moved
+5326,5326,5326,GerDracor/maler-mueller-golo-und-genovefa.xml,Blutdürstiger!,35,49,character_speech,5,12,,ULRICH.,#ulrich,1893.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+5327,5327,5327,GerDracor/maler-mueller-golo-und-genovefa.xml,Höllischer!,50,61,character_speech,5,12,,ULRICH.,#ulrich,1893.0,MALE,anger,S,,1811.0,negative,emotions of rejection
+5328,5328,5328,GerDracor/maler-mueller-golo-und-genovefa.xml,"Bin ich nicht Ritter, so edel gebohren, wie ihr?",0,48,character_speech,5,12,,GOLO.,#golo,1894.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+5329,5329,5329,GerDracor/maler-mueller-golo-und-genovefa.xml,"Schlachtet ihr mich wie ein
+              Thier?",49,97,character_speech,5,12,,GOLO.,#golo,1894.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+5330,5330,5330,GerDracor/maler-mueller-golo-und-genovefa.xml,Hund!,0,5,character_speech,5,12,,ULRICH.,#ulrich,1895.0,MALE,anger,S,,1811.0,negative,emotions of rejection
+5331,5331,5331,GerDracor/maler-mueller-golo-und-genovefa.xml,Wüthiger!,6,15,character_speech,5,12,,ULRICH.,#ulrich,1895.0,MALE,anger,S,,1811.0,negative,emotions of rejection
+5332,5332,5332,GerDracor/maler-mueller-golo-und-genovefa.xml,Will dir's geben!,16,33,character_speech,5,12,,ULRICH.,#ulrich,1895.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+5333,5333,5333,GerDracor/maler-mueller-golo-und-genovefa.xml,"Halt' ein, Bruder Ulrich!",0,25,character_speech,5,12,,BERNHARD.,#bernhard,1896.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+5334,5334,5334,GerDracor/maler-mueller-golo-und-genovefa.xml,"Nein, soll mir darnieder!",0,25,character_speech,5,12,,ULRICH.,#ulrich,1897.0,MALE,anger,S,,1811.0,negative,emotions of rejection
+5335,5335,5335,GerDracor/maler-mueller-golo-und-genovefa.xml,"Sonst bathest du mich, bitte jetzt dich.",0,40,character_speech,5,12,,BERNHARD.,#bernhard,1898.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+5336,5336,5336,GerDracor/maler-mueller-golo-und-genovefa.xml,Ulrich flicht.,0,14,stage_direction,5,12,inner_speech,,#bernhard,1898.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+5337,5337,5337,GerDracor/maler-mueller-golo-und-genovefa.xml,schlägt ihm das Schwert aus der Hand.,0,37,stage_direction,5,12,speech_part,,#golo,1899.0,MALE,anger,S,,1811.0,negative,emotions of rejection
+5338,5338,5338,GerDracor/maler-mueller-golo-und-genovefa.xml,"Ihr wäret mir nichts, ich wollte euch eh Beyde Wolf und Geyern vorschmeissen, daß sie
+              eure Glieder",0,112,character_speech,5,12,,GOLO,#golo,1899.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+5339,5339,5339,GerDracor/maler-mueller-golo-und-genovefa.xml," zerhackten, eh ihr mich zu Boden brächtet!",0,43,character_speech,5,12,,GOLO,#golo,1899.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+5340,5340,5340,GerDracor/maler-mueller-golo-und-genovefa.xml,"Ihr
+              Niederträchtigen!",44,79,character_speech,5,12,,GOLO,#golo,1899.0,MALE,anger,S,,1811.0,negative,emotions of rejection
+5341,5341,5341,GerDracor/maler-mueller-golo-und-genovefa.xml,"Die ihr schnöde verdammt, ihr Elenden, die nicht fühlen, wie
+              jammervoll dem Unglücklichen ist!",80,188,character_speech,5,12,,GOLO,#golo,1899.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+5342,5342,5342,GerDracor/maler-mueller-golo-und-genovefa.xml,"Ihr schmähet mich, schaut auf mein Verbrechen, aber
+              nicht auf das Schicksal, das mich bis dahin trieb.",189,305,character_speech,5,12,,GOLO,#golo,1899.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+5343,5343,5343,GerDracor/maler-mueller-golo-und-genovefa.xml,"Oh ich wollte mich jetzt stellen
+              gleich vor euch Allen an die Spitze hundert Bewaffneter hinter mir: wer wagt' es, mich
+              dann noch zu richten, wo tausend und tausend!",306,499,character_speech,5,12,,GOLO,#golo,1899.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+5344,5344,5344,GerDracor/maler-mueller-golo-und-genovefa.xml,"Aber hier, in meinem Busen, da ... ich
+              habe Unglückliche gemacht, habe meinen edelsten Freund hintergangen, ach!",500,626,character_speech,5,12,,GOLO,#golo,1899.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+5345,5345,5345,GerDracor/maler-mueller-golo-und-genovefa.xml,"Wirft
+                das Schwert weg.",0,38,stage_direction,5,12,inner_speech,,#golo,1899.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+5346,5346,5346,GerDracor/maler-mueller-golo-und-genovefa.xml, Stehe hier unbewaffnet wieder!,0,31,character_speech,5,12,,GOLO,#golo,1899.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+5347,5347,5347,GerDracor/maler-mueller-golo-und-genovefa.xml,"– Ritter-Tod und Begräbniß
+              ehrlich: mehr begehr' ich nicht.",32,105,character_speech,5,12,,GOLO,#golo,1899.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+5348,5348,5348,GerDracor/maler-mueller-golo-und-genovefa.xml,"Habe mich zu sehr auf deinen Tod gefreut, habe zu sehr nach deinem Blute gelechzt!",0,82,character_speech,5,12,,BERNHARD.,#bernhard,1900.0,MALE,despair,S,,1811.0,negative,emotions of anxiety
+5349,5349,5349,GerDracor/maler-mueller-golo-und-genovefa.xml,"Geh' deines Weges, Gott wird dich finden.",97,138,character_speech,5,12,,BERNHARD.,#bernhard,1900.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+5350,5350,5350,GerDracor/maler-mueller-golo-und-genovefa.xml,Ich bin müde!,0,13,character_speech,5,12,,GOLO.,#golo,1901.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+5351,5351,5351,GerDracor/maler-mueller-golo-und-genovefa.xml,"Wer mir den Tod gibt, gibt mir Ruhe.",14,50,character_speech,5,12,,GOLO.,#golo,1901.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+5352,5352,5352,GerDracor/maler-mueller-golo-und-genovefa.xml,faßt das Schwert.,0,17,stage_direction,5,12,speech_part,,#ulrich,1902.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+5353,5353,5353,GerDracor/maler-mueller-golo-und-genovefa.xml,Unglücklicher!,0,14,character_speech,5,12,,ULRICH,#ulrich,1902.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+5354,5354,5354,GerDracor/maler-mueller-golo-und-genovefa.xml,"Sollst haben Ritter-Tod und Begräbniß, ehrlich Beydes von meiner Hand.",15,85,character_speech,5,12,,ULRICH,#ulrich,1902.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+5355,5355,5355,GerDracor/maler-mueller-golo-und-genovefa.xml,"Steh' her, will dein Richter seyn.",100,134,character_speech,5,12,,ULRICH,#ulrich,1902.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+5356,5356,5356,GerDracor/maler-mueller-golo-und-genovefa.xml,Reckt das Schwert.,0,18,stage_direction,5,12,inner_speech,,#ulrich,1902.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+5357,5357,5357,GerDracor/maler-mueller-golo-und-genovefa.xml,fällt hinein.,0,13,stage_direction,5,12,speech_part,,#golo,1903.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+5358,5358,5358,GerDracor/maler-mueller-golo-und-genovefa.xml,"Verzeiht mir, eh ich sterbe.",0,28,character_speech,5,12,,GOLO,#golo,1903.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+5359,5359,5359,GerDracor/maler-mueller-golo-und-genovefa.xml,Wir verzeihen dir!,0,18,character_speech,5,12,,BEYDE.,#bernhard #ulrich,1904.0,UNKNOWN,no_annotation,S,,1811.0,no_annotation,no_annotation

@@ -1,0 +1,286 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+3038,3038,3038,GerDracor/klinger-die-neue-arria.xml,Staatsgefängnis.,0,16,stage_direction,5,2,pre_speech,,,,,no_annotation,S,,1775.0,no_annotation,no_annotation
+3039,3039,3039,GerDracor/klinger-die-neue-arria.xml,Julio.,0,6,stage_direction,5,2,pre_speech,,,,,no_annotation,S,,1775.0,no_annotation,no_annotation
+3040,3040,3040,GerDracor/klinger-die-neue-arria.xml,Solina.,7,14,stage_direction,5,2,pre_speech,,,,,no_annotation,S,,1775.0,no_annotation,no_annotation
+3041,3041,3041,GerDracor/klinger-die-neue-arria.xml,"Ich fühl's Solina, daß dieser Ort und Ruhe mit mir endet.",0,57,character_speech,5,2,,JULIO.,#julio,766.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+3042,3042,3042,GerDracor/klinger-die-neue-arria.xml,"O wär ich in vollem Feuer
+              dem Ziel hinan, als ein rechtschaffner Kerl gestürzt, auch ohne es erreicht zu haben,
+              und erreicht hätt ich's.",58,222,character_speech,5,2,,JULIO.,#julio,766.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+3043,3043,3043,GerDracor/klinger-die-neue-arria.xml,"Alles mit mir niedergerissen, und sich mein Geist über meiner
+              Asche erhoben, fortgelebt zu künftigen Welten, dem seltnen Edlen das Bild des
+              Erreichens; dem sein Herz geklopft hätte unablässig wie mir, da ich in meiner ersten
+              Jugend vor den Großen auf den Knien lag und mein Geist sich überwuchs.",223,560,character_speech,5,2,,JULIO.,#julio,766.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+3044,3044,3044,GerDracor/klinger-die-neue-arria.xml,Und jetzt wo du alles sein könntest!,0,36,character_speech,5,2,,SOLINA.,#solina,767.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+3045,3045,3045,GerDracor/klinger-die-neue-arria.xml,Ha!,0,3,character_speech,5,2,,JULIO.,#julio,768.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3046,3046,3046,GerDracor/klinger-die-neue-arria.xml,da hängt's vor mir wie ein Teppich.,4,39,character_speech,5,2,,JULIO.,#julio,768.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3047,3047,3047,GerDracor/klinger-die-neue-arria.xml,"Wie vor den Augen eines abgesetzten, kühnen
+              Königs der seinen Nachbarn und Untertanen zu große Schritte machte.",40,165,character_speech,5,2,,JULIO.,#julio,768.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3048,3048,3048,GerDracor/klinger-die-neue-arria.xml,So ist's mit mir.,166,183,character_speech,5,2,,JULIO.,#julio,768.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3049,3049,3049,GerDracor/klinger-die-neue-arria.xml,Dieses Herz will unablässig getrieben sein.,198,241,character_speech,5,2,,JULIO.,#julio,768.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3050,3050,3050,GerDracor/klinger-die-neue-arria.xml,"Wie soll ich mit dieser kalten, marternden
+              Ruhe auskommen?",242,314,character_speech,5,2,,JULIO.,#julio,768.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+3051,3051,3051,GerDracor/klinger-die-neue-arria.xml,"Solina, was das ein Geschenk ist, Größe des Geistes, unternehmendes
+              Herz, und unter solchen Menschen zu leben, durch sie hieher geworfen zu sein.",315,474,character_speech,5,2,,JULIO.,#julio,768.0,MALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+3052,3052,3052,GerDracor/klinger-die-neue-arria.xml,Und seinen Leidenschaften es abgewinnen.,0,40,character_speech,5,2,,SOLINA.,#solina,769.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+3053,3053,3053,GerDracor/klinger-die-neue-arria.xml,Daß wir aussehen wie gemeine Menschen.,0,38,character_speech,5,2,,JULIO.,#julio,770.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3054,3054,3054,GerDracor/klinger-die-neue-arria.xml,Sagst du das?,0,13,character_speech,5,2,,SOLINA.,#solina,771.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+3055,3055,3055,GerDracor/klinger-die-neue-arria.xml,Ich schlag mir aufs Herz daß es schallt.,0,40,character_speech,5,2,,JULIO.,#julio,772.0,MALE,anger,S,,1775.0,negative,emotions of rejection
+3056,3056,3056,GerDracor/klinger-die-neue-arria.xml,Pack mich an daß das Blut nachläuft.,41,77,character_speech,5,2,,JULIO.,#julio,772.0,MALE,anger,S,,1775.0,negative,emotions of rejection
+3057,3057,3057,GerDracor/klinger-die-neue-arria.xml,"Wie
+              soll ich mit mir auskommen?",78,123,character_speech,5,2,,JULIO.,#julio,772.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3058,3058,3058,GerDracor/klinger-die-neue-arria.xml,Wenn ich ihrer denk!,124,144,character_speech,5,2,,JULIO.,#julio,772.0,MALE,being moved,S,,1775.0,being moved,being moved
+3059,3059,3059,GerDracor/klinger-die-neue-arria.xml,Das sollst du nicht.,0,20,character_speech,5,2,,SOLINA.,#solina,773.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3060,3060,3060,GerDracor/klinger-die-neue-arria.xml,Sie sind nicht wert daß wir uns einen Augenblick ihrer erinnern.,21,85,character_speech,5,2,,SOLINA.,#solina,773.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3061,3061,3061,GerDracor/klinger-die-neue-arria.xml,Schreib fort wo du stehnbliebst.,100,132,character_speech,5,2,,SOLINA.,#solina,773.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3062,3062,3062,GerDracor/klinger-die-neue-arria.xml,Was ist das?,0,12,character_speech,5,2,,JULIO.,#julio,774.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3063,3063,3063,GerDracor/klinger-die-neue-arria.xml,Leute handlen zu lassen und selbst untätig sein?,13,61,character_speech,5,2,,JULIO.,#julio,774.0,MALE,being moved,S,,1775.0,being moved,being moved
+3064,3064,3064,GerDracor/klinger-die-neue-arria.xml,"Ist's nicht so als wenn
+              man einen tapferen kriegshungrigen Soldaten einkerkerte die Taten seiner Nebenbuhler
+              zu beschreiben.",62,214,character_speech,5,2,,JULIO.,#julio,774.0,MALE,being moved,S,,1775.0,being moved,being moved
+3065,3065,3065,GerDracor/klinger-die-neue-arria.xml,"Solina, für uns ist Ruhe nicht gemacht.",215,254,character_speech,5,2,,JULIO.,#julio,774.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3066,3066,3066,GerDracor/klinger-die-neue-arria.xml,"Für keinen, Julio, als die Elenden, denen Wachen und Schlaf eins ist.",0,69,character_speech,5,2,,SOLINA.,#solina,775.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+3067,3067,3067,GerDracor/klinger-die-neue-arria.xml,"Gott ist ewig
+              tätig, hat sich währende Erhaltung, ewiges Treiben, Schaffen und Hauchen vorbehalten.",70,183,character_speech,5,2,,SOLINA.,#solina,775.0,FEMALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+3068,3068,3068,GerDracor/klinger-die-neue-arria.xml,"Und wir die wir von ihm beseelt sind, begabt zu handlen, und würksam zu sein, uns doch
+              das Blut durch die Adern schleicht, wie einem Ohnmächtigen – Julio!",198,366,character_speech,5,2,,SOLINA.,#solina,775.0,FEMALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+3069,3069,3069,GerDracor/klinger-die-neue-arria.xml,"wenn ich dich
+              anseh!",367,401,character_speech,5,2,,SOLINA.,#solina,775.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+3070,3070,3070,GerDracor/klinger-die-neue-arria.xml,"Und du gewahr wirst, wie all die bedeutende Züge meines Gesichts schwinden, samt dem
+              Geist –",0,106,character_speech,5,2,,JULIO.,#julio,776.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+3071,3071,3071,GerDracor/klinger-die-neue-arria.xml,"Und mein Gesicht sich so matt verwandelt, daß man's in ein Kloster aufstellen könnte
+              –",0,100,character_speech,5,2,,SOLINA.,#solina,777.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+3072,3072,3072,GerDracor/klinger-die-neue-arria.xml,Nein so weit nicht.,0,19,character_speech,5,2,,JULIO.,#julio,778.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3073,3073,3073,GerDracor/klinger-die-neue-arria.xml,Daß läßt sich bei dir nicht tilgen.,20,55,character_speech,5,2,,JULIO.,#julio,778.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3074,3074,3074,GerDracor/klinger-die-neue-arria.xml,Du bist immer noch Solina!,56,82,character_speech,5,2,,JULIO.,#julio,778.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+3075,3075,3075,GerDracor/klinger-die-neue-arria.xml,Dein Blick dringt noch durch und zwingt Seelen die Verbeugung ab.,97,162,character_speech,5,2,,JULIO.,#julio,778.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3076,3076,3076,GerDracor/klinger-die-neue-arria.xml,"Wenn ich dich seh in
+              deiner Göttlichkeit strahlen!",163,227,character_speech,5,2,,JULIO.,#julio,778.0,MALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+3077,3077,3077,GerDracor/klinger-die-neue-arria.xml,seh zu was du bestimmt bist!,228,256,character_speech,5,2,,JULIO.,#julio,778.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3078,3078,3078,GerDracor/klinger-die-neue-arria.xml,was bestimmt?,257,270,character_speech,5,2,,JULIO.,#julio,778.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3079,3079,3079,GerDracor/klinger-die-neue-arria.xml,was du bist.,271,283,character_speech,5,2,,JULIO.,#julio,778.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3080,3080,3080,GerDracor/klinger-die-neue-arria.xml,"Daß wir nun dahin gebracht sind, den Kampf mit uns selbst zu kämpfen und uns zugrund
+              zu richten.",298,408,character_speech,5,2,,JULIO.,#julio,778.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+3081,3081,3081,GerDracor/klinger-die-neue-arria.xml,Sich ausblasen sehen wie ein schwaches Lichtchen.,409,458,character_speech,5,2,,JULIO.,#julio,778.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3082,3082,3082,GerDracor/klinger-die-neue-arria.xml,"Ich bin Solina nicht, wenn du so sprichst.",0,42,character_speech,5,2,,SOLINA.,#solina,779.0,FEMALE,anger,S,,1775.0,negative,emotions of rejection
+3083,3083,3083,GerDracor/klinger-die-neue-arria.xml,Widerrufe!,43,53,character_speech,5,2,,SOLINA.,#solina,779.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3084,3084,3084,GerDracor/klinger-die-neue-arria.xml,Donna!,0,6,character_speech,5,2,,JULIO.,#julio,780.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3085,3085,3085,GerDracor/klinger-die-neue-arria.xml,Faßt sie an der Hand.,0,21,stage_direction,5,2,inner_speech,,#julio,780.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3086,3086,3086,GerDracor/klinger-die-neue-arria.xml," Liebe, nimm Abschied von mir.",0,30,character_speech,5,2,,JULIO.,#julio,780.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+3087,3087,3087,GerDracor/klinger-die-neue-arria.xml,"Erwart das
+              Ende nicht.",31,67,character_speech,5,2,,JULIO.,#julio,780.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3088,3088,3088,GerDracor/klinger-die-neue-arria.xml,Du siehst sie wollen mich martern durch Aufschub.,68,117,character_speech,5,2,,JULIO.,#julio,780.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+3089,3089,3089,GerDracor/klinger-die-neue-arria.xml,Laß mich!,118,127,character_speech,5,2,,JULIO.,#julio,780.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3090,3090,3090,GerDracor/klinger-die-neue-arria.xml,Dich lassen?,0,12,character_speech,5,2,,SOLINA.,#solina,781.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+3091,3091,3091,GerDracor/klinger-die-neue-arria.xml,Dich so lassen?,13,28,character_speech,5,2,,SOLINA.,#solina,781.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+3092,3092,3092,GerDracor/klinger-die-neue-arria.xml,Sagt dein Herz so?,29,47,character_speech,5,2,,SOLINA.,#solina,781.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+3093,3093,3093,GerDracor/klinger-die-neue-arria.xml,Ich bitt dich tu's.,0,19,character_speech,5,2,,JULIO.,#julio,782.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3094,3094,3094,GerDracor/klinger-die-neue-arria.xml,Ich vermut daß ich hier vergehen muß.,20,57,character_speech,5,2,,JULIO.,#julio,782.0,MALE,despair,S,,1775.0,negative,emotions of anxiety
+3095,3095,3095,GerDracor/klinger-die-neue-arria.xml,"Du hast lang genug mit mir
+              in diesem Kerker gelitten.",58,125,character_speech,5,2,,JULIO.,#julio,782.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+3096,3096,3096,GerDracor/klinger-die-neue-arria.xml,Deine Seele will und muß frei sein.,126,161,character_speech,5,2,,JULIO.,#julio,782.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3097,3097,3097,GerDracor/klinger-die-neue-arria.xml,Ich verlaß dich nicht.,0,22,character_speech,5,2,,SOLINA.,#solina,783.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+3098,3098,3098,GerDracor/klinger-die-neue-arria.xml,Meine Liebe teilt mit dir.,23,49,character_speech,5,2,,SOLINA.,#solina,783.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+3099,3099,3099,GerDracor/klinger-die-neue-arria.xml,Weißt du wer meiner wartet?,50,77,character_speech,5,2,,SOLINA.,#solina,783.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3100,3100,3100,GerDracor/klinger-die-neue-arria.xml,Ich fürchte keinen.,0,19,character_speech,5,2,,JULIO.,#julio,784.0,MALE,fear,S,,1775.0,negative,emotions of anxiety
+3101,3101,3101,GerDracor/klinger-die-neue-arria.xml,Brich ab!,0,9,character_speech,5,2,,SOLINA.,#solina,785.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3102,3102,3102,GerDracor/klinger-die-neue-arria.xml,"Wir sind frei, wir sind hier frei.",10,44,character_speech,5,2,,SOLINA.,#solina,785.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+3103,3103,3103,GerDracor/klinger-die-neue-arria.xml,Du leidest zwiefach ohne mich.,45,75,character_speech,5,2,,SOLINA.,#solina,785.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+3104,3104,3104,GerDracor/klinger-die-neue-arria.xml,Liebe!,0,6,character_speech,5,2,,JULIO.,#julio,786.0,MALE,love,S,,1775.0,positive,emotions of affection
+3105,3105,3105,GerDracor/klinger-die-neue-arria.xml,was das ein Gedanke ist so zu vergehn.,7,45,character_speech,5,2,,JULIO.,#julio,786.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+3106,3106,3106,GerDracor/klinger-die-neue-arria.xml,Hast du nicht eine Tat getan die dich krönt mit Lob der guten Menschheit?,0,73,character_speech,5,2,,SOLINA.,#solina,787.0,FEMALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+3107,3107,3107,GerDracor/klinger-die-neue-arria.xml,"Was wollen
+              die Sklaven?",74,111,character_speech,5,2,,SOLINA.,#solina,787.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3108,3108,3108,GerDracor/klinger-die-neue-arria.xml,Erwart's nicht!,0,15,character_speech,5,2,,JULIO.,#julio,788.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+3109,3109,3109,GerDracor/klinger-die-neue-arria.xml,Wir sind groß genug das all nicht zu achten.,0,44,character_speech,5,2,,SOLINA.,#solina,789.0,FEMALE,abhorrence,S,,1775.0,negative,emotions of rejection
+3110,3110,3110,GerDracor/klinger-die-neue-arria.xml,tritt auf.,0,10,stage_direction,5,2,speech_part,,#abgeordneter,790.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3111,3111,3111,GerDracor/klinger-die-neue-arria.xml,Signor lesen Sie des Prinzen Willen!,0,36,character_speech,5,2,,ABGEORDNETER,#abgeordneter,790.0,MALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+3112,3112,3112,GerDracor/klinger-die-neue-arria.xml,In zwei Stunden – Auf ein Schiff – Nach Amerika – Drullo – Eine Galeere doch?,0,77,character_speech,5,2,,JULIO.,#julio,791.0,MALE,being moved,S,,1775.0,being moved,being moved
+3113,3113,3113,GerDracor/klinger-die-neue-arria.xml,"Ha, ha,
+              ha!",78,103,character_speech,5,2,,JULIO.,#julio,791.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3114,3114,3114,GerDracor/klinger-die-neue-arria.xml,"Empfehlen Sie mich dem Prinzen mein Herr, ich werde mich fertig halten.",104,175,character_speech,5,2,,JULIO.,#julio,791.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3115,3115,3115,GerDracor/klinger-die-neue-arria.xml,Donna!,0,6,character_speech,5,2,,ABGEORDNETER.,#abgeordneter,792.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3116,3116,3116,GerDracor/klinger-die-neue-arria.xml,der Prinz hofft Sie würden mir folgen.,7,45,character_speech,5,2,,ABGEORDNETER.,#abgeordneter,792.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3117,3117,3117,GerDracor/klinger-die-neue-arria.xml,"Und ich hoff der Prinz wird die Gnad haben, mich in einer Stunde abholen zu
+              lassen.",0,97,character_speech,5,2,,SOLINA.,#solina,793.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3118,3118,3118,GerDracor/klinger-die-neue-arria.xml,Abgeordneter ab.,0,16,stage_direction,5,2,speech_part,,#solina,793.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3119,3119,3119,GerDracor/klinger-die-neue-arria.xml,liest noch einmal.,0,18,stage_direction,5,2,speech_part,,#julio,794.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3120,3120,3120,GerDracor/klinger-die-neue-arria.xml,Ha!,0,3,character_speech,5,2,,JULIO,#julio,794.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3121,3121,3121,GerDracor/klinger-die-neue-arria.xml,ha!,4,7,character_speech,5,2,,JULIO,#julio,794.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3122,3122,3122,GerDracor/klinger-die-neue-arria.xml,ha!,8,11,character_speech,5,2,,JULIO,#julio,794.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3123,3123,3123,GerDracor/klinger-die-neue-arria.xml,"herrlich ausgedacht, und sklavisch, ganz ihrer würdig.",12,66,character_speech,5,2,,JULIO,#julio,794.0,MALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+3124,3124,3124,GerDracor/klinger-die-neue-arria.xml,Nun Donna!,67,77,character_speech,5,2,,JULIO,#julio,794.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3125,3125,3125,GerDracor/klinger-die-neue-arria.xml,"laß
+              mich allein!",78,108,character_speech,5,2,,JULIO,#julio,794.0,MALE,being moved,S,,1775.0,being moved,being moved
+3126,3126,3126,GerDracor/klinger-die-neue-arria.xml,Was sagst du?,0,13,character_speech,5,2,,SOLINA.,#solina,795.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+3127,3127,3127,GerDracor/klinger-die-neue-arria.xml,Lies nur!,0,9,character_speech,5,2,,JULIO.,#julio,796.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3128,3128,3128,GerDracor/klinger-die-neue-arria.xml,unsre Banden sind getrennt.,10,37,character_speech,5,2,,JULIO.,#julio,796.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3129,3129,3129,GerDracor/klinger-die-neue-arria.xml,"Gott sei gedankt, daß du's mit solcher
+              Standhaftigkeit liest.",38,113,character_speech,5,2,,JULIO.,#julio,796.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+3130,3130,3130,GerDracor/klinger-die-neue-arria.xml,Ewiger Sklav!,114,127,character_speech,5,2,,JULIO.,#julio,796.0,MALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+3131,3131,3131,GerDracor/klinger-die-neue-arria.xml,nicht weiter!,128,141,character_speech,5,2,,JULIO.,#julio,796.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3132,3132,3132,GerDracor/klinger-die-neue-arria.xml,– Laß mich Liebe!,142,159,character_speech,5,2,,JULIO.,#julio,796.0,MALE,love,S,,1775.0,positive,emotions of affection
+3133,3133,3133,GerDracor/klinger-die-neue-arria.xml,Julio!,0,6,character_speech,5,2,,SOLINA.,#solina,797.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+3134,3134,3134,GerDracor/klinger-die-neue-arria.xml,Mein Julio!,7,18,character_speech,5,2,,SOLINA.,#solina,797.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+3135,3135,3135,GerDracor/klinger-die-neue-arria.xml,Denke nichts.,0,13,character_speech,5,2,,JULIO.,#julio,798.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3136,3136,3136,GerDracor/klinger-die-neue-arria.xml,Geh in Frieden.,14,29,character_speech,5,2,,JULIO.,#julio,798.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3137,3137,3137,GerDracor/klinger-die-neue-arria.xml,"Ich hab mich aufgeopfert, durch meinen Eifer, durch
+              meine Wärme.",30,108,character_speech,5,2,,JULIO.,#julio,798.0,MALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+3138,3138,3138,GerDracor/klinger-die-neue-arria.xml,"Ha ich möchte mit dem letzten Römer rufen: Unglückliche Tugend wie ward
+              ich in deinem Dienst betrogen.",109,225,character_speech,5,2,,JULIO.,#julio,798.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+3139,3139,3139,GerDracor/klinger-die-neue-arria.xml,"Ich glaubte du wärest ein würkliches Wesen, und in
+              diesem Glauben verband ich mich mit dir; aber heute seh ich, daß du nur ein eitler
+              Name, ein Schatten, Raub, und Sklavin des Glücks bist.",226,442,character_speech,5,2,,JULIO.,#julio,798.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+3140,3140,3140,GerDracor/klinger-die-neue-arria.xml,– Donna!,443,451,character_speech,5,2,,JULIO.,#julio,798.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3141,3141,3141,GerDracor/klinger-die-neue-arria.xml,"laß mich dich noch
+              einmal umarmen, und sie anbeten.",452,517,character_speech,5,2,,JULIO.,#julio,798.0,MALE,love,S,,1775.0,positive,emotions of affection
+3142,3142,3142,GerDracor/klinger-die-neue-arria.xml,"Rette mich von diesem Zweifel, und dann geh –",518,563,character_speech,5,2,,JULIO.,#julio,798.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3143,3143,3143,GerDracor/klinger-die-neue-arria.xml,Geht auf und nieder.,0,20,stage_direction,5,2,inner_speech,,#julio,798.0,MALE,being moved,S,,1775.0,being moved,being moved
+3144,3144,3144,GerDracor/klinger-die-neue-arria.xml," Ich hab noch zwei Stunden nach dem Ausspruch,
+              laß mich nun!",0,74,character_speech,5,2,,JULIO.,#julio,798.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3145,3145,3145,GerDracor/klinger-die-neue-arria.xml,laß mich!,75,84,character_speech,5,2,,JULIO.,#julio,798.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3146,3146,3146,GerDracor/klinger-die-neue-arria.xml,–,85,86,character_speech,5,2,,JULIO.,#julio,798.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3147,3147,3147,GerDracor/klinger-die-neue-arria.xml,Willst du's abwarten?,0,21,character_speech,5,2,,SOLINA.,#solina,799.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3148,3148,3148,GerDracor/klinger-die-neue-arria.xml,Abwarten?,0,9,character_speech,5,2,,JULIO.,#julio,800.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3149,3149,3149,GerDracor/klinger-die-neue-arria.xml,Donna schau mir durch die Augen in die Seel!,10,54,character_speech,5,2,,JULIO.,#julio,800.0,MALE,love,S,,1775.0,positive,emotions of affection
+3150,3150,3150,GerDracor/klinger-die-neue-arria.xml,fühl was ich denk.,55,73,character_speech,5,2,,JULIO.,#julio,800.0,MALE,being moved,S,,1775.0,being moved,being moved
+3151,3151,3151,GerDracor/klinger-die-neue-arria.xml,Ha Julio!,0,9,character_speech,5,2,,SOLINA.,#solina,801.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+3152,3152,3152,GerDracor/klinger-die-neue-arria.xml,daß du das bist!,10,26,character_speech,5,2,,SOLINA.,#solina,801.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+3153,3153,3153,GerDracor/klinger-die-neue-arria.xml,daß ich dich hier habe!,27,50,character_speech,5,2,,SOLINA.,#solina,801.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+3154,3154,3154,GerDracor/klinger-die-neue-arria.xml,"Sieh mich an, und fühl wie einig
+              wir sind.",51,107,character_speech,5,2,,SOLINA.,#solina,801.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+3155,3155,3155,GerDracor/klinger-die-neue-arria.xml,Bei der Hoheit des Menschen!,0,28,character_speech,5,2,,JULIO.,#julio,802.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3156,3156,3156,GerDracor/klinger-die-neue-arria.xml,wir sind die einzige Geschöpfe auf Gottes Boden.,29,77,character_speech,5,2,,JULIO.,#julio,802.0,MALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+3157,3157,3157,GerDracor/klinger-die-neue-arria.xml,Julio und eben deswegen die Erde unter unsre Füße.,0,50,character_speech,5,2,,SOLINA.,#solina,803.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3158,3158,3158,GerDracor/klinger-die-neue-arria.xml,"Wir sind würdig Gottes
+              allmächtigen Atem in uns zu ziehen.",51,123,character_speech,5,2,,SOLINA.,#solina,803.0,FEMALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+3159,3159,3159,GerDracor/klinger-die-neue-arria.xml,Julio!,124,130,character_speech,5,2,,SOLINA.,#solina,803.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+3160,3160,3160,GerDracor/klinger-die-neue-arria.xml,mein Julio!,131,142,character_speech,5,2,,SOLINA.,#solina,803.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+3161,3161,3161,GerDracor/klinger-die-neue-arria.xml,faßt sie an der Hand.,0,21,stage_direction,5,2,speech_part,,#julio,804.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3162,3162,3162,GerDracor/klinger-die-neue-arria.xml,Was läuft dir durch die Adern?,0,30,character_speech,5,2,,JULIO,#julio,804.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3163,3163,3163,GerDracor/klinger-die-neue-arria.xml,Du weinst – meine Solina!,31,56,character_speech,5,2,,JULIO,#julio,804.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+3164,3164,3164,GerDracor/klinger-die-neue-arria.xml,"Für Freude, daß ich dich würdig seh mit mir zu sterben.",0,55,character_speech,5,2,,SOLINA.,#solina,805.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+3165,3165,3165,GerDracor/klinger-die-neue-arria.xml,"Armer, lieber Narr!",56,75,character_speech,5,2,,SOLINA.,#solina,805.0,FEMALE,compassion,S,,1775.0,negative,emotions of suffering and empathy
+3166,3166,3166,GerDracor/klinger-die-neue-arria.xml,"Du
+              glaubtest ich könnte dich lassen!",76,126,character_speech,5,2,,SOLINA.,#solina,805.0,FEMALE,abhorrence,S,,1775.0,negative,emotions of rejection
+3167,3167,3167,GerDracor/klinger-die-neue-arria.xml,Meine Donna!,0,12,character_speech,5,2,,JULIO.,#julio,806.0,MALE,being moved,S,,1775.0,being moved,being moved
+3168,3168,3168,GerDracor/klinger-die-neue-arria.xml,Unaussprechlich ist's was mir durch die Seele fährt.,0,52,character_speech,5,2,,SOLINA.,#solina,807.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+3169,3169,3169,GerDracor/klinger-die-neue-arria.xml,"Julio ich steh über der
+              Schöpfung – Gott im Himmel sei Dank!",53,127,character_speech,5,2,,SOLINA.,#solina,807.0,FEMALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+3170,3170,3170,GerDracor/klinger-die-neue-arria.xml,"daß du mir die Stunde des Muts geschenkt hast,
+              mich rein zu erhalten, und dir meine Seele unbefleckt zu überliefern.",128,258,character_speech,5,2,,SOLINA.,#solina,807.0,FEMALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+3171,3171,3171,GerDracor/klinger-die-neue-arria.xml,kniet sich vor sie.,0,19,stage_direction,5,2,speech_part,,#julio,808.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3172,3172,3172,GerDracor/klinger-die-neue-arria.xml,"Und du unaussprechliches Wesen, das du den Augenblick den Göttern mehr verwandt bist
+              als den Menschen, hier nimm meinen letzten, heißen Dank, daß du deine Augen auf mich
+              gerichtet hast, meine Seele verstundest, und so mit mir endest.",0,261,character_speech,5,2,,JULIO,#julio,808.0,MALE,love,S,,1775.0,positive,emotions of affection
+3173,3173,3173,GerDracor/klinger-die-neue-arria.xml,"Du durftest kaum
+              meinen Geist berühren und er begriff den deinen.",262,341,character_speech,5,2,,JULIO,#julio,808.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3174,3174,3174,GerDracor/klinger-die-neue-arria.xml,"In mir und dir bildete sich kein
+              Gedanken, kein Wollen, das nicht gleich einstimmig in uns  beiden
+              geboren ward ... Laß uns ewig so sein, laß mich dir wert sein in dieser Stunde!",342,548,character_speech,5,2,,JULIO,#julio,808.0,MALE,love,S,,1775.0,positive,emotions of affection
+3175,3175,3175,GerDracor/klinger-die-neue-arria.xml,Steh auf!,0,9,character_speech,5,2,,SOLINA.,#solina,809.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3176,3176,3176,GerDracor/klinger-die-neue-arria.xml,Steh auf!,10,19,character_speech,5,2,,SOLINA.,#solina,809.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3177,3177,3177,GerDracor/klinger-die-neue-arria.xml,Laß dich umfassen!,20,38,character_speech,5,2,,SOLINA.,#solina,809.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+3178,3178,3178,GerDracor/klinger-die-neue-arria.xml,laß dich lieben!,39,55,character_speech,5,2,,SOLINA.,#solina,809.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+3179,3179,3179,GerDracor/klinger-die-neue-arria.xml,"Laß dich mit diesem Kuß
+              entzünden!",56,104,character_speech,5,2,,SOLINA.,#solina,809.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+3180,3180,3180,GerDracor/klinger-die-neue-arria.xml,Denke des ersten!,105,122,character_speech,5,2,,SOLINA.,#solina,809.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3181,3181,3181,GerDracor/klinger-die-neue-arria.xml,Denke was unsre Liebe war!,123,149,character_speech,5,2,,SOLINA.,#solina,809.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+3182,3182,3182,GerDracor/klinger-die-neue-arria.xml,Küßt ihn.,0,9,stage_direction,5,2,inner_speech,,#solina,809.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+3183,3183,3183,GerDracor/klinger-die-neue-arria.xml," Rein
+              war sie, wie keine Liebe hier.",0,50,character_speech,5,2,,SOLINA.,#solina,809.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+3184,3184,3184,GerDracor/klinger-die-neue-arria.xml,So sei unsre Liebe noch einmal unbefangen.,0,42,character_speech,5,2,,JULIO.,#julio,810.0,MALE,love,S,,1775.0,positive,emotions of affection
+3185,3185,3185,GerDracor/klinger-die-neue-arria.xml,"Das ist weggewischt was mich nicht
+              schlafen ließ, was mich nicht wachen ließ.",43,134,character_speech,5,2,,JULIO.,#julio,810.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3186,3186,3186,GerDracor/klinger-die-neue-arria.xml,"Ohnegleichen liebte ich dich von der ersten
+              Sekunde.",135,201,character_speech,5,2,,JULIO.,#julio,810.0,MALE,love,S,,1775.0,positive,emotions of affection
+3187,3187,3187,GerDracor/klinger-die-neue-arria.xml,Aber seither!,202,215,character_speech,5,2,,JULIO.,#julio,810.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3188,3188,3188,GerDracor/klinger-die-neue-arria.xml,"in der wärmsten Umfassung, in den heißten Begegnungen unsrer
+              Seelen, da fiel das auf mich –",216,321,character_speech,5,2,,JULIO.,#julio,810.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3189,3189,3189,GerDracor/klinger-die-neue-arria.xml,Dank!,0,5,character_speech,5,2,,SOLINA.,#solina,811.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+3190,3190,3190,GerDracor/klinger-die-neue-arria.xml,daß das all so war.,6,25,character_speech,5,2,,SOLINA.,#solina,811.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+3191,3191,3191,GerDracor/klinger-die-neue-arria.xml,Drum warst du Julio!,26,46,character_speech,5,2,,SOLINA.,#solina,811.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3192,3192,3192,GerDracor/klinger-die-neue-arria.xml,Was wollten wir auch zusammen machen.,47,84,character_speech,5,2,,SOLINA.,#solina,811.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3193,3193,3193,GerDracor/klinger-die-neue-arria.xml,"Diese Empfindungen mußten dem Geist aufhelfen, und so zu ewigem Gefühl werden.",99,177,character_speech,5,2,,SOLINA.,#solina,811.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+3194,3194,3194,GerDracor/klinger-die-neue-arria.xml,Daß wir's sind!,0,15,character_speech,5,2,,JULIO.,#julio,812.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+3195,3195,3195,GerDracor/klinger-die-neue-arria.xml,daß wir uns alles sind!,16,39,character_speech,5,2,,JULIO.,#julio,812.0,MALE,love,S,,1775.0,positive,emotions of affection
+3196,3196,3196,GerDracor/klinger-die-neue-arria.xml,"daß darauf nichts ankommt es auch für andern
+              zu sein und zu scheinen.",40,123,character_speech,5,2,,JULIO.,#julio,812.0,MALE,love,S,,1775.0,positive,emotions of affection
+3197,3197,3197,GerDracor/klinger-die-neue-arria.xml,So mein ich's.,0,14,character_speech,5,2,,SOLINA.,#solina,813.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3198,3198,3198,GerDracor/klinger-die-neue-arria.xml,Das allein ist daurende Unsterblichkeit in mir und dir.,15,70,character_speech,5,2,,SOLINA.,#solina,813.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+3199,3199,3199,GerDracor/klinger-die-neue-arria.xml,"Das machte
+              mich dein von Anfang.",71,117,character_speech,5,2,,SOLINA.,#solina,813.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3200,3200,3200,GerDracor/klinger-die-neue-arria.xml,"Ich sah Julio, daß eigne Größe dein Teil war, wenn du nur
+              wolltest.",118,199,character_speech,5,2,,SOLINA.,#solina,813.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3201,3201,3201,GerDracor/klinger-die-neue-arria.xml,"Und daß nicht Neid, Eifersucht, schale Eitelkeit dich hinriß nachzuklettern.",200,276,character_speech,5,2,,SOLINA.,#solina,813.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3202,3202,3202,GerDracor/klinger-die-neue-arria.xml,"Bewußtsein Ich kann's, ich bin's, dies verschaffte dir Solinas Liebe und
+              das Glück mit ihr zu enden.",291,405,character_speech,5,2,,SOLINA.,#solina,813.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+3203,3203,3203,GerDracor/klinger-die-neue-arria.xml,Getrennt kann keins von uns leben!,406,440,character_speech,5,2,,SOLINA.,#solina,813.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3204,3204,3204,GerDracor/klinger-die-neue-arria.xml,Wie könnte eins ohne das andre diesen Geist herumtragen?,0,56,character_speech,5,2,,JULIO.,#julio,814.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3205,3205,3205,GerDracor/klinger-die-neue-arria.xml,Laß uns enden!,57,71,character_speech,5,2,,JULIO.,#julio,814.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3206,3206,3206,GerDracor/klinger-die-neue-arria.xml,"laß uns ihnen
+              den Rücken wenden und uns mit der Quelle unsers Wesens vereinigen.",72,166,character_speech,5,2,,JULIO.,#julio,814.0,MALE,love,S,,1775.0,positive,emotions of affection
+3207,3207,3207,GerDracor/klinger-die-neue-arria.xml,"Ha wie alles an mir
+              strebt aufzufliegen, und abzuwerfen!",167,237,character_speech,5,2,,JULIO.,#julio,814.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+3208,3208,3208,GerDracor/klinger-die-neue-arria.xml,"wie meine Seele zittert auf den Lippen voll des
+              heißen Verlangens!",238,318,character_speech,5,2,,JULIO.,#julio,814.0,MALE,desire,S,,1775.0,positive,emotions of affection
+3209,3209,3209,GerDracor/klinger-die-neue-arria.xml,"Ah so faß denn noch einmal alles in deinem Herzen zusammen und laß das Entzücken an
+              meinem Halse zu hangen noch einmal durch deine Adern dringen – Fühle die Gottheit wie
+              ich!",0,202,character_speech,5,2,,SOLINA.,#solina,815.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+3210,3210,3210,GerDracor/klinger-die-neue-arria.xml,"Ich fühl alles so, vom Herzen bricht mir das Wort.",0,50,character_speech,5,2,,JULIO.,#julio,816.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+3211,3211,3211,GerDracor/klinger-die-neue-arria.xml,Ich hab ausgeredet.,51,70,character_speech,5,2,,JULIO.,#julio,816.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3212,3212,3212,GerDracor/klinger-die-neue-arria.xml,"Ohne aufzuhören, denn jetzt bist du erst.",0,41,character_speech,5,2,,SOLINA.,#solina,817.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3213,3213,3213,GerDracor/klinger-die-neue-arria.xml,"Alles, große Liebe!",0,19,character_speech,5,2,,JULIO.,#julio,818.0,MALE,love,S,,1775.0,positive,emotions of affection
+3214,3214,3214,GerDracor/klinger-die-neue-arria.xml,"Alle meine Anstalten sind gemacht, meine Sachen an meinen Bruder geschickt, so
+              bereitet war ich.",0,110,character_speech,5,2,,SOLINA.,#solina,819.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+3215,3215,3215,GerDracor/klinger-die-neue-arria.xml,Hast du noch was?,111,128,character_speech,5,2,,SOLINA.,#solina,819.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3216,3216,3216,GerDracor/klinger-die-neue-arria.xml,"Ich hab Pirro zur Herzogin geschickt, wenn sie ihn haben  weggelassen.",0,70,character_speech,5,2,,JULIO.,#julio,820.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3217,3217,3217,GerDracor/klinger-die-neue-arria.xml,"Gott segne sie, und helfe ihr aus.",85,119,character_speech,5,2,,JULIO.,#julio,820.0,MALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+3218,3218,3218,GerDracor/klinger-die-neue-arria.xml,– Ich war bereitet Donna!,120,145,character_speech,5,2,,JULIO.,#julio,820.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3219,3219,3219,GerDracor/klinger-die-neue-arria.xml,Da könnte man sich noch einmal freuen; aber Ende muß sein.,0,58,character_speech,5,2,,SOLINA.,#solina,821.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+3220,3220,3220,GerDracor/klinger-die-neue-arria.xml,"Zieht einen Dolch
+                hervor.",0,41,stage_direction,5,2,inner_speech,,#solina,821.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3221,3221,3221,GerDracor/klinger-die-neue-arria.xml, Diesen Freund kennst du?,0,25,character_speech,5,2,,SOLINA.,#solina,821.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3222,3222,3222,GerDracor/klinger-die-neue-arria.xml,Schreckt er dich?,26,43,character_speech,5,2,,SOLINA.,#solina,821.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+3223,3223,3223,GerDracor/klinger-die-neue-arria.xml,Laß mich ihn küssen.,0,20,character_speech,5,2,,JULIO.,#julio,822.0,MALE,love,S,,1775.0,positive,emotions of affection
+3224,3224,3224,GerDracor/klinger-die-neue-arria.xml,Küßt ihn.,0,9,stage_direction,5,2,speech_part,,#julio,822.0,MALE,love,S,,1775.0,positive,emotions of affection
+3225,3225,3225,GerDracor/klinger-die-neue-arria.xml,Und mich.,0,9,character_speech,5,2,,SOLINA.,#solina,823.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+3226,3226,3226,GerDracor/klinger-die-neue-arria.xml,Küßt ihn gleichfalls.,0,21,stage_direction,5,2,inner_speech,,#solina,823.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+3227,3227,3227,GerDracor/klinger-die-neue-arria.xml, Ganz mein Julio!,0,17,character_speech,5,2,,SOLINA.,#solina,823.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+3228,3228,3228,GerDracor/klinger-die-neue-arria.xml,Ganz dein!,0,10,character_speech,5,2,,JULIO.,#julio,824.0,MALE,love,S,,1775.0,positive,emotions of affection
+3229,3229,3229,GerDracor/klinger-die-neue-arria.xml,Denke an Laura!,0,15,character_speech,5,2,,SOLINA.,#solina,825.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+3230,3230,3230,GerDracor/klinger-die-neue-arria.xml,Ihr Geist umschwebt uns.,0,24,character_speech,5,2,,JULIO.,#julio,826.0,MALE,love,S,,1775.0,positive,emotions of affection
+3231,3231,3231,GerDracor/klinger-die-neue-arria.xml,Umfaß mich!,0,11,character_speech,5,2,,SOLINA.,#solina,827.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+3232,3232,3232,GerDracor/klinger-die-neue-arria.xml,Umfaß mich!,12,23,character_speech,5,2,,SOLINA.,#solina,827.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+3233,3233,3233,GerDracor/klinger-die-neue-arria.xml,"Zieh ihn aus meinem Herzen, wenn ich meiner Seele Flügel
+              gegeben habe.",24,108,character_speech,5,2,,SOLINA.,#solina,827.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+3234,3234,3234,GerDracor/klinger-die-neue-arria.xml,Noch eins!,109,119,character_speech,5,2,,SOLINA.,#solina,827.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3235,3235,3235,GerDracor/klinger-die-neue-arria.xml,"wenn du den Dolch aus meiner Brust ziehst, ihn mit meinem
+              Blut geschmückt in die deinige stößt, und ich werde im Ermatten des Tods, Zuckung und
+              Kampf mit der Liebe zum Leben auf deinem Gesichte gewahr, will ich noch einmal dem
+              Tode trotzen, und Erröten in deinem schönsten Augenblick auf deine Wangen ziehen.",120,470,character_speech,5,2,,SOLINA.,#solina,827.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+3236,3236,3236,GerDracor/klinger-die-neue-arria.xml,Umfaß!,485,491,character_speech,5,2,,SOLINA.,#solina,827.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3237,3237,3237,GerDracor/klinger-die-neue-arria.xml,Umfaß mich!,492,503,character_speech,5,2,,SOLINA.,#solina,827.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+3238,3238,3238,GerDracor/klinger-die-neue-arria.xml,du siehst stark!,504,520,character_speech,5,2,,SOLINA.,#solina,827.0,FEMALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+3239,3239,3239,GerDracor/klinger-die-neue-arria.xml,Lebe wohl!,521,531,character_speech,5,2,,SOLINA.,#solina,827.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3240,3240,3240,GerDracor/klinger-die-neue-arria.xml,dein Geist umschlinge den meinen.,532,565,character_speech,5,2,,SOLINA.,#solina,827.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+3241,3241,3241,GerDracor/klinger-die-neue-arria.xml,Umfassen sich.,0,14,stage_direction,5,2,speech_part,,#solina,827.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3242,3242,3242,GerDracor/klinger-die-neue-arria.xml,"Kein Lebewohl, wir bleiben beisammen.",0,37,character_speech,5,2,,JULIO.,#julio,828.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3243,3243,3243,GerDracor/klinger-die-neue-arria.xml,Ich halte dich wie ich dich jetzt umfaß.,38,78,character_speech,5,2,,JULIO.,#julio,828.0,MALE,love,S,,1775.0,positive,emotions of affection
+3244,3244,3244,GerDracor/klinger-die-neue-arria.xml,Umschlungen unsre Seelen!,93,118,character_speech,5,2,,JULIO.,#julio,828.0,MALE,love,S,,1775.0,positive,emotions of affection
+3245,3245,3245,GerDracor/klinger-die-neue-arria.xml,Bin ich gefangen?,119,136,character_speech,5,2,,JULIO.,#julio,828.0,MALE,being moved,S,,1775.0,being moved,being moved
+3246,3246,3246,GerDracor/klinger-die-neue-arria.xml,"Umschling mich, unsre Seelen sind eine.",0,39,character_speech,5,2,,SOLINA.,#solina,829.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+3247,3247,3247,GerDracor/klinger-die-neue-arria.xml,"Stößt sich den Dolch in die Brust,
+                reicht ihn dem Julio.",0,72,stage_direction,5,2,inner_speech,,#solina,829.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3248,3248,3248,GerDracor/klinger-die-neue-arria.xml, Mein Julio!,0,12,character_speech,5,2,,SOLINA.,#solina,829.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+3249,3249,3249,GerDracor/klinger-die-neue-arria.xml,er schmerzt nicht!,13,31,character_speech,5,2,,SOLINA.,#solina,829.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+3250,3250,3250,GerDracor/klinger-die-neue-arria.xml,besieht ihn.,0,12,stage_direction,5,2,speech_part,,#julio,830.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3251,3251,3251,GerDracor/klinger-die-neue-arria.xml,Heilig!,0,7,character_speech,5,2,,JULIO,#julio,830.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3252,3252,3252,GerDracor/klinger-die-neue-arria.xml,Reines Blut.,8,20,character_speech,5,2,,JULIO,#julio,830.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3253,3253,3253,GerDracor/klinger-die-neue-arria.xml,Durchstößt sich.,0,16,stage_direction,5,2,inner_speech,,#julio,830.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3254,3254,3254,GerDracor/klinger-die-neue-arria.xml, Wohl!,0,6,character_speech,5,2,,JULIO,#julio,830.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3255,3255,3255,GerDracor/klinger-die-neue-arria.xml,Wohl mir!,7,16,character_speech,5,2,,JULIO,#julio,830.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3256,3256,3256,GerDracor/klinger-die-neue-arria.xml,"Ich trink Leben
+              aus deinen Augen.",17,64,character_speech,5,2,,JULIO,#julio,830.0,MALE,love,S,,1775.0,positive,emotions of affection
+3257,3257,3257,GerDracor/klinger-die-neue-arria.xml,Sinken zusammen.,0,16,stage_direction,5,2,speech_part,,#julio,830.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3258,3258,3258,GerDracor/klinger-die-neue-arria.xml,Schön!,0,6,character_speech,5,2,,SOLINA.,#solina,831.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3259,3259,3259,GerDracor/klinger-die-neue-arria.xml,Herrlich!,7,16,character_speech,5,2,,SOLINA.,#solina,831.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure

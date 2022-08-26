@@ -1,0 +1,567 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,pre1_base_polarity,pre1_main_emotion_class
+1855,1855,1855,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Brynhildis prächtig geschmückt.,0,31,stage_direction,7,2,pre_speech,,,,,joy,positive,emotions of pleasure
+1856,1856,1856,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Gunnar.,32,39,stage_direction,7,2,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+1857,1857,1857,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Du leuchtest herrlich durch die dunkle Nacht,
+              Juweel, an Fassung reich und eigner Schönheit.",0,121,character_speech,7,2,,GUNNAR.,#gunnar,687.0,MALE,"admiration, reverence",positive,emotions of affection
+1858,1858,1858,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Man muß sich schmücken, so am letzten Tag' –
+              Sagt' ich des Lebens?",0,95,character_speech,7,2,,BRYNHILDIS.,#brynhildis,688.0,FEMALE,no_annotation,no_annotation,no_annotation
+1859,1859,1859,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"– Nein, das meint' ich nicht –
+              Am letzten Tag der rachelosen Schmach.",96,179,character_speech,7,2,,BRYNHILDIS.,#brynhildis,688.0,FEMALE,no_annotation,no_annotation,no_annotation
+1860,1860,1860,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"–
+              Geht Morgen nun das neue Sonnenlicht
+              Herauf, – ich denk', es soll mich nicht mehr kennen.",180,299,character_speech,7,2,,BRYNHILDIS.,#brynhildis,688.0,FEMALE,no_annotation,no_annotation,no_annotation
+1861,1861,1861,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Und käm' nie mehr ein Sonnenlicht herauf,
+              Und lägst du tief im Erdschooß, – freudig hell
+              Schien' doch dein Glanz empor.",0,162,character_speech,7,2,,GUNNAR.,#gunnar,689.0,MALE,"admiration, reverence",positive,emotions of affection
+1862,1862,1862,GerDracor/fouque-sigurd-der-schlangentoedter.xml,'S kommt auf die Prob' an.,0,26,character_speech,7,2,,BRYNHILDIS.,#brynhildis,690.0,FEMALE,no_annotation,no_annotation,no_annotation
+1863,1863,1863,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Nur einen Kuß von diesen holden Lippen!",0,54,character_speech,7,2,,GUNNAR.,#gunnar,691.0,MALE,love,positive,emotions of affection
+1864,1864,1864,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Nur ein Umfangen dieser weissen Arme!,69,106,character_speech,7,2,,GUNNAR.,#gunnar,691.0,MALE,suffering,negative,emotions of suffering and empathy
+1865,1865,1865,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Theu'r hab' ich es erkauft.,121,148,character_speech,7,2,,GUNNAR.,#gunnar,691.0,MALE,joy,positive,emotions of pleasure
+1866,1866,1866,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Erkauft?",0,23,character_speech,7,2,,BRYNHILDIS.,#brynhildis,692.0,FEMALE,no_annotation,no_annotation,no_annotation
+1867,1867,1867,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Noch nicht.,24,35,character_speech,7,2,,BRYNHILDIS.,#brynhildis,692.0,FEMALE,no_annotation,no_annotation,no_annotation
+1868,1868,1868,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Noch athmet Sigurd.,50,69,character_speech,7,2,,BRYNHILDIS.,#brynhildis,692.0,FEMALE,no_annotation,no_annotation,no_annotation
+1869,1869,1869,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Nein, ich glaub' es ist
+              Die That bereits geschehn, denn Nacht durchlief
+              Schon ihre Bahn weit über'n Mittelpunkt
+              Hinaus.",0,176,character_speech,7,2,,GUNNAR.,#gunnar,693.0,MALE,no_annotation,no_annotation,no_annotation
+1870,1870,1870,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Was?,0,4,character_speech,7,2,,BRYNHILDIS.,#brynhildis,694.0,FEMALE,no_annotation,no_annotation,no_annotation
+1871,1871,1871,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Er schon tod?,5,18,character_speech,7,2,,BRYNHILDIS.,#brynhildis,694.0,FEMALE,no_annotation,no_annotation,no_annotation
+1872,1872,1872,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Kommt ja kein Bote.,19,38,character_speech,7,2,,BRYNHILDIS.,#brynhildis,694.0,FEMALE,no_annotation,no_annotation,no_annotation
+1873,1873,1873,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Wer weiß!",0,24,character_speech,7,2,,GUNNAR.,#gunnar,695.0,MALE,no_annotation,no_annotation,no_annotation
+1874,1874,1874,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Im Sterben trifft des Ures Zorn
+              Den allzukecken Jäger tödlich oft;
+              Vielleicht, daß Guttorm nie mehr Bothschaft bringt.",25,171,character_speech,7,2,,GUNNAR.,#gunnar,695.0,MALE,anger,negative,emotions of rejection
+1875,1875,1875,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Ach, 's ist um dieses taube Werkzeug nicht;
+              Doch ein verfall'nder Stern trüg' schlimmen Graus
+              Weithin durch's Weltrund, – und wir sollten's nicht
+              Erfahren, läg' im Haus hier Sigurd tod?",0,242,character_speech,7,2,,BRYNHILDIS.,#brynhildis,696.0,FEMALE,suffering,negative,emotions of suffering and empathy
+1876,1876,1876,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"–
+              Horch!",243,265,character_speech,7,2,,BRYNHILDIS.,#brynhildis,696.0,FEMALE,no_annotation,no_annotation,no_annotation
+1877,1877,1877,GerDracor/fouque-sigurd-der-schlangentoedter.xml,– Horch!,266,274,character_speech,7,2,,BRYNHILDIS.,#brynhildis,696.0,FEMALE,no_annotation,no_annotation,no_annotation
+1878,1878,1878,GerDracor/fouque-sigurd-der-schlangentoedter.xml,–,275,276,character_speech,7,2,,BRYNHILDIS.,#brynhildis,696.0,FEMALE,no_annotation,no_annotation,no_annotation
+1879,1879,1879,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Es ist der Sturm.,0,17,character_speech,7,2,,GUNNAR.,#gunnar,697.0,MALE,no_annotation,no_annotation,no_annotation
+1880,1880,1880,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Nein.,0,5,character_speech,7,2,,BRYNHILDIS.,#brynhildis,698.0,FEMALE,no_annotation,no_annotation,no_annotation
+1881,1881,1881,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Horch?,6,12,character_speech,7,2,,BRYNHILDIS.,#brynhildis,698.0,FEMALE,being moved,being moved,being moved
+1882,1882,1882,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Es schreit!,13,24,character_speech,7,2,,BRYNHILDIS.,#brynhildis,698.0,FEMALE,fear,negative,emotions of anxiety
+1883,1883,1883,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Das ist die Weh'klag' aus dem Norderthurm.,0,42,character_speech,7,2,,GUNNAR.,#gunnar,699.0,MALE,suffering,negative,emotions of suffering and empathy
+1884,1884,1884,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Weh'klage, Freilich.",0,20,character_speech,7,2,,BRYNHILDIS.,#brynhildis,700.0,FEMALE,compassion,negative,emotions of suffering and empathy
+1885,1885,1885,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Man hört Geschrei.,0,18,stage_direction,7,2,speech_part,,#brynhildis,700.0,FEMALE,fear,negative,emotions of anxiety
+1886,1886,1886,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Kommt uns immer näher.,0,22,character_speech,7,2,,BRYNHILDIS.,#brynhildis,700.0,FEMALE,no_annotation,no_annotation,no_annotation
+1887,1887,1887,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Unheil!,0,7,character_speech,7,2,,GUDRUNENS STIMME.,#gudruna,701.0,FEMALE,no_annotation,no_annotation,no_annotation
+1888,1888,1888,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Unheil!,8,15,character_speech,7,2,,GUDRUNENS STIMME.,#gudruna,701.0,FEMALE,no_annotation,no_annotation,no_annotation
+1889,1889,1889,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Heilloses!,16,26,character_speech,7,2,,GUDRUNENS STIMME.,#gudruna,701.0,FEMALE,no_annotation,no_annotation,no_annotation
+1890,1890,1890,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Hörst nun?,0,10,character_speech,7,2,,BRYNHILDIS.,#brynhildis,702.0,FEMALE,no_annotation,no_annotation,no_annotation
+1891,1891,1891,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Die grause Todtenfei'r beginnt.,11,42,character_speech,7,2,,BRYNHILDIS.,#brynhildis,702.0,FEMALE,suffering,negative,emotions of suffering and empathy
+1892,1892,1892,GerDracor/fouque-sigurd-der-schlangentoedter.xml,hinausrufend.,0,13,stage_direction,7,2,speech_part,,#gunnar,703.0,MALE,no_annotation,no_annotation,no_annotation
+1893,1893,1893,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Wachten!,0,8,character_speech,7,2,,GUNNAR,#gunnar,703.0,MALE,being moved,being moved,being moved
+1894,1894,1894,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Was lermt so?,9,22,character_speech,7,2,,GUNNAR,#gunnar,703.0,MALE,suffering,negative,emotions of suffering and empathy
+1895,1895,1895,GerDracor/fouque-sigurd-der-schlangentoedter.xml,von aussen.,0,11,stage_direction,7,2,speech_part,,#stimmen_von_aussen,704.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+1896,1896,1896,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Woll'ns nicht sagen – nicht
+              Mit solcher gift'gen Kund' entweih'n die Zunge.",0,104,character_speech,7,2,,STIMMEN,#stimmen_von_aussen,704.0,UNKNOWN,abhorrence,negative,emotions of rejection
+1897,1897,1897,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"–
+              Hör' deine Schwester, König.",105,149,character_speech,7,2,,STIMMEN,#stimmen_von_aussen,704.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+1898,1898,1898,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"– Alle Säle
+              Der weiten Burg erfüllt ihr Jammerruf.",150,214,character_speech,7,2,,STIMMEN,#stimmen_von_aussen,704.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+1899,1899,1899,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Darfst du ihn rächen – thu's.,229,258,character_speech,7,2,,STIMMEN,#stimmen_von_aussen,704.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+1900,1900,1900,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Schlimm ist die That.,259,280,character_speech,7,2,,STIMMEN,#stimmen_von_aussen,704.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+1901,1901,1901,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Hörst du, Brynhildis?",0,21,character_speech,7,2,,GUNNAR.,#gunnar,705.0,MALE,no_annotation,no_annotation,no_annotation
+1902,1902,1902,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Ja, ich hör' recht gut.",0,23,character_speech,7,2,,BRYNHILDIS.,#brynhildis,706.0,FEMALE,no_annotation,no_annotation,no_annotation
+1903,1903,1903,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Nun liegt erschlagen zweifelsohn' dein Feind.,0,45,character_speech,7,2,,GUNNAR.,#gunnar,707.0,MALE,abhorrence,negative,emotions of rejection
+1904,1904,1904,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Horch' Lieb!",0,27,character_speech,7,2,,BRYNHILDIS.,#brynhildis,708.0,FEMALE,love,positive,emotions of affection
+1905,1905,1905,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Wie unsre helle Nacht'gall singt!,28,61,character_speech,7,2,,BRYNHILDIS.,#brynhildis,708.0,FEMALE,joy,positive,emotions of pleasure
+1906,1906,1906,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Es rieselt her die purpurfarbne Welle.,76,114,character_speech,7,2,,BRYNHILDIS.,#brynhildis,708.0,FEMALE,no_annotation,no_annotation,no_annotation
+1907,1907,1907,GerDracor/fouque-sigurd-der-schlangentoedter.xml,näher.,0,6,stage_direction,7,2,speech_part,,#gudruna,709.0,FEMALE,no_annotation,no_annotation,no_annotation
+1908,1908,1908,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Habt ihr's gefangen?",0,35,character_speech,7,2,,GUDRUNENS STIMME,#gudruna,709.0,FEMALE,no_annotation,no_annotation,no_annotation
+1909,1909,1909,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Haschtet ihr's Wild ein?,50,74,character_speech,7,2,,GUDRUNENS STIMME,#gudruna,709.0,FEMALE,no_annotation,no_annotation,no_annotation
+1910,1910,1910,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Blutige Jäger,
+              Blinde Jäger ihr!",89,135,character_speech,7,2,,GUDRUNENS STIMME,#gudruna,709.0,FEMALE,abhorrence,negative,emotions of rejection
+1911,1911,1911,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"In eurer Hüfte
+              Haftet der Speerschaft!",151,203,character_speech,7,2,,GUDRUNENS STIMME,#gudruna,709.0,FEMALE,no_annotation,no_annotation,no_annotation
+1912,1912,1912,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Traft euch recht trefflich,
+              Tratet in's Netz nun selbst.",218,288,character_speech,7,2,,GUDRUNENS STIMME,#gudruna,709.0,FEMALE,no_annotation,no_annotation,no_annotation
+1913,1913,1913,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Brynhildis erhebt ein wildes Gelächter.,0,39,stage_direction,7,2,speech_part,,#gudruna,709.0,FEMALE,Schadenfreude,positive,emotions of pleasure
+1914,1914,1914,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Was lachst du?",0,29,character_speech,7,2,,GUNNAR.,#gunnar,710.0,MALE,Schadenfreude,positive,emotions of pleasure
+1915,1915,1915,GerDracor/fouque-sigurd-der-schlangentoedter.xml,– Lache nicht!,30,44,character_speech,7,2,,GUNNAR.,#gunnar,710.0,MALE,no_annotation,no_annotation,no_annotation
+1916,1916,1916,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"– Bitt' dich, halt' ein;
+              Von draussen jener unheilschwangre Laut,
+              Und hier im Zimmer dein verzerrtes Antlitz!",45,182,character_speech,7,2,,GUNNAR.,#gunnar,710.0,MALE,no_annotation,no_annotation,no_annotation
+1917,1917,1917,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Denn Freude nicht, auch Sieg nicht lacht aus dir,
+              Nichts weiß von deiner tollen Lustigkeit
+              Das Herz in deinem Busen – Todtenbleich
+              Wird deine Farbe.",197,387,character_speech,7,2,,GUNNAR.,#gunnar,710.0,MALE,suffering,negative,emotions of suffering and empathy
+1918,1918,1918,GerDracor/fouque-sigurd-der-schlangentoedter.xml,– Bist dem Tode nah'.,388,409,character_speech,7,2,,GUNNAR.,#gunnar,710.0,MALE,no_annotation,no_annotation,no_annotation
+1919,1919,1919,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Das wird sich noch ausweisen.",0,44,character_speech,7,2,,BRYNHILDIS.,#brynhildis,711.0,FEMALE,no_annotation,no_annotation,no_annotation
+1920,1920,1920,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Hör' nur erst
+              Noch diese an, die durch die finstern Hallen
+              Der Burg herschreitet, zu verfluchen uns.",45,173,character_speech,7,2,,BRYNHILDIS.,#brynhildis,711.0,FEMALE,abhorrence,negative,emotions of rejection
+1921,1921,1921,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"–
+              Fluch' keck, Niflungenkind, Gudruna, fluche!",174,234,character_speech,7,2,,BRYNHILDIS.,#brynhildis,711.0,FEMALE,no_annotation,no_annotation,no_annotation
+1922,1922,1922,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Ich leih' dir Zunge gern, leih' dir Gehirn!",249,292,character_speech,7,2,,BRYNHILDIS.,#brynhildis,711.0,FEMALE,anger,negative,emotions of rejection
+1923,1923,1923,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Högne tritt auf, vor Gudrunen flüchtend.",0,40,stage_direction,7,2,speech_part,,#brynhildis,711.0,FEMALE,no_annotation,no_annotation,no_annotation
+1924,1924,1924,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Laß' ab von mir, du schlimme Weissag'rin!",0,56,character_speech,7,2,,HÖGNE.,#hoegne,712.0,MALE,abhorrence,negative,emotions of rejection
+1925,1925,1925,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Ich schlug ihn nicht.,71,92,character_speech,7,2,,HÖGNE.,#hoegne,712.0,MALE,no_annotation,no_annotation,no_annotation
+1926,1926,1926,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Verbirgt sich hinter Gunnar.,0,28,stage_direction,7,2,speech_part,,#hoegne,712.0,MALE,no_annotation,no_annotation,no_annotation
+1927,1927,1927,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Nein!",0,20,character_speech,7,2,,GUDRUNA.,#gudruna,713.0,FEMALE,no_annotation,no_annotation,no_annotation
+1928,1928,1928,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Hinter'm Stellnetz
+              Standest du zitternd,
+               Als fürstlich umschau'nd,
+              Sich Feind dir nahte;
+              Er, Feind nur euch, – Freund
+              Freudiger Götter,
+              Freund milder Menschen,
+              Mir all' mein Leben.",21,300,character_speech,7,2,,GUDRUNA.,#gudruna,713.0,FEMALE,fear,negative,emotions of anxiety
+1929,1929,1929,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Oh!,315,318,character_speech,7,2,,GUDRUNA.,#gudruna,713.0,FEMALE,no_annotation,no_annotation,no_annotation
+1930,1930,1930,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Oh!,319,322,character_speech,7,2,,GUDRUNA.,#gudruna,713.0,FEMALE,no_annotation,no_annotation,no_annotation
+1931,1931,1931,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Ihr habt unbrüderlich gehandelt!,323,355,character_speech,7,2,,GUDRUNA.,#gudruna,713.0,FEMALE,suffering,negative,emotions of suffering and empathy
+1932,1932,1932,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Ihr steht, starrt an mich,
+              Verstockt, ohne Thränen.",370,435,character_speech,7,2,,GUDRUNA.,#gudruna,713.0,FEMALE,suffering,negative,emotions of suffering and empathy
+1933,1933,1933,GerDracor/fouque-sigurd-der-schlangentoedter.xml,War't ihr Verwandte?,450,470,character_speech,7,2,,GUDRUNA.,#gudruna,713.0,FEMALE,no_annotation,no_annotation,no_annotation
+1934,1934,1934,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Und wendet euch klaglos weg?,485,513,character_speech,7,2,,GUDRUNA.,#gudruna,713.0,FEMALE,no_annotation,no_annotation,no_annotation
+1935,1935,1935,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Grane, sein gutes Pferd,
+              Gebückt steht's, grämt sich,
+              Legt sein Haupt in's Gras –
+              Lieb hatt' ihn Alles – nur ihr nicht.",528,689,character_speech,7,2,,GUDRUNA.,#gudruna,713.0,FEMALE,suffering,negative,emotions of suffering and empathy
+1936,1936,1936,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Fluch' grimm'ger!",0,32,character_speech,7,2,,BRYNHILDIS.,#brynhildis,714.0,FEMALE,abhorrence,negative,emotions of rejection
+1937,1937,1937,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Du bist zahm noch wie ein Lamm!,33,64,character_speech,7,2,,BRYNHILDIS.,#brynhildis,714.0,FEMALE,"admiration, reverence",positive,emotions of affection
+1938,1938,1938,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"–
+              Hätt' mir den Sigurd wer geraubt, und so!",65,122,character_speech,7,2,,BRYNHILDIS.,#brynhildis,714.0,FEMALE,no_annotation,no_annotation,no_annotation
+1939,1939,1939,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"–
+              Hinab schon bräch' in unterird'schen Graus
+              Vor meinen Worten dieser Veste Grund.",123,233,character_speech,7,2,,BRYNHILDIS.,#brynhildis,714.0,FEMALE,suffering,negative,emotions of suffering and empathy
+1940,1940,1940,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Fluch', sag' ich!",248,265,character_speech,7,2,,BRYNHILDIS.,#brynhildis,714.0,FEMALE,anger,negative,emotions of rejection
+1941,1941,1941,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Treugst dich, grimme Feindin!",0,44,character_speech,7,2,,GUDRUNA.,#gudruna,715.0,FEMALE,abhorrence,negative,emotions of rejection
+1942,1942,1942,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Wie?,45,49,character_speech,7,2,,GUDRUNA.,#gudruna,715.0,FEMALE,no_annotation,no_annotation,no_annotation
+1943,1943,1943,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Mit euch noch irgend was – und sei's um Rache –
+              Zu schaffen haben?",64,144,character_speech,7,2,,GUDRUNA.,#gudruna,715.0,FEMALE,no_annotation,no_annotation,no_annotation
+1944,1944,1944,GerDracor/fouque-sigurd-der-schlangentoedter.xml,– Noch mit dieser Burg?,145,168,character_speech,7,2,,GUDRUNA.,#gudruna,715.0,FEMALE,no_annotation,no_annotation,no_annotation
+1945,1945,1945,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Nest aller bösen Geister, drin wir wandeln;
+               Fall', steh', wie's der feindseel'gen Macht gefällt!",183,294,character_speech,7,2,,GUDRUNA.,#gudruna,715.0,FEMALE,abhorrence,negative,emotions of rejection
+1946,1946,1946,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Ich weiß viel bessern Weg, viel rein're Luft!",309,354,character_speech,7,2,,GUDRUNA.,#gudruna,715.0,FEMALE,anger,negative,emotions of rejection
+1947,1947,1947,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Draussen im Dunkel
+              Duftiger Haine,
+              Weit durch den Bergwald
+              Will ich mich ergehn.",369,491,character_speech,7,2,,GUDRUNA.,#gudruna,715.0,FEMALE,no_annotation,no_annotation,no_annotation
+1948,1948,1948,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Hochflüchtige Hindin,
+              Daheim in der Wildniß,
+              Lagr' ich am Bach' mich,
+              Lullt mich mein Wehlaut ein.",506,646,character_speech,7,2,,GUDRUNA.,#gudruna,715.0,FEMALE,no_annotation,no_annotation,no_annotation
+1949,1949,1949,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Hinaus!,661,668,character_speech,7,2,,GUDRUNA.,#gudruna,715.0,FEMALE,no_annotation,no_annotation,no_annotation
+1950,1950,1950,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Hinaus!,669,676,character_speech,7,2,,GUDRUNA.,#gudruna,715.0,FEMALE,no_annotation,no_annotation,no_annotation
+1951,1951,1951,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Wo's keine Brüder giebt!,677,701,character_speech,7,2,,GUDRUNA.,#gudruna,715.0,FEMALE,no_annotation,no_annotation,no_annotation
+1952,1952,1952,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Und laßt mir den guldigen Hort,
+              Glänzend von Faffners Erb',
+              Laßt mir ihn ruhn – hört?",716,829,character_speech,7,2,,GUDRUNA.,#gudruna,715.0,FEMALE,no_annotation,no_annotation,no_annotation
+1953,1953,1953,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Fluch lagr' ich darauf – hört?,844,874,character_speech,7,2,,GUDRUNA.,#gudruna,715.0,FEMALE,anger,negative,emotions of rejection
+1954,1954,1954,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"–
+              Mag nicht den Schlimmen,
+              Doch ihr, ihr Schlimmen,
+              Sollt's auch nicht haben,
+              Sehn nicht die Glanzpracht!",875,1036,character_speech,7,2,,GUDRUNA.,#gudruna,715.0,FEMALE,abhorrence,negative,emotions of rejection
+1955,1955,1955,GerDracor/fouque-sigurd-der-schlangentoedter.xml,–,1037,1038,character_speech,7,2,,GUDRUNA.,#gudruna,715.0,FEMALE,no_annotation,no_annotation,no_annotation
+1956,1956,1956,GerDracor/fouque-sigurd-der-schlangentoedter.xml,zu Gunnar.,0,10,stage_direction,7,2,speech_part,,#hoegne,716.0,MALE,no_annotation,no_annotation,no_annotation
+1957,1957,1957,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Die Mordthat ist geschehn.",0,41,character_speech,7,2,,HÖGNE,#hoegne,716.0,MALE,no_annotation,no_annotation,no_annotation
+1958,1958,1958,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Nun kehr' dich auch
+              Nicht an der Schwester faselndes Gebot.",42,115,character_speech,7,2,,HÖGNE,#hoegne,716.0,MALE,anger,negative,emotions of rejection
+1959,1959,1959,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Guttorm ist hin.,130,146,character_speech,7,2,,HÖGNE,#hoegne,716.0,MALE,suffering,negative,emotions of suffering and empathy
+1960,1960,1960,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Wir theilen Faffners Gold.,147,173,character_speech,7,2,,HÖGNE,#hoegne,716.0,MALE,no_annotation,no_annotation,no_annotation
+1961,1961,1961,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Versteht sich.,0,14,character_speech,7,2,,GUNNAR.,#gunnar,717.0,MALE,no_annotation,no_annotation,no_annotation
+1962,1962,1962,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Leis' flüstert ihr zwar,
+              Doch leise auch hör' ich;
+              Wollt reiche Herrn werden,
+              Wägend das Gold euch zu.",0,159,character_speech,7,2,,GUDRUNA.,#gudruna,718.0,FEMALE,no_annotation,no_annotation,no_annotation
+1963,1963,1963,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"–
+              Ich warnte, – wirkt ihr!",160,200,character_speech,7,2,,GUDRUNA.,#gudruna,718.0,FEMALE,no_annotation,no_annotation,no_annotation
+1964,1964,1964,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"–
+              Wenig lockt mich Gold –
+              Viel draussen die Thaunacht,
+              Thau meiner Thränen viel!",201,323,character_speech,7,2,,GUDRUNA.,#gudruna,718.0,FEMALE,suffering,negative,emotions of suffering and empathy
+1965,1965,1965,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Zieh' nicht so einsam fort.,0,27,character_speech,7,2,,GUNNAR.,#gunnar,719.0,MALE,no_annotation,no_annotation,no_annotation
+1966,1966,1966,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Es brächt' uns Schmach.,28,51,character_speech,7,2,,GUNNAR.,#gunnar,719.0,MALE,suffering,negative,emotions of suffering and empathy
+1967,1967,1967,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Seid ihr klug, so laßt ihr mich,
+              Seid ihr thöricht, haltet mich,
+              Seid ihr toll, so sucht mich auf –
+              Ach, so wird's kommen; ach, ich merk' es wohl.",0,203,character_speech,7,2,,GUDRUNA.,#gudruna,720.0,FEMALE,fear,negative,emotions of anxiety
+1968,1968,1968,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Doch ich beschwör' euch, laßt mich in der Waldnacht.",218,270,character_speech,7,2,,GUDRUNA.,#gudruna,720.0,FEMALE,no_annotation,no_annotation,no_annotation
+1969,1969,1969,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Ein luft'ges Elfenkind
+              Leb' ich im tönenden Leid,
+              Im Lied, wo Bach drein braus't und Baum,
+              Suche mir Fäden bunt,
+              Fädle die Nadel ein,
+              Wohne webend in wüsten Mauern.",285,519,character_speech,7,2,,GUDRUNA.,#gudruna,720.0,FEMALE,suffering,negative,emotions of suffering and empathy
+1970,1970,1970,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Fahrt wohl!,534,545,character_speech,7,2,,GUDRUNA.,#gudruna,720.0,FEMALE,no_annotation,no_annotation,no_annotation
+1971,1971,1971,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"ihr Freunde sonst,
+              Fährliche, blutige Feinde nun!",546,609,character_speech,7,2,,GUDRUNA.,#gudruna,720.0,FEMALE,abhorrence,negative,emotions of rejection
+1972,1972,1972,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Bleib' Alles zurück, blaß' Alles aus!",624,661,character_speech,7,2,,GUDRUNA.,#gudruna,720.0,FEMALE,suffering,negative,emotions of suffering and empathy
+1973,1973,1973,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Einsiedlerin, trauernd süß,
+              Senk' ich den trüben Blick, –
+              Mein Weinen mir Weide, Thräne mein Trank!",677,804,character_speech,7,2,,GUDRUNA.,#gudruna,720.0,FEMALE,suffering,negative,emotions of suffering and empathy
+1974,1974,1974,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Gut' Nacht, ihr allzumal.",819,844,character_speech,7,2,,GUDRUNA.,#gudruna,720.0,FEMALE,no_annotation,no_annotation,no_annotation
+1975,1975,1975,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Ihr wohnt hier prächtig,
+              Doch draussen wohnt sich's besser.",845,918,character_speech,7,2,,GUDRUNA.,#gudruna,720.0,FEMALE,no_annotation,no_annotation,no_annotation
+1976,1976,1976,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Luft!,919,924,character_speech,7,2,,GUDRUNA.,#gudruna,720.0,FEMALE,anger,negative,emotions of rejection
+1977,1977,1977,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Luft!,925,930,character_speech,7,2,,GUDRUNA.,#gudruna,720.0,FEMALE,anger,negative,emotions of rejection
+1978,1978,1978,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Luft!,931,936,character_speech,7,2,,GUDRUNA.,#gudruna,720.0,FEMALE,anger,negative,emotions of rejection
+1979,1979,1979,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Eilt ab.,0,8,stage_direction,7,2,speech_part,,#gudruna,720.0,FEMALE,no_annotation,no_annotation,no_annotation
+1980,1980,1980,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Brynhildis lacht.,0,17,stage_direction,7,2,speech_part,,#gudruna,720.0,FEMALE,joy,positive,emotions of pleasure
+1981,1981,1981,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Was?",0,19,character_speech,7,2,,GUNNAR.,#gunnar,721.0,MALE,no_annotation,no_annotation,no_annotation
+1982,1982,1982,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Bricht das grause, höhnische Getön
+              Durch deine bleichen Lippen wieder vor?",20,108,character_speech,7,2,,GUNNAR.,#gunnar,721.0,MALE,abhorrence,negative,emotions of rejection
+1983,1983,1983,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"–
+              Ha, du verdientest, deinen Bruder Atle
+              Gefällt zu sehn vor dir in seinem Blut,
+              Zu sorgen jetzt um seine Grabesfei'r,
+              Wie wir um unsern Blutsfreund, unsern Bruder
+              Nun jammern müssen, und auf dein Gebot!",109,382,character_speech,7,2,,GUNNAR.,#gunnar,721.0,MALE,no_annotation,no_annotation,no_annotation
+1984,1984,1984,GerDracor/fouque-sigurd-der-schlangentoedter.xml,–,383,384,character_speech,7,2,,GUNNAR.,#gunnar,721.0,MALE,no_annotation,no_annotation,no_annotation
+1985,1985,1985,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Ich klag' auch nicht, daß meinen Willen ihr
+              Nachlässig ausgeführt.",0,95,character_speech,7,2,,BRYNHILDIS.,#brynhildis,722.0,FEMALE,suffering,negative,emotions of suffering and empathy
+1986,1986,1986,GerDracor/fouque-sigurd-der-schlangentoedter.xml,– Ihr war't recht schnell.,96,122,character_speech,7,2,,BRYNHILDIS.,#brynhildis,722.0,FEMALE,no_annotation,no_annotation,no_annotation
+1987,1987,1987,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"–
+              Was Atle, meinen Bruder anbetrifft,
+              Der achtet euer Drohen gleich dem Leuchten
+              Hellblanker Schüsseln, überlebt euch all',
+              Wird mächt'ger sein, als ihr.",123,332,character_speech,7,2,,BRYNHILDIS.,#brynhildis,722.0,FEMALE,no_annotation,no_annotation,no_annotation
+1988,1988,1988,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Denn eu'r Geschlecht,
+              Niflungen, wirft in's Unheil diese Schmachthat;
+              Lasten auf euch wird Meineid's Buße schwer,
+              Die ihr den Helden, stets an Hülfe reich,
+              Den Frommen, der kein Böses euch gethan,
+              Den Bessern viel als ihr, des Reiches Säule,
+               Den Treuen gegen Gunnar, der sein Bett
+              Geehrt mit scheidendem zweischneid'gem Schwerdt, –
+              Die ihr so viele Männlichkeit und Frommheit
+              Gestürzt mit Einem Schlag, der meuchlings traf.",333,883,character_speech,7,2,,BRYNHILDIS.,#brynhildis,722.0,FEMALE,suffering,negative,emotions of suffering and empathy
+1989,1989,1989,GerDracor/fouque-sigurd-der-schlangentoedter.xml,O still!,0,8,character_speech,7,2,,GUNNAR.,#gunnar,723.0,MALE,no_annotation,no_annotation,no_annotation
+1990,1990,1990,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Du reiß'st mein ganzes Herz entzwei.,9,45,character_speech,7,2,,GUNNAR.,#gunnar,723.0,MALE,suffering,negative,emotions of suffering and empathy
+1991,1991,1991,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Hast mein's zerrissen mir durch argen Trug;
+              Sigurd hat meine Treu' – will sie ihm wahren.",0,118,character_speech,7,2,,BRYNHILDIS.,#brynhildis,724.0,FEMALE,anger,negative,emotions of rejection
+1992,1992,1992,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Denn was Niflungenlisten uns gestört,
+              Mein holdes Lieb, vollende nun der Tod.",133,224,character_speech,7,2,,BRYNHILDIS.,#brynhildis,724.0,FEMALE,suffering,negative,emotions of suffering and empathy
+1993,1993,1993,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Nicht solche Worte!,0,19,character_speech,7,2,,GUNNAR.,#gunnar,725.0,MALE,no_annotation,no_annotation,no_annotation
+1994,1994,1994,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Sigurds Todesbraut
+              Steht zürnend vor dir, ehrvergeßner Mann.",0,89,character_speech,7,2,,BRYNHILDIS.,#brynhildis,726.0,FEMALE,anger,negative,emotions of rejection
+1995,1995,1995,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Nicht also.",0,26,character_speech,7,2,,GUNNAR.,#gunnar,727.0,MALE,no_annotation,no_annotation,no_annotation
+1996,1996,1996,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Mildre dieser Augen Blitz,
+              Laß' wieder leuchten sie in Lebenslust,
+              Gönn' meinen Armen –",27,142,character_speech,7,2,,GUNNAR.,#gunnar,727.0,MALE,joy,positive,emotions of pleasure
+1997,1997,1997,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Will sie umfassen.,0,18,stage_direction,7,2,speech_part,,#gunnar,727.0,MALE,love,positive,emotions of affection
+1998,1998,1998,GerDracor/fouque-sigurd-der-schlangentoedter.xml,zurückspringend.,0,16,stage_direction,7,2,speech_part,,#brynhildis,728.0,FEMALE,no_annotation,no_annotation,no_annotation
+1999,1999,1999,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Fort!,0,5,character_speech,7,2,,BRYNHILDIS,#brynhildis,728.0,FEMALE,no_annotation,no_annotation,no_annotation
+2000,2000,2000,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Bin Leiche schon.,6,23,character_speech,7,2,,BRYNHILDIS,#brynhildis,728.0,FEMALE,no_annotation,no_annotation,no_annotation
+2001,2001,2001,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Laß' ab, du thör'ger Bruder.",0,43,character_speech,7,2,,HÖGNE.,#hoegne,729.0,MALE,friendship,positive,emotions of affection
+2002,2002,2002,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Zieht sie's hin
+              In's dunkle Lager unter'n Runenstein,
+              So laß' sie machen, lebend bringt sie noch
+              Verderben über unsern ganzen Stamm.",44,218,character_speech,7,2,,HÖGNE.,#hoegne,729.0,MALE,abhorrence,negative,emotions of rejection
+2003,2003,2003,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Erräthst es, Schwägerlein.",0,41,character_speech,7,2,,BRYNHILDIS.,#brynhildis,730.0,FEMALE,no_annotation,no_annotation,no_annotation
+2004,2004,2004,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Ihr seid verloren;
+              Doch ob ich leb' ob sterb' – ihr bleibt es doch.",42,123,character_speech,7,2,,BRYNHILDIS.,#brynhildis,730.0,FEMALE,love,positive,emotions of affection
+2005,2005,2005,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Für's Schlimmste bürgt mir dieses gute Schwerdt,
+              Das Gramur hieß in Sigurds Kämpfen hell.",0,118,character_speech,7,2,,HÖGNE.,#hoegne,731.0,MALE,"admiration, reverence",positive,emotions of affection
+2006,2006,2006,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Was?,0,4,character_speech,7,2,,BRYNHILDIS.,#brynhildis,732.0,FEMALE,no_annotation,no_annotation,no_annotation
+2007,2007,2007,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Solch ein Werkzeug wär' in deiner Hand?,5,44,character_speech,7,2,,BRYNHILDIS.,#brynhildis,732.0,FEMALE,no_annotation,no_annotation,no_annotation
+2008,2008,2008,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Schau's hier.",0,28,character_speech,7,2,,HÖGNE.,#hoegne,733.0,MALE,no_annotation,no_annotation,no_annotation
+2009,2009,2009,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Von Guttorms Leiche nahm ich's fort;
+              Den traf's, und ward nun Sühngeld mir und Beute.",29,128,character_speech,7,2,,HÖGNE.,#hoegne,733.0,MALE,no_annotation,no_annotation,no_annotation
+2010,2010,2010,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Das Gramur!",0,26,character_speech,7,2,,BRYNHILDIS.,#brynhildis,734.0,FEMALE,being moved,being moved,being moved
+2011,2011,2011,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Ja!,27,30,character_speech,7,2,,BRYNHILDIS.,#brynhildis,734.0,FEMALE,no_annotation,no_annotation,no_annotation
+2012,2012,2012,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Ja, ich erkenn' es wohl, –
+              Ach, lieber Gramur, vielgeehrte Waffe!",31,110,character_speech,7,2,,BRYNHILDIS.,#brynhildis,734.0,FEMALE,no_annotation,no_annotation,no_annotation
+2013,2013,2013,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"–
+              Dank, Högne, daß du mir den Freund gezeigt.",111,170,character_speech,7,2,,BRYNHILDIS.,#brynhildis,734.0,FEMALE,no_annotation,no_annotation,no_annotation
+2014,2014,2014,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"–
+              Gold her!",171,196,character_speech,7,2,,BRYNHILDIS.,#brynhildis,734.0,FEMALE,no_annotation,no_annotation,no_annotation
+2015,2015,2015,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Mein Gold all'!,197,212,character_speech,7,2,,BRYNHILDIS.,#brynhildis,734.0,FEMALE,love,positive,emotions of affection
+2016,2016,2016,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Meine Dienerschaft!,213,232,character_speech,7,2,,BRYNHILDIS.,#brynhildis,734.0,FEMALE,"admiration, reverence",positive,emotions of affection
+2017,2017,2017,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Was hast im Sinn?,0,17,character_speech,7,2,,GUNNAR.,#gunnar,735.0,MALE,no_annotation,no_annotation,no_annotation
+2018,2018,2018,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Du weiß'st es ja, brauchst nichst
+              Zu eifern ob des Bräut'gams blasser Nähe.",0,104,character_speech,7,2,,BRYNHILDIS.,#brynhildis,736.0,FEMALE,no_annotation,no_annotation,no_annotation
+2019,2019,2019,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Der nach mir ausstreckt seine kalte Hand.,119,160,character_speech,7,2,,BRYNHILDIS.,#brynhildis,736.0,FEMALE,abhorrence,negative,emotions of rejection
+2020,2020,2020,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Zofen und Diener Brynhildens treten auf, Gold herbeitragend.",0,60,stage_direction,7,2,speech_part,,#brynhildis,736.0,FEMALE,no_annotation,no_annotation,no_annotation
+2021,2021,2021,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Streut's aus!",0,28,character_speech,7,2,,BRYNHILDIS.,#brynhildis,737.0,FEMALE,no_annotation,no_annotation,no_annotation
+2022,2022,2022,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Die Schätze auf den Estrich aus!,29,61,character_speech,7,2,,BRYNHILDIS.,#brynhildis,737.0,FEMALE,no_annotation,no_annotation,no_annotation
+2023,2023,2023,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Goldlager will ich!,77,96,character_speech,7,2,,BRYNHILDIS.,#brynhildis,737.0,FEMALE,anger,negative,emotions of rejection
+2024,2024,2024,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Streut mehr Gold!,97,114,character_speech,7,2,,BRYNHILDIS.,#brynhildis,737.0,FEMALE,no_annotation,no_annotation,no_annotation
+2025,2025,2025,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Noch mehr!,115,125,character_speech,7,2,,BRYNHILDIS.,#brynhildis,737.0,FEMALE,no_annotation,no_annotation,no_annotation
+2026,2026,2026,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Es geschieht.,0,13,stage_direction,7,2,speech_part,,#brynhildis,737.0,FEMALE,no_annotation,no_annotation,no_annotation
+2027,2027,2027,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Auf Gold schlief Faffner; nennt man doch seitdem
+              Das Gold nur Faffners Lager.",0,106,character_speech,7,2,,BRYNHILDIS.,#brynhildis,738.0,FEMALE,no_annotation,no_annotation,no_annotation
+2028,2028,2028,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"– Ach, du rufst
+              Mich an aus tausend Stimmen, edler Held!",107,177,character_speech,7,2,,BRYNHILDIS.,#brynhildis,738.0,FEMALE,"admiration, reverence",positive,emotions of affection
+2029,2029,2029,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"–
+              Mehr Gold!",178,204,character_speech,7,2,,BRYNHILDIS.,#brynhildis,738.0,FEMALE,no_annotation,no_annotation,no_annotation
+2030,2030,2030,GerDracor/fouque-sigurd-der-schlangentoedter.xml,– So!,205,210,character_speech,7,2,,BRYNHILDIS.,#brynhildis,738.0,FEMALE,being moved,being moved,being moved
+2031,2031,2031,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Habt ihr alles ausgestreut?,211,238,character_speech,7,2,,BRYNHILDIS.,#brynhildis,738.0,FEMALE,no_annotation,no_annotation,no_annotation
+2032,2032,2032,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"–
+              Recht wohl.",239,266,character_speech,7,2,,BRYNHILDIS.,#brynhildis,738.0,FEMALE,no_annotation,no_annotation,no_annotation
+2033,2033,2033,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Ein blanker Teppich liegt umher,
+              Nun nehmt davon, was eure Seele freu't,
+              Ihr, Zofen, Diener, nehmt.",267,394,character_speech,7,2,,BRYNHILDIS.,#brynhildis,738.0,FEMALE,no_annotation,no_annotation,no_annotation
+2034,2034,2034,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Ich schenk' es Euch.,395,415,character_speech,7,2,,BRYNHILDIS.,#brynhildis,738.0,FEMALE,no_annotation,no_annotation,no_annotation
+2035,2035,2035,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Was zögert ihr?,430,445,character_speech,7,2,,BRYNHILDIS.,#brynhildis,738.0,FEMALE,no_annotation,no_annotation,no_annotation
+2036,2036,2036,GerDracor/fouque-sigurd-der-schlangentoedter.xml,'S ist meine letzte Gabe.,446,471,character_speech,7,2,,BRYNHILDIS.,#brynhildis,738.0,FEMALE,no_annotation,no_annotation,no_annotation
+2037,2037,2037,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"–
+              Wie?",472,492,character_speech,7,2,,BRYNHILDIS.,#brynhildis,738.0,FEMALE,no_annotation,no_annotation,no_annotation
+2038,2038,2038,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Oder wollt ihr mir die Lagerstatt
+              Nicht erst zerwühlen?",493,562,character_speech,7,2,,BRYNHILDIS.,#brynhildis,738.0,FEMALE,anger,negative,emotions of rejection
+2039,2039,2039,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"– Das ist freilich recht;
+              Doch wenn ich fort bin, bitt' euch, nehmt es all'.",563,653,character_speech,7,2,,BRYNHILDIS.,#brynhildis,738.0,FEMALE,no_annotation,no_annotation,no_annotation
+2040,2040,2040,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Bis dahin – Ha, was zögr' ich?",668,698,character_speech,7,2,,BRYNHILDIS.,#brynhildis,738.0,FEMALE,no_annotation,no_annotation,no_annotation
+2041,2041,2041,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Indem sie Högne das Schwerdt entreißt und sich damit verwundet.,0,63,stage_direction,7,2,speech_part,,#brynhildis,738.0,FEMALE,no_annotation,no_annotation,no_annotation
+2042,2042,2042,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Gramur hilf'!,0,13,character_speech,7,2,,BRYNHILDIS.,#brynhildis,738.0,FEMALE,fear,negative,emotions of anxiety
+2043,2043,2043,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Sie sinkt.,0,10,stage_direction,7,2,speech_part,,#brynhildis,738.0,FEMALE,no_annotation,no_annotation,no_annotation
+2044,2044,2044,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Ihre Zofen halten sie.,11,33,stage_direction,7,2,speech_part,,#brynhildis,738.0,FEMALE,no_annotation,no_annotation,no_annotation
+2045,2045,2045,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Weh' mir!,0,9,character_speech,7,2,,GUNNAR.,#gunnar,739.0,MALE,compassion,negative,emotions of suffering and empathy
+2046,2046,2046,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Was bleib' ich nun?,10,29,character_speech,7,2,,GUNNAR.,#gunnar,739.0,MALE,no_annotation,no_annotation,no_annotation
+2047,2047,2047,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Ein Todtenbild,
+              In dessen knöchernem, kalten Gebäu
+              Noch die Gebein' etwas zusammenklappern, –
+              Tod ist dein Losungswort, du selbst bist hin.",0,196,character_speech,7,2,,BRYNHILDIS.,#brynhildis,740.0,FEMALE,despair,negative,emotions of anxiety
+2048,2048,2048,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Zu ihren Zofen.,0,15,stage_direction,7,2,speech_part,,#brynhildis,740.0,FEMALE,no_annotation,no_annotation,no_annotation
+2049,2049,2049,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+               Laßt mich nur sinken auf die goldnen Münzen,
+              Reichfunkelnden Kleinode hin, – laßt mich –
+              Denn Blut auf Gold erschafft gar kecken Schein.",0,180,character_speech,7,2,,BRYNHILDIS.,#brynhildis,740.0,FEMALE,no_annotation,no_annotation,no_annotation
+2050,2050,2050,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Blut ist ja lebend Gold, und Gold – Ihr Kinder –
+              Ist ja hellglänzend, schöngeläutert Blut.",195,299,character_speech,7,2,,BRYNHILDIS.,#brynhildis,740.0,FEMALE,suffering,negative,emotions of suffering and empathy
+2051,2051,2051,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Es leuchtet aufwärts – aus der Wunden auch
+              Leuchtet herab der Strom –",314,397,character_speech,7,2,,BRYNHILDIS.,#brynhildis,740.0,FEMALE,no_annotation,no_annotation,no_annotation
+2052,2052,2052,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Ich geh' verloren.",0,33,character_speech,7,2,,GUNNAR.,#gunnar,741.0,MALE,despair,negative,emotions of anxiety
+2053,2053,2053,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Sie war mir theu'r und lieb vor aller Welt –
+              Hin sie!",48,115,character_speech,7,2,,GUNNAR.,#gunnar,741.0,MALE,love,positive,emotions of affection
+2054,2054,2054,GerDracor/fouque-sigurd-der-schlangentoedter.xml,– Fortan die ganze Welt mir feind.,116,150,character_speech,7,2,,GUNNAR.,#gunnar,741.0,MALE,abhorrence,negative,emotions of rejection
+2055,2055,2055,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Mein Gunnar!,0,12,character_speech,7,2,,HÖGNE.,#hoegne,742.0,MALE,being moved,being moved,being moved
+2056,2056,2056,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Bleib' gesetzt.,13,28,character_speech,7,2,,HÖGNE.,#hoegne,742.0,MALE,no_annotation,no_annotation,no_annotation
+2057,2057,2057,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              So sprecht ihr, Thoren.",0,38,character_speech,7,2,,GUNNAR.,#gunnar,743.0,MALE,no_annotation,no_annotation,no_annotation
+2058,2058,2058,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Doch keiner weiß, wie mir zu Sinn' nun ist.",53,96,character_speech,7,2,,GUNNAR.,#gunnar,743.0,MALE,suffering,negative,emotions of suffering and empathy
+2059,2059,2059,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Sigurd liegt tod, mein alter Schlachtgesell,
+              Brynhildens Wunde strömt von Herzensblut,
+              Ich bin durchaus im Elend.",111,252,character_speech,7,2,,GUNNAR.,#gunnar,743.0,MALE,suffering,negative,emotions of suffering and empathy
+2060,2060,2060,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Thust mir leid,
+              Du armer Gunnar, mit den bleichen Wangen.",0,86,character_speech,7,2,,BRYNHILDIS.,#brynhildis,744.0,FEMALE,compassion,negative,emotions of suffering and empathy
+2061,2061,2061,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Das ist Heut viel zu spät, blutgier'ges Weib;
+              Verlobt verehlicht dich hast du nur mir,
+              Und gehst geleitlos nun den schlimmsten Gang.",0,175,character_speech,7,2,,GUNNAR.,#gunnar,745.0,MALE,abhorrence,negative,emotions of rejection
+2062,2062,2062,GerDracor/fouque-sigurd-der-schlangentoedter.xml,O hätt' ich das gewußt!,191,214,character_speech,7,2,,GUNNAR.,#gunnar,745.0,MALE,no_annotation,no_annotation,no_annotation
+2063,2063,2063,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Nur deiner Schönheit
+              Hellstrahlend Licht hielt zu der That mich wach.",215,298,character_speech,7,2,,GUNNAR.,#gunnar,745.0,MALE,"admiration, reverence",positive,emotions of affection
+2064,2064,2064,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Trug gegen Trug.,0,16,character_speech,7,2,,BRYNHILDIS.,#brynhildis,746.0,FEMALE,no_annotation,no_annotation,no_annotation
+2065,2065,2065,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Niflungen, nehmt vorlieb!",17,42,character_speech,7,2,,BRYNHILDIS.,#brynhildis,746.0,FEMALE,suffering,negative,emotions of suffering and empathy
+2066,2066,2066,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Nun, Gunnar, hör' mich an –",0,27,character_speech,7,2,,HÖGNE.,#hoegne,747.0,MALE,no_annotation,no_annotation,no_annotation
+2067,2067,2067,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Nachher dein Trösten;
+              Jetzt erst mein Bitten dem Gemahl.",0,85,character_speech,7,2,,BRYNHILDIS.,#brynhildis,748.0,FEMALE,no_annotation,no_annotation,no_annotation
+2068,2068,2068,GerDracor/fouque-sigurd-der-schlangentoedter.xml,– Hörst du?,86,97,character_speech,7,2,,BRYNHILDIS.,#brynhildis,748.0,FEMALE,no_annotation,no_annotation,no_annotation
+2069,2069,2069,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Hörst, Gunnar, meinen Will'n?",112,141,character_speech,7,2,,BRYNHILDIS.,#brynhildis,748.0,FEMALE,no_annotation,no_annotation,no_annotation
+2070,2070,2070,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Mit Leib und Seele.,0,19,character_speech,7,2,,GUNNAR.,#gunnar,749.0,MALE,no_annotation,no_annotation,no_annotation
+2071,2071,2071,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Laß' einen Scheiterhaufen hoch erbau'n
+              Auf nächt'ger Ebne, mein und Sigurds Bett,
+              Umher der Teppiche viel reiche Zier,
+              Gefärbt von frisch vergoßnem Menschenblut.",0,218,character_speech,7,2,,BRYNHILDIS.,#brynhildis,750.0,FEMALE,no_annotation,no_annotation,no_annotation
+2072,2072,2072,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Zu meiner Seiten lagert ihn, den Herrn
+              Von Niederland, zu seiner Seiten die,
+              So mit ihm fielen; sein dreijähr'ges Kind,
+              Das zarte Knäblein Siegmund, dem zunächst
+              Guttorm, den Mörder; – dann zu seinem Haupt
+              Zwei meiner Dienerschaft, zwei zu den Füßen –
+              Noch außerdem der besten Falken zwei –
+              O lieber Held, mit deinem Falkenaug'!",233,659,character_speech,7,2,,BRYNHILDIS.,#brynhildis,750.0,FEMALE,love,positive,emotions of affection
+2073,2073,2073,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"O, holder Jäger, ziehst nicht mehr zur Jagd!",674,718,character_speech,7,2,,BRYNHILDIS.,#brynhildis,750.0,FEMALE,suffering,negative,emotions of suffering and empathy
+2074,2074,2074,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"–
+               Auch Gramur lieg' zweischneidig zwischen uns,
+              Wie, als auf Hindarfiall gemeinschaftlich
+              Das Brautbett uns vereinigt und getrennt.",719,893,character_speech,7,2,,BRYNHILDIS.,#brynhildis,750.0,FEMALE,no_annotation,no_annotation,no_annotation
+2075,2075,2075,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"–
+              Wenn arme Leut' aus Fürstenthüren gehn,
+              Schlägt hinter ihrem Tritt die Thüre zu,
+              Denn kein Gefolg geht nach – das treff' uns nicht.",894,1069,character_speech,7,2,,BRYNHILDIS.,#brynhildis,750.0,FEMALE,no_annotation,no_annotation,no_annotation
+2076,2076,2076,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"–
+              Nur klein ist unsrer Todtenhochzeit Pracht,
+              Wenn acht der Zofen, acht der Diener auch,
+              Die mir, der Braut, mein Vater einst geschenkt
+              Mit brennen in des Scheiterhaufens Gluth,
+              Zusammt den Andern, die mit Sigurd fielen.",1070,1360,character_speech,7,2,,BRYNHILDIS.,#brynhildis,750.0,FEMALE,no_annotation,no_annotation,no_annotation
+2077,2077,2077,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"–
+              Thust du, warum ich bat, o Gunnar?",1361,1411,character_speech,7,2,,BRYNHILDIS.,#brynhildis,750.0,FEMALE,no_annotation,no_annotation,no_annotation
+2078,2078,2078,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Schon
+              Erhebt den Scheiterhaufen mein Gebot,
+              Senkt mich zugleich abwärts von aller Lust.",0,130,character_speech,7,2,,GUNNAR.,#gunnar,751.0,MALE,joy,positive,emotions of pleasure
+2079,2079,2079,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Ach, träum' nicht.",0,18,character_speech,7,2,,HÖGNE.,#hoegne,752.0,MALE,no_annotation,no_annotation,no_annotation
+2080,2080,2080,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Gramur, du geehrtes Schwerdt,
+              Du schiedest uns vordem, wirst nun Brautführer,
+              Bahnst die Brautstraße mir mit rothem Blut.",0,164,character_speech,7,2,,BRYNHILDIS.,#brynhildis,753.0,FEMALE,suffering,negative,emotions of suffering and empathy
+2081,2081,2081,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Wein' doch nicht so unmäßig, Bruder mein;
+              Für eine Frau giebt's Tausend in der Welt,
+               Und wem der Faffners Hort zu Diensten steht,
+              Dem ist auch alle Liebeslust bereit.",0,224,character_speech,7,2,,HÖGNE.,#hoegne,754.0,MALE,love,positive,emotions of affection
+2082,2082,2082,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Meinst du's?",0,27,character_speech,7,2,,BRYNHILDIS.,#brynhildis,755.0,FEMALE,no_annotation,no_annotation,no_annotation
+2083,2083,2083,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Meinst du's?,28,40,character_speech,7,2,,BRYNHILDIS.,#brynhildis,755.0,FEMALE,no_annotation,no_annotation,no_annotation
+2084,2084,2084,GerDracor/fouque-sigurd-der-schlangentoedter.xml,– Mit deinem Faffnershort!,41,67,character_speech,7,2,,BRYNHILDIS.,#brynhildis,755.0,FEMALE,no_annotation,no_annotation,no_annotation
+2085,2085,2085,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"–
+              Du siehst vor all' der Goldesblendung nicht
+              Den schwarzen Fluch, der grau'nvoll drüber hin
+              Die nächt'gen Flügel dehnt.",68,230,character_speech,7,2,,BRYNHILDIS.,#brynhildis,755.0,FEMALE,no_annotation,no_annotation,no_annotation
+2086,2086,2086,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"– Es reißt euch abwärts
+              In thöriger Betäubung.",231,291,character_speech,7,2,,BRYNHILDIS.,#brynhildis,755.0,FEMALE,no_annotation,no_annotation,no_annotation
+2087,2087,2087,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Gold bleibt Gold.",0,32,character_speech,7,2,,HÖGNE.,#hoegne,756.0,MALE,no_annotation,no_annotation,no_annotation
+2088,2088,2088,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Und ihm das best' in aller Welt zu Kauf.,47,87,character_speech,7,2,,HÖGNE.,#hoegne,756.0,MALE,"admiration, reverence",positive,emotions of affection
+2089,2089,2089,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Du armer Thor!",0,29,character_speech,7,2,,BRYNHILDIS.,#brynhildis,757.0,FEMALE,compassion,negative,emotions of suffering and empathy
+2090,2090,2090,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Noch um den blut'gen Schatz
+              Werden in Todeskrämpfen dir die Glieder
+              Zusammenzucken.",30,141,character_speech,7,2,,BRYNHILDIS.,#brynhildis,757.0,FEMALE,suffering,negative,emotions of suffering and empathy
+2091,2091,2091,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"– Gunnar folgt dir nach,
+              Sobald er erst dein zuckend Herz gesehn.",142,221,character_speech,7,2,,BRYNHILDIS.,#brynhildis,757.0,FEMALE,no_annotation,no_annotation,no_annotation
+2092,2092,2092,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Das schlägt in einer wohl bewehrten Brust.,0,42,character_speech,7,2,,HÖGNE.,#hoegne,758.0,MALE,no_annotation,no_annotation,no_annotation
+2093,2093,2093,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Nicht Panzer schirmt, nicht siebenfaches Erz,
+              Wohin Geschick zielt und Vergeltung.",0,111,character_speech,7,2,,BRYNHILDIS.,#brynhildis,759.0,FEMALE,no_annotation,no_annotation,no_annotation
+2094,2094,2094,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Droh' nur.",0,25,character_speech,7,2,,HÖGNE.,#hoegne,760.0,MALE,anger,negative,emotions of rejection
+2095,2095,2095,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Du bist halbtod, wir beide leben noch.",40,78,character_speech,7,2,,HÖGNE.,#hoegne,760.0,MALE,despair,negative,emotions of anxiety
+2096,2096,2096,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              In deinem Leben lebt mein drohend Wort,
+              Ob du's mit kecker Zung' auch überschreist.",0,112,character_speech,7,2,,BRYNHILDIS.,#brynhildis,761.0,FEMALE,anger,negative,emotions of rejection
+2097,2097,2097,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"–
+              Hohl braust der Rhein durch dieser Nacht Ergrau'n,
+              Schleuß auf den Wasserwall, du tiefer Rhein,
+              Denn theure Gabe wird dir bald zu eigen:
+              Das Faffners Gold, versenkt durch diese Zwei,
+              Vorsichtig tief auf deinen Grund versenkt,
+              Doch ihnen nie Genuß, und nie der Nachwelt,
+              Die, blöd' erstaunend, nicht einmal vom Hort,
+              Der wundervollen Mähr' vertrauen wird.",113,581,character_speech,7,2,,BRYNHILDIS.,#brynhildis,761.0,FEMALE,no_annotation,no_annotation,no_annotation
+2098,2098,2098,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"–
+              Fleuß, Herzensblut, doch fleuß nicht allzuschnell!",582,648,character_speech,7,2,,BRYNHILDIS.,#brynhildis,761.0,FEMALE,no_annotation,no_annotation,no_annotation
+2099,2099,2099,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"–
+              Ich muß noch erst den Scheiterhaufen sehn,
+              Drauf suchen meinen Liebling.",649,751,character_speech,7,2,,BRYNHILDIS.,#brynhildis,761.0,FEMALE,no_annotation,no_annotation,no_annotation
+2100,2100,2100,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"– Brennt's noch nicht
+              Das hochzeitliche Feu'r?",752,812,character_speech,7,2,,BRYNHILDIS.,#brynhildis,761.0,FEMALE,no_annotation,no_annotation,no_annotation
+2101,2101,2101,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"– Du stummer Gunnar,
+              In deines Kleides Falten trüb' verhüllt,
+              Dich frag' ich – ist mein Wille nicht geschehn?",813,950,character_speech,7,2,,BRYNHILDIS.,#brynhildis,761.0,FEMALE,no_annotation,no_annotation,no_annotation
+2102,2102,2102,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Gunnar winkt.,0,13,stage_direction,7,2,speech_part,,#brynhildis,761.0,FEMALE,no_annotation,no_annotation,no_annotation
+2103,2103,2103,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Ein großer Vorhang im Grunde rollt auf.,14,53,stage_direction,7,2,speech_part,,#brynhildis,761.0,FEMALE,no_annotation,no_annotation,no_annotation
+2104,2104,2104,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Man sieht auf der
+              nächtlichen Ebene den Scheiterhaufen brennend.",54,132,stage_direction,7,2,speech_part,,#brynhildis,761.0,FEMALE,abhorrence,negative,emotions of rejection
+2105,2105,2105,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Sigurds Leichnam darauf.,133,157,stage_direction,7,2,speech_part,,#brynhildis,761.0,FEMALE,no_annotation,no_annotation,no_annotation
+2106,2106,2106,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Alles nach
+              Brynhildens Worten geordnet.",158,211,stage_direction,7,2,speech_part,,#brynhildis,761.0,FEMALE,no_annotation,no_annotation,no_annotation
+2107,2107,2107,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Willkommen!",0,26,character_speech,7,2,,BRYNHILDIS.,#brynhildis,762.0,FEMALE,no_annotation,no_annotation,no_annotation
+2108,2108,2108,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"– Auf der bleichen Lippe bebt
+              Mir noch für euch, ihr Menschen, manch' ein Wort –
+              Die Wunde, strömend heiß, strömt es mit weg,
+              Läßt mir die Seel' heraus vom dunkeln Wohnort, –
+               Und was auch zögern, wo mein Liebeslicht
+              Hell lieblich funkelt durch die finstre Nacht?",27,360,character_speech,7,2,,BRYNHILDIS.,#brynhildis,762.0,FEMALE,suffering,negative,emotions of suffering and empathy
+2109,2109,2109,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Sich aus den Armen ihrer Frauen aufrichtend, und nach dem Scheiterhaufen
+              zugehend.",0,96,stage_direction,7,2,speech_part,,#brynhildis,762.0,FEMALE,no_annotation,no_annotation,no_annotation
+2110,2110,2110,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Laßt nur, ich wanke nicht.",0,41,character_speech,7,2,,BRYNHILDIS.,#brynhildis,762.0,FEMALE,fear,negative,emotions of anxiety
+2111,2111,2111,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Die Flamme leuchtet
+              Mir zu dem letzten Pfade klar genug.",42,112,character_speech,7,2,,BRYNHILDIS.,#brynhildis,762.0,FEMALE,no_annotation,no_annotation,no_annotation
+2112,2112,2112,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Glühte nicht lockend deinem edlen Muth,
+              O lieber Sigurd, Wafurlogas Flamme?",127,216,character_speech,7,2,,BRYNHILDIS.,#brynhildis,762.0,FEMALE,love,positive,emotions of affection
+2113,2113,2113,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Das ist der Brautgang, für uns zwei bestimmt:
+              Durch droh'nde Gluth zur süßen Liebesgluth.",231,334,character_speech,7,2,,BRYNHILDIS.,#brynhildis,762.0,FEMALE,love,positive,emotions of affection
+2114,2114,2114,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Du kamst zu mir erst, nun komm' ich zu dir –
+              Lächelst, mein holder Bräut'gam?",349,440,character_speech,7,2,,BRYNHILDIS.,#brynhildis,762.0,FEMALE,love,positive,emotions of affection
+2115,2115,2115,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Wie lichtherrlich
+              Die Funken fliegen, kränzend dir das Haupt!",441,516,character_speech,7,2,,BRYNHILDIS.,#brynhildis,762.0,FEMALE,abhorrence,negative,emotions of rejection
+2116,2116,2116,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Hinein!,531,538,character_speech,7,2,,BRYNHILDIS.,#brynhildis,762.0,FEMALE,no_annotation,no_annotation,no_annotation
+2117,2117,2117,GerDracor/fouque-sigurd-der-schlangentoedter.xml,dem glüh'nden Herzen thut's nicht weh!,539,577,character_speech,7,2,,BRYNHILDIS.,#brynhildis,762.0,FEMALE,suffering,negative,emotions of suffering and empathy
+2118,2118,2118,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Stürzt sich in die Flamme.,0,26,stage_direction,7,2,speech_part,,#brynhildis,762.0,FEMALE,no_annotation,no_annotation,no_annotation
+2119,2119,2119,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Gunnar lehnt sich in Högne's Arme, die Andern sinken
+              erschreckt in die Knie.",27,117,stage_direction,7,2,speech_part,,#brynhildis,762.0,FEMALE,being moved,being moved,being moved
+2120,2120,2120,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Aus den Rauchwolken des Scheiterhaufens gestalten sich die
+              drei Nornen.",118,203,stage_direction,7,2,speech_part,,#brynhildis,762.0,FEMALE,no_annotation,no_annotation,no_annotation
+2121,2121,2121,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Sie singen.,204,215,stage_direction,7,2,speech_part,,#brynhildis,762.0,FEMALE,no_annotation,no_annotation,no_annotation
+2122,2122,2122,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Aus dem Holze heiß hoch wirbelt's,
+              Herzen klopfen, Kniee schlottern,
+              Haare flattern, blutbaar sind Wangen –
+              Keiner kennt uns, – was wir meinen
+              Klingt doch im Sinn durchdringend wieder –
+              Keiner hört es, verstört hat's Alle.",0,307,character_speech,7,2,,ALLE DREI.,#wurdur #werdandi #skuld,763.0,UNKNOWN,being moved,being moved,being moved
+2123,2123,2123,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Ich, schon gewordne Schwester, um Mord
+               Schrei' nun, o gewaltige Gegenwart,
+              Werdandi dich, nach Rache dich an.",0,153,character_speech,7,2,,WURDUR.,#wurdur,764.0,FEMALE,despair,negative,emotions of anxiety
+2124,2124,2124,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Es lag der Held erschlagen – lenk' du's,
+              Lenk' nun du die Schmach zur Rache –
+              Was ich nicht zahlte, das zahl' nun du.",168,313,character_speech,7,2,,WURDUR.,#wurdur,764.0,FEMALE,abhorrence,negative,emotions of rejection
+2125,2125,2125,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Nicht reif zu greifen das Richterschwerdt
+              Rausch' ich machtlos durch die Nacht hin,
+              Wende mich weg von blut'ger Spendung,
+              Dein Klagen, es klingt mich an, es nagt,
+              Entkleidend der Lust mich, an meiner Brust –
+              Doch ich beuge still mich, Beute der Trau'r.",0,337,character_speech,7,2,,WERDANDI.,#werdandi,765.0,FEMALE,suffering,negative,emotions of suffering and empathy
+2126,2126,2126,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Schweigt ihr im Gram?",0,36,character_speech,7,2,,SKULD.,#skuld,766.0,FEMALE,suffering,negative,emotions of suffering and empathy
+2127,2127,2127,GerDracor/fouque-sigurd-der-schlangentoedter.xml,Greis't namenlos?,37,54,character_speech,7,2,,SKULD.,#skuld,766.0,FEMALE,no_annotation,no_annotation,no_annotation
+2128,2128,2128,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Grimm steigt Unheil, ich heilig auf,
+              Tröst' euch, ihr zwei, die Trug entweiht hat.",69,165,character_speech,7,2,,SKULD.,#skuld,766.0,FEMALE,suffering,negative,emotions of suffering and empathy
+2129,2129,2129,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Wahrheit wächst still, Wahrheit wächst klar,
+              Wird richtend wandeln, leuchtet durch mich,
+              Leuchtet her, ferne Feuersäule.",180,328,character_speech,7,2,,SKULD.,#skuld,766.0,FEMALE,no_annotation,no_annotation,no_annotation
+2130,2130,2130,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Trug über die Trüger, Trug und Lug,
+              Tröpfelnd Blut derer die Blut geschöpft,
+              Wehschrei den Weheverbreitenden!",343,480,character_speech,7,2,,SKULD.,#skuld,766.0,FEMALE,abhorrence,negative,emotions of rejection
+2131,2131,2131,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Liederpreis in lichten Kreisen,
+              Lange Zeit hinaus dem Helden,
+              Dem Frommen, frei von entweihender Schuld.",495,627,character_speech,7,2,,SKULD.,#skuld,766.0,FEMALE,no_annotation,no_annotation,no_annotation
+2132,2132,2132,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Komm', rächende Kön'gin, wir lechzen nach dir,
+              Künd' uns der Rach' und Schuld Verbündung!",0,118,character_speech,7,2,,WURDUR UND WERDANDI.,#wurdur #werdandi,767.0,UNKNOWN,abhorrence,negative,emotions of rejection
+2133,2133,2133,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"
+              Ich eile nicht, ich weile nicht.",0,47,character_speech,7,2,,SKULD.,#skuld,768.0,FEMALE,no_annotation,no_annotation,no_annotation
+2134,2134,2134,GerDracor/fouque-sigurd-der-schlangentoedter.xml,"Wir gehn Alle den stäten Gang, wir sehn
+              Gericht erhoben und auch geschlichtet, –
+              Lauf', Menschenkind, entlaufst uns nie!",62,210,character_speech,7,2,,SKULD.,#skuld,768.0,FEMALE,love,positive,emotions of affection

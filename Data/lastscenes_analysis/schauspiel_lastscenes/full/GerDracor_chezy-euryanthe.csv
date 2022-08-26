@@ -1,0 +1,44 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+1170,1170,1170,GerDracor/chezy-euryanthe.xml,Die Vorigen.,0,12,stage_direction,3,11,pre_speech,,,,,no_annotation,S,,1823.0,no_annotation,no_annotation
+1171,1171,1171,GerDracor/chezy-euryanthe.xml,Euryanthe zu Adolar in den Vordergrund eilend.,13,59,stage_direction,3,11,pre_speech,,,,,no_annotation,S,,1823.0,no_annotation,no_annotation
+1172,1172,1172,GerDracor/chezy-euryanthe.xml,Jagdchor.,60,69,stage_direction,3,11,pre_speech,,,,,no_annotation,S,,1823.0,no_annotation,no_annotation
+1173,1173,1173,GerDracor/chezy-euryanthe.xml,Duett mit Chor.,0,15,stage_direction,3,11,pre_speech,,,,,no_annotation,S,,1823.0,no_annotation,no_annotation
+1174,1174,1174,GerDracor/chezy-euryanthe.xml,Der Jagdchor nimmt vor den Trompetern Ausstellung.,0,50,stage_direction,3,11,pre_speech,,,,,no_annotation,S,,1823.0,no_annotation,no_annotation
+1175,1175,1175,GerDracor/chezy-euryanthe.xml,Adolar kniet vor Euryanthe.,0,27,stage_direction,3,11,pre_speech,,,,,no_annotation,S,,1823.0,no_annotation,no_annotation
+1176,1176,1176,GerDracor/chezy-euryanthe.xml,"Der König in der Mitte, hinter beiden stehend.",0,46,stage_direction,3,11,pre_speech,,,,,no_annotation,S,,1823.0,no_annotation,no_annotation
+1177,1177,1177,GerDracor/chezy-euryanthe.xml,"
+              Hin nimm die Seele mein,
+              Atme mein Leben ein!",0,74,character_speech,3,11,,"EURYANTHE, ADOLAR.",#euryanthe #adolar,343.0,UNKNOWN,love,S,,1823.0,positive,emotions of affection
+1178,1178,1178,GerDracor/chezy-euryanthe.xml,"Hin nimm die Seele mein,
+              Mein Leben atme ein,
+              Ganz bin ich dein!",89,181,character_speech,3,11,,"EURYANTHE, ADOLAR.",#euryanthe #adolar,343.0,UNKNOWN,love,S,,1823.0,positive,emotions of affection
+1179,1179,1179,GerDracor/chezy-euryanthe.xml,"Laß mich in Lust und Wehn
+              An deiner Brust vergehn!",196,260,character_speech,3,11,,"EURYANTHE, ADOLAR.",#euryanthe #adolar,343.0,UNKNOWN,joy,S,,1823.0,positive,emotions of pleasure
+1180,1180,1180,GerDracor/chezy-euryanthe.xml,"
+              O Lust nach Todespein,
+              O Treue, stark und rein,
+               Du sein, er dein!",0,109,character_speech,3,11,,CHOR.,#chor,344.0,UNKNOWN,joy,S,,1823.0,positive,emotions of pleasure
+1181,1181,1181,GerDracor/chezy-euryanthe.xml,"Holdseliger Verein,
+              O Lust nach Todespein!",124,180,character_speech,3,11,,CHOR.,#chor,344.0,UNKNOWN,joy,S,,1823.0,positive,emotions of pleasure
+1182,1182,1182,GerDracor/chezy-euryanthe.xml,Recitativ.,0,10,stage_direction,3,11,speech_part,,#chor,344.0,UNKNOWN,no_annotation,S,,1823.0,no_annotation,no_annotation
+1183,1183,1183,GerDracor/chezy-euryanthe.xml,von Entzückung ergriffen.,0,25,stage_direction,3,11,speech_part,,#adolar,345.0,MALE,joy,S,,1823.0,positive,emotions of pleasure
+1184,1184,1184,GerDracor/chezy-euryanthe.xml,"
+              Ich ahne, Emma, selig ist sie jetzt:
+              Der Unschuld Thräne hat den Ring benetzt.",0,107,character_speech,3,11,,ADOLAR,#adolar,345.0,MALE,suffering,S,,1823.0,negative,emotions of suffering and empathy
+1185,1185,1185,GerDracor/chezy-euryanthe.xml,"Treu' bot dem Mörder Rettung an für Mord,
+              Ewig vereint mit Udo weilt sie dort!",122,214,character_speech,3,11,,ADOLAR,#adolar,345.0,MALE,love,S,,1823.0,positive,emotions of affection
+1186,1186,1186,GerDracor/chezy-euryanthe.xml,König nähert sich und vereinigt die Hände der Liebenden.,0,56,stage_direction,3,11,pre_speech,,,,,love,S,,1823.0,positive,emotions of affection
+1187,1187,1187,GerDracor/chezy-euryanthe.xml,Schlußchor.,0,11,stage_direction,3,11,pre_speech,,,,,no_annotation,S,,1823.0,no_annotation,no_annotation
+1188,1188,1188,GerDracor/chezy-euryanthe.xml,Nun selig Glück will jedes Leid versöhnen!,0,42,character_speech,3,11,,"EURYANTHE, ADOLAR.",#euryanthe #adolar,346.0,UNKNOWN,joy,S,,1823.0,positive,emotions of pleasure
+1189,1189,1189,GerDracor/chezy-euryanthe.xml,"
+              Nun feiert hoch in vollen Jubeltönen
+              Der Ritter Schmuck, die treu'ste aller Schönen.",0,113,character_speech,3,11,,CHOR.,#chor,347.0,UNKNOWN,joy,S,,1823.0,positive,emotions of pleasure
+1190,1190,1190,GerDracor/chezy-euryanthe.xml,"Geprüftes Paar, besiegt ist Nacht und Tod,
+              Die Wahrheit strahlt im reinsten Morgenrot,
+              Der Himmel schirmt dies Band!",128,272,character_speech,3,11,,CHOR.,#chor,347.0,UNKNOWN,no_annotation,S,,1823.0,no_annotation,no_annotation
+1191,1191,1191,GerDracor/chezy-euryanthe.xml,Heil Adolar!,287,299,character_speech,3,11,,CHOR.,#chor,347.0,UNKNOWN,"admiration, reverence",S,,1823.0,positive,emotions of affection
+1192,1192,1192,GerDracor/chezy-euryanthe.xml,In vollen Jubeltönen!,300,321,character_speech,3,11,,CHOR.,#chor,347.0,UNKNOWN,joy,S,,1823.0,positive,emotions of pleasure
+1193,1193,1193,GerDracor/chezy-euryanthe.xml,Heil Euryanth'!,336,351,character_speech,3,11,,CHOR.,#chor,347.0,UNKNOWN,"admiration, reverence",S,,1823.0,positive,emotions of affection
+1194,1194,1194,GerDracor/chezy-euryanthe.xml,Der Treusten aller Schönen.,352,379,character_speech,3,11,,CHOR.,#chor,347.0,UNKNOWN,"admiration, reverence",S,,1823.0,positive,emotions of affection
+1195,1195,1195,GerDracor/chezy-euryanthe.xml,Heil Adolar!,394,406,character_speech,3,11,,CHOR.,#chor,347.0,UNKNOWN,"admiration, reverence",S,,1823.0,positive,emotions of affection
+1196,1196,1196,GerDracor/chezy-euryanthe.xml,Heil Euryanth'.,407,422,character_speech,3,11,,CHOR.,#chor,347.0,UNKNOWN,"admiration, reverence",S,,1823.0,positive,emotions of affection

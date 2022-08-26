@@ -1,0 +1,100 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+1525,1525,1525,GerDracor/kind-der-freischuetz.xml,Der Eremit.,0,11,stage_direction,4,2,pre_speech,,,,,no_annotation,S,,1821.0,no_annotation,no_annotation
+1526,1526,1526,GerDracor/kind-der-freischuetz.xml,Agathe mit einem Milchkrgue.,12,40,stage_direction,4,2,pre_speech,,,,,no_annotation,S,,1821.0,no_annotation,no_annotation
+1527,1527,1527,GerDracor/kind-der-freischuetz.xml,"Ännchen trägt ihr ein Körbchen nach und
+            gibt es ihr beim Auftreten.",41,120,stage_direction,4,2,pre_speech,,,,,no_annotation,S,,1821.0,no_annotation,no_annotation
+1528,1528,1528,GerDracor/kind-der-freischuetz.xml,zu Ännchen.,0,11,stage_direction,4,2,speech_part,,#agathe,407.0,FEMALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1529,1529,1529,GerDracor/kind-der-freischuetz.xml,Hab' Dank!,0,10,character_speech,4,2,,AGATHE,#agathe,407.0,FEMALE,joy,S,,1821.0,positive,emotions of pleasure
+1530,1530,1530,GerDracor/kind-der-freischuetz.xml,Ännchen ab.,0,11,stage_direction,4,2,speech_part,,#agathe,407.0,FEMALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1531,1531,1531,GerDracor/kind-der-freischuetz.xml,"Sei mir gesegnet, meine Tochter!",0,32,character_speech,4,2,,EREMIT.,#eremit,408.0,MALE,joy,S,,1821.0,positive,emotions of pleasure
+1532,1532,1532,GerDracor/kind-der-freischuetz.xml,Du bliebst lange aus –,33,55,character_speech,4,2,,EREMIT.,#eremit,408.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1533,1533,1533,GerDracor/kind-der-freischuetz.xml,"Ihr seid doch wohl, ehrwürdiger Vater?",0,38,character_speech,4,2,,AGATHE.,#agathe,409.0,FEMALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1534,1534,1534,GerDracor/kind-der-freischuetz.xml,"Ich wär' schon gestern oder vorgestern
+              gekommen; aber dieses Obst, das ich für Euch aufbewahrt hatte, wollte nicht früher
+              reifen.",39,196,character_speech,4,2,,AGATHE.,#agathe,409.0,FEMALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1535,1535,1535,GerDracor/kind-der-freischuetz.xml,Da nehmt es und dies Brot und dies Krüglein Milch.,197,247,character_speech,4,2,,AGATHE.,#agathe,409.0,FEMALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1536,1536,1536,GerDracor/kind-der-freischuetz.xml,"Andere Labung darf ich Euch
+              ja nicht bringen.",248,307,character_speech,4,2,,AGATHE.,#agathe,409.0,FEMALE,joy,S,,1821.0,positive,emotions of pleasure
+1537,1537,1537,GerDracor/kind-der-freischuetz.xml,Die Früchte sind auserlesen.,0,28,character_speech,4,2,,EREMIT.,#eremit,410.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1538,1538,1538,GerDracor/kind-der-freischuetz.xml,Du sorgst für mich wie eine Tochter.,29,65,character_speech,4,2,,EREMIT.,#eremit,410.0,MALE,love,S,,1821.0,positive,emotions of affection
+1539,1539,1539,GerDracor/kind-der-freischuetz.xml,Ich liebe Euch nach meinem Vater am meisten.,0,44,character_speech,4,2,,AGATHE.,#agathe,411.0,FEMALE,love,S,,1821.0,positive,emotions of affection
+1540,1540,1540,GerDracor/kind-der-freischuetz.xml,"Wär' das wahr, was würde dein Max dazu sagen?",0,45,character_speech,4,2,,EREMIT.,#eremit,412.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1541,1541,1541,GerDracor/kind-der-freischuetz.xml,Ei – das ist etwas andres – ich sprach von kindlicher Liebe.,0,60,character_speech,4,2,,AGATHE.,#agathe,413.0,FEMALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1542,1542,1542,GerDracor/kind-der-freischuetz.xml,"Ihr scherzt mit mir; Ihr
+              seid ungewöhnlich heiter.",61,125,character_speech,4,2,,AGATHE.,#agathe,413.0,FEMALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1543,1543,1543,GerDracor/kind-der-freischuetz.xml,für sich.,0,9,stage_direction,4,2,speech_part,,#eremit,414.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1544,1544,1544,GerDracor/kind-der-freischuetz.xml,Wie sehr irrt sie!,0,18,character_speech,4,2,,EREMIT,#eremit,414.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1545,1545,1545,GerDracor/kind-der-freischuetz.xml,–,19,20,character_speech,4,2,,EREMIT,#eremit,414.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1546,1546,1546,GerDracor/kind-der-freischuetz.xml,Laut.,0,5,stage_direction,4,2,inner_speech,,#eremit,414.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1547,1547,1547,GerDracor/kind-der-freischuetz.xml, Dein Max ist doch wohl?,0,24,character_speech,4,2,,EREMIT,#eremit,414.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1548,1548,1548,GerDracor/kind-der-freischuetz.xml,"Vollkommen – nur daß ihm vor dem Probeschusse bange ist, den er morgen ablegen
+              soll.",0,98,character_speech,4,2,,AGATHE.,#agathe,415.0,FEMALE,fear,S,,1821.0,negative,emotions of anxiety
+1549,1549,1549,GerDracor/kind-der-freischuetz.xml,Ich habe davon gehört.,0,22,character_speech,4,2,,EREMIT.,#eremit,416.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1550,1550,1550,GerDracor/kind-der-freischuetz.xml,Hast du keine trübe Ahnung?,23,50,character_speech,4,2,,EREMIT.,#eremit,416.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1551,1551,1551,GerDracor/kind-der-freischuetz.xml,Zuzeiten wohl – wenn mich Max so schwermütig ansieht!,0,53,character_speech,4,2,,AGATHE.,#agathe,417.0,FEMALE,suffering,S,,1821.0,negative,emotions of suffering and empathy
+1552,1552,1552,GerDracor/kind-der-freischuetz.xml,"Es tut meinem Herzen weh, deine Heiterkeit auch nur auf Augenblicke zu verscheuchen.",0,84,character_speech,4,2,,EREMIT.,#eremit,418.0,MALE,suffering,S,,1821.0,negative,emotions of suffering and empathy
+1553,1553,1553,GerDracor/kind-der-freischuetz.xml,Dennoch kann ich dir nicht verhehlen –,99,137,character_speech,4,2,,EREMIT.,#eremit,418.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1554,1554,1554,GerDracor/kind-der-freischuetz.xml,"O sprecht, ehrwürdiger Vater!",0,29,character_speech,4,2,,AGATHE.,#agathe,419.0,FEMALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1555,1555,1555,GerDracor/kind-der-freischuetz.xml,"Was von Euch kommt, wird stets zu meinem Heil
+              dienen.",30,97,character_speech,4,2,,AGATHE.,#agathe,419.0,FEMALE,love,S,,1821.0,positive,emotions of affection
+1556,1556,1556,GerDracor/kind-der-freischuetz.xml,"Ich kenne die eigentliche Gefahr nicht, die dir und deinem Verlobten droht; doch hat
+              mich ein Gesicht besorgt gemacht.",0,132,character_speech,4,2,,EREMIT.,#eremit,420.0,MALE,fear,S,,1821.0,negative,emotions of anxiety
+1557,1557,1557,GerDracor/kind-der-freischuetz.xml,ängstlich.,0,10,stage_direction,4,2,speech_part,,#agathe,421.0,FEMALE,fear,S,,1821.0,negative,emotions of anxiety
+1558,1558,1558,GerDracor/kind-der-freischuetz.xml,Was erschien Euch?,0,18,character_speech,4,2,,AGATHE,#agathe,421.0,FEMALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1559,1559,1559,GerDracor/kind-der-freischuetz.xml,"Gesichte deuten gewöhnlich die Zukunft nur in ungewissem Halbdunkel an; auch das
+              meinige war dieser Art.",0,118,character_speech,4,2,,EREMIT.,#eremit,422.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1560,1560,1560,GerDracor/kind-der-freischuetz.xml,"Doch fühle ich mein Herz, wenn ich dich ansehe, beklommen.",119,177,character_speech,4,2,,EREMIT.,#eremit,422.0,MALE,suffering,S,,1821.0,negative,emotions of suffering and empathy
+1561,1561,1561,GerDracor/kind-der-freischuetz.xml,So laßt mein und Maxens Glück doppelt Eurem frommen Gebete empfohlen sein.,0,74,character_speech,4,2,,AGATHE.,#agathe,423.0,FEMALE,love,S,,1821.0,positive,emotions of affection
+1562,1562,1562,GerDracor/kind-der-freischuetz.xml,"Nicht
+              wahr, Ihr erfüllt diesen Wunsch?",75,127,character_speech,4,2,,AGATHE.,#agathe,423.0,FEMALE,joy,S,,1821.0,positive,emotions of pleasure
+1563,1563,1563,GerDracor/kind-der-freischuetz.xml,"Ich bin nur ein schwacher Mensch, aber meiner Fürbitte könnt ihr gewiß sein.",0,76,character_speech,4,2,,EREMIT.,#eremit,424.0,MALE,compassion,S,,1821.0,negative,emotions of suffering and empathy
+1564,1564,1564,GerDracor/kind-der-freischuetz.xml,So bin ich voll Hoffnung –,0,26,character_speech,4,2,,AGATHE.,#agathe,425.0,FEMALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1565,1565,1565,GerDracor/kind-der-freischuetz.xml,"Bewahre treu die Reinheit deines Herzens, so wird der Allmächtige dich bewahren!",0,80,character_speech,4,2,,EREMIT.,#eremit,426.0,MALE,"admiration, reverence",S,,1821.0,positive,emotions of affection
+1566,1566,1566,GerDracor/kind-der-freischuetz.xml,"Lebt denn wohl, ehrwürdiger Vater!",0,34,character_speech,4,2,,AGATHE.,#agathe,427.0,FEMALE,"admiration, reverence",S,,1821.0,positive,emotions of affection
+1567,1567,1567,GerDracor/kind-der-freischuetz.xml,und vergeßt unserer nicht in Eurer Andacht.,35,78,character_speech,4,2,,AGATHE.,#agathe,427.0,FEMALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1568,1568,1568,GerDracor/kind-der-freischuetz.xml,"Gott mit dir, meine Tochter!",0,28,character_speech,4,2,,EREMIT.,#eremit,428.0,MALE,compassion,S,,1821.0,negative,emotions of suffering and empathy
+1569,1569,1569,GerDracor/kind-der-freischuetz.xml,Agathe geht ab.,0,15,stage_direction,4,2,inner_speech,,#eremit,428.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1570,1570,1570,GerDracor/kind-der-freischuetz.xml,Er ruft ihr nach.,16,33,stage_direction,4,2,inner_speech,,#eremit,428.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1571,1571,1571,GerDracor/kind-der-freischuetz.xml,"
+              Agathe!",0,22,character_speech,4,2,,EREMIT.,#eremit,428.0,MALE,being moved,S,,1821.0,being moved,being moved
+1572,1572,1572,GerDracor/kind-der-freischuetz.xml,Habt Ihr mir noch etwas zu sagen?,0,33,character_speech,4,2,,AGATHE.,#agathe,429.0,FEMALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1573,1573,1573,GerDracor/kind-der-freischuetz.xml,"Eine innre Stimme ruft mir zu, dich heute nicht ohne Gegengabe zu entlassen.",0,76,character_speech,4,2,,EREMIT.,#eremit,430.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1574,1574,1574,GerDracor/kind-der-freischuetz.xml,"Dieser
+              Rosenstock, dessen erstes Reislein meinem Vorgänger ein Pilger aus Palästina
+              mitbrachte, ist wunderlieblich emporgewachsen.",77,235,character_speech,4,2,,EREMIT.,#eremit,430.0,MALE,joy,S,,1821.0,positive,emotions of pleasure
+1575,1575,1575,GerDracor/kind-der-freischuetz.xml,"Jeden Frühling blüht er aufs reichste;
+              ich sammle und presse die Blätter, und die Landleute schreiben dem Rosenwasser
+              wunderbare Schutz- und Heilkräfte zu.",236,419,character_speech,4,2,,EREMIT.,#eremit,430.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1576,1576,1576,GerDracor/kind-der-freischuetz.xml,"Nimm denn einige dieser Rosen als Brautgeschenk
+              meiner väterlichen Liebe!",420,507,character_speech,4,2,,EREMIT.,#eremit,430.0,MALE,love,S,,1821.0,positive,emotions of affection
+1577,1577,1577,GerDracor/kind-der-freischuetz.xml,"Er bricht Rosen ab, fügt sie in einem Strauß zusammen
+                und übergibt sie ihr am Schlusse des folgenden Zweigesangs.",0,129,stage_direction,4,2,inner_speech,,#eremit,430.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1578,1578,1578,GerDracor/kind-der-freischuetz.xml,"
+              Nimm hin des Freundes Gabe,
+              Geweihet, keusch und rein!",0,83,character_speech,4,2,,EREMIT.,#eremit,431.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1579,1579,1579,GerDracor/kind-der-freischuetz.xml,"
+              Vor aller meiner Habe
+              Soll sie mir teuer sein!",0,75,character_speech,4,2,,AGATHE.,#agathe,432.0,FEMALE,love,S,,1821.0,positive,emotions of affection
+1580,1580,1580,GerDracor/kind-der-freischuetz.xml,"
+              Wird sich die Blüte senken,
+              Sollst du dabei gedenken:
+              Was irdisch ist, vergeht!",0,122,character_speech,4,2,,EREMIT.,#eremit,433.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1581,1581,1581,GerDracor/kind-der-freischuetz.xml,"
+              Ich will der Blätter wahren,
+              Daß noch in späten Jahren
+              Erinn'rung mich umweht!",0,121,character_speech,4,2,,AGATHE.,#agathe,434.0,FEMALE,joy,S,,1821.0,positive,emotions of pleasure
+1582,1582,1582,GerDracor/kind-der-freischuetz.xml,"
+              Auch sollst du nicht vergessen:
+              Man muß die Rose pressen,
+              Eh' Heilung sie gewährt –",0,126,character_speech,4,2,,EREMIT.,#eremit,435.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1583,1583,1583,GerDracor/kind-der-freischuetz.xml,"
+              So wird zu reinern Freuden
+              Das Menschenherz durch Leiden
+              Geläutert und geklärt!",0,122,character_speech,4,2,,AGATHE.,#agathe,436.0,FEMALE,joy,S,,1821.0,positive,emotions of pleasure
+1584,1584,1584,GerDracor/kind-der-freischuetz.xml,"
+              Nimm hin des Freundes Gabe,
+              Geweihet, keusch und rein!",0,83,character_speech,4,2,,EREMIT.,#eremit,437.0,MALE,no_annotation,S,,1821.0,no_annotation,no_annotation
+1585,1585,1585,GerDracor/kind-der-freischuetz.xml,"
+              Vor aller meiner Habe
+              Soll sie mir teuer sein!",0,75,character_speech,4,2,,AGATHE.,#agathe,438.0,FEMALE,love,S,,1821.0,positive,emotions of affection
+1586,1586,1586,GerDracor/kind-der-freischuetz.xml,"Der Eremit in die Eremitenwohnung, Agathe durchs Gebüsch ab.",0,60,stage_direction,4,2,speech_part,,#agathe,438.0,FEMALE,no_annotation,S,,1821.0,no_annotation,no_annotation

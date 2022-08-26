@@ -1,0 +1,74 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+332,332,332,GerDracor/arnim-das-loch.xml,"Die Engel ziehn das Schiff am Maste gegen das Land, worin der Ritter, die Kaiserin
+            und Matrosen abfuhren.",0,117,stage_direction,2,5,pre_speech,,,,,no_annotation,S,,1811.0,no_annotation,no_annotation
+333,333,333,GerDracor/arnim-das-loch.xml,"
+              Ihr sehet nicht die hohe Hand,
+              Sie führt euch zum Rhabarberland,
+              Ihr sollt die Thiere zu Menschen erziehen,
+              Das ist ein göttlich reines Bemühen.",0,201,character_speech,2,5,,DIE ENGEL.,#die_engel,223.0,UNKNOWN,no_annotation,S,,1811.0,no_annotation,no_annotation
+334,334,334,GerDracor/arnim-das-loch.xml,"
+              Ritter, welch Wunder ich euch verkünd,
+              Es geht das Schiff heut gegen den Wind.",0,107,character_speech,2,5,,MATROSE.,#matrose,224.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+335,335,335,GerDracor/arnim-das-loch.xml,"So müßt ihr lavieren, das ist das Best'.",0,40,character_speech,2,5,,RITTER.,#der_ritter,225.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+336,336,336,GerDracor/arnim-das-loch.xml,Eine höhere Hand hält uns hier fest.,0,36,character_speech,2,5,,MATROSE.,#matrose,226.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+337,337,337,GerDracor/arnim-das-loch.xml,Wir sind verloren an dieser Küste.,0,34,character_speech,2,5,,KAISERIN.,#kaiserin,227.0,FEMALE,despair,S,,1811.0,negative,emotions of anxiety
+338,338,338,GerDracor/arnim-das-loch.xml,Die gute Sache mit Muth dich rüste.,0,35,character_speech,2,5,,RITTER.,#der_ritter,228.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+339,339,339,GerDracor/arnim-das-loch.xml,"
+              Umsonst ist unser Widerstand,
+              Uns führet eine höhre Hand.",0,86,character_speech,2,5,,MATROSEN.,#matrosen,229.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+340,340,340,GerDracor/arnim-das-loch.xml,"
+              Wir sind verloren in diesem Land,
+              Der Kaiser ist sicher von Wuth entbrannt.",0,104,character_speech,2,5,,KAISERIN.,#kaiserin,230.0,FEMALE,abhorrence,S,,1811.0,negative,emotions of rejection
+341,341,341,GerDracor/arnim-das-loch.xml,"
+              Ich schütze dich, schöne Kaiserin,
+              Mein Leben geh ich für deines hin.",0,98,character_speech,2,5,,RITTER.,#der_ritter,231.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+342,342,342,GerDracor/arnim-das-loch.xml,"
+              Ei seht doch, Herr Ritter, den Kreis von Thieren,
+              Sie halten die Krone in ihren vieren.",0,116,character_speech,2,5,,MATROSEN.,#matrosen,232.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+343,343,343,GerDracor/arnim-das-loch.xml,"
+              Gewiß war hier eine Staatsaction,
+              Rhabarber herrschet nicht mehr auf dem Thron.",0,108,character_speech,2,5,,RITTER.,#der_ritter,233.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+344,344,344,GerDracor/arnim-das-loch.xml,"
+              Als Redner bin ich hier vorgetreten,
+              Ihr guten Menschen, seyd freundlich gebeten,
+              Hier anzulegen.",0,140,character_speech,2,5,,ESEL.,#esel,234.0,UNKNOWN,no_annotation,S,,1811.0,no_annotation,no_annotation
+345,345,345,GerDracor/arnim-das-loch.xml,"Steiget ans Land,
+              Nehmet die Krone aus meiner Hand,
+              Wir fürchten, sie möchte noch endlich platzen,
+              Wenn wir drauf tappen mit unsern Tatzen.",141,322,character_speech,2,5,,ESEL.,#esel,234.0,UNKNOWN,fear,S,,1811.0,negative,emotions of anxiety
+346,346,346,GerDracor/arnim-das-loch.xml,"
+              Ich setze sie meiner Frau auf das Haupt,
+              Die ihrer Krone durch mich ward beraubt.",0,110,character_speech,2,5,,RITTER.,#der_ritter,235.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+347,347,347,GerDracor/arnim-das-loch.xml,"
+              Wir schwören euch Treue, daß alles schallt,
+              Und illuminiren den ganzen Wald,
+              Es lebe der Kaiser, die Kaiserin,
+              Wir gehorchen euch in treuem Sinn.",0,202,character_speech,2,5,,THIERE.,#thiere,236.0,UNKNOWN,"admiration, reverence",S,,1811.0,positive,emotions of affection
+348,348,348,GerDracor/arnim-das-loch.xml,"
+              Nun saget mir doch, ihr lieben Thiere,
+              Wie kommts, daß ich keine Menschen verspüre.",0,112,character_speech,2,5,,RITTER.,#der_ritter,237.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+349,349,349,GerDracor/arnim-das-loch.xml,"
+              Den Kaiser, den Kasper, die Menschen alle
+              Hat der Teufel gelockt in eine Falle;
+              Sie gingen in die Maschine hinein,
+              Der Himmel weiß, wo sie jetzt mögen seyn.",0,213,character_speech,2,5,,ESEL.,#esel,238.0,UNKNOWN,abhorrence,S,,1811.0,negative,emotions of rejection
+350,350,350,GerDracor/arnim-das-loch.xml,"
+              Ihr Freunde, nehmt die Regierungsmaschine,
+              Sie hat vernichtet alles Freie und Kühne,
+              Und werfet sie in das tiefe Meer,
+              Damit uns kein unnütz Gesetz mehr beschwer,
+              Dann leben wir hier wie im Paradies,
+              Das uns der Himmel nach Leiden verhieß.",0,324,character_speech,2,5,,RITTER.,#der_ritter,239.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+351,351,351,GerDracor/arnim-das-loch.xml,"
+              In deiner Lieb ist mein Paradies,
+              Wo mich sonst jede Freude verließ.",0,97,character_speech,2,5,,KAISERIN.,#kaiserin,240.0,FEMALE,love,S,,1811.0,positive,emotions of affection
+352,352,352,GerDracor/arnim-das-loch.xml,"Wir wollen in Lieb und Beschaulichkeit
+              Nun treiben unsere Ewigkeit.",112,193,character_speech,2,5,,KAISERIN.,#kaiserin,240.0,FEMALE,love,S,,1811.0,positive,emotions of affection
+353,353,353,GerDracor/arnim-das-loch.xml,"
+              O selige Fahrt
+              Zum Paradies,
+              Er hat uns bewahrt,
+              Der's allen verhieß.",0,126,character_speech,2,5,,MATROSEN.,#matrosen,241.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+354,354,354,GerDracor/arnim-das-loch.xml,"
+              Wie hat sich doch alles zur Freude gewendet,
+              Ihr Hörer, jetzt klatschet, das Spiel ist geendet.",0,124,character_speech,2,5,,THIERE.,#thiere,242.0,UNKNOWN,joy,S,,1811.0,positive,emotions of pleasure

@@ -1,0 +1,104 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+3441,3441,3441,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Maria.,0,6,stage_direction,5,13,pre_speech,,,,,no_annotation,S,,1774.0,no_annotation,no_annotation
+3442,3442,3442,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Lerse.,7,13,stage_direction,5,13,pre_speech,,,,,no_annotation,S,,1774.0,no_annotation,no_annotation
+3443,3443,3443,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Geh hinein und sieh, wie's steht!",0,33,character_speech,5,13,,MARIA.,#maria,1418.0,FEMALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3444,3444,3444,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Lerse ab.,0,9,stage_direction,5,13,inner_speech,,#maria,1418.0,FEMALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3445,3445,3445,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Elisabeth.,0,10,stage_direction,5,13,speech_part,,#maria,1418.0,FEMALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3446,3446,3446,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Wächter.,11,19,stage_direction,5,13,speech_part,,#maria,1418.0,FEMALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3447,3447,3447,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Gott vergelt Euch die Lieb und Treu an meinem Herrn.,0,52,character_speech,5,13,,ELISABETH.,#elisabeth,1419.0,FEMALE,"admiration, reverence",S,,1774.0,positive,emotions of affection
+3448,3448,3448,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Wächter ab.,0,11,stage_direction,5,13,inner_speech,,#elisabeth,1419.0,FEMALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3449,3449,3449,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"
+              Maria, was bringst du?",0,37,character_speech,5,13,,ELISABETH.,#elisabeth,1419.0,FEMALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3450,3450,3450,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Meines Bruders Sicherheit.,0,26,character_speech,5,13,,MARIA.,#maria,1420.0,FEMALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3451,3451,3451,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Ach, aber mein Herz ist zerrissen.",27,61,character_speech,5,13,,MARIA.,#maria,1420.0,FEMALE,suffering,S,,1774.0,negative,emotions of suffering and empathy
+3452,3452,3452,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Weislingen ist tot,
+              vergiftet von seinem Weibe.",62,123,character_speech,5,13,,MARIA.,#maria,1420.0,FEMALE,despair,S,,1774.0,negative,emotions of anxiety
+3453,3453,3453,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Mein Mann ist in Gefahr.,124,148,character_speech,5,13,,MARIA.,#maria,1420.0,FEMALE,fear,S,,1774.0,negative,emotions of anxiety
+3454,3454,3454,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Die Fürsten werden ihm zu
+              mächtig, man sagt, er sei eingeschlossen und belagert.",149,243,character_speech,5,13,,MARIA.,#maria,1420.0,FEMALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3455,3455,3455,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Glaubt dem Gerüchte nicht!,0,26,character_speech,5,13,,ELISABETH.,#elisabeth,1421.0,FEMALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3456,3456,3456,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Und laßt Götzen nichts merken.,27,57,character_speech,5,13,,ELISABETH.,#elisabeth,1421.0,FEMALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3457,3457,3457,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Wie steht's um ihn?,0,19,character_speech,5,13,,MARIA.,#maria,1422.0,FEMALE,compassion,S,,1774.0,negative,emotions of suffering and empathy
+3458,3458,3458,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Ich fürchtete, er würde deine Rückkunft nicht erleben.",0,54,character_speech,5,13,,ELISABETH.,#elisabeth,1423.0,FEMALE,fear,S,,1774.0,negative,emotions of anxiety
+3459,3459,3459,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Die Hand des Herrn liegt
+              schwer auf ihm.",55,109,character_speech,5,13,,ELISABETH.,#elisabeth,1423.0,FEMALE,suffering,S,,1774.0,negative,emotions of suffering and empathy
+3460,3460,3460,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Und Georg ist tot.,110,128,character_speech,5,13,,ELISABETH.,#elisabeth,1423.0,FEMALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3461,3461,3461,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Georg!,0,6,character_speech,5,13,,MARIA.,#maria,1424.0,FEMALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3462,3462,3462,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,der goldne Junge!,7,24,character_speech,5,13,,MARIA.,#maria,1424.0,FEMALE,joy,S,,1774.0,positive,emotions of pleasure
+3463,3463,3463,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Als die Nichtswürdigen Miltenberg verbrannten, sandte ihn sein Herr, ihnen Einhalt zu
+              tun.",0,104,character_speech,5,13,,ELISABETH.,#elisabeth,1425.0,FEMALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3464,3464,3464,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Da fiel ein Trupp Bündischer auf sie los.,105,146,character_speech,5,13,,ELISABETH.,#elisabeth,1425.0,FEMALE,anger,S,,1774.0,negative,emotions of rejection
+3465,3465,3465,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,– Georg!,147,155,character_speech,5,13,,ELISABETH.,#elisabeth,1425.0,FEMALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3466,3466,3466,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"hätten sie sich alle gehalten
+              wie er, sie hätten alle das gute Gewissen haben müssen.",156,255,character_speech,5,13,,ELISABETH.,#elisabeth,1425.0,FEMALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3467,3467,3467,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Viel wurden erstochen, und
+              Georg mit: er starb einen Reiterstod.",256,334,character_speech,5,13,,ELISABETH.,#elisabeth,1425.0,FEMALE,suffering,S,,1774.0,negative,emotions of suffering and empathy
+3468,3468,3468,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Weiß es Götz?,0,13,character_speech,5,13,,MARIA.,#maria,1426.0,FEMALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3469,3469,3469,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Wir verbergen's vor ihm.,0,24,character_speech,5,13,,ELISABETH.,#elisabeth,1427.0,FEMALE,fear,S,,1774.0,negative,emotions of anxiety
+3470,3470,3470,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Er fragt mich zehnmal des Tags, und schickt mich zehnmal des
+              Tags zu forschen, was Georg macht.",25,134,character_speech,5,13,,ELISABETH.,#elisabeth,1427.0,FEMALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3471,3471,3471,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Ich fürchte, seinem Herzen diesen letzten Stoß zu
+              geben.",135,205,character_speech,5,13,,ELISABETH.,#elisabeth,1427.0,FEMALE,fear,S,,1774.0,negative,emotions of anxiety
+3472,3472,3472,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"O Gott, was sind die Hoffnungen dieser Erden!",0,45,character_speech,5,13,,MARIA.,#maria,1428.0,FEMALE,suffering,S,,1774.0,negative,emotions of suffering and empathy
+3473,3473,3473,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Götz.,0,5,stage_direction,5,13,speech_part,,#maria,1428.0,FEMALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3474,3474,3474,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Lerse.,6,12,stage_direction,5,13,speech_part,,#maria,1428.0,FEMALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3475,3475,3475,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Wächter.,13,21,stage_direction,5,13,speech_part,,#maria,1428.0,FEMALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3476,3476,3476,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Allmächtiger Gott!,0,18,character_speech,5,13,,GÖTZ.,#goetz,1429.0,MALE,fear,S,,1774.0,negative,emotions of anxiety
+3477,3477,3477,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Wie wohl ist's einem unter deinem Himmel!,19,60,character_speech,5,13,,GÖTZ.,#goetz,1429.0,MALE,joy,S,,1774.0,positive,emotions of pleasure
+3478,3478,3478,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Wie frei!,61,70,character_speech,5,13,,GÖTZ.,#goetz,1429.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3479,3479,3479,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"– Die Bäume
+              treiben Knospen, und alle Welt hofft.",71,134,character_speech,5,13,,GÖTZ.,#goetz,1429.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3480,3480,3480,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Lebt wohl, meine Lieben; meine Wurzeln sind
+              abgehauen, meine Kraft sinkt nach dem Grabe.",135,237,character_speech,5,13,,GÖTZ.,#goetz,1429.0,MALE,suffering,S,,1774.0,negative,emotions of suffering and empathy
+3481,3481,3481,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Darf ich Lersen nach deinem Sohn ins Kloster schicken, daß du ihn noch einmal siehst
+              und segnest?",0,111,character_speech,5,13,,ELISABETH.,#elisabeth,1430.0,FEMALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3482,3482,3482,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Laß ihn, er ist heiliger als ich, er braucht meinen Segen nicht.",0,64,character_speech,5,13,,GÖTZ.,#goetz,1431.0,MALE,"admiration, reverence",S,,1774.0,positive,emotions of affection
+3483,3483,3483,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"– An unserm
+              Hochzeittag, Elisabeth, ahndete mir's nicht, daß ich so sterben würde.",65,161,character_speech,5,13,,GÖTZ.,#goetz,1431.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3484,3484,3484,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"– Mein alter
+              Vater segnete uns, und eine Nachkommenschaft von edeln tapfern Söhnen quoll aus seinem
+              Gebet.",162,296,character_speech,5,13,,GÖTZ.,#goetz,1431.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3485,3485,3485,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"– Du hast ihn nicht erhört, und ich bin der Letzte.",297,348,character_speech,5,13,,GÖTZ.,#goetz,1431.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3486,3486,3486,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"– Lerse, dein Angesicht
+              freut mich in der Stunde des Todes mehr als im mutigsten Gefecht.",349,452,character_speech,5,13,,GÖTZ.,#goetz,1431.0,MALE,joy,S,,1774.0,positive,emotions of pleasure
+3487,3487,3487,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Damals führte mein
+              Geist den eurigen, jetzt hältst du mich aufrecht.",453,535,character_speech,5,13,,GÖTZ.,#goetz,1431.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3488,3488,3488,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Ach daß ich Georgen noch einmal
+              sähe, mich an seinem Blick wärmte!",536,616,character_speech,5,13,,GÖTZ.,#goetz,1431.0,MALE,love,S,,1774.0,positive,emotions of affection
+3489,3489,3489,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"– Ihr seht zur Erden und weint – Er ist tot – Georg
+              ist tot.",617,691,character_speech,5,13,,GÖTZ.,#goetz,1431.0,MALE,despair,S,,1774.0,negative,emotions of anxiety
+3490,3490,3490,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"– Stirb, Götz – Du hast dich selbst überlebt, die Edeln überlebt.",692,757,character_speech,5,13,,GÖTZ.,#goetz,1431.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3491,3491,3491,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"– Wie starb
+              er?",758,787,character_speech,5,13,,GÖTZ.,#goetz,1431.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3492,3492,3492,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"– Ach, fingen sie ihn unter den Mordbrennern, und er ist hingerichtet?",788,858,character_speech,5,13,,GÖTZ.,#goetz,1431.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3493,3493,3493,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Nein, er wurde bei Miltenberg erstochen.",0,40,character_speech,5,13,,ELISABETH.,#elisabeth,1432.0,FEMALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3494,3494,3494,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Er wehrte sich wie ein Löw um seine
+              Freiheit.",41,100,character_speech,5,13,,ELISABETH.,#elisabeth,1432.0,FEMALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3495,3495,3495,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Gott sei Dank!,0,14,character_speech,5,13,,GÖTZ.,#goetz,1433.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3496,3496,3496,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Er war der beste Junge unter der Sonne und tapfer.,15,65,character_speech,5,13,,GÖTZ.,#goetz,1433.0,MALE,"admiration, reverence",S,,1774.0,positive,emotions of affection
+3497,3497,3497,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"– Löse meine Seele
+              nun.",66,103,character_speech,5,13,,GÖTZ.,#goetz,1433.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3498,3498,3498,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,– Arme Frau.,104,116,character_speech,5,13,,GÖTZ.,#goetz,1433.0,MALE,compassion,S,,1774.0,negative,emotions of suffering and empathy
+3499,3499,3499,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Ich lasse dich in einer verderbten Welt.,117,157,character_speech,5,13,,GÖTZ.,#goetz,1433.0,MALE,suffering,S,,1774.0,negative,emotions of suffering and empathy
+3500,3500,3500,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Lerse, verlaß sie nicht.",158,182,character_speech,5,13,,GÖTZ.,#goetz,1433.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3501,3501,3501,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"–
+              Schließt eure Herzen sorgfältiger als eure Tore.",183,247,character_speech,5,13,,GÖTZ.,#goetz,1433.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3502,3502,3502,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Es kommen die Zeiten des Betrugs, es
+              ist ihm Freiheit gegeben.",248,324,character_speech,5,13,,GÖTZ.,#goetz,1433.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3503,3503,3503,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Die Nichtswürdigen werden regieren mit List, und der Edle
+              wird in ihre Netze fallen.",325,423,character_speech,5,13,,GÖTZ.,#goetz,1433.0,MALE,abhorrence,S,,1774.0,negative,emotions of rejection
+3504,3504,3504,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Marie, gebe dir Gott deinen Mann wieder!",424,464,character_speech,5,13,,GÖTZ.,#goetz,1433.0,MALE,joy,S,,1774.0,positive,emotions of pleasure
+3505,3505,3505,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Möge er nicht so
+              tief fallen, als er hoch gestiegen ist!",465,535,character_speech,5,13,,GÖTZ.,#goetz,1433.0,MALE,abhorrence,S,,1774.0,negative,emotions of rejection
+3506,3506,3506,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Selbitz starb, und der gute Kaiser, und mein
+              Georg.",536,601,character_speech,5,13,,GÖTZ.,#goetz,1433.0,MALE,suffering,S,,1774.0,negative,emotions of suffering and empathy
+3507,3507,3507,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,– Gebt mir einen Trunk Wasser!,602,632,character_speech,5,13,,GÖTZ.,#goetz,1433.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3508,3508,3508,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,– Himmlische Luft – Freiheit!,633,662,character_speech,5,13,,GÖTZ.,#goetz,1433.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3509,3509,3509,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Freiheit!,663,672,character_speech,5,13,,GÖTZ.,#goetz,1433.0,MALE,being moved,S,,1774.0,being moved,being moved
+3510,3510,3510,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Er stirbt.,0,10,stage_direction,5,13,inner_speech,,#goetz,1433.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3511,3511,3511,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Nur droben, droben bei dir.",0,27,character_speech,5,13,,ELISABETH.,#elisabeth,1434.0,FEMALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+3512,3512,3512,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Die Welt ist ein Gefängnis.,28,55,character_speech,5,13,,ELISABETH.,#elisabeth,1434.0,FEMALE,abhorrence,S,,1774.0,negative,emotions of rejection
+3513,3513,3513,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Edler Mann!,0,11,character_speech,5,13,,MARIA.,#maria,1435.0,FEMALE,"admiration, reverence",S,,1774.0,positive,emotions of affection
+3514,3514,3514,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,Edler Mann!,12,23,character_speech,5,13,,MARIA.,#maria,1435.0,FEMALE,"admiration, reverence",S,,1774.0,positive,emotions of affection
+3515,3515,3515,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Wehe dem Jahrhundert, das dich von sich stieß!",24,70,character_speech,5,13,,MARIA.,#maria,1435.0,FEMALE,abhorrence,S,,1774.0,negative,emotions of rejection
+3516,3516,3516,GerDracor/goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,"Wehe der Nachkommenschaft, die dich verkennt!",0,45,character_speech,5,13,,LERSE.,#lerse,1436.0,MALE,abhorrence,S,,1774.0,negative,emotions of rejection

@@ -1,0 +1,232 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+961,961,961,GerDracor/bretzner-belmont-und-constanze.xml,Zimmer des Bassa.,0,17,stage_direction,3,6,pre_speech,,,,,no_annotation,S,,1781.0,no_annotation,no_annotation
+962,962,962,GerDracor/bretzner-belmont-und-constanze.xml,"Selim mit Gefolge, hernach Osmin, Belmonte, Konstanze, Pedrillo, Blonde, und
+            Wache.",0,95,stage_direction,3,6,pre_speech,,,,,no_annotation,S,,1781.0,no_annotation,no_annotation
+963,963,963,GerDracor/bretzner-belmont-und-constanze.xml,zu einem seiner Officiere.,0,26,stage_direction,3,6,speech_part,,#selim,354.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+964,964,964,GerDracor/bretzner-belmont-und-constanze.xml,"Geht, unterrichtet Euch, was der Lärm im Palast bedeutet; er hat uns im Schlaf
+              aufgeschreckt, und laßt mir Osmin kommen.",0,134,character_speech,3,6,,SELIM,#selim,354.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+965,965,965,GerDracor/bretzner-belmont-und-constanze.xml,"Der Officier will abgehen, indem kommt Osmin zwar hastig, doch noch ein wenig
+              schläfrig.",0,102,stage_direction,3,6,speech_part,,#selim,354.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+966,966,966,GerDracor/bretzner-belmont-und-constanze.xml,Herr!,0,5,character_speech,3,6,,OSMIN.,#osmin,355.0,MALE,anger,S,,1781.0,negative,emotions of rejection
+967,967,967,GerDracor/bretzner-belmont-und-constanze.xml,"– Verzeih, daß ich es so früh wage – deine Ruhe zu stören.",6,64,character_speech,3,6,,OSMIN.,#osmin,355.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+968,968,968,GerDracor/bretzner-belmont-und-constanze.xml,"Was giebts, Osmin, was giebts?",0,30,character_speech,3,6,,SELIM.,#selim,356.0,MALE,being moved,S,,1781.0,being moved,being moved
+969,969,969,GerDracor/bretzner-belmont-und-constanze.xml,Was bedeutet der Aufruhr?,31,56,character_speech,3,6,,SELIM.,#selim,356.0,MALE,being moved,S,,1781.0,being moved,being moved
+970,970,970,GerDracor/bretzner-belmont-und-constanze.xml,"Herr, es ist die schändlichste Verrätherey in deinem Palast –",0,61,character_speech,3,6,,OSMIN.,#osmin,357.0,MALE,abhorrence,S,,1781.0,negative,emotions of rejection
+971,971,971,GerDracor/bretzner-belmont-und-constanze.xml,Verrätherey?,0,12,character_speech,3,6,,SELIM.,#selim,358.0,MALE,being moved,S,,1781.0,being moved,being moved
+972,972,972,GerDracor/bretzner-belmont-und-constanze.xml,Die niederträchtigen Christensklaven entführen uns – die Weiber.,0,64,character_speech,3,6,,OSMIN.,#osmin,359.0,MALE,abhorrence,S,,1781.0,negative,emotions of rejection
+973,973,973,GerDracor/bretzner-belmont-und-constanze.xml,"Der große
+              Baumeister, den du gestern auf Zureden des Verrathers  Pedrillo aufnahmst,
+              hat deine – schöne Konstanze entführt.",65,216,character_speech,3,6,,OSMIN.,#osmin,359.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+974,974,974,GerDracor/bretzner-belmont-und-constanze.xml,Konstanze?,0,10,character_speech,3,6,,SELIM.,#selim,360.0,MALE,being moved,S,,1781.0,being moved,being moved
+975,975,975,GerDracor/bretzner-belmont-und-constanze.xml,entführt?,11,20,character_speech,3,6,,SELIM.,#selim,360.0,MALE,being moved,S,,1781.0,being moved,being moved
+976,976,976,GerDracor/bretzner-belmont-und-constanze.xml,"Ah, setzt ihnen nach!",21,42,character_speech,3,6,,SELIM.,#selim,360.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+977,977,977,GerDracor/bretzner-belmont-und-constanze.xml,O 's ist schon dafür gesorgt!,0,29,character_speech,3,6,,OSMIN.,#osmin,361.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+978,978,978,GerDracor/bretzner-belmont-und-constanze.xml,"Meiner Wachsamkeit – hast du es zu danken, daß ich sie
+              wieder beym Schopfe gekriegt habe.",30,133,character_speech,3,6,,OSMIN.,#osmin,361.0,MALE,joy,S,,1781.0,positive,emotions of pleasure
+979,979,979,GerDracor/bretzner-belmont-und-constanze.xml,"Auch mir selbst hatte der – spitzbübische Pedrillo
+              eine gleiche Ehre zugedacht, und er hatte mein Blondgen schon beym Kopfe, um mit ihr –
+              in alle Welt zu reisen – Aber Gift und Dolch!",134,345,character_speech,3,6,,OSMIN.,#osmin,361.0,MALE,abhorrence,S,,1781.0,negative,emotions of rejection
+980,980,980,GerDracor/bretzner-belmont-und-constanze.xml,er soll mirs entgelten!,346,369,character_speech,3,6,,OSMIN.,#osmin,361.0,MALE,anger,S,,1781.0,negative,emotions of rejection
+981,981,981,GerDracor/bretzner-belmont-und-constanze.xml,"– Sieh, da
+              bringen sie sie!",370,411,character_speech,3,6,,OSMIN.,#osmin,361.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+982,982,982,GerDracor/bretzner-belmont-und-constanze.xml,Belmonte und Constanze werden von der Wache hereingeführt.,0,58,stage_direction,3,6,speech_part,,#osmin,361.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+983,983,983,GerDracor/bretzner-belmont-und-constanze.xml,"Ah, Verräther!",0,14,character_speech,3,6,,SELIM.,#selim,362.0,MALE,abhorrence,S,,1781.0,negative,emotions of rejection
+984,984,984,GerDracor/bretzner-belmont-und-constanze.xml,"Wagt ihr's, vor meine Augen zu kommen?",15,53,character_speech,3,6,,SELIM.,#selim,362.0,MALE,fear,S,,1781.0,negative,emotions of anxiety
+985,985,985,GerDracor/bretzner-belmont-und-constanze.xml,"– Ha, du heuchlerische Sirene?",54,84,character_speech,3,6,,SELIM.,#selim,362.0,MALE,abhorrence,S,,1781.0,negative,emotions of rejection
+986,986,986,GerDracor/bretzner-belmont-und-constanze.xml,"War das der Aufschub, den du begehrtest?",99,139,character_speech,3,6,,SELIM.,#selim,362.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+987,987,987,GerDracor/bretzner-belmont-und-constanze.xml,"Mißbrauchtest du so die Nachsicht, die ich
+              dir gab, um mich zu hintergehen?",140,229,character_speech,3,6,,SELIM.,#selim,362.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+988,988,988,GerDracor/bretzner-belmont-und-constanze.xml,"Ich bin strafbar in deinen Augen, Herr, es ist wahr: aber er ist mein Geliebter, mein
+              einziger Geliebter, dem lang schon dieses Herz gehört.",0,154,character_speech,3,6,,KONSTANZE.,#constanze,363.0,FEMALE,love,S,,1781.0,positive,emotions of affection
+989,989,989,GerDracor/bretzner-belmont-und-constanze.xml,"O nur für ihn, nur um
+              seinetwillen fleht' ich Aufschub.",155,224,character_speech,3,6,,KONSTANZE.,#constanze,363.0,FEMALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+990,990,990,GerDracor/bretzner-belmont-und-constanze.xml,– O laß mich sterben!,225,246,character_speech,3,6,,KONSTANZE.,#constanze,363.0,FEMALE,despair,S,,1781.0,negative,emotions of anxiety
+991,991,991,GerDracor/bretzner-belmont-und-constanze.xml,"Gern, gern will ich den Tod
+              erdulden: aber schone nur sein Leben –",247,327,character_speech,3,6,,KONSTANZE.,#constanze,363.0,FEMALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+992,992,992,GerDracor/bretzner-belmont-und-constanze.xml,"Und du wagst's, Unverschämte, für ihn zu bitten?",0,48,character_speech,3,6,,SELIM.,#selim,364.0,MALE,anger,S,,1781.0,negative,emotions of rejection
+993,993,993,GerDracor/bretzner-belmont-und-constanze.xml,Noch mehr: für ihn zu sterben!,0,30,character_speech,3,6,,KONSTANZE.,#constanze,365.0,FEMALE,abhorrence,S,,1781.0,negative,emotions of rejection
+994,994,994,GerDracor/bretzner-belmont-und-constanze.xml,"Ha, Bassa!",0,10,character_speech,3,6,,BELMONTE.,#belmonte,366.0,MALE,joy,S,,1781.0,positive,emotions of pleasure
+995,995,995,GerDracor/bretzner-belmont-und-constanze.xml,"Noch nie erniedrigte ich mich zum Bitten, noch nie hat dieses Knie sich
+              vor einem Menschen gebeugt: aber sieh, hier lieg ich zu deinen Füßen; und gerne will
+              ich sterben, nur schone Konstanzen!",11,231,character_speech,3,6,,BELMONTE.,#belmonte,366.0,MALE,"admiration, reverence",S,,1781.0,positive,emotions of affection
+996,996,996,GerDracor/bretzner-belmont-und-constanze.xml,"Nein, hör ihn nicht, Bassa, hör ihn nicht: die Liebe macht ihn blind; er weiß nicht,
+              was er spricht.",0,114,character_speech,3,6,,KONSTANZE.,#constanze,367.0,FEMALE,love,S,,1781.0,positive,emotions of affection
+997,997,997,GerDracor/bretzner-belmont-und-constanze.xml,"Mich allein laß deinen Zorn empfinden, mich allein sterben.",115,174,character_speech,3,6,,KONSTANZE.,#constanze,367.0,FEMALE,anger,S,,1781.0,negative,emotions of rejection
+998,998,998,GerDracor/bretzner-belmont-und-constanze.xml,"Nein, Konstanze, nein!",0,22,character_speech,3,6,,BELMONTE.,#belmonte,368.0,MALE,being moved,S,,1781.0,being moved,being moved
+999,999,999,GerDracor/bretzner-belmont-und-constanze.xml,Nur ich habe den Tod verdient; nur ich sterbe –,23,70,character_speech,3,6,,BELMONTE.,#belmonte,368.0,MALE,despair,S,,1781.0,negative,emotions of anxiety
+1000,1000,1000,GerDracor/bretzner-belmont-und-constanze.xml,"Schweigt, Unglückliche, schweigt!",0,33,character_speech,3,6,,SELIM.,#selim,369.0,MALE,suffering,S,,1781.0,negative,emotions of suffering and empathy
+1001,1001,1001,GerDracor/bretzner-belmont-und-constanze.xml,ihr sollt beyde sterben.,34,58,character_speech,3,6,,SELIM.,#selim,369.0,MALE,abhorrence,S,,1781.0,negative,emotions of rejection
+1002,1002,1002,GerDracor/bretzner-belmont-und-constanze.xml,O wie glücklich!,0,16,character_speech,3,6,,KONSTANZE.,#constanze,370.0,FEMALE,joy,S,,1781.0,positive,emotions of pleasure
+1003,1003,1003,GerDracor/bretzner-belmont-und-constanze.xml,– O mein Geliebter!,17,36,character_speech,3,6,,KONSTANZE.,#constanze,370.0,FEMALE,love,S,,1781.0,positive,emotions of affection
+1004,1004,1004,GerDracor/bretzner-belmont-und-constanze.xml,man will uns nicht trennen.,37,64,character_speech,3,6,,KONSTANZE.,#constanze,370.0,FEMALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1005,1005,1005,GerDracor/bretzner-belmont-und-constanze.xml,"Ach, in deinen Armen
+              zu sterben, welche Wonne!",65,125,character_speech,3,6,,KONSTANZE.,#constanze,370.0,FEMALE,joy,S,,1781.0,positive,emotions of pleasure
+1006,1006,1006,GerDracor/bretzner-belmont-und-constanze.xml,Duett.,0,6,stage_direction,3,6,speech_part,,#constanze,370.0,FEMALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1007,1007,1007,GerDracor/bretzner-belmont-und-constanze.xml,"
+              Ach, von deinem Arm umschlungen,
+              Todesengel, sey willkommen!",0,89,character_speech,3,6,,KONSTANZE UND BELMONTE.,#constanze #belmonte,371.0,UNKNOWN,despair,S,,1781.0,negative,emotions of anxiety
+1008,1008,1008,GerDracor/bretzner-belmont-und-constanze.xml,Lächelnd sink' ich in das Grab.,104,135,character_speech,3,6,,KONSTANZE UND BELMONTE.,#constanze #belmonte,371.0,UNKNOWN,joy,S,,1781.0,positive,emotions of pleasure
+1009,1009,1009,GerDracor/bretzner-belmont-und-constanze.xml,O wie selig!,0,12,character_speech,3,6,,KONSTANZE.,#constanze,372.0,FEMALE,joy,S,,1781.0,positive,emotions of pleasure
+1010,1010,1010,GerDracor/bretzner-belmont-und-constanze.xml,O wie glücklich!,0,16,character_speech,3,6,,BELMONTE.,#belmonte,373.0,MALE,joy,S,,1781.0,positive,emotions of pleasure
+1011,1011,1011,GerDracor/bretzner-belmont-und-constanze.xml,"Am elysischen Gestade,",0,22,character_speech,3,6,,KONSTANZE.,#constanze,374.0,FEMALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1012,1012,1012,GerDracor/bretzner-belmont-und-constanze.xml,Auf dem nie betretnen Pfade,0,27,character_speech,3,6,,BELMONTE.,#belmonte,375.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1013,1013,1013,GerDracor/bretzner-belmont-und-constanze.xml,Mich mit dir vereint zu sehn!,0,29,character_speech,3,6,,BEIDE.,#constanze #belmonte,376.0,UNKNOWN,joy,S,,1781.0,positive,emotions of pleasure
+1014,1014,1014,GerDracor/bretzner-belmont-und-constanze.xml,Welche Freude!,0,14,character_speech,3,6,,KONSTANZE.,#constanze,377.0,FEMALE,joy,S,,1781.0,positive,emotions of pleasure
+1015,1015,1015,GerDracor/bretzner-belmont-und-constanze.xml,Welche Wonne!,0,13,character_speech,3,6,,BELMONTE.,#belmonte,378.0,MALE,joy,S,,1781.0,positive,emotions of pleasure
+1016,1016,1016,GerDracor/bretzner-belmont-und-constanze.xml,"An dem ruhevollen Strande,",0,26,character_speech,3,6,,KONSTANZE.,#constanze,379.0,FEMALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1017,1017,1017,GerDracor/bretzner-belmont-und-constanze.xml,"In dem unbekannten Lande,",0,25,character_speech,3,6,,BELMONTE.,#belmonte,380.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1018,1018,1018,GerDracor/bretzner-belmont-und-constanze.xml,Mich an deiner Hand zu sehn!,0,28,character_speech,3,6,,BEIDE.,#constanze #belmonte,381.0,UNKNOWN,love,S,,1781.0,positive,emotions of affection
+1019,1019,1019,GerDracor/bretzner-belmont-und-constanze.xml,O wie selig!,0,12,character_speech,3,6,,KONSTANZE.,#constanze,382.0,FEMALE,joy,S,,1781.0,positive,emotions of pleasure
+1020,1020,1020,GerDracor/bretzner-belmont-und-constanze.xml,O wie glücklich!,0,16,character_speech,3,6,,BELMONTE.,#belmonte,383.0,MALE,joy,S,,1781.0,positive,emotions of pleasure
+1021,1021,1021,GerDracor/bretzner-belmont-und-constanze.xml,Mein Geliebter!,0,15,character_speech,3,6,,KONSTANZE.,#constanze,384.0,FEMALE,love,S,,1781.0,positive,emotions of affection
+1022,1022,1022,GerDracor/bretzner-belmont-und-constanze.xml,"Ach, Geliebte!",0,14,character_speech,3,6,,BELMONTE.,#belmonte,385.0,MALE,suffering,S,,1781.0,negative,emotions of suffering and empathy
+1023,1023,1023,GerDracor/bretzner-belmont-und-constanze.xml,Lächelnd sink' ich in das Grab!,0,31,character_speech,3,6,,BEIDE.,#constanze #belmonte,386.0,UNKNOWN,joy,S,,1781.0,positive,emotions of pleasure
+1024,1024,1024,GerDracor/bretzner-belmont-und-constanze.xml,bey Seite.,0,10,stage_direction,3,6,speech_part,,#selim,387.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1025,1025,1025,GerDracor/bretzner-belmont-und-constanze.xml,"Fast rührt mich so viel Liebe, so viel Bestandigkeit.",0,53,character_speech,3,6,,SELIM,#selim,387.0,MALE,love,S,,1781.0,positive,emotions of affection
+1026,1026,1026,GerDracor/bretzner-belmont-und-constanze.xml,"Ach, Herr!",0,10,character_speech,3,6,,OSMIN.,#osmin,388.0,MALE,suffering,S,,1781.0,negative,emotions of suffering and empathy
+1027,1027,1027,GerDracor/bretzner-belmont-und-constanze.xml,kannst du das sehen?,11,31,character_speech,3,6,,OSMIN.,#osmin,388.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1028,1028,1028,GerDracor/bretzner-belmont-und-constanze.xml,"zugeben, daß sie da vor deinen Augen – Ha, Gift und
+              Dolch!",32,104,character_speech,3,6,,OSMIN.,#osmin,388.0,MALE,abhorrence,S,,1781.0,negative,emotions of rejection
+1029,1029,1029,GerDracor/bretzner-belmont-und-constanze.xml,Die Wuth läßt mich nicht reden.,105,136,character_speech,3,6,,OSMIN.,#osmin,388.0,MALE,anger,S,,1781.0,negative,emotions of rejection
+1030,1030,1030,GerDracor/bretzner-belmont-und-constanze.xml,– Ah!,137,142,character_speech,3,6,,OSMIN.,#osmin,388.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1031,1031,1031,GerDracor/bretzner-belmont-und-constanze.xml,"da kommt auch das zärtliche Pärchen, das
+              auch mir so einen Streich gespielt hat.",143,237,character_speech,3,6,,OSMIN.,#osmin,388.0,MALE,love,S,,1781.0,positive,emotions of affection
+1032,1032,1032,GerDracor/bretzner-belmont-und-constanze.xml,"– Ach, könnt' ich dich mit den Augen tödten,
+              heimtückscher Verrather!",238,321,character_speech,3,6,,OSMIN.,#osmin,388.0,MALE,abhorrence,S,,1781.0,negative,emotions of rejection
+1033,1033,1033,GerDracor/bretzner-belmont-und-constanze.xml,Die Wache bringt Pedrillo und Blonden ebenfalls gefesselt.,0,58,stage_direction,3,6,speech_part,,#osmin,388.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1034,1034,1034,GerDracor/bretzner-belmont-und-constanze.xml,dem Bassa zu Füßen.,0,19,stage_direction,3,6,speech_part,,#pedrillo,389.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1035,1035,1035,GerDracor/bretzner-belmont-und-constanze.xml,Großer Bassa!,0,13,character_speech,3,6,,PEDRILLO,#pedrillo,389.0,MALE,"admiration, reverence",S,,1781.0,positive,emotions of affection
+1036,1036,1036,GerDracor/bretzner-belmont-und-constanze.xml,"Vergieb, wenns möglich ist, daß wirs wagten, ohne Abschied davon zu
+              gehen.",14,102,character_speech,3,6,,PEDRILLO,#pedrillo,389.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1037,1037,1037,GerDracor/bretzner-belmont-und-constanze.xml,Die Liebe ist an der ganzen Affaire schuld.,103,146,character_speech,3,6,,PEDRILLO,#pedrillo,389.0,MALE,love,S,,1781.0,positive,emotions of affection
+1038,1038,1038,GerDracor/bretzner-belmont-und-constanze.xml,"Das liebe Mädchen hier ist eine
+              alte Bekanntschaft aus Spanien: unsere Ehe war so gut als richtig; und wenn wir
+              glücklich dazumal nach Cadix gekommen wären, wir wären, längst Mann und Frau.",147,364,character_speech,3,6,,PEDRILLO,#pedrillo,389.0,MALE,friendship,S,,1781.0,positive,emotions of affection
+1039,1039,1039,GerDracor/bretzner-belmont-und-constanze.xml,"Das
+              Heimweh kam ihr und mir in Kopf; der alte Grisgram quälte sie Tag und Nacht –",365,460,character_speech,3,6,,PEDRILLO,#pedrillo,389.0,MALE,suffering,S,,1781.0,negative,emotions of suffering and empathy
+1040,1040,1040,GerDracor/bretzner-belmont-und-constanze.xml,"Schweig, Verräther, und reize meinen Zorn nicht noch mehr!",0,58,character_speech,3,6,,SELIM.,#selim,390.0,MALE,anger,S,,1781.0,negative,emotions of rejection
+1041,1041,1041,GerDracor/bretzner-belmont-und-constanze.xml,– Osmin!,59,67,character_speech,3,6,,SELIM.,#selim,390.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1042,1042,1042,GerDracor/bretzner-belmont-und-constanze.xml,"Man erdroßle sie
+              zugleich!",68,108,character_speech,3,6,,SELIM.,#selim,390.0,MALE,suffering,S,,1781.0,negative,emotions of suffering and empathy
+1043,1043,1043,GerDracor/bretzner-belmont-und-constanze.xml,O mit tausend Freuden!,0,22,character_speech,3,6,,OSMIN.,#osmin,391.0,MALE,joy,S,,1781.0,positive,emotions of pleasure
+1044,1044,1044,GerDracor/bretzner-belmont-und-constanze.xml,Einige Türken mit seidenen Stricken nähern sich ihnen.,0,54,stage_direction,3,6,speech_part,,#osmin,391.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1045,1045,1045,GerDracor/bretzner-belmont-und-constanze.xml,Ach liebes Mädchen!,0,19,character_speech,3,6,,PEDRILLO.,#pedrillo,392.0,MALE,love,S,,1781.0,positive,emotions of affection
+1046,1046,1046,GerDracor/bretzner-belmont-und-constanze.xml,wer hätte das gedacht!,20,42,character_speech,3,6,,PEDRILLO.,#pedrillo,392.0,MALE,joy,S,,1781.0,positive,emotions of pleasure
+1047,1047,1047,GerDracor/bretzner-belmont-und-constanze.xml,Unglücklicher Tag!,0,18,character_speech,3,6,,BLONDE.,#blonde,393.0,FEMALE,suffering,S,,1781.0,negative,emotions of suffering and empathy
+1048,1048,1048,GerDracor/bretzner-belmont-und-constanze.xml,unglückliches Mädchen!,19,41,character_speech,3,6,,BLONDE.,#blonde,393.0,FEMALE,suffering,S,,1781.0,negative,emotions of suffering and empathy
+1049,1049,1049,GerDracor/bretzner-belmont-und-constanze.xml,Einander im Arm.,0,16,stage_direction,3,6,speech_part,,#blonde,393.0,FEMALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1050,1050,1050,GerDracor/bretzner-belmont-und-constanze.xml,"Ach, meine Konstanze!",0,21,character_speech,3,6,,BELMONTE.,#belmonte,394.0,MALE,suffering,S,,1781.0,negative,emotions of suffering and empathy
+1051,1051,1051,GerDracor/bretzner-belmont-und-constanze.xml,O mein Belmonte!,0,16,character_speech,3,6,,KONSTANZE.,#constanze,395.0,FEMALE,suffering,S,,1781.0,negative,emotions of suffering and empathy
+1052,1052,1052,GerDracor/bretzner-belmont-und-constanze.xml,Belmonte sagst du?,0,18,character_speech,3,6,,SELIM.,#selim,396.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1053,1053,1053,GerDracor/bretzner-belmont-und-constanze.xml,– Ist das dein Name?,19,39,character_speech,3,6,,SELIM.,#selim,396.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1054,1054,1054,GerDracor/bretzner-belmont-und-constanze.xml,O daß ers nicht wäre!,0,21,character_speech,3,6,,BELMONTE.,#belmonte,397.0,MALE,suffering,S,,1781.0,negative,emotions of suffering and empathy
+1055,1055,1055,GerDracor/bretzner-belmont-und-constanze.xml,Belmonte!,0,9,character_speech,3,6,,SELIM.,#selim,398.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1056,1056,1056,GerDracor/bretzner-belmont-und-constanze.xml,Belmonte?,10,19,character_speech,3,6,,SELIM.,#selim,398.0,MALE,being moved,S,,1781.0,being moved,being moved
+1057,1057,1057,GerDracor/bretzner-belmont-und-constanze.xml,Der unglückliche Belmonte!,0,26,character_speech,3,6,,BELMONTE.,#belmonte,399.0,MALE,compassion,S,,1781.0,negative,emotions of suffering and empathy
+1058,1058,1058,GerDracor/bretzner-belmont-und-constanze.xml,Ein Ball des Unglücks von Jugend auf.,27,64,character_speech,3,6,,BELMONTE.,#belmonte,399.0,MALE,suffering,S,,1781.0,negative,emotions of suffering and empathy
+1059,1059,1059,GerDracor/bretzner-belmont-und-constanze.xml,"– Ohne Vater, ohne
+              Freund –",65,106,character_speech,3,6,,BELMONTE.,#belmonte,399.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1060,1060,1060,GerDracor/bretzner-belmont-und-constanze.xml,für sich.,0,9,stage_direction,3,6,speech_part,,#selim,400.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1061,1061,1061,GerDracor/bretzner-belmont-und-constanze.xml,Gott!,0,5,character_speech,3,6,,SELIM,#selim,400.0,MALE,being moved,S,,1781.0,being moved,being moved
+1062,1062,1062,GerDracor/bretzner-belmont-und-constanze.xml,wär es möglich?,6,21,character_speech,3,6,,SELIM,#selim,400.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1063,1063,1063,GerDracor/bretzner-belmont-und-constanze.xml,Laut.,0,5,stage_direction,3,6,inner_speech,,#selim,400.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1064,1064,1064,GerDracor/bretzner-belmont-und-constanze.xml," Sag, sag junger Mann, wie heißt deine
+              Vaterstadt?",0,64,character_speech,3,6,,SELIM,#selim,400.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1065,1065,1065,GerDracor/bretzner-belmont-und-constanze.xml,Toledo.,0,7,character_speech,3,6,,BELMONTE.,#belmonte,401.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1066,1066,1066,GerDracor/bretzner-belmont-und-constanze.xml,Und wer war dein Vater?,0,23,character_speech,3,6,,SELIM.,#selim,402.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1067,1067,1067,GerDracor/bretzner-belmont-und-constanze.xml,Don Carlos Belmonte; der mich als ein Kind von vier Jahren in das Kloster St.,0,77,character_speech,3,6,,BELMONTE.,#belmonte,403.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1068,1068,1068,GerDracor/bretzner-belmont-und-constanze.xml,Sebastian überbrachte –,92,115,character_speech,3,6,,BELMONTE.,#belmonte,403.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1069,1069,1069,GerDracor/bretzner-belmont-und-constanze.xml,"Ach Gott, er ists!",0,18,character_speech,3,6,,SELIM.,#selim,404.0,MALE,joy,S,,1781.0,positive,emotions of pleasure
+1070,1070,1070,GerDracor/bretzner-belmont-und-constanze.xml,"Mein Sohn, mein Sohn!",19,40,character_speech,3,6,,SELIM.,#selim,404.0,MALE,joy,S,,1781.0,positive,emotions of pleasure
+1071,1071,1071,GerDracor/bretzner-belmont-und-constanze.xml,Du bist mein Sohn; ich bin dein Vater.,41,79,character_speech,3,6,,SELIM.,#selim,404.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1072,1072,1072,GerDracor/bretzner-belmont-und-constanze.xml,Mein Vater?,0,11,character_speech,3,6,,BELMONTE.,#belmonte,405.0,MALE,being moved,S,,1781.0,being moved,being moved
+1073,1073,1073,GerDracor/bretzner-belmont-und-constanze.xml,mein Vater?,12,23,character_speech,3,6,,BELMONTE.,#belmonte,405.0,MALE,being moved,S,,1781.0,being moved,being moved
+1074,1074,1074,GerDracor/bretzner-belmont-und-constanze.xml,Dein unglücklicher Vater!,0,25,character_speech,3,6,,SELIM.,#selim,406.0,MALE,compassion,S,,1781.0,negative,emotions of suffering and empathy
+1075,1075,1075,GerDracor/bretzner-belmont-und-constanze.xml,Komm in meine Arme!,26,45,character_speech,3,6,,SELIM.,#selim,406.0,MALE,love,S,,1781.0,positive,emotions of affection
+1076,1076,1076,GerDracor/bretzner-belmont-und-constanze.xml,"Wie viele vergebliche Nachforschungen
+              hab' ich deinetwegen angestellt; wie viele Thränen  um dich vergossen!",46,168,character_speech,3,6,,SELIM.,#selim,406.0,MALE,compassion,S,,1781.0,negative,emotions of suffering and empathy
+1077,1077,1077,GerDracor/bretzner-belmont-und-constanze.xml,"– O
+              daß mich ein unbesonnener Augenblick zu dem Schritte verleitete – Doch jetzt nichts
+              hiervon; jetzt bin ich blos der glückliche Vater.",169,334,character_speech,3,6,,SELIM.,#selim,406.0,MALE,joy,S,,1781.0,positive,emotions of pleasure
+1078,1078,1078,GerDracor/bretzner-belmont-und-constanze.xml,"O mein Vater, mein Vater!",0,25,character_speech,3,6,,BELMONTE.,#belmonte,407.0,MALE,being moved,S,,1781.0,being moved,being moved
+1079,1079,1079,GerDracor/bretzner-belmont-und-constanze.xml,"Wie soll ichs der Vorsehung danken – In dem schrecklichsten
+              Augenblick meines Lebens, am Rande des Todes – und nun so glücklich!",26,168,character_speech,3,6,,BELMONTE.,#belmonte,407.0,MALE,joy,S,,1781.0,positive,emotions of pleasure
+1080,1080,1080,GerDracor/bretzner-belmont-und-constanze.xml,"O Konstanze,
+              Konstanze!",169,206,character_speech,3,6,,BELMONTE.,#belmonte,407.0,MALE,suffering,S,,1781.0,negative,emotions of suffering and empathy
+1081,1081,1081,GerDracor/bretzner-belmont-und-constanze.xml,laß uns seine Knie umfassen –,207,236,character_speech,3,6,,BELMONTE.,#belmonte,407.0,MALE,love,S,,1781.0,positive,emotions of affection
+1082,1082,1082,GerDracor/bretzner-belmont-und-constanze.xml,Sie werfen sich beide nieder.,0,29,stage_direction,3,6,speech_part,,#belmonte,407.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1083,1083,1083,GerDracor/bretzner-belmont-und-constanze.xml,Darf ichs wagen?,0,16,character_speech,3,6,,KONSTANZE.,#constanze,408.0,FEMALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1084,1084,1084,GerDracor/bretzner-belmont-und-constanze.xml,wollen Sie auch mein Vater seyn?,17,49,character_speech,3,6,,KONSTANZE.,#constanze,408.0,FEMALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1085,1085,1085,GerDracor/bretzner-belmont-und-constanze.xml,Steh auf!,0,9,character_speech,3,6,,SELIM.,#selim,409.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1086,1086,1086,GerDracor/bretzner-belmont-und-constanze.xml,"sich auf, gutes Mädchen, er ist dein!",10,47,character_speech,3,6,,SELIM.,#selim,409.0,MALE,love,S,,1781.0,positive,emotions of affection
+1087,1087,1087,GerDracor/bretzner-belmont-und-constanze.xml,Seyd meine Kinder!,48,66,character_speech,3,6,,SELIM.,#selim,409.0,MALE,love,S,,1781.0,positive,emotions of affection
+1088,1088,1088,GerDracor/bretzner-belmont-und-constanze.xml,ihm die Hände küssend.,0,22,stage_direction,3,6,speech_part,,#constanze #belmonte,410.0,UNKNOWN,"admiration, reverence",S,,1781.0,positive,emotions of affection
+1089,1089,1089,GerDracor/bretzner-belmont-und-constanze.xml,O wie glücklich!,0,16,character_speech,3,6,,KONSTANZE UND BELMONTE,#constanze #belmonte,410.0,UNKNOWN,joy,S,,1781.0,positive,emotions of pleasure
+1090,1090,1090,GerDracor/bretzner-belmont-und-constanze.xml,Ich kann mich kaum fassen!,0,26,character_speech,3,6,,KONSTANZE.,#constanze,411.0,FEMALE,being moved,S,,1781.0,being moved,being moved
+1091,1091,1091,GerDracor/bretzner-belmont-und-constanze.xml,"Ist's ein Traum, oder ists Wahrheit?",27,63,character_speech,3,6,,KONSTANZE.,#constanze,411.0,FEMALE,being moved,S,,1781.0,being moved,being moved
+1092,1092,1092,GerDracor/bretzner-belmont-und-constanze.xml,"– – O das Herz wallt
+              mir vor Freude, vor Entzücken!",64,129,character_speech,3,6,,KONSTANZE.,#constanze,411.0,FEMALE,joy,S,,1781.0,positive,emotions of pleasure
+1093,1093,1093,GerDracor/bretzner-belmont-und-constanze.xml,"
+              Ah, mit freudigem Entzücken
+              Strömt mein feuriger Gesang;
+              Und hinauf zu jenen Höhen
+              Steigt des Herzens Wonnedank.",0,169,character_speech,3,6,,KONSTANZE.,#constanze,411.0,FEMALE,joy,S,,1781.0,positive,emotions of pleasure
+1094,1094,1094,GerDracor/bretzner-belmont-und-constanze.xml,"Schon umgab mich Todesschrecken;
+              Ach!",184,235,character_speech,3,6,,KONSTANZE.,#constanze,411.0,FEMALE,fear,S,,1781.0,negative,emotions of anxiety
+1095,1095,1095,GerDracor/bretzner-belmont-und-constanze.xml,"ich fühlte mich nicht mehr,
+              Und in höhern Regionen
+              Flatterte mein Geist umher.",236,342,character_speech,3,6,,KONSTANZE.,#constanze,411.0,FEMALE,suffering,S,,1781.0,negative,emotions of suffering and empathy
+1096,1096,1096,GerDracor/bretzner-belmont-und-constanze.xml,mit Blonden dem Bassa zu Füßen.,0,31,stage_direction,3,6,speech_part,,#pedrillo,412.0,MALE,abhorrence,S,,1781.0,negative,emotions of rejection
+1097,1097,1097,GerDracor/bretzner-belmont-und-constanze.xml,"Herr, dürfen wir beyde Unglückliche es auch wagen, um Gnade zu flehen?",0,70,character_speech,3,6,,PEDRILLO,#pedrillo,412.0,MALE,suffering,S,,1781.0,negative,emotions of suffering and empathy
+1098,1098,1098,GerDracor/bretzner-belmont-und-constanze.xml,"– Ein alter
+              getreuer Diener deines Sohnes –",71,128,character_speech,3,6,,PEDRILLO,#pedrillo,412.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1099,1099,1099,GerDracor/bretzner-belmont-und-constanze.xml,Auch ich bitte für ihn!,0,23,character_speech,3,6,,BELMONTE.,#belmonte,413.0,MALE,compassion,S,,1781.0,negative,emotions of suffering and empathy
+1100,1100,1100,GerDracor/bretzner-belmont-und-constanze.xml,Ohne ihn wär' ich nicht hier –,24,54,character_speech,3,6,,BELMONTE.,#belmonte,413.0,MALE,love,S,,1781.0,positive,emotions of affection
+1101,1101,1101,GerDracor/bretzner-belmont-und-constanze.xml,"Ah, Herr, laß dich ja nicht von dem verwünschten Schmarozer hintergehen!",0,72,character_speech,3,6,,OSMIN.,#osmin,414.0,MALE,anger,S,,1781.0,negative,emotions of rejection
+1102,1102,1102,GerDracor/bretzner-belmont-und-constanze.xml,Keine Gnade!,73,85,character_speech,3,6,,OSMIN.,#osmin,414.0,MALE,fear,S,,1781.0,negative,emotions of anxiety
+1103,1103,1103,GerDracor/bretzner-belmont-und-constanze.xml,keine Gnade!,100,112,character_speech,3,6,,OSMIN.,#osmin,414.0,MALE,fear,S,,1781.0,negative,emotions of anxiety
+1104,1104,1104,GerDracor/bretzner-belmont-und-constanze.xml,er hat den Tod hundertmal verdient.,113,148,character_speech,3,6,,OSMIN.,#osmin,414.0,MALE,"admiration, reverence",S,,1781.0,positive,emotions of affection
+1105,1105,1105,GerDracor/bretzner-belmont-und-constanze.xml,Schweig!,0,8,character_speech,3,6,,SELIM.,#selim,415.0,MALE,anger,S,,1781.0,negative,emotions of rejection
+1106,1106,1106,GerDracor/bretzner-belmont-und-constanze.xml,– Steht auf und seyd frey!,9,35,character_speech,3,6,,SELIM.,#selim,415.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1107,1107,1107,GerDracor/bretzner-belmont-und-constanze.xml,"Wer könnte an so einem glücklichen Tage
+              Unglückliche um sich sehen?",36,117,character_speech,3,6,,SELIM.,#selim,415.0,MALE,joy,S,,1781.0,positive,emotions of pleasure
+1108,1108,1108,GerDracor/bretzner-belmont-und-constanze.xml,"O tausend Dank, großer Bassa!",0,29,character_speech,3,6,,PEDRILLO.,#pedrillo,416.0,MALE,joy,S,,1781.0,positive,emotions of pleasure
+1109,1109,1109,GerDracor/bretzner-belmont-und-constanze.xml,Juchhe!,30,37,character_speech,3,6,,PEDRILLO.,#pedrillo,416.0,MALE,joy,S,,1781.0,positive,emotions of pleasure
+1110,1110,1110,GerDracor/bretzner-belmont-und-constanze.xml,"Nun spring' ich mit gleichen Füßen wieder ins
+              Leben hinein!",38,111,character_speech,3,6,,PEDRILLO.,#pedrillo,416.0,MALE,joy,S,,1781.0,positive,emotions of pleasure
+1111,1111,1111,GerDracor/bretzner-belmont-und-constanze.xml,Gift und Dolch!,0,15,character_speech,3,6,,OSMIN.,#osmin,417.0,MALE,abhorrence,S,,1781.0,negative,emotions of rejection
+1112,1112,1112,GerDracor/bretzner-belmont-und-constanze.xml,Ich möchte bersten!,16,35,character_speech,3,6,,OSMIN.,#osmin,417.0,MALE,fear,S,,1781.0,negative,emotions of anxiety
+1113,1113,1113,GerDracor/bretzner-belmont-und-constanze.xml,"– Aber, Herr!",36,49,character_speech,3,6,,OSMIN.,#osmin,417.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1114,1114,1114,GerDracor/bretzner-belmont-und-constanze.xml,"meine Sklavinn Blonde muß er wieder
+              herausgeben?",50,112,character_speech,3,6,,OSMIN.,#osmin,417.0,MALE,love,S,,1781.0,positive,emotions of affection
+1115,1115,1115,GerDracor/bretzner-belmont-und-constanze.xml,bittend.,0,8,stage_direction,3,6,speech_part,,#pedrillo,418.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1116,1116,1116,GerDracor/bretzner-belmont-und-constanze.xml,"Meine alte verlobte Braut, mein liebes Blondchen!",0,49,character_speech,3,6,,PEDRILLO,#pedrillo,418.0,MALE,love,S,,1781.0,positive,emotions of affection
+1117,1117,1117,GerDracor/bretzner-belmont-und-constanze.xml,–,50,51,character_speech,3,6,,PEDRILLO,#pedrillo,418.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1118,1118,1118,GerDracor/bretzner-belmont-und-constanze.xml,"Ist dein, und ist frey!",0,23,character_speech,3,6,,SELIM.,#selim,419.0,MALE,abhorrence,S,,1781.0,negative,emotions of rejection
+1119,1119,1119,GerDracor/bretzner-belmont-und-constanze.xml,Wie glücklich!,0,14,character_speech,3,6,,BLONDE.,#blonde,420.0,FEMALE,joy,S,,1781.0,positive,emotions of pleasure
+1120,1120,1120,GerDracor/bretzner-belmont-und-constanze.xml,Es lebe der große Bassa Selim!,0,30,character_speech,3,6,,PEDRILLO.,#pedrillo,421.0,MALE,"admiration, reverence",S,,1781.0,positive,emotions of affection
+1121,1121,1121,GerDracor/bretzner-belmont-und-constanze.xml,Ha!,0,3,character_speech,3,6,,OSMIN.,#osmin,422.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1122,1122,1122,GerDracor/bretzner-belmont-und-constanze.xml,das ist zum rasend werden!,4,30,character_speech,3,6,,OSMIN.,#osmin,422.0,MALE,anger,S,,1781.0,negative,emotions of rejection
+1123,1123,1123,GerDracor/bretzner-belmont-und-constanze.xml,"Komm, guter Alter, laß uns Freunde seyn.",0,40,character_speech,3,6,,PEDRILLO.,#pedrillo,423.0,MALE,friendship,S,,1781.0,positive,emotions of affection
+1124,1124,1124,GerDracor/bretzner-belmont-und-constanze.xml,Hier biet' ich dir die Hand.,41,69,character_speech,3,6,,PEDRILLO.,#pedrillo,423.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1125,1125,1125,GerDracor/bretzner-belmont-und-constanze.xml,–,70,71,character_speech,3,6,,PEDRILLO.,#pedrillo,423.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1126,1126,1126,GerDracor/bretzner-belmont-und-constanze.xml,Freund mit dir?,0,15,character_speech,3,6,,OSMIN.,#osmin,424.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1127,1127,1127,GerDracor/bretzner-belmont-und-constanze.xml,– Ah!,16,21,character_speech,3,6,,OSMIN.,#osmin,424.0,MALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1128,1128,1128,GerDracor/bretzner-belmont-und-constanze.xml,"mit dem Teufel lieber Freundschaft, als mit dir Verräther.",22,80,character_speech,3,6,,OSMIN.,#osmin,424.0,MALE,friendship,S,,1781.0,positive,emotions of affection
+1129,1129,1129,GerDracor/bretzner-belmont-und-constanze.xml,Geht drohend ab.,0,16,stage_direction,3,6,speech_part,,#osmin,424.0,MALE,anger,S,,1781.0,negative,emotions of rejection
+1130,1130,1130,GerDracor/bretzner-belmont-und-constanze.xml,"Laß ihn laufen, Pedrillo, laß ihn laufen.",0,41,character_speech,3,6,,BLONDE.,#blonde,425.0,FEMALE,abhorrence,S,,1781.0,negative,emotions of rejection
+1131,1131,1131,GerDracor/bretzner-belmont-und-constanze.xml,"Dem Himmel sey Dank, daß ich aus seinen
+              Klauen erlöset bin!",42,115,character_speech,3,6,,BLONDE.,#blonde,425.0,FEMALE,joy,S,,1781.0,positive,emotions of pleasure
+1132,1132,1132,GerDracor/bretzner-belmont-und-constanze.xml,"Ja wohl, liebes Blondchen; jetzt mag er schlafen oder wachen, ich lache dazu.",0,77,character_speech,3,6,,PEDRILLO.,#pedrillo,426.0,MALE,joy,S,,1781.0,positive,emotions of pleasure
+1133,1133,1133,GerDracor/bretzner-belmont-und-constanze.xml,"Ach, meine Konstanze!",0,21,character_speech,3,6,,BELMONTE.,#belmonte,427.0,MALE,suffering,S,,1781.0,negative,emotions of suffering and empathy
+1134,1134,1134,GerDracor/bretzner-belmont-und-constanze.xml,Endlich sind wir vereint.,22,47,character_speech,3,6,,BELMONTE.,#belmonte,427.0,MALE,joy,S,,1781.0,positive,emotions of pleasure
+1135,1135,1135,GerDracor/bretzner-belmont-und-constanze.xml,"Mein Einziger, mein verlorner Geliebter!",0,40,character_speech,3,6,,KONSTANZE.,#constanze,428.0,FEMALE,despair,S,,1781.0,negative,emotions of anxiety
+1136,1136,1136,GerDracor/bretzner-belmont-und-constanze.xml,"Nun, mein Fräulein?",0,19,character_speech,3,6,,BLONDE.,#blonde,429.0,FEMALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1137,1137,1137,GerDracor/bretzner-belmont-und-constanze.xml,Sagt' ich nicht immer: Hofnung läßt nicht zu Schanden werden?,20,81,character_speech,3,6,,BLONDE.,#blonde,429.0,FEMALE,no_annotation,S,,1781.0,no_annotation,no_annotation
+1138,1138,1138,GerDracor/bretzner-belmont-und-constanze.xml,"
+              Oft wölkt stürmisch sich der Himmel;
+              Nacht und grausendes Getümmel
+              Zeigt sich schrecklich unserm Blick:
+              Doch ein Stral der milden Sonne
+              Kehrt den Jammer schnell in Wonne,
+              Bringt die Freuden bald zurück.",0,287,character_speech,3,6,,CHOR.,#belmonte #constanze #pedrillo #blonde,430.0,UNKNOWN,joy,S,,1781.0,positive,emotions of pleasure

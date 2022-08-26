@@ -1,0 +1,45 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+557,557,557,GerDracor/brandes-ino.xml,Ein glänzender Muschelwagen erhebt sich aus den Tiefen des Meers.,0,65,stage_direction,1,11,pre_speech,,,,,"admiration, reverence",S,,1777.0,positive,emotions of affection
+558,558,558,GerDracor/brandes-ino.xml,"Ino und Melizert
+          sizzen darauf im herrlichsten Triumphe.",66,132,stage_direction,1,11,pre_speech,,,,,joy,S,,1777.0,positive,emotions of pleasure
+559,559,559,GerDracor/brandes-ino.xml,Die Nereiden umkränzen sie.,133,160,stage_direction,1,11,pre_speech,,,,,"admiration, reverence",S,,1777.0,positive,emotions of affection
+560,560,560,GerDracor/brandes-ino.xml,"Tritonen ziehen am
+          Wagen.",161,196,stage_direction,1,11,pre_speech,,,,,no_annotation,S,,1777.0,no_annotation,no_annotation
+561,561,561,GerDracor/brandes-ino.xml,Eine feierliche Musik ertönt.,197,226,stage_direction,1,11,pre_speech,,,,,no_annotation,S,,1777.0,no_annotation,no_annotation
+562,562,562,GerDracor/brandes-ino.xml,spricht.,0,8,stage_direction,1,11,speech_part,,#eine_stimme_11,63.0,UNKNOWN,no_annotation,S,,1777.0,no_annotation,no_annotation
+563,563,563,GerDracor/brandes-ino.xml,"
+            Vollendet ist nun Junos Rache,
+            Der Göttinn Zorn ist nun versöhnt,
+            Versöhnt der Göttinn Rache.",0,130,character_speech,1,11,,EINE STIMME,#eine_stimme_11,63.0,UNKNOWN,Schadenfreude,S,,1777.0,positive,emotions of pleasure
+564,564,564,GerDracor/brandes-ino.xml,"Singt nun Triumph in vollen Chören,
+            Lasset frohe Jubellieder hören,
+            Daß Freude weit umher ertönt!",143,264,character_speech,1,11,,EINE STIMME,#eine_stimme_11,63.0,UNKNOWN,joy,S,,1777.0,positive,emotions of pleasure
+565,565,565,GerDracor/brandes-ino.xml,Die Musik ertönt wieder.,0,24,stage_direction,1,11,speech_part,,#eine_stimme_11,63.0,UNKNOWN,no_annotation,S,,1777.0,no_annotation,no_annotation
+566,566,566,GerDracor/brandes-ino.xml,"
+            Triumph!",0,21,character_speech,1,11,,CHOR.,#chor,64.0,UNKNOWN,no_annotation,S,,1777.0,no_annotation,no_annotation
+567,567,567,GerDracor/brandes-ino.xml,"euch Auserwählten,
+            Euch Kinder der Vergötterung!",22,82,character_speech,1,11,,CHOR.,#chor,64.0,UNKNOWN,abhorrence,S,,1777.0,negative,emotions of rejection
+568,568,568,GerDracor/brandes-ino.xml,"Jezt sind die Leiden, die euch quälten,
+            Euch Stufen zur Verherrlichung.",95,178,character_speech,1,11,,CHOR.,#chor,64.0,UNKNOWN,suffering,S,,1777.0,negative,emotions of suffering and empathy
+569,569,569,GerDracor/brandes-ino.xml,"
+            Im Schwestersizz der Nereiden
+            Theilt mit uns unser Götterglükk!",0,88,character_speech,1,11,,ZWO NEREIDEN.,#zwo_nereiden,65.0,FEMALE,joy,S,,1777.0,positive,emotions of pleasure
+570,570,570,GerDracor/brandes-ino.xml,"Schmekkt unsre Götterlust hienieden,
+            Und sehnt hinauf euch nie zurükk!",101,183,character_speech,1,11,,ZWO NEREIDEN.,#zwo_nereiden,65.0,FEMALE,joy,S,,1777.0,positive,emotions of pleasure
+571,571,571,GerDracor/brandes-ino.xml,"
+            Triumph!",0,21,character_speech,1,11,,CHOR.,#chor,66.0,UNKNOWN,no_annotation,S,,1777.0,no_annotation,no_annotation
+572,572,572,GerDracor/brandes-ino.xml,euch Auserwählten!,22,40,character_speech,1,11,,CHOR.,#chor,66.0,UNKNOWN,"admiration, reverence",S,,1777.0,positive,emotions of affection
+573,573,573,GerDracor/brandes-ino.xml,Euch Kinder der Vergötterung!,53,82,character_speech,1,11,,CHOR.,#chor,66.0,UNKNOWN,abhorrence,S,,1777.0,negative,emotions of rejection
+574,574,574,GerDracor/brandes-ino.xml,"Jezt sind die Leiden, die euch quälten,
+            Euch Stufen zur Verherrlichung!",95,178,character_speech,1,11,,CHOR.,#chor,66.0,UNKNOWN,suffering,S,,1777.0,negative,emotions of suffering and empathy
+575,575,575,GerDracor/brandes-ino.xml,"
+            Hier, wo gefällige Tritonen
+            An eurem Muschelwagen ziehn;
+            Sollt ihr in steten Freuden wohnen,
+            Die droben im Genuße fliehn.",0,170,character_speech,1,11,,ZWEI TRITONEN.,#zwei_tritonen,67.0,UNKNOWN,joy,S,,1777.0,positive,emotions of pleasure
+576,576,576,GerDracor/brandes-ino.xml,"
+            Triumph!",0,21,character_speech,1,11,,CHOR.,#chor,68.0,UNKNOWN,no_annotation,S,,1777.0,no_annotation,no_annotation
+577,577,577,GerDracor/brandes-ino.xml,euch Auserwählten!,22,40,character_speech,1,11,,CHOR.,#chor,68.0,UNKNOWN,"admiration, reverence",S,,1777.0,positive,emotions of affection
+578,578,578,GerDracor/brandes-ino.xml,Euch Kinder der Vergötterung!,53,82,character_speech,1,11,,CHOR.,#chor,68.0,UNKNOWN,abhorrence,S,,1777.0,negative,emotions of rejection
+579,579,579,GerDracor/brandes-ino.xml,"Jezt sind die Leiden, die euch quälten,
+            Euch Stufen zur Verherrlichung!",95,178,character_speech,1,11,,CHOR.,#chor,68.0,UNKNOWN,suffering,S,,1777.0,negative,emotions of suffering and empathy

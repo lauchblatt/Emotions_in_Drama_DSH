@@ -1,0 +1,37 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,pre1_base_polarity,pre1_main_emotion_class
+2924,2924,2924,GerDracor/kotzebue-ueble-laune.xml,Geheimderath.,0,13,stage_direction,4,13,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+2925,2925,2925,GerDracor/kotzebue-ueble-laune.xml,Hanns Bornmann.,14,29,stage_direction,4,13,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+2926,2926,2926,GerDracor/kotzebue-ueble-laune.xml,Die Vorigen.,30,42,stage_direction,4,13,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+2927,2927,2927,GerDracor/kotzebue-ueble-laune.xml,"(führt den alten Bornmann herein; holt einen Stuhl und sezt den Greis in die
+              Mitte der Bühne)",0,107,stage_direction,4,13,speech_part,,#der_geheimderath,1721.0,MALE,no_annotation,no_annotation,no_annotation
+2928,2928,2928,GerDracor/kotzebue-ueble-laune.xml,"Da ist der Mann, der mir das böse  Geschwür aufgestochen hat.",0,61,character_speech,4,13,,Geh. R.,#der_geheimderath,1721.0,MALE,no_annotation,no_annotation,no_annotation
+2929,2929,2929,GerDracor/kotzebue-ueble-laune.xml,"Der ist
+              es, der mir das Heilkraut der Thätigkeit empfahl.",62,133,character_speech,4,13,,Geh. R.,#der_geheimderath,1721.0,MALE,no_annotation,no_annotation,no_annotation
+2930,2930,2930,GerDracor/kotzebue-ueble-laune.xml,– Hörst du Alter?,134,151,character_speech,4,13,,Geh. R.,#der_geheimderath,1721.0,MALE,no_annotation,no_annotation,no_annotation
+2931,2931,2931,GerDracor/kotzebue-ueble-laune.xml,"wir wollen
+              zusammen unserer Kinder Hochzeit feyern.",152,217,character_speech,4,13,,Geh. R.,#der_geheimderath,1721.0,MALE,no_annotation,no_annotation,no_annotation
+2932,2932,2932,GerDracor/kotzebue-ueble-laune.xml,"Meine Tochter und dein Enkel sollen an Einem
+              Tage getraut werden.",218,297,character_speech,4,13,,Geh. R.,#der_geheimderath,1721.0,MALE,no_annotation,no_annotation,no_annotation
+2933,2933,2933,GerDracor/kotzebue-ueble-laune.xml,"Gottes Segen, liebes Fräulein.",0,30,character_speech,4,13,,Bornm.,#bornmann,1722.0,MALE,joy,positive,emotions of pleasure
+2934,2934,2934,GerDracor/kotzebue-ueble-laune.xml,"Die Braut deines Enkels führe ich zum Altare, und du Graukopf, führst meine
+              Tochter.",0,98,character_speech,4,13,,Geh. R.,#der_geheimderath,1723.0,MALE,abhorrence,negative,emotions of rejection
+2935,2935,2935,GerDracor/kotzebue-ueble-laune.xml,Ach gnädiger Herr!,0,18,character_speech,4,13,,Bornm.,#bornmann,1724.0,MALE,suffering,negative,emotions of suffering and empathy
+2936,2936,2936,GerDracor/kotzebue-ueble-laune.xml,eine solche Ehre –,19,37,character_speech,4,13,,Bornm.,#bornmann,1724.0,MALE,no_annotation,no_annotation,no_annotation
+2937,2937,2937,GerDracor/kotzebue-ueble-laune.xml,"Nun Bruder, nun stimme dein Lied an.",0,36,character_speech,4,13,,Geh. R.,#der_geheimderath,1725.0,MALE,no_annotation,no_annotation,no_annotation
+2938,2938,2938,GerDracor/kotzebue-ueble-laune.xml,"Hier sitzt ein lebendiges Buch über die
+                Kunst stets frölich zu seyn.",37,121,character_speech,4,13,,Geh. R.,#der_geheimderath,1725.0,MALE,joy,positive,emotions of pleasure
+2939,2939,2939,GerDracor/kotzebue-ueble-laune.xml,(hebt an),0,9,stage_direction,4,13,speech_part,,#tobias,1726.0,MALE,no_annotation,no_annotation,no_annotation
+2940,2940,2940,GerDracor/kotzebue-ueble-laune.xml,Freut euch des Lebens –,0,23,character_speech,4,13,,Tobias,#tobias,1726.0,MALE,joy,positive,emotions of pleasure
+2941,2941,2941,GerDracor/kotzebue-ueble-laune.xml,fallen ein.,0,11,stage_direction,4,13,speech_part,,#ulrike #tobias #therese #der_geheimderath #bornmann,1727.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+2942,2942,2942,GerDracor/kotzebue-ueble-laune.xml,Weil noch das Flämmgen glüht;,0,29,character_speech,4,13,,Alle,#ulrike #tobias #therese #der_geheimderath #bornmann,1727.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+2943,2943,2943,GerDracor/kotzebue-ueble-laune.xml,"Pflücket die Rose,",0,18,character_speech,4,13,,Alle,#ulrike #tobias #therese #der_geheimderath #bornmann,1727.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+2944,2944,2944,GerDracor/kotzebue-ueble-laune.xml,Eh' sie verblüht.,0,17,character_speech,4,13,,Alle,#ulrike #tobias #therese #der_geheimderath #bornmann,1727.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+2945,2945,2945,GerDracor/kotzebue-ueble-laune.xml,allein.,0,7,stage_direction,4,13,speech_part,,#therese,1728.0,FEMALE,no_annotation,no_annotation,no_annotation
+2946,2946,2946,GerDracor/kotzebue-ueble-laune.xml,"Nur Thätigkeit macht leichtes Blut,",0,35,character_speech,4,13,,Therese,#therese,1728.0,FEMALE,no_annotation,no_annotation,no_annotation
+2947,2947,2947,GerDracor/kotzebue-ueble-laune.xml,Nur Arbeit schaffet frohen Muth;,0,32,character_speech,4,13,,Therese,#therese,1728.0,FEMALE,joy,positive,emotions of pleasure
+2948,2948,2948,GerDracor/kotzebue-ueble-laune.xml,Der bösen Laune Dämon flieht,0,28,character_speech,4,13,,Therese,#therese,1728.0,FEMALE,abhorrence,negative,emotions of rejection
+2949,2949,2949,GerDracor/kotzebue-ueble-laune.xml,Wo jener Engel wacht.,0,21,character_speech,4,13,,Therese,#therese,1728.0,FEMALE,love,positive,emotions of affection
+2950,2950,2950,GerDracor/kotzebue-ueble-laune.xml,Drum ringt nach Freude,0,22,character_speech,4,13,,Alle.,#ulrike #tobias #therese #der_geheimderath #bornmann,1729.0,UNKNOWN,joy,positive,emotions of pleasure
+2951,2951,2951,GerDracor/kotzebue-ueble-laune.xml,Durch unverdross'ne Müh!,0,24,character_speech,4,13,,Alle.,#ulrike #tobias #therese #der_geheimderath #bornmann,1729.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+2952,2952,2952,GerDracor/kotzebue-ueble-laune.xml,"Wer Blumen pfleget,",0,19,character_speech,4,13,,Alle.,#ulrike #tobias #therese #der_geheimderath #bornmann,1729.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+2953,2953,2953,GerDracor/kotzebue-ueble-laune.xml,Dem blühen sie.,0,15,character_speech,4,13,,Alle.,#ulrike #tobias #therese #der_geheimderath #bornmann,1729.0,UNKNOWN,abhorrence,negative,emotions of rejection

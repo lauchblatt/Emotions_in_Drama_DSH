@@ -1,0 +1,210 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+1823,1823,1823,GerDracor/wieland-klementina-von-porretta.xml,"Die Vorigen, der Markgraf, Grandison, der Bischof, der General, der Pater
+            Mareskotti.",0,97,stage_direction,5,12,pre_speech,,,,,no_annotation,S,,1759.0,no_annotation,no_annotation
+1824,1824,1824,GerDracor/wieland-klementina-von-porretta.xml,"Ich habe Mühe zu glauben, was ich sehe und höre.",0,48,character_speech,5,12,,DER MARKGRAF.,#der_markgraf,339.0,MALE,being moved,S,,1759.0,being moved,being moved
+1825,1825,1825,GerDracor/wieland-klementina-von-porretta.xml,"Ist es möglich, meine liebe
+              Klementina, dass du bey einem Entschlusse beharrest, der unserer Erwartung und deinen
+              eigenen Wünschen so sehr entgegen ist?",49,229,character_speech,5,12,,DER MARKGRAF.,#der_markgraf,339.0,MALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1826,1826,1826,GerDracor/wieland-klementina-von-porretta.xml,"Die Stimme meiner Pflicht hat so stark zu mir gesprochen, dass es unmöglich war,
+              ungehorsam zu seyn.",0,114,character_speech,5,12,,KLEMENTINA.,#klementina,340.0,FEMALE,"admiration, reverence",S,,1759.0,positive,emotions of affection
+1827,1827,1827,GerDracor/wieland-klementina-von-porretta.xml,"Ich empfinde mit dem gerührtesten Herzen Ihre Gütigkeit, gnädiger
+              Herr; Sie haben aus Mitleiden gegen mich –",115,237,character_speech,5,12,,KLEMENTINA.,#klementina,340.0,FEMALE,compassion,S,,1759.0,negative,emotions of suffering and empathy
+1828,1828,1828,GerDracor/wieland-klementina-von-porretta.xml,"Es ist eben so sehr aus Dankbarkeit gegen den Chevalier und aus Hochachtung gegen
+              seine Verdienste, als aus Liebe zu dir geschehen, daß ich deine Verbindung mit ihm
+              beliebt habe.",0,206,character_speech,5,12,,DER MARKGRAF.,#der_markgraf,341.0,MALE,love,S,,1759.0,positive,emotions of affection
+1829,1829,1829,GerDracor/wieland-klementina-von-porretta.xml,"Wenn ich wüsste, dass ich ihn glücklich machen könnte – Aber, ach, Chevalier, ich
+              würde Sie nicht glücklich machen!",0,129,character_speech,5,12,,KLEMENTINA.,#klementina,342.0,FEMALE,suffering,S,,1759.0,negative,emotions of suffering and empathy
+1830,1830,1830,GerDracor/wieland-klementina-von-porretta.xml,"Ich empfinde es zu stark, dass Sie es könnten, gnädige Gräfin, als dass ich –",0,77,character_speech,5,12,,GRANDISON.,#grandison,343.0,MALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1831,1831,1831,GerDracor/wieland-klementina-von-porretta.xml,"O versuchen Sie nicht mehr, mich zu bereden, lieber Grandison!",0,62,character_speech,5,12,,KLEMENTINA.,#klementina,344.0,FEMALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1832,1832,1832,GerDracor/wieland-klementina-von-porretta.xml,"Ihre Güte gegen mich
+              macht Sie parteylich.",63,119,character_speech,5,12,,KLEMENTINA.,#klementina,344.0,FEMALE,"admiration, reverence",S,,1759.0,positive,emotions of affection
+1833,1833,1833,GerDracor/wieland-klementina-von-porretta.xml,Klementina ist Ihrer nicht mehr würdig.,120,159,character_speech,5,12,,KLEMENTINA.,#klementina,344.0,FEMALE,suffering,S,,1759.0,negative,emotions of suffering and empathy
+1834,1834,1834,GerDracor/wieland-klementina-von-porretta.xml,"Ihr geschwächter
+              Verstand; ihre gestörte Gemüthsruhe; die Zweifel, die ihr Herz ängstigen würden; die
+              Versuche, die sie immer erneuern würde, Sie zu bekehren; ihr Verdruss wenn diese
+              Versuche vergeblich wären; das Misstrauen gegen mich selbst; und die Furcht, die mir
+              selbst Ihre Zärtlichkeit zu einer Quelle von Plagen machen würde; alles diess würde
+              Sie mit derjenigen unglücklich machen, mit der Sie ein Leben verwebt hätten, das ihr
+              theuerer ist, als ihr eigenes, und welches so sehr verdient glücklich zu seyn.",160,759,character_speech,5,12,,KLEMENTINA.,#klementina,344.0,FEMALE,suffering,S,,1759.0,negative,emotions of suffering and empathy
+1835,1835,1835,GerDracor/wieland-klementina-von-porretta.xml,Ich bewundere meine Schwester.,0,30,character_speech,5,12,,DER GENERAL.,#der_general,345.0,MALE,"admiration, reverence",S,,1759.0,positive,emotions of affection
+1836,1836,1836,GerDracor/wieland-klementina-von-porretta.xml,"Sie handelt wie es einer Klementina von Poretta würdig
+              ist!",31,104,character_speech,5,12,,DER GENERAL.,#der_general,345.0,MALE,"admiration, reverence",S,,1759.0,positive,emotions of affection
+1837,1837,1837,GerDracor/wieland-klementina-von-porretta.xml,"Sie können sie nicht mehr bewundern, Herr General, als ich es thue, obgleich unsere
+              Beweggründe sehr verschieden sind.",0,132,character_speech,5,12,,GRANDISON.,#grandison,346.0,MALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1838,1838,1838,GerDracor/wieland-klementina-von-porretta.xml,"Die Grossmuth des Chevaliers verdient so viel Bewunderung, als die Entschliessung
+              meiner Schwester.",0,113,character_speech,5,12,,DER BISCHOF.,#der_bischof,347.0,MALE,"admiration, reverence",S,,1759.0,positive,emotions of affection
+1839,1839,1839,GerDracor/wieland-klementina-von-porretta.xml,"Welcher andre hätte so edel handeln können, als er in dieser ganzen
+              Sache gehandelt hat?",114,216,character_speech,5,12,,DER BISCHOF.,#der_bischof,347.0,MALE,"admiration, reverence",S,,1759.0,positive,emotions of affection
+1840,1840,1840,GerDracor/wieland-klementina-von-porretta.xml,"Ich will Sie mit meinen Lobsprüchen verschonen, werther Grandison!",0,66,character_speech,5,12,,DIE MARKGRÄFIN.,#die_markgraefin,348.0,FEMALE,"admiration, reverence",S,,1759.0,positive,emotions of affection
+1841,1841,1841,GerDracor/wieland-klementina-von-porretta.xml,"Dieser Ausgang ist
+              meinen Hoffnungen und meinen Wünschen zuwider.",67,146,character_speech,5,12,,DIE MARKGRÄFIN.,#die_markgraefin,348.0,FEMALE,suffering,S,,1759.0,negative,emotions of suffering and empathy
+1842,1842,1842,GerDracor/wieland-klementina-von-porretta.xml,"Die fehlgeschlagene Verbindung mit
+              einem so würdigen Manne ist eine Glückseligkeit, die wir verloren haben.",147,268,character_speech,5,12,,DIE MARKGRÄFIN.,#die_markgraefin,348.0,FEMALE,joy,S,,1759.0,positive,emotions of pleasure
+1843,1843,1843,GerDracor/wieland-klementina-von-porretta.xml,"Ich bin ohne Hoffnung und ohne eigennützige Absichten nach Bologna gekommen, gnädige
+              Frau.",0,104,character_speech,5,12,,GRANDISON.,#grandison,349.0,MALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1844,1844,1844,GerDracor/wieland-klementina-von-porretta.xml,"Meine Erwartung wurde übertroffen, da man mich aufmunterte, nach dem Besitz der
+              unvergleichlichen Klementina zu streben; und jetzt finde ich einen Trost darin, dass
+              ich so gütig von Ihnen bedauert werde, nachdem mich Ihre bewundernswürdige Tochter auf
+              eine Art abgewiesen hat, die von ihrer Seite so edel, und für mich so rühmlich
+              ist.",105,496,character_speech,5,12,,GRANDISON.,#grandison,349.0,MALE,joy,S,,1759.0,positive,emotions of pleasure
+1845,1845,1845,GerDracor/wieland-klementina-von-porretta.xml,"Es ist mein Schicksal, theurer Grandison, dass ich Ihnen verbunden seyn soll, ohne
+              meine Dankbarkeit zeigen zu können.",0,132,character_speech,5,12,,KLEMENTINA.,#klementina,350.0,FEMALE,suffering,S,,1759.0,negative,emotions of suffering and empathy
+1846,1846,1846,GerDracor/wieland-klementina-von-porretta.xml,"– Erlauben Sie mir nun, gnädiger Herr,",133,171,character_speech,5,12,,KLEMENTINA.,#klementina,350.0,FEMALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1847,1847,1847,GerDracor/wieland-klementina-von-porretta.xml,"Sie
+                wendet sich gegen ihren Vater.",0,50,stage_direction,5,12,inner_speech,,#klementina,350.0,FEMALE,abhorrence,S,,1759.0,negative,emotions of rejection
+1848,1848,1848,GerDracor/wieland-klementina-von-porretta.xml," dass ich die gütige Nachsicht, die Sie so oft
+              gegen Ihre Klementina bewiesen haben, zum letzten Mahl erflehe.",0,124,character_speech,5,12,,KLEMENTINA.,#klementina,350.0,FEMALE,"admiration, reverence",S,,1759.0,positive,emotions of affection
+1849,1849,1849,GerDracor/wieland-klementina-von-porretta.xml,"– Die Ruhe, die mein
+              Gesicht und mein Betragen ankündiget, betrügt vielleicht diejenigen, die mich sehen.",125,244,character_speech,5,12,,KLEMENTINA.,#klementina,350.0,FEMALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1850,1850,1850,GerDracor/wieland-klementina-von-porretta.xml,"Sie gründet sich ganz allein auf die Hoffnung, dass meine Bitte werde gewähret werden.",259,345,character_speech,5,12,,KLEMENTINA.,#klementina,350.0,FEMALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1851,1851,1851,GerDracor/wieland-klementina-von-porretta.xml,Die Verweigerung derselben würde mich zum elendesten aller Wesen machen.,360,432,character_speech,5,12,,KLEMENTINA.,#klementina,350.0,FEMALE,suffering,S,,1759.0,negative,emotions of suffering and empathy
+1852,1852,1852,GerDracor/wieland-klementina-von-porretta.xml,"Ich errathe deine Bitte, Schwester!",0,35,character_speech,5,12,,DER GENERAL.,#der_general,351.0,MALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1853,1853,1853,GerDracor/wieland-klementina-von-porretta.xml,"Es ist die Eingebung einer fehlgeschlagenen
+              Liebe.",36,100,character_speech,5,12,,DER GENERAL.,#der_general,351.0,MALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1854,1854,1854,GerDracor/wieland-klementina-von-porretta.xml,"Aber ich hoffe, die gleiche Empfindung deiner Pflicht, die dich verhindert hat,
+              die Nachsicht deiner Ältern zum Vortheile deiner Neigung zu gebrauchen, werde dich
+              zurück halten, einen Schritt zu thun, der das ganze Verdienst einer so schönen That
+              vernichten würde.",101,407,character_speech,5,12,,DER GENERAL.,#der_general,351.0,MALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1855,1855,1855,GerDracor/wieland-klementina-von-porretta.xml,"Ich kenne Ihre Absichten, Bruder, und ich vergebe Ihnen.",0,56,character_speech,5,12,,KLEMENTINA.,#klementina,352.0,FEMALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1856,1856,1856,GerDracor/wieland-klementina-von-porretta.xml,"Aber ich bin fest
+              entschlossen, keine Kränkungen mehr zu leiden, die ich verhindern kann.",57,160,character_speech,5,12,,KLEMENTINA.,#klementina,352.0,FEMALE,suffering,S,,1759.0,negative,emotions of suffering and empathy
+1857,1857,1857,GerDracor/wieland-klementina-von-porretta.xml,"– An
+                Sie wende ich mich, theuerster Vater; ich weiss, dass Sie die
+              Glückseligkeit Ihres Kindes verlangen.",161,296,character_speech,5,12,,KLEMENTINA.,#klementina,352.0,FEMALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1858,1858,1858,GerDracor/wieland-klementina-von-porretta.xml,"Ich habe keinen Anspruch, keinen Wunsch für
+              irdische Glückseligkeit.",297,379,character_speech,5,12,,KLEMENTINA.,#klementina,352.0,FEMALE,joy,S,,1759.0,positive,emotions of pleasure
+1859,1859,1859,GerDracor/wieland-klementina-von-porretta.xml,Lassen Sie also meine Seele glücklich werden.,380,425,character_speech,5,12,,KLEMENTINA.,#klementina,352.0,FEMALE,joy,S,,1759.0,positive,emotions of pleasure
+1860,1860,1860,GerDracor/wieland-klementina-von-porretta.xml,"Alles was mir
+              seit zweyen Jahren begegnet ist, beweiset, dass ich berufen bin, aus der Welt
+              auszugehen – Es würde unbillig seyn, meine Sehnsucht nach dem Schleier einer
+              fehlgeschlagenen Liebe beyzumessen.",426,672,character_speech,5,12,,KLEMENTINA.,#klementina,352.0,FEMALE,love,S,,1759.0,positive,emotions of affection
+1861,1861,1861,GerDracor/wieland-klementina-von-porretta.xml,"Wurde es nicht in meine Gewalt gestellt dem Triebe
+              meines Herzens zu folgen?",673,763,character_speech,5,12,,KLEMENTINA.,#klementina,352.0,FEMALE,love,S,,1759.0,positive,emotions of affection
+1862,1862,1862,GerDracor/wieland-klementina-von-porretta.xml,"– Dieser Trieb befiehlt mir, die Welt zu verlassen.",764,815,character_speech,5,12,,KLEMENTINA.,#klementina,352.0,FEMALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1863,1863,1863,GerDracor/wieland-klementina-von-porretta.xml,"Ich
+              weiss, dass er von Gott ist!",816,862,character_speech,5,12,,KLEMENTINA.,#klementina,352.0,FEMALE,"admiration, reverence",S,,1759.0,positive,emotions of affection
+1864,1864,1864,GerDracor/wieland-klementina-von-porretta.xml,"Wenn er es nicht wäre, so hätte er die Liebe nicht
+              überwiegen können, die ich für diesen würdigsten unter den Männern ohne Erröthen
+              gestehe.",863,1031,character_speech,5,12,,KLEMENTINA.,#klementina,352.0,FEMALE,love,S,,1759.0,positive,emotions of affection
+1865,1865,1865,GerDracor/wieland-klementina-von-porretta.xml,"– Ich kenne Ihre Frömmigkeit, gnädiger Herr!",1032,1076,character_speech,5,12,,KLEMENTINA.,#klementina,352.0,FEMALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1866,1866,1866,GerDracor/wieland-klementina-von-porretta.xml,"Sie kann  Ihnen
+              nicht erlauben, mich abzuhalten, dem Rufe des Himmels zu folgen.",1077,1171,character_speech,5,12,,KLEMENTINA.,#klementina,352.0,FEMALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1867,1867,1867,GerDracor/wieland-klementina-von-porretta.xml,"Aber ich wünschte,
+              dass Sie es ohne Abneigung thun könnten!",1172,1245,character_speech,5,12,,KLEMENTINA.,#klementina,352.0,FEMALE,abhorrence,S,,1759.0,negative,emotions of rejection
+1868,1868,1868,GerDracor/wieland-klementina-von-porretta.xml,"– O wenn Sie wüssten, wie sehr meine Seele
+              nach diesem glücklichen Zustande schmachtet, Sie würden mich in diesem Augenblick
+              meines Wunsches gewähren!",1246,1424,character_speech,5,12,,KLEMENTINA.,#klementina,352.0,FEMALE,joy,S,,1759.0,positive,emotions of pleasure
+1869,1869,1869,GerDracor/wieland-klementina-von-porretta.xml,"Meine liebste Klementina – hast du auch erwogen, was die Welt von einem solchen
+              Schritt urtheilen wird?",0,117,character_speech,5,12,,DER MARKGRAF.,#der_markgraf,353.0,MALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1870,1870,1870,GerDracor/wieland-klementina-von-porretta.xml,"Glaube mir, so rein deine Beweggründe, seyn mögen, so wird sie
+              dir doch solche zuschreiben, die deinen Ruhm verdunkeln werden.",118,258,character_speech,5,12,,DER MARKGRAF.,#der_markgraf,353.0,MALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1871,1871,1871,GerDracor/wieland-klementina-von-porretta.xml,Das Urtheil der Welt bekümmert mich nicht mehr.,0,47,character_speech,5,12,,KLEMENTINA.,#klementina,354.0,FEMALE,compassion,S,,1759.0,negative,emotions of suffering and empathy
+1872,1872,1872,GerDracor/wieland-klementina-von-porretta.xml,Ich habe ihren Beyfall aufgegeben.,48,82,character_speech,5,12,,KLEMENTINA.,#klementina,354.0,FEMALE,despair,S,,1759.0,negative,emotions of anxiety
+1873,1873,1873,GerDracor/wieland-klementina-von-porretta.xml,"Meine einzige Sorge ist, wie ich vor dem Gerichte meines Gewissens, und dessen, der
+              durch dasselbe über mich urtheilet, bestehen möge – Ich weiss alles, was gegen meinen
+              Entschluss eingewendet werden kann.",97,330,character_speech,5,12,,KLEMENTINA.,#klementina,354.0,FEMALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1874,1874,1874,GerDracor/wieland-klementina-von-porretta.xml,"Ich entsage einem grossen Vermögen – aber es ist
+              Staub in meinen Augen.",331,416,character_speech,5,12,,KLEMENTINA.,#klementina,354.0,FEMALE,suffering,S,,1759.0,negative,emotions of suffering and empathy
+1875,1875,1875,GerDracor/wieland-klementina-von-porretta.xml,"Ich entziehe mich den Freuden der Welt – aber diese Freuden
+              sind Träume, die mit wirklichen Plagen, mit immer währender Unruhe, mit dem Verluste
+              reinerer Freuden, und der Gefahr der Seele zu theuer erkauft werden – Die Entfernung
+              von Ihnen, liebste Ältern, und von meinen Brüdern und Freunden ist das Einzige, was
+              mir schmerzlich ist.",417,807,character_speech,5,12,,KLEMENTINA.,#klementina,354.0,FEMALE,suffering,S,,1759.0,negative,emotions of suffering and empathy
+1876,1876,1876,GerDracor/wieland-klementina-von-porretta.xml,"Aber soll ich demjenigen nichts aufopfern, der mir
+              alles anbietet?",808,888,character_speech,5,12,,KLEMENTINA.,#klementina,354.0,FEMALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1877,1877,1877,GerDracor/wieland-klementina-von-porretta.xml,"Deine Verachtung gegen die Güter der Welt ist die Frucht der Schwermuth, der du dich
+              zu sehr überlässest.",0,119,character_speech,5,12,,DER MARKGRAF.,#der_markgraf,355.0,MALE,abhorrence,S,,1759.0,negative,emotions of rejection
+1878,1878,1878,GerDracor/wieland-klementina-von-porretta.xml,"Deine Grossväter waren fromme Männer; sie bemerkten, dass du dein
+              grösstes Vergnügen im Wohlthun fandest, und sie setzten dich in den Stand, deinem
+              Herzen genug zu thun.",120,317,character_speech,5,12,,DER MARKGRAF.,#der_markgraf,355.0,MALE,joy,S,,1759.0,positive,emotions of pleasure
+1879,1879,1879,GerDracor/wieland-klementina-von-porretta.xml,"Du entsagest dem Vermögen, Gutes zu thun, wenn du dich eines
+              Erbtheils begiebst, auf welches deine Brüder so grossmüthig Verzicht gethan haben, um
+              eine geliebte Schwester desto glücklicher zu sehen.",318,544,character_speech,5,12,,DER MARKGRAF.,#der_markgraf,355.0,MALE,love,S,,1759.0,positive,emotions of affection
+1880,1880,1880,GerDracor/wieland-klementina-von-porretta.xml,Lassen Sie diese Güter meiner Base Laurana werden!,0,50,character_speech,5,12,,KLEMENTINA.,#klementina,356.0,FEMALE,joy,S,,1759.0,positive,emotions of pleasure
+1881,1881,1881,GerDracor/wieland-klementina-von-porretta.xml,"Wie kann ich einen bessern
+              Gebrauch davon machen, als derjenigen freywillig Gutes zu thun, die mir durch ihre
+              Verfolgungen wider ihre Absicht Gutes bewiesen hat?",51,240,character_speech,5,12,,KLEMENTINA.,#klementina,356.0,FEMALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1882,1882,1882,GerDracor/wieland-klementina-von-porretta.xml,zum Bischof.,0,12,stage_direction,5,12,speech_part,,#der_general,357.0,MALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1883,1883,1883,GerDracor/wieland-klementina-von-porretta.xml,Welche schwärmerische Grossmuth!,0,32,character_speech,5,12,,DER GENERAL,#der_general,357.0,MALE,love,S,,1759.0,positive,emotions of affection
+1884,1884,1884,GerDracor/wieland-klementina-von-porretta.xml,"Brauchen wir einen stärkern Beweis als diesen, dass
+              ihr Verstand noch nicht in seiner natürlichen Fassung ist?",33,157,character_speech,5,12,,DER GENERAL,#der_general,357.0,MALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1885,1885,1885,GerDracor/wieland-klementina-von-porretta.xml,"Deine Entschlossenheit verwundet das Innerste meines Herzens, meine Tochter!",0,76,character_speech,5,12,,DER MARKGRAF.,#der_markgraf,358.0,MALE,love,S,,1759.0,positive,emotions of affection
+1886,1886,1886,GerDracor/wieland-klementina-von-porretta.xml,"– Du
+              willst dich von mir reissen?",77,124,character_speech,5,12,,DER MARKGRAF.,#der_markgraf,358.0,MALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1887,1887,1887,GerDracor/wieland-klementina-von-porretta.xml,"– Du zerstörest die Entwürfe, die ich zu deinem Glücke
+              gemacht habe?",125,207,character_speech,5,12,,DER MARKGRAF.,#der_markgraf,358.0,MALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1888,1888,1888,GerDracor/wieland-klementina-von-porretta.xml,Du raubest mir die gehofften Freuden meiner sinkenden Jahre!,208,268,character_speech,5,12,,DER MARKGRAF.,#der_markgraf,358.0,MALE,joy,S,,1759.0,positive,emotions of pleasure
+1889,1889,1889,GerDracor/wieland-klementina-von-porretta.xml,"–  Nein, Klementina, ich kann dich nicht von mir lassen – Du sollst nicht vor
+              der Zeit gestorben seyn!",269,385,character_speech,5,12,,DER MARKGRAF.,#der_markgraf,358.0,MALE,love,S,,1759.0,positive,emotions of affection
+1890,1890,1890,GerDracor/wieland-klementina-von-porretta.xml,"– Verlange nicht, dass dein Vater dich überleben soll!",386,440,character_speech,5,12,,DER MARKGRAF.,#der_markgraf,358.0,MALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1891,1891,1891,GerDracor/wieland-klementina-von-porretta.xml,"Vergiss nicht, Klementina, vergiss nicht, dass du eine Mutter hast!",0,67,character_speech,5,12,,DIE MARKGRÄFIN.,#die_markgraefin,359.0,FEMALE,love,S,,1759.0,positive,emotions of affection
+1892,1892,1892,GerDracor/wieland-klementina-von-porretta.xml,"Denke, ehe du ihr
+              entsagst, dass sie, als sie dich mit Schmerzen gebar, hoffte, du würdest der Trost
+              ihres Alters seyn!",68,215,character_speech,5,12,,DIE MARKGRÄFIN.,#die_markgraefin,359.0,FEMALE,suffering,S,,1759.0,negative,emotions of suffering and empathy
+1893,1893,1893,GerDracor/wieland-klementina-von-porretta.xml,"– Siehe mich an, meine Liebe, lies in meinen Augen – Ich kann nicht
+              reden –",216,305,character_speech,5,12,,DIE MARKGRÄFIN.,#die_markgraefin,359.0,FEMALE,love,S,,1759.0,positive,emotions of affection
+1894,1894,1894,GerDracor/wieland-klementina-von-porretta.xml,O wie durchboren Sie mein Herz!,0,31,character_speech,5,12,,KLEMENTINA.,#klementina,360.0,FEMALE,love,S,,1759.0,positive,emotions of affection
+1895,1895,1895,GerDracor/wieland-klementina-von-porretta.xml,Theuerste Gräfin!,0,17,character_speech,5,12,,GRANDISON.,#grandison,361.0,MALE,"admiration, reverence",S,,1759.0,positive,emotions of affection
+1896,1896,1896,GerDracor/wieland-klementina-von-porretta.xml,–,18,19,character_speech,5,12,,GRANDISON.,#grandison,361.0,MALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1897,1897,1897,GerDracor/wieland-klementina-von-porretta.xml,Liebste Schwester!,0,18,character_speech,5,12,,DER BISCHOF.,#der_bischof,362.0,MALE,love,S,,1759.0,positive,emotions of affection
+1898,1898,1898,GerDracor/wieland-klementina-von-porretta.xml,–,19,20,character_speech,5,12,,DER BISCHOF.,#der_bischof,362.0,MALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1899,1899,1899,GerDracor/wieland-klementina-von-porretta.xml,wirft sich ihren Ältern zu Füssen.,0,34,stage_direction,5,12,speech_part,,#klementina,363.0,FEMALE,abhorrence,S,,1759.0,negative,emotions of rejection
+1900,1900,1900,GerDracor/wieland-klementina-von-porretta.xml,Vergeben Sie mir!,0,17,character_speech,5,12,,KLEMENTINA,#klementina,363.0,FEMALE,suffering,S,,1759.0,negative,emotions of suffering and empathy
+1901,1901,1901,GerDracor/wieland-klementina-von-porretta.xml,"ach, vergeben Sie mir!",18,40,character_speech,5,12,,KLEMENTINA,#klementina,363.0,FEMALE,suffering,S,,1759.0,negative,emotions of suffering and empathy
+1902,1902,1902,GerDracor/wieland-klementina-von-porretta.xml,"– O wenn nicht eine göttliche Kraft mich
+              unterstützte!",41,109,character_speech,5,12,,KLEMENTINA,#klementina,363.0,FEMALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1903,1903,1903,GerDracor/wieland-klementina-von-porretta.xml,"– Zürnen Sie nicht auf Ihr Kind – Der entsetzliche Kampf, den Sie in mir
+              erregen, kann mir das Leben nehmen; aber er kann meinen Entschluss nicht erschüttern!",110,282,character_speech,5,12,,KLEMENTINA,#klementina,363.0,FEMALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1904,1904,1904,GerDracor/wieland-klementina-von-porretta.xml,Wie könnte ich der Stimme Gottes ungehorsam seyn?,297,346,character_speech,5,12,,KLEMENTINA,#klementina,363.0,FEMALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1905,1905,1905,GerDracor/wieland-klementina-von-porretta.xml,"Bedenken Sie, dass ich zu viel
+              gelitten habe, um noch lange zu leben.",347,430,character_speech,5,12,,KLEMENTINA,#klementina,363.0,FEMALE,suffering,S,,1759.0,negative,emotions of suffering and empathy
+1906,1906,1906,GerDracor/wieland-klementina-von-porretta.xml,"Lassen Sie mich mein Gelübd erfüllen, das ich
+              dem Himmel gethan habe!",431,514,character_speech,5,12,,KLEMENTINA,#klementina,363.0,FEMALE,"admiration, reverence",S,,1759.0,positive,emotions of affection
+1907,1907,1907,GerDracor/wieland-klementina-von-porretta.xml,Lassen Sie mich als eine Geweihte Gottes sterben!,515,564,character_speech,5,12,,KLEMENTINA,#klementina,363.0,FEMALE,despair,S,,1759.0,negative,emotions of anxiety
+1908,1908,1908,GerDracor/wieland-klementina-von-porretta.xml,"Der Ruf des Himmels ist zu stark, als dass wir ihm länger widerstehen dürften.",0,78,character_speech,5,12,,PATER MARESKOTTI.,#pater_mareskotti,364.0,MALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1909,1909,1909,GerDracor/wieland-klementina-von-porretta.xml,"Ich erkenne ihn, und ich verehre die Hand, die mich verwundet.",0,62,character_speech,5,12,,DER MARKGRAF.,#der_markgraf,365.0,MALE,"admiration, reverence",S,,1759.0,positive,emotions of affection
+1910,1910,1910,GerDracor/wieland-klementina-von-porretta.xml,"– Stehe auf,
+              Klementina; du bist ein Engel in meinen Augen!",63,136,character_speech,5,12,,DER MARKGRAF.,#der_markgraf,365.0,MALE,love,S,,1759.0,positive,emotions of affection
+1911,1911,1911,GerDracor/wieland-klementina-von-porretta.xml,–,137,138,character_speech,5,12,,DER MARKGRAF.,#der_markgraf,365.0,MALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1912,1912,1912,GerDracor/wieland-klementina-von-porretta.xml,"Lassen Sie mich hier zu Ihren Füssen die Versicherung Ihrer Liebe und Ihren Segen
+              empfangen.",0,106,character_speech,5,12,,KLEMENTINA.,#klementina,366.0,FEMALE,love,S,,1759.0,positive,emotions of affection
+1913,1913,1913,GerDracor/wieland-klementina-von-porretta.xml,"Segnen Sie, – segnen Sie Ihre dankbare Klementina!",107,157,character_speech,5,12,,KLEMENTINA.,#klementina,366.0,FEMALE,joy,S,,1759.0,positive,emotions of pleasure
+1914,1914,1914,GerDracor/wieland-klementina-von-porretta.xml,"Der ganze Himmel öffne sich über dir, meine Tochter, seine Segnungen auf dich herab
+              zu schütten!",0,110,character_speech,5,12,,DER MARKGRAF.,#der_markgraf,367.0,MALE,"admiration, reverence",S,,1759.0,positive,emotions of affection
+1915,1915,1915,GerDracor/wieland-klementina-von-porretta.xml,"– Stehe auf, und bitte den Ewigen, dem du heilig bist, für diejenigen,
+              die du in einer kummervollen Welt zurück lässest.",111,245,character_speech,5,12,,DER MARKGRAF.,#der_markgraf,367.0,MALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1916,1916,1916,GerDracor/wieland-klementina-von-porretta.xml,Göttliche Klementina!,0,21,character_speech,5,12,,GRANDISON.,#grandison,368.0,MALE,"admiration, reverence",S,,1759.0,positive,emotions of affection
+1917,1917,1917,GerDracor/wieland-klementina-von-porretta.xml,"erinnern Sie Sich in der geheiligten Abgeschiedenheit, die Sie
+              Sich erwählt haben, erinnern Sie Sich zuweilen auch desjenigen, der fähig war, Ihrem
+              Besitze zu entsagen, weil er Ihre Seele liebte.",22,245,character_speech,5,12,,GRANDISON.,#grandison,368.0,MALE,love,S,,1759.0,positive,emotions of affection
+1918,1918,1918,GerDracor/wieland-klementina-von-porretta.xml,"Die Verschiedenheit des Glaubens
+              trennte uns, aber eine bessere Welt wird uns wieder vereinigen!",246,356,character_speech,5,12,,GRANDISON.,#grandison,368.0,MALE,joy,S,,1759.0,positive,emotions of pleasure
+1919,1919,1919,GerDracor/wieland-klementina-von-porretta.xml,"– Ich verlasse Sie von
+              der Grösse Ihrer Seele durchdrungen!",357,430,character_speech,5,12,,GRANDISON.,#grandison,368.0,MALE,"admiration, reverence",S,,1759.0,positive,emotions of affection
+1920,1920,1920,GerDracor/wieland-klementina-von-porretta.xml,"Das Bild der himmlischen Klementina wird mich wie
+              ein Schutzengel durch den Labyrinth dieses Lebens begleiten!",431,555,character_speech,5,12,,GRANDISON.,#grandison,368.0,MALE,love,S,,1759.0,positive,emotions of affection
+1921,1921,1921,GerDracor/wieland-klementina-von-porretta.xml,"Das unauslöschliche
+              Andenken ihrer Frömmigkeit wird mich aufmuntern, so zu leben, dass ich
+              verdienen möge, sie bey den Bewohnern des Himmels wieder zu sehen.",556,741,character_speech,5,12,,GRANDISON.,#grandison,368.0,MALE,"admiration, reverence",S,,1759.0,positive,emotions of affection
+1922,1922,1922,GerDracor/wieland-klementina-von-porretta.xml,Nun bin ich glücklich!,0,22,character_speech,5,12,,KLEMENTINA.,#klementina,369.0,FEMALE,joy,S,,1759.0,positive,emotions of pleasure
+1923,1923,1923,GerDracor/wieland-klementina-von-porretta.xml,"– Die Welt rollt unter meinen Füssen; unbegrenzte Himmel
+              öffnen sich über mir!",23,115,character_speech,5,12,,KLEMENTINA.,#klementina,369.0,FEMALE,joy,S,,1759.0,positive,emotions of pleasure
+1924,1924,1924,GerDracor/wieland-klementina-von-porretta.xml,– Selige Einsamkeit!,116,136,character_speech,5,12,,KLEMENTINA.,#klementina,369.0,FEMALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1925,1925,1925,GerDracor/wieland-klementina-von-porretta.xml,"Dunkle, der Andacht geheiligte Zelle, sey
+              mir willkommen!",137,208,character_speech,5,12,,KLEMENTINA.,#klementina,369.0,FEMALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1926,1926,1926,GerDracor/wieland-klementina-von-porretta.xml,"Willkommen, du werthes Bild des Grabes, worin ich bald diesen dem Tode
+              geweiheten Leib niederlegen werde, um in das unsichtbare Land der Unsterblichen
+              zurückzukehren!",209,403,character_speech,5,12,,KLEMENTINA.,#klementina,369.0,FEMALE,"admiration, reverence",S,,1759.0,positive,emotions of affection
+1927,1927,1927,GerDracor/wieland-klementina-von-porretta.xml,"– Leben Sie wohl, theure, verehrungswerthe Ältern!",404,454,character_speech,5,12,,KLEMENTINA.,#klementina,369.0,FEMALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1928,1928,1928,GerDracor/wieland-klementina-von-porretta.xml,"– Lebet wohl, meine
+              Brüder!",455,496,character_speech,5,12,,KLEMENTINA.,#klementina,369.0,FEMALE,no_annotation,S,,1759.0,no_annotation,no_annotation
+1929,1929,1929,GerDracor/wieland-klementina-von-porretta.xml,"– Leben Sie wohl, ewig werther Grandison!",497,538,character_speech,5,12,,KLEMENTINA.,#klementina,369.0,FEMALE,"admiration, reverence",S,,1759.0,positive,emotions of affection
+1930,1930,1930,GerDracor/wieland-klementina-von-porretta.xml,"Erinnern Sie Sich alle Ihrer
+              Klementina mit Zärtlichkeit!",539,610,character_speech,5,12,,KLEMENTINA.,#klementina,369.0,FEMALE,love,S,,1759.0,positive,emotions of affection
+1931,1931,1931,GerDracor/wieland-klementina-von-porretta.xml,"– Und du, dem ich alles schuldig bin, und dem ich alles
+              aufopfre, zu deinen Füssen lege ich jeden irdischen Wunsch, jede Hoffnung einer
+              weltlichen Glückseligkeit nieder.",611,808,character_speech,5,12,,KLEMENTINA.,#klementina,369.0,FEMALE,love,S,,1759.0,positive,emotions of affection
+1932,1932,1932,GerDracor/wieland-klementina-von-porretta.xml,Mit Freuden folge ich deinem Rufe!,809,843,character_speech,5,12,,KLEMENTINA.,#klementina,369.0,FEMALE,joy,S,,1759.0,positive,emotions of pleasure
+1933,1933,1933,GerDracor/wieland-klementina-von-porretta.xml,"Was ich
+              vergängliches zurück lasse, ist Tand; und was unsterblich ist, werde ich in deinem
+              Schoosse wieder finden!",844,986,character_speech,5,12,,KLEMENTINA.,#klementina,369.0,FEMALE,joy,S,,1759.0,positive,emotions of pleasure

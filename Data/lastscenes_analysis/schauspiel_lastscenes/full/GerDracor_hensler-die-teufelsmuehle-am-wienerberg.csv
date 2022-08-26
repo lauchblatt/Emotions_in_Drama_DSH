@@ -1,0 +1,85 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+2001,2001,2001,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,Die Bühne verwandelt sich in eine ländliche Gegend.,0,51,stage_direction,4,13,pre_speech,,,,,no_annotation,S,,1799.0,no_annotation,no_annotation
+2002,2002,2002,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,"– Auf einer Seite ein Haus,
+            nebenbey ein Brunnen.",52,113,stage_direction,4,13,pre_speech,,,,,no_annotation,S,,1799.0,no_annotation,no_annotation
+2003,2003,2003,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,Gott!,0,5,character_speech,4,13,,KILIAN.,#kilian,671.0,MALE,being moved,S,,1799.0,being moved,being moved
+2004,2004,2004,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,wo bin ich – hier meine Wohnung – dieser Brunnen!,6,55,character_speech,4,13,,KILIAN.,#kilian,671.0,MALE,being moved,S,,1799.0,being moved,being moved
+2005,2005,2005,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,ha!,56,59,character_speech,4,13,,KILIAN.,#kilian,671.0,MALE,no_annotation,S,,1799.0,no_annotation,no_annotation
+2006,2006,2006,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,"er erinnert mich an die
+              letzte schreckliche That, die ich an meinem Weib verübte.",60,155,character_speech,4,13,,KILIAN.,#kilian,671.0,MALE,suffering,S,,1799.0,negative,emotions of suffering and empathy
+2007,2007,2007,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,Hier in diesem Brunnen liegen die Gebeine deines Weibes begraben.,0,65,character_speech,4,13,,GÜNTHER.,#guenther,672.0,MALE,no_annotation,S,,1799.0,no_annotation,no_annotation
+2008,2008,2008,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,"Auf, Unglücklicher!",66,85,character_speech,4,13,,GÜNTHER.,#guenther,672.0,MALE,suffering,S,,1799.0,negative,emotions of suffering and empathy
+2009,2009,2009,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,"vollziehe die letzte deiner Pflichten, um das Schicksal zu versöhnen.",100,169,character_speech,4,13,,GÜNTHER.,#guenther,672.0,MALE,no_annotation,S,,1799.0,no_annotation,no_annotation
+2010,2010,2010,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,"Steige hinab –
+              der Geist deiner Gattin kann nur versöhnt werden, wenn deine Gebeine neben den ihrigen
+              ruhen.",170,306,character_speech,4,13,,GÜNTHER.,#guenther,672.0,MALE,no_annotation,S,,1799.0,no_annotation,no_annotation
+2011,2011,2011,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,Ich bin zu allem bereit!,0,24,character_speech,4,13,,KILIAN.,#kilian,673.0,MALE,joy,S,,1799.0,positive,emotions of pleasure
+2012,2012,2012,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,Donnerschlag.,0,13,stage_direction,4,13,inner_speech,,#kilian,673.0,MALE,no_annotation,S,,1799.0,no_annotation,no_annotation
+2013,2013,2013,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,"– Ein fürchterliches Gewitter bricht
+                aus.",14,71,stage_direction,4,13,inner_speech,,#kilian,673.0,MALE,no_annotation,S,,1799.0,no_annotation,no_annotation
+2014,2014,2014,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,– Es wird finster.,72,90,stage_direction,4,13,inner_speech,,#kilian,673.0,MALE,no_annotation,S,,1799.0,no_annotation,no_annotation
+2015,2015,2015,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,"Kilian stürzt auf die Knie, mit erhobenen
+              Händen.",91,154,stage_direction,4,13,inner_speech,,#kilian,673.0,MALE,no_annotation,S,,1799.0,no_annotation,no_annotation
+2016,2016,2016,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,Final-Musik.,0,12,stage_direction,4,13,pre_speech,,,,,no_annotation,S,,1799.0,no_annotation,no_annotation
+2017,2017,2017,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,Melodram.,0,9,stage_direction,4,13,pre_speech,,,,,no_annotation,S,,1799.0,no_annotation,no_annotation
+2018,2018,2018,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,Gott!,0,5,character_speech,4,13,,KILIAN.,#kilian,674.0,MALE,being moved,S,,1799.0,being moved,being moved
+2019,2019,2019,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,"du bist schrecklich in deinem Donner – Fürchterlich weckst du den Verbrecher –
+              er bebt und zittert – und hoft auf deine Gnade –",6,147,character_speech,4,13,,KILIAN.,#kilian,674.0,MALE,abhorrence,S,,1799.0,negative,emotions of rejection
+2020,2020,2020,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,"
+              Ruhe winkt im düstern Grab,
+              Auf vollziehe deine Pflicht!",0,85,character_speech,4,13,,GEISTER-CHOR.,#geister-chor,675.0,UNKNOWN,no_annotation,S,,1799.0,no_annotation,no_annotation
+2021,2021,2021,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,"Steig mit vollem Muth hinab,
+              Müder Wandrer!",100,157,character_speech,4,13,,GEISTER-CHOR.,#geister-chor,675.0,UNKNOWN,suffering,S,,1799.0,negative,emotions of suffering and empathy
+2022,2022,2022,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,zage nicht!,158,169,character_speech,4,13,,GEISTER-CHOR.,#geister-chor,675.0,UNKNOWN,fear,S,,1799.0,negative,emotions of anxiety
+2023,2023,2023,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,Melodram.,0,9,stage_direction,4,13,pre_speech,,,,,no_annotation,S,,1799.0,no_annotation,no_annotation
+2024,2024,2024,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,Ja – muthvoll will ich erfüllen des Schicksals Schluß –,0,55,character_speech,4,13,,KILIAN.,#kilian,676.0,MALE,no_annotation,S,,1799.0,no_annotation,no_annotation
+2025,2025,2025,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,Steht auf.,0,10,stage_direction,4,13,inner_speech,,#kilian,676.0,MALE,no_annotation,S,,1799.0,no_annotation,no_annotation
+2026,2026,2026,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,"
+              Ruhe suche ich – und Ruhe finde ich nur im Grabe.",0,64,character_speech,4,13,,KILIAN.,#kilian,676.0,MALE,suffering,S,,1799.0,negative,emotions of suffering and empathy
+2027,2027,2027,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,"Er nähert sich dem
+                Brunnen.",0,43,stage_direction,4,13,inner_speech,,#kilian,676.0,MALE,no_annotation,S,,1799.0,no_annotation,no_annotation
+2028,2028,2028,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,unter welchem er hinauf steigt.,0,31,stage_direction,4,13,speech_part,,#geister-chor,677.0,UNKNOWN,no_annotation,S,,1799.0,no_annotation,no_annotation
+2029,2029,2029,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,"
+              Der Blitz durchkreuzt des Wetters Nacht,
+              Der Sturmwind heult – der Donner kracht –
+              Die Stunde naht –",0,143,character_speech,4,13,,GEISTER-CHOR,#geister-chor,677.0,UNKNOWN,no_annotation,S,,1799.0,no_annotation,no_annotation
+2030,2030,2030,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,Melodram.,0,9,stage_direction,4,13,pre_speech,,,,,no_annotation,S,,1799.0,no_annotation,no_annotation
+2031,2031,2031,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,Ich bin versöhnt – mir winket Friede und Ruhe – Jüngling!,0,57,character_speech,4,13,,GEISTER-CHOR,#marie,678.0,FEMALE,joy,S,,1799.0,positive,emotions of pleasure
+2032,2032,2032,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,"du hast ritterlich
+              gekämpft, dir werde die verheissene Belohnung – In jener Mühle findest du einen Schatz
+              begraben, er seye dein Erbtheil – Eile in Mathildens Arme, der Schutzgeist der Liebe
+              sey dein Begleiter – Nur durch deinen Muth, durch deine Entschlossenheit wandle ich
+              rein in die Gefilde der Seligen.",58,421,character_speech,4,13,,GEISTER-CHOR,#marie,678.0,FEMALE,"admiration, reverence",S,,1799.0,positive,emotions of affection
+2033,2033,2033,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,–,422,423,character_speech,4,13,,GEISTER-CHOR,#marie,678.0,FEMALE,no_annotation,S,,1799.0,no_annotation,no_annotation
+2034,2034,2034,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,"Sie erhebt sich – worunter folgender
+                Sphären-Chor gesungen wird.",0,80,stage_direction,4,13,inner_speech,,#marie,678.0,FEMALE,no_annotation,S,,1799.0,no_annotation,no_annotation
+2035,2035,2035,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,"
+              Schön blüht in höhern Regionen
+              Die Friedens-Palme dir!",0,83,character_speech,4,13,,CHOR.,#sphaeren-chor,679.0,UNKNOWN,"admiration, reverence",S,,1799.0,positive,emotions of affection
+2036,2036,2036,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,"Dort wird die Vorsicht herrlich lohnen
+              Dich – Dulderinn!",98,168,character_speech,4,13,,CHOR.,#sphaeren-chor,679.0,UNKNOWN,abhorrence,S,,1799.0,negative,emotions of rejection
+2037,2037,2037,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,dafür!,169,175,character_speech,4,13,,CHOR.,#sphaeren-chor,679.0,UNKNOWN,no_annotation,S,,1799.0,no_annotation,no_annotation
+2038,2038,2038,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,Die Bühne verwandelt sich in ein Wolkentheater.,0,47,stage_direction,4,13,pre_speech,,,,,no_annotation,S,,1799.0,no_annotation,no_annotation
+2039,2039,2039,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,"– Im Hintergrunde ein transparenter
+            Regenbogen – mitten in einer Schleyerwolke Jeriel in seiner Glorie.",48,163,stage_direction,4,13,pre_speech,,,,,no_annotation,S,,1799.0,no_annotation,no_annotation
+2040,2040,2040,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,"In der Mitte der
+            Bühne ein Altar mit brennendem Feuer.",164,230,stage_direction,4,13,pre_speech,,,,,no_annotation,S,,1799.0,no_annotation,no_annotation
+2041,2041,2041,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,Hans von Stauffen.,231,249,stage_direction,4,13,pre_speech,,,,,no_annotation,S,,1799.0,no_annotation,no_annotation
+2042,2042,2042,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,Mathilde.,250,259,stage_direction,4,13,pre_speech,,,,,no_annotation,S,,1799.0,no_annotation,no_annotation
+2043,2043,2043,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,Ritter Kleeberg.,260,276,stage_direction,4,13,pre_speech,,,,,no_annotation,S,,1799.0,no_annotation,no_annotation
+2044,2044,2044,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,"Alle
+            Vorige.",277,301,stage_direction,4,13,pre_speech,,,,,no_annotation,S,,1799.0,no_annotation,no_annotation
+2045,2045,2045,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,"Mathilde eilt in Günthers Arme, der Vater hält seine segnenden Hände über
+            Beyde.",302,394,stage_direction,4,13,pre_speech,,,,,"admiration, reverence",S,,1799.0,positive,emotions of affection
+2046,2046,2046,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,worunter alles zur Erde stürzt.,0,31,stage_direction,4,13,speech_part,,#schluss-chor,680.0,UNKNOWN,suffering,S,,1799.0,negative,emotions of suffering and empathy
+2047,2047,2047,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,"
+              Geist der Liebe!",0,31,character_speech,4,13,,SCHLUSS-CHOR,#schluss-chor,680.0,UNKNOWN,love,S,,1799.0,positive,emotions of affection
+2048,2048,2048,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,"bleib bey uns,
+              Seye uns gewogen –
+              Laß als Friedenszeichen uns
+              Diesen Regenbogen.",32,154,character_speech,4,13,,SCHLUSS-CHOR,#schluss-chor,680.0,UNKNOWN,love,S,,1799.0,positive,emotions of affection
+2049,2049,2049,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,"Wo du thronst, da blühen schön
+              Deine reinre Triebe –
+              Laß uns froh durchs Leben gehn
+              An dem Arm der Liebe.",169,316,character_speech,4,13,,SCHLUSS-CHOR,#schluss-chor,680.0,UNKNOWN,love,S,,1799.0,positive,emotions of affection
+2050,2050,2050,GerDracor/hensler-die-teufelsmuehle-am-wienerberg.xml,Der Vorhang fällt.,0,18,stage_direction,4,13,pre_speech,,,,,no_annotation,S,,1799.0,no_annotation,no_annotation

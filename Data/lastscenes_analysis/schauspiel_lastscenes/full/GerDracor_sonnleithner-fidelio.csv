@@ -1,0 +1,121 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+1066,1066,1066,GerDracor/sonnleithner-fidelio.xml,Vorige.,0,7,stage_direction,2,8,pre_speech,,,,,no_annotation,S,,1805.0,no_annotation,no_annotation
+1067,1067,1067,GerDracor/sonnleithner-fidelio.xml,"Rocco, durch die Wachen dringend, hinter ihm Leonore und Florestan.",8,75,stage_direction,2,8,pre_speech,,,,,no_annotation,S,,1805.0,no_annotation,no_annotation
+1068,1068,1068,GerDracor/sonnleithner-fidelio.xml,"Wohlan, so helfet!",0,18,character_speech,2,8,,ROCCO.,#rocco,375.0,MALE,compassion,S,,1805.0,negative,emotions of suffering and empathy
+1069,1069,1069,GerDracor/sonnleithner-fidelio.xml,Helft den Armen!,19,35,character_speech,2,8,,ROCCO.,#rocco,375.0,MALE,compassion,S,,1805.0,negative,emotions of suffering and empathy
+1070,1070,1070,GerDracor/sonnleithner-fidelio.xml,Was seh ich?,0,12,character_speech,2,8,,PIZARRO.,#pizarro,376.0,MALE,being moved,S,,1805.0,being moved,being moved
+1071,1071,1071,GerDracor/sonnleithner-fidelio.xml,Ha!,13,16,character_speech,2,8,,PIZARRO.,#pizarro,376.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1072,1072,1072,GerDracor/sonnleithner-fidelio.xml,zu Pizarro.,0,11,stage_direction,2,8,speech_part,,#rocco,377.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1073,1073,1073,GerDracor/sonnleithner-fidelio.xml,Bewegt es dich?,0,15,character_speech,2,8,,ROCCO,#rocco,377.0,MALE,being moved,S,,1805.0,being moved,being moved
+1074,1074,1074,GerDracor/sonnleithner-fidelio.xml,zu Rocco.,0,9,stage_direction,2,8,speech_part,,#pizarro,378.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1075,1075,1075,GerDracor/sonnleithner-fidelio.xml,Fort!,0,5,character_speech,2,8,,PIZARRO,#pizarro,378.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1076,1076,1076,GerDracor/sonnleithner-fidelio.xml,fort!,6,11,character_speech,2,8,,PIZARRO,#pizarro,378.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1077,1077,1077,GerDracor/sonnleithner-fidelio.xml,zu Rocco.,0,9,stage_direction,2,8,speech_part,,#fernando,379.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1078,1078,1078,GerDracor/sonnleithner-fidelio.xml,"Nein, rede!",0,11,character_speech,2,8,,FERNANDO,#fernando,379.0,MALE,anger,S,,1805.0,negative,emotions of rejection
+1079,1079,1079,GerDracor/sonnleithner-fidelio.xml,"
+              All Erbarmen
+              Vereine diesem Paare sich.",0,68,character_speech,2,8,,ROCCO.,#rocco,380.0,MALE,compassion,S,,1805.0,negative,emotions of suffering and empathy
+1080,1080,1080,GerDracor/sonnleithner-fidelio.xml,Florestan vorführend.,0,21,stage_direction,2,8,speech_part,,#rocco,380.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1081,1081,1081,GerDracor/sonnleithner-fidelio.xml,Don Florestan –,0,15,character_speech,2,8,,ROCCO.,#rocco,380.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1082,1082,1082,GerDracor/sonnleithner-fidelio.xml,staunend.,0,9,stage_direction,2,8,speech_part,,#fernando,381.0,MALE,being moved,S,,1805.0,being moved,being moved
+1083,1083,1083,GerDracor/sonnleithner-fidelio.xml,"
+              Der Totgeglaubte,
+              Der Edle, der für Wahrheit stritt?",0,81,character_speech,2,8,,FERNANDO,#fernando,381.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1084,1084,1084,GerDracor/sonnleithner-fidelio.xml,Und Qualen ohne Zahl erlitt.,0,28,character_speech,2,8,,ROCCO.,#rocco,382.0,MALE,suffering,S,,1805.0,negative,emotions of suffering and empathy
+1085,1085,1085,GerDracor/sonnleithner-fidelio.xml,"
+              Mein Freund!",0,27,character_speech,2,8,,FERNANDO.,#fernando,383.0,MALE,friendship,S,,1805.0,positive,emotions of affection
+1086,1086,1086,GerDracor/sonnleithner-fidelio.xml,Mein Freund!,28,40,character_speech,2,8,,FERNANDO.,#fernando,383.0,MALE,friendship,S,,1805.0,positive,emotions of affection
+1087,1087,1087,GerDracor/sonnleithner-fidelio.xml,Der Totgeglaubte?,41,58,character_speech,2,8,,FERNANDO.,#fernando,383.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1088,1088,1088,GerDracor/sonnleithner-fidelio.xml,"–
+              Gefesselt, bleich steht er vor mir.",59,110,character_speech,2,8,,FERNANDO.,#fernando,383.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1089,1089,1089,GerDracor/sonnleithner-fidelio.xml,"Ja, Florestan, Ihr seht ihn hier.",0,33,character_speech,2,8,,ROCCO UND LEONORE.,#rocco #leonore,384.0,UNKNOWN,no_annotation,S,,1805.0,no_annotation,no_annotation
+1090,1090,1090,GerDracor/sonnleithner-fidelio.xml,Leonore vorstellend.,0,20,stage_direction,2,8,speech_part,,#rocco,385.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1091,1091,1091,GerDracor/sonnleithner-fidelio.xml,Und Leonore –,0,13,character_speech,2,8,,ROCCO,#rocco,385.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1092,1092,1092,GerDracor/sonnleithner-fidelio.xml,noch mehr betroffen.,0,20,stage_direction,2,8,speech_part,,#fernando,386.0,MALE,suffering,S,,1805.0,negative,emotions of suffering and empathy
+1093,1093,1093,GerDracor/sonnleithner-fidelio.xml,Leonore?,0,8,character_speech,2,8,,FERNANDO,#fernando,386.0,MALE,being moved,S,,1805.0,being moved,being moved
+1094,1094,1094,GerDracor/sonnleithner-fidelio.xml,"
+              Der Frauen Zierde führ ich vor.",0,46,character_speech,2,8,,ROCCO.,#rocco,387.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1095,1095,1095,GerDracor/sonnleithner-fidelio.xml,Sie kam hierher –,61,78,character_speech,2,8,,ROCCO.,#rocco,387.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1096,1096,1096,GerDracor/sonnleithner-fidelio.xml,Zwei Worte sagen –,0,18,character_speech,2,8,,PIZARRO.,#pizarro,388.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1097,1097,1097,GerDracor/sonnleithner-fidelio.xml,Kein Wort!,0,10,character_speech,2,8,,FERNANDO.,#fernando,389.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1098,1098,1098,GerDracor/sonnleithner-fidelio.xml,Zu Rocco.,0,9,stage_direction,2,8,speech_part,,#fernando,389.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1099,1099,1099,GerDracor/sonnleithner-fidelio.xml,Sie kam –,0,9,character_speech,2,8,,FERNANDO.,#fernando,389.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1100,1100,1100,GerDracor/sonnleithner-fidelio.xml,"
+              dort an mein Tor
+              Und trat als Knecht in meine Dienste
+              Und tat so brave, treue Dienste,
+              Daß ich – zum Eidam sie erkor.",0,174,character_speech,2,8,,ROCCO.,#rocco,390.0,MALE,"admiration, reverence",S,,1805.0,positive,emotions of affection
+1101,1101,1101,GerDracor/sonnleithner-fidelio.xml,"O weh mir, was vernimmt mein Ohr!",0,33,character_speech,2,8,,MARZELLINE.,#marzelline,391.0,FEMALE,suffering,S,,1805.0,negative,emotions of suffering and empathy
+1102,1102,1102,GerDracor/sonnleithner-fidelio.xml,"
+              Der Unmensch wollt' in dieser Stunde
+              Vollziehn an Florestan den Mord.",0,98,character_speech,2,8,,ROCCO.,#rocco,392.0,MALE,abhorrence,S,,1805.0,negative,emotions of rejection
+1103,1103,1103,GerDracor/sonnleithner-fidelio.xml,in größter Wut.,0,15,stage_direction,2,8,speech_part,,#pizarro,393.0,MALE,anger,S,,1805.0,negative,emotions of rejection
+1104,1104,1104,GerDracor/sonnleithner-fidelio.xml,Vollziehn mit ihm!,0,18,character_speech,2,8,,PIZARRO,#pizarro,393.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1105,1105,1105,GerDracor/sonnleithner-fidelio.xml,auf sich und Leonore zeigend.,0,29,stage_direction,2,8,speech_part,,#rocco,394.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1106,1106,1106,GerDracor/sonnleithner-fidelio.xml,Mit uns im Bunde!,0,17,character_speech,2,8,,ROCCO,#rocco,394.0,MALE,joy,S,,1805.0,positive,emotions of pleasure
+1107,1107,1107,GerDracor/sonnleithner-fidelio.xml,Zu Fernando.,0,12,stage_direction,2,8,speech_part,,#rocco,394.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1108,1108,1108,GerDracor/sonnleithner-fidelio.xml,Nur Euer Kommen rief ihn fort.,0,30,character_speech,2,8,,ROCCO,#rocco,394.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1109,1109,1109,GerDracor/sonnleithner-fidelio.xml,sehr lebhaft.,0,13,stage_direction,2,8,speech_part,,#chor_der_gefangenen_und_des_volkes,395.0,UNKNOWN,being moved,S,,1805.0,being moved,being moved
+1110,1110,1110,GerDracor/sonnleithner-fidelio.xml,"
+              Bestrafet sei der Bösewicht,
+              Der Unschuld unterdrückt.",0,83,character_speech,2,8,,CHOR,#chor_der_gefangenen_und_des_volkes,395.0,UNKNOWN,abhorrence,S,,1805.0,negative,emotions of rejection
+1111,1111,1111,GerDracor/sonnleithner-fidelio.xml,"Gerechtigkeit hält zum Gericht
+              Der Rache Schwert gezückt.",98,169,character_speech,2,8,,CHOR,#chor_der_gefangenen_und_des_volkes,395.0,UNKNOWN,abhorrence,S,,1805.0,negative,emotions of rejection
+1112,1112,1112,GerDracor/sonnleithner-fidelio.xml,Pizarro wird auf einen Wink Fernandos von der Wache abgeführt.,0,62,stage_direction,2,8,speech_part,,#chor_der_gefangenen_und_des_volkes,395.0,UNKNOWN,no_annotation,S,,1805.0,no_annotation,no_annotation
+1113,1113,1113,GerDracor/sonnleithner-fidelio.xml,zu Rocco.,0,9,stage_direction,2,8,speech_part,,#fernando,396.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1114,1114,1114,GerDracor/sonnleithner-fidelio.xml,"
+              Du schlossest auf des Edlen Grab,
+              Jetzt nimm ihm seine Ketten ab –
+              Doch halt!",0,120,character_speech,2,8,,FERNANDO,#fernando,396.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1115,1115,1115,GerDracor/sonnleithner-fidelio.xml,"– Euch, edle Frau, allein,
+              Euch ziemt es, ganz ihn zu befrein.",121,197,character_speech,2,8,,FERNANDO,#fernando,396.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1116,1116,1116,GerDracor/sonnleithner-fidelio.xml,"nimmt die Schlüssel, löst in größter Bewegung Florestan die Ketten ab; er sinkt
+              in Leonores Arme.",0,111,stage_direction,2,8,speech_part,,#leonore,397.0,FEMALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1117,1117,1117,GerDracor/sonnleithner-fidelio.xml,O Gott!,0,7,character_speech,2,8,,LEONORE,#leonore,397.0,FEMALE,being moved,S,,1805.0,being moved,being moved
+1118,1118,1118,GerDracor/sonnleithner-fidelio.xml,– Welch ein Augenblick!,8,31,character_speech,2,8,,LEONORE,#leonore,397.0,FEMALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1119,1119,1119,GerDracor/sonnleithner-fidelio.xml,O unaussprechlich süßes Glück!,0,30,character_speech,2,8,,FLORESTAN.,#florestan,398.0,MALE,joy,S,,1805.0,positive,emotions of pleasure
+1120,1120,1120,GerDracor/sonnleithner-fidelio.xml,"Gerecht, o Gott, ist dein Gericht!",0,34,character_speech,2,8,,FERNANDO.,#fernando,399.0,MALE,joy,S,,1805.0,positive,emotions of pleasure
+1121,1121,1121,GerDracor/sonnleithner-fidelio.xml,"Du prüfest, du verläßt uns nicht.",0,33,character_speech,2,8,,MARZELLINE UND ROCCO.,#marzelline #rocco,400.0,UNKNOWN,no_annotation,S,,1805.0,no_annotation,no_annotation
+1122,1122,1122,GerDracor/sonnleithner-fidelio.xml,"
+              O Gott!",0,22,character_speech,2,8,,ALLE.,#leonore #florestan #fernando #marzelline #rocco,401.0,UNKNOWN,being moved,S,,1805.0,being moved,being moved
+1123,1123,1123,GerDracor/sonnleithner-fidelio.xml,o welch ein Augenblick!,23,46,character_speech,2,8,,ALLE.,#leonore #florestan #fernando #marzelline #rocco,401.0,UNKNOWN,suffering,S,,1805.0,negative,emotions of suffering and empathy
+1124,1124,1124,GerDracor/sonnleithner-fidelio.xml,O unaussprechlich süßes Glück!,61,91,character_speech,2,8,,ALLE.,#leonore #florestan #fernando #marzelline #rocco,401.0,UNKNOWN,joy,S,,1805.0,positive,emotions of pleasure
+1125,1125,1125,GerDracor/sonnleithner-fidelio.xml,"Gerecht, o Gott, ist dein Gericht,
+              Du prüfest, du verläßt uns nicht!",106,188,character_speech,2,8,,ALLE.,#leonore #florestan #fernando #marzelline #rocco,401.0,UNKNOWN,fear,S,,1805.0,negative,emotions of anxiety
+1126,1126,1126,GerDracor/sonnleithner-fidelio.xml,"
+              Wer ein holdes Weib errungen,
+              Stimm' in unsern Jubel ein!",0,86,character_speech,2,8,,CHOR.,#chor_der_gefangenen_und_des_volkes,402.0,UNKNOWN,joy,S,,1805.0,positive,emotions of pleasure
+1127,1127,1127,GerDracor/sonnleithner-fidelio.xml,"Nie wird es zu hoch besungen,
+              Retterin des Gatten sein.",101,170,character_speech,2,8,,CHOR.,#chor_der_gefangenen_und_des_volkes,402.0,UNKNOWN,love,S,,1805.0,positive,emotions of affection
+1128,1128,1128,GerDracor/sonnleithner-fidelio.xml,"
+              Deine Treu' erhielt mein Leben,
+              Tugend schreckt den Bösewicht.",0,91,character_speech,2,8,,FLORESTAN.,#florestan,403.0,MALE,fear,S,,1805.0,negative,emotions of anxiety
+1129,1129,1129,GerDracor/sonnleithner-fidelio.xml,"
+              Liebe führte mein Bestreben,
+              Wahre Liebe fürchtet nicht.",0,85,character_speech,2,8,,LEONORE.,#leonore,404.0,FEMALE,love,S,,1805.0,positive,emotions of affection
+1130,1130,1130,GerDracor/sonnleithner-fidelio.xml,"
+              Preist mit hoher Freude Glut
+              Leonorens edlen Mut.",0,78,character_speech,2,8,,CHOR.,#chor_der_gefangenen_und_des_volkes,405.0,UNKNOWN,joy,S,,1805.0,positive,emotions of pleasure
+1131,1131,1131,GerDracor/sonnleithner-fidelio.xml,vortretend und auf Leonore weisend.,0,35,stage_direction,2,8,speech_part,,#florestan,406.0,MALE,no_annotation,S,,1805.0,no_annotation,no_annotation
+1132,1132,1132,GerDracor/sonnleithner-fidelio.xml,"
+              Wer ein solches Weib errungen,
+               Stimm' in unsern Jubel ein!",0,88,character_speech,2,8,,FLORESTAN,#florestan,406.0,MALE,joy,S,,1805.0,positive,emotions of pleasure
+1133,1133,1133,GerDracor/sonnleithner-fidelio.xml,"Nie wird es zu hoch besungen,
+              Retterin des Gatten sein.",103,172,character_speech,2,8,,FLORESTAN,#florestan,406.0,MALE,love,S,,1805.0,positive,emotions of affection
+1134,1134,1134,GerDracor/sonnleithner-fidelio.xml,ihn umarmend.,0,13,stage_direction,2,8,speech_part,,#leonore,407.0,FEMALE,joy,S,,1805.0,positive,emotions of pleasure
+1135,1135,1135,GerDracor/sonnleithner-fidelio.xml,"
+              Liebend ist es mir gelungen,
+              Dich aus Ketten zu befrein.",0,85,character_speech,2,8,,LEONORE,#leonore,407.0,FEMALE,love,S,,1805.0,positive,emotions of affection
+1136,1136,1136,GerDracor/sonnleithner-fidelio.xml,"Liebend sei es hoch besungen:
+              Florestan ist wieder mein!",100,170,character_speech,2,8,,LEONORE,#leonore,407.0,FEMALE,joy,S,,1805.0,positive,emotions of pleasure
+1137,1137,1137,GerDracor/sonnleithner-fidelio.xml,"
+              Wer ein holdes Weib errungen,
+              Stimm' in unsern Jubel ein!",0,86,character_speech,2,8,,CHOR.,#chor_der_gefangenen_und_des_volkes,408.0,UNKNOWN,joy,S,,1805.0,positive,emotions of pleasure
+1138,1138,1138,GerDracor/sonnleithner-fidelio.xml,"Nie wird es zu hoch besungen,
+              Retterin des Gatten sein.",101,170,character_speech,2,8,,CHOR.,#chor_der_gefangenen_und_des_volkes,408.0,UNKNOWN,love,S,,1805.0,positive,emotions of affection
+1139,1139,1139,GerDracor/sonnleithner-fidelio.xml,"
+              Liebend sei es hoch besungen:
+              Florestan ist wieder mein!",0,85,character_speech,2,8,,LEONORE.,#leonore,409.0,FEMALE,joy,S,,1805.0,positive,emotions of pleasure
+1140,1140,1140,GerDracor/sonnleithner-fidelio.xml,"
+              Nie wird es zu hoch besungen,
+              Retterin des Gatten sein.",0,84,character_speech,2,8,,ALLE ÜBRIGEN.,#chor_der_gefangenen_und_des_volkes,410.0,UNKNOWN,love,S,,1805.0,positive,emotions of affection

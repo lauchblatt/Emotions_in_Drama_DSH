@@ -1,0 +1,33 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+1064,1064,1064,GerDracor/schlegel-jon.xml,"Die Vorigen, Apollo erscheint in der Pforte des Tempels.",0,56,stage_direction,5,4,pre_speech,,,,,no_annotation,S,,1802.0,no_annotation,no_annotation
+1065,1065,1065,GerDracor/schlegel-jon.xml,"
+              Her komm' ich von Olympus wonnelichtem Saal,
+              Wo mich inmitten ew'gen Musenchorgesangs,
+              Fernher umsäuselt deine Sehnsucht, lieber Sohn.",0,177,character_speech,5,4,,APOLLO.,#apollo,387.0,MALE,no_annotation,S,,1802.0,no_annotation,no_annotation
+1066,1066,1066,GerDracor/schlegel-jon.xml,"Mein bist du, das beteur' ich, nicht beim schwarzen Styx,
+              Bei meiner Roßhufquelle Silbersprudeln dir.",192,307,character_speech,5,4,,APOLLO.,#apollo,387.0,MALE,abhorrence,S,,1802.0,negative,emotions of rejection
+1067,1067,1067,GerDracor/schlegel-jon.xml,"Drum schau' ins Antlitz kühn mir, wie des Adlers Sohn
+              Den jungen Fittich gleich der Sonn' entgegenschwingt,
+              Und dieser Leier unverstimmbar reinen Klang,
+              Hall' ihn in deines Lebens Harmonien nach.",322,559,character_speech,5,4,,APOLLO.,#apollo,387.0,MALE,"admiration, reverence",S,,1802.0,positive,emotions of affection
+1068,1068,1068,GerDracor/schlegel-jon.xml,"Empfang' ihn du, Kreusa, wohl bewahrt zurück,
+              Der schönen Lust Andenken, die mich noch entzückt,
+              Denn unvergänglich ist der Dank der Himmlischen.",574,747,character_speech,5,4,,APOLLO.,#apollo,387.0,MALE,joy,S,,1802.0,positive,emotions of pleasure
+1069,1069,1069,GerDracor/schlegel-jon.xml,"Flicht, lang noch blühend, um dein glorreich Diadem
+              Lorbeer zusammen mit des Ölbaums eignem Laub.",762,873,character_speech,5,4,,APOLLO.,#apollo,387.0,MALE,abhorrence,S,,1802.0,negative,emotions of rejection
+1070,1070,1070,GerDracor/schlegel-jon.xml,"Du, Xuthus, wirst das holde Lager nicht verschmähn
+              Ob meiner offenbarten Mitgenossenschaft.",888,993,character_speech,5,4,,APOLLO.,#apollo,387.0,MALE,friendship,S,,1802.0,positive,emotions of affection
+1071,1071,1071,GerDracor/schlegel-jon.xml,"Gottgleiche Schönheit lockte Götter oft ja schon
+              Zu nahn in Liebe; so entsproß Heroenkraft.",1008,1113,character_speech,5,4,,APOLLO.,#apollo,387.0,MALE,"admiration, reverence",S,,1802.0,positive,emotions of affection
+1072,1072,1072,GerDracor/schlegel-jon.xml,"Sei Jons Vater, wie dein Ahn Deukalion
+              Mit Zeus gemeinsam Vater deines Vaters hieß.",1128,1225,character_speech,5,4,,APOLLO.,#apollo,387.0,MALE,no_annotation,S,,1802.0,no_annotation,no_annotation
+1073,1073,1073,GerDracor/schlegel-jon.xml,"Eh' das Gestirn den Jahresumlauf noch vollbringt,
+              Trägt einen zweiten Sprößling deiner Gattin Schoß,
+               Den nenn' Achäus: hochgewaltig wird sein Ruhm
+              In Pelops Eiland; unsers Erstlings Nam' und Volk
+              Soll aus Athen aufblühen weit nach Asien.",1240,1534,character_speech,5,4,,APOLLO.,#apollo,387.0,MALE,no_annotation,S,,1802.0,no_annotation,no_annotation
+1074,1074,1074,GerDracor/schlegel-jon.xml,"Nun feiert mit Päanen dieses Tages Rest,
+              Und kehret friedeselig morgen alle heim.",1549,1644,character_speech,5,4,,APOLLO.,#apollo,387.0,MALE,no_annotation,S,,1802.0,no_annotation,no_annotation
+1075,1075,1075,GerDracor/schlegel-jon.xml,"Gedenkt, mir gastbefreundet, fern an Delphi noch,
+              Der sonnumstrahlten Erde Mittelsitz und Thron.",1659,1769,character_speech,5,4,,APOLLO.,#apollo,387.0,MALE,no_annotation,S,,1802.0,no_annotation,no_annotation
+1076,1076,1076,GerDracor/schlegel-jon.xml,Der Vorhang fällt unter Donner und Blitz.,0,41,stage_direction,5,4,speech_part,,#apollo,387.0,MALE,being moved,S,,1802.0,being moved,being moved

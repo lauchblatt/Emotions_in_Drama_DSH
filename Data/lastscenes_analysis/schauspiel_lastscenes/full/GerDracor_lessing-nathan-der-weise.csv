@@ -1,0 +1,420 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,pre1_base_polarity,pre1_main_emotion_class
+3768,3768,3768,GerDracor/lessing-nathan-der-weise.xml,Nathan und der Tempelherr zu den Vorigen.,0,41,stage_direction,5,8,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+3769,3769,3769,GerDracor/lessing-nathan-der-weise.xml,"
+              Ah, meine guten lieben Freunde!",0,46,character_speech,5,8,,SALADIN.,#saladin,1242.0,MALE,no_annotation,no_annotation,no_annotation
+3770,3770,3770,GerDracor/lessing-nathan-der-weise.xml,"– Dich,
+              Dich, Nathan, muß ich nur vor allen Dingen
+              Bedeuten, daß du nun, sobald du willst,
+              Dein Geld kannst wiederholen lassen!",47,216,character_speech,5,8,,SALADIN.,#saladin,1242.0,MALE,joy,positive,emotions of pleasure
+3771,3771,3771,GerDracor/lessing-nathan-der-weise.xml,...,217,220,character_speech,5,8,,SALADIN.,#saladin,1242.0,MALE,no_annotation,no_annotation,no_annotation
+3772,3772,3772,GerDracor/lessing-nathan-der-weise.xml,Sultan!,0,7,character_speech,5,8,,NATHAN.,#nathan,1243.0,MALE,no_annotation,no_annotation,no_annotation
+3773,3773,3773,GerDracor/lessing-nathan-der-weise.xml,...,8,11,character_speech,5,8,,NATHAN.,#nathan,1243.0,MALE,no_annotation,no_annotation,no_annotation
+3774,3774,3774,GerDracor/lessing-nathan-der-weise.xml,Nun steh ich auch zu deinen Diensten ...,0,40,character_speech,5,8,,SALADIN.,#saladin,1244.0,MALE,"admiration, reverence",positive,emotions of affection
+3775,3775,3775,GerDracor/lessing-nathan-der-weise.xml,Sultan!,0,7,character_speech,5,8,,NATHAN.,#nathan,1245.0,MALE,no_annotation,no_annotation,no_annotation
+3776,3776,3776,GerDracor/lessing-nathan-der-weise.xml,...,8,11,character_speech,5,8,,NATHAN.,#nathan,1245.0,MALE,no_annotation,no_annotation,no_annotation
+3777,3777,3777,GerDracor/lessing-nathan-der-weise.xml,"
+              Die Karawan' ist da.",0,35,character_speech,5,8,,SALADIN.,#saladin,1246.0,MALE,no_annotation,no_annotation,no_annotation
+3778,3778,3778,GerDracor/lessing-nathan-der-weise.xml,"Ich bin so reich
+              Nun wieder, als ich lange nicht gewesen.",36,107,character_speech,5,8,,SALADIN.,#saladin,1246.0,MALE,joy,positive,emotions of pleasure
+3779,3779,3779,GerDracor/lessing-nathan-der-weise.xml,"–
+              Komm, sag' mir, was du brauchst, so recht was Großes
+              Zu unternehmen!",108,206,character_speech,5,8,,SALADIN.,#saladin,1246.0,MALE,no_annotation,no_annotation,no_annotation
+3780,3780,3780,GerDracor/lessing-nathan-der-weise.xml,"Denn auch ihr, auch ihr,
+              Ihr Handelsleute, könnt des baren Geldes
+              Zu viel nie haben!",207,319,character_speech,5,8,,SALADIN.,#saladin,1246.0,MALE,suffering,negative,emotions of suffering and empathy
+3781,3781,3781,GerDracor/lessing-nathan-der-weise.xml,"
+              Und warum zuerst
+              Von dieser Kleinigkeit?",0,69,character_speech,5,8,,NATHAN.,#nathan,1247.0,MALE,no_annotation,no_annotation,no_annotation
+3782,3782,3782,GerDracor/lessing-nathan-der-weise.xml,"– Ich sehe dort
+              Ein Aug' in Tränen, das zu trocknen, mir
+              Weit angelegner ist.",70,175,character_speech,5,8,,NATHAN.,#nathan,1247.0,MALE,suffering,negative,emotions of suffering and empathy
+3783,3783,3783,GerDracor/lessing-nathan-der-weise.xml,Geht auf Recha zu.,0,18,stage_direction,5,8,speech_part,,#nathan,1247.0,MALE,no_annotation,no_annotation,no_annotation
+3784,3784,3784,GerDracor/lessing-nathan-der-weise.xml,"
+              Du hast geweint?",0,31,character_speech,5,8,,NATHAN.,#nathan,1247.0,MALE,suffering,negative,emotions of suffering and empathy
+3785,3785,3785,GerDracor/lessing-nathan-der-weise.xml,Was fehlt dir?,46,60,character_speech,5,8,,NATHAN.,#nathan,1247.0,MALE,no_annotation,no_annotation,no_annotation
+3786,3786,3786,GerDracor/lessing-nathan-der-weise.xml,– bist doch meine Tochter noch?,61,92,character_speech,5,8,,NATHAN.,#nathan,1247.0,MALE,being moved,being moved,being moved
+3787,3787,3787,GerDracor/lessing-nathan-der-weise.xml,Mein Vater!,0,11,character_speech,5,8,,RECHA.,#recha,1248.0,FEMALE,being moved,being moved,being moved
+3788,3788,3788,GerDracor/lessing-nathan-der-weise.xml,...,12,15,character_speech,5,8,,RECHA.,#recha,1248.0,FEMALE,no_annotation,no_annotation,no_annotation
+3789,3789,3789,GerDracor/lessing-nathan-der-weise.xml,"
+              Wir verstehen uns.",0,33,character_speech,5,8,,NATHAN.,#nathan,1249.0,MALE,no_annotation,no_annotation,no_annotation
+3790,3790,3790,GerDracor/lessing-nathan-der-weise.xml,Genug!,34,40,character_speech,5,8,,NATHAN.,#nathan,1249.0,MALE,no_annotation,no_annotation,no_annotation
+3791,3791,3791,GerDracor/lessing-nathan-der-weise.xml,"–
+              Sei heiter!",41,68,character_speech,5,8,,NATHAN.,#nathan,1249.0,MALE,no_annotation,no_annotation,no_annotation
+3792,3792,3792,GerDracor/lessing-nathan-der-weise.xml,Sei gefaßt!,69,80,character_speech,5,8,,NATHAN.,#nathan,1249.0,MALE,fear,negative,emotions of anxiety
+3793,3793,3793,GerDracor/lessing-nathan-der-weise.xml,"Wenn sonst dein Herz
+              Nur dein noch ist!",81,134,character_speech,5,8,,NATHAN.,#nathan,1249.0,MALE,love,positive,emotions of affection
+3794,3794,3794,GerDracor/lessing-nathan-der-weise.xml,"Wenn deinem Herzen sonst
+              Nur kein Verlust nicht droht!",135,203,character_speech,5,8,,NATHAN.,#nathan,1249.0,MALE,love,positive,emotions of affection
+3795,3795,3795,GerDracor/lessing-nathan-der-weise.xml,"– Dein Vater ist
+              Dir unverloren!",204,250,character_speech,5,8,,NATHAN.,#nathan,1249.0,MALE,no_annotation,no_annotation,no_annotation
+3796,3796,3796,GerDracor/lessing-nathan-der-weise.xml,"Keiner, keiner sonst!",0,21,character_speech,5,8,,RECHA.,#recha,1250.0,FEMALE,abhorrence,negative,emotions of rejection
+3797,3797,3797,GerDracor/lessing-nathan-der-weise.xml,"
+              Sonst keiner?",0,28,character_speech,5,8,,TEMPELHERR.,#tempelherr,1251.0,MALE,no_annotation,no_annotation,no_annotation
+3798,3798,3798,GerDracor/lessing-nathan-der-weise.xml,– Nun!,29,35,character_speech,5,8,,TEMPELHERR.,#tempelherr,1251.0,MALE,no_annotation,no_annotation,no_annotation
+3799,3799,3799,GerDracor/lessing-nathan-der-weise.xml,so hab' ich mich betrogen.,36,62,character_speech,5,8,,TEMPELHERR.,#tempelherr,1251.0,MALE,suffering,negative,emotions of suffering and empathy
+3800,3800,3800,GerDracor/lessing-nathan-der-weise.xml,"Was man nicht zu verlieren fürchtet, hat
+              Man zu besitzen nie geglaubt, und nie
+              Gewünscht.",77,194,character_speech,5,8,,TEMPELHERR.,#tempelherr,1251.0,MALE,fear,negative,emotions of anxiety
+3801,3801,3801,GerDracor/lessing-nathan-der-weise.xml,– Recht wohl!,195,208,character_speech,5,8,,TEMPELHERR.,#tempelherr,1251.0,MALE,no_annotation,no_annotation,no_annotation
+3802,3802,3802,GerDracor/lessing-nathan-der-weise.xml,recht wohl!,209,220,character_speech,5,8,,TEMPELHERR.,#tempelherr,1251.0,MALE,no_annotation,no_annotation,no_annotation
+3803,3803,3803,GerDracor/lessing-nathan-der-weise.xml,"– Das ändert, Nathan,
+              Das ändert alles!",221,274,character_speech,5,8,,TEMPELHERR.,#tempelherr,1251.0,MALE,no_annotation,no_annotation,no_annotation
+3804,3804,3804,GerDracor/lessing-nathan-der-weise.xml,"– Saladin, wir kamen
+              Auf dein Geheiß.",275,326,character_speech,5,8,,TEMPELHERR.,#tempelherr,1251.0,MALE,no_annotation,no_annotation,no_annotation
+3805,3805,3805,GerDracor/lessing-nathan-der-weise.xml,"Allein, ich hatte dich
+              Verleitet: itzt bemüh dich nur nicht weiter!",327,408,character_speech,5,8,,TEMPELHERR.,#tempelherr,1251.0,MALE,no_annotation,no_annotation,no_annotation
+3806,3806,3806,GerDracor/lessing-nathan-der-weise.xml,"
+              Wie gach nun wieder, junger Mann!",0,48,character_speech,5,8,,SALADIN.,#saladin,1252.0,MALE,no_annotation,no_annotation,no_annotation
+3807,3807,3807,GerDracor/lessing-nathan-der-weise.xml,"– Soll alles
+              Dir denn entgegen kommen?",49,101,character_speech,5,8,,SALADIN.,#saladin,1252.0,MALE,no_annotation,no_annotation,no_annotation
+3808,3808,3808,GerDracor/lessing-nathan-der-weise.xml,"alles dich
+              Erraten?",102,135,character_speech,5,8,,SALADIN.,#saladin,1252.0,MALE,no_annotation,no_annotation,no_annotation
+3809,3809,3809,GerDracor/lessing-nathan-der-weise.xml,Nun du hörst ja!,0,16,character_speech,5,8,,TEMPELHERR.,#tempelherr,1253.0,MALE,no_annotation,no_annotation,no_annotation
+3810,3810,3810,GerDracor/lessing-nathan-der-weise.xml,"siehst ja, Sultan!",17,35,character_speech,5,8,,TEMPELHERR.,#tempelherr,1253.0,MALE,joy,positive,emotions of pleasure
+3811,3811,3811,GerDracor/lessing-nathan-der-weise.xml,"
+              Ei wahrlich!",0,27,character_speech,5,8,,SALADIN.,#saladin,1254.0,MALE,no_annotation,no_annotation,no_annotation
+3812,3812,3812,GerDracor/lessing-nathan-der-weise.xml,"– Schlimm genug, daß deiner Sache
+              Du nicht gewisser warst!",28,100,character_speech,5,8,,SALADIN.,#saladin,1254.0,MALE,suffering,negative,emotions of suffering and empathy
+3813,3813,3813,GerDracor/lessing-nathan-der-weise.xml,So bin ichs nun.,0,16,character_speech,5,8,,TEMPELHERR.,#tempelherr,1255.0,MALE,no_annotation,no_annotation,no_annotation
+3814,3814,3814,GerDracor/lessing-nathan-der-weise.xml,"
+              Wer so auf irgend eine Wohltat trotzt,
+              Nimmt sie zurück.",0,85,character_speech,5,8,,SALADIN.,#saladin,1256.0,MALE,no_annotation,no_annotation,no_annotation
+3815,3815,3815,GerDracor/lessing-nathan-der-weise.xml,"Was du gerettet, ist
+              Deswegen nicht dein Eigentum.",86,150,character_speech,5,8,,SALADIN.,#saladin,1256.0,MALE,no_annotation,no_annotation,no_annotation
+3816,3816,3816,GerDracor/lessing-nathan-der-weise.xml,"Sonst wär'
+              Der Räuber, den sein Geiz ins Feuer jagt,
+              So gut ein Held, wie du!",151,256,character_speech,5,8,,SALADIN.,#saladin,1256.0,MALE,abhorrence,negative,emotions of rejection
+3817,3817,3817,GerDracor/lessing-nathan-der-weise.xml,"
+              Komm, liebes Mädchen,
+              Komm!",0,56,character_speech,5,8,,SALADIN.,#saladin,1256.0,MALE,compassion,negative,emotions of suffering and empathy
+3818,3818,3818,GerDracor/lessing-nathan-der-weise.xml,Nimms mit ihm nicht so genau.,57,86,character_speech,5,8,,SALADIN.,#saladin,1256.0,MALE,no_annotation,no_annotation,no_annotation
+3819,3819,3819,GerDracor/lessing-nathan-der-weise.xml,"Denn wär'
+              Er anders; wär' er minder warm und stolz:
+              Er hätt' es bleiben lassen, dich zu retten.",87,210,character_speech,5,8,,SALADIN.,#saladin,1256.0,MALE,abhorrence,negative,emotions of rejection
+3820,3820,3820,GerDracor/lessing-nathan-der-weise.xml,Du mußt ihm eins fürs andre rechnen.,225,261,character_speech,5,8,,SALADIN.,#saladin,1256.0,MALE,no_annotation,no_annotation,no_annotation
+3821,3821,3821,GerDracor/lessing-nathan-der-weise.xml,– Komm!,262,269,character_speech,5,8,,SALADIN.,#saladin,1256.0,MALE,no_annotation,no_annotation,no_annotation
+3822,3822,3822,GerDracor/lessing-nathan-der-weise.xml,Beschäm ihn!,284,296,character_speech,5,8,,SALADIN.,#saladin,1256.0,MALE,compassion,negative,emotions of suffering and empathy
+3823,3823,3823,GerDracor/lessing-nathan-der-weise.xml,"tu, was ihm zu tun geziemte!",297,325,character_speech,5,8,,SALADIN.,#saladin,1256.0,MALE,no_annotation,no_annotation,no_annotation
+3824,3824,3824,GerDracor/lessing-nathan-der-weise.xml,Bekenn' ihm deine Liebe!,340,364,character_speech,5,8,,SALADIN.,#saladin,1256.0,MALE,love,positive,emotions of affection
+3825,3825,3825,GerDracor/lessing-nathan-der-weise.xml,trage dich ihm an!,365,383,character_speech,5,8,,SALADIN.,#saladin,1256.0,MALE,no_annotation,no_annotation,no_annotation
+3826,3826,3826,GerDracor/lessing-nathan-der-weise.xml,"Und wenn er dich verschmäht; dirs je vergißt,
+              Wie ungleich mehr in diesem Schritte du
+              Für ihn getan, als er für dich ... Was hat
+              Er denn für dich getan?",398,592,character_speech,5,8,,SALADIN.,#saladin,1256.0,MALE,no_annotation,no_annotation,no_annotation
+3827,3827,3827,GerDracor/lessing-nathan-der-weise.xml,"Ein wenig sich
+              Beräuchern lassen!",593,640,character_speech,5,8,,SALADIN.,#saladin,1256.0,MALE,no_annotation,no_annotation,no_annotation
+3828,3828,3828,GerDracor/lessing-nathan-der-weise.xml,ist was Rechts!,641,656,character_speech,5,8,,SALADIN.,#saladin,1256.0,MALE,no_annotation,no_annotation,no_annotation
+3829,3829,3829,GerDracor/lessing-nathan-der-weise.xml,"– so hat
+              Er meines Bruders, meines Assad, nichts!",657,720,character_speech,5,8,,SALADIN.,#saladin,1256.0,MALE,love,positive,emotions of affection
+3830,3830,3830,GerDracor/lessing-nathan-der-weise.xml,"So trägt er seine Larve, nicht sein Herz.",735,776,character_speech,5,8,,SALADIN.,#saladin,1256.0,MALE,love,positive,emotions of affection
+3831,3831,3831,GerDracor/lessing-nathan-der-weise.xml,"Komm, Liebe ...",791,806,character_speech,5,8,,SALADIN.,#saladin,1256.0,MALE,love,positive,emotions of affection
+3832,3832,3832,GerDracor/lessing-nathan-der-weise.xml,"
+              Geh!",0,19,character_speech,5,8,,SITTAH.,#sittah,1257.0,FEMALE,no_annotation,no_annotation,no_annotation
+3833,3833,3833,GerDracor/lessing-nathan-der-weise.xml,"geh, Liebe, geh!",20,36,character_speech,5,8,,SITTAH.,#sittah,1257.0,FEMALE,love,positive,emotions of affection
+3834,3834,3834,GerDracor/lessing-nathan-der-weise.xml,"Es ist
+              Für deine Dankbarkeit noch immer wenig;
+              Noch immer nichts.",37,130,character_speech,5,8,,SITTAH.,#sittah,1257.0,FEMALE,suffering,negative,emotions of suffering and empathy
+3835,3835,3835,GerDracor/lessing-nathan-der-weise.xml,Halt Saladin!,0,13,character_speech,5,8,,NATHAN.,#nathan,1258.0,MALE,no_annotation,no_annotation,no_annotation
+3836,3836,3836,GerDracor/lessing-nathan-der-weise.xml,halt Sittah!,14,26,character_speech,5,8,,NATHAN.,#nathan,1258.0,MALE,being moved,being moved,being moved
+3837,3837,3837,GerDracor/lessing-nathan-der-weise.xml,Auch du?,0,8,character_speech,5,8,,SALADIN.,#saladin,1259.0,MALE,no_annotation,no_annotation,no_annotation
+3838,3838,3838,GerDracor/lessing-nathan-der-weise.xml,Hier hat noch einer mit zu sprechen ...,0,39,character_speech,5,8,,NATHAN.,#nathan,1260.0,MALE,no_annotation,no_annotation,no_annotation
+3839,3839,3839,GerDracor/lessing-nathan-der-weise.xml,"
+              Wer leugnet das?",0,31,character_speech,5,8,,SALADIN.,#saladin,1261.0,MALE,no_annotation,no_annotation,no_annotation
+3840,3840,3840,GerDracor/lessing-nathan-der-weise.xml,"– Unstreitig, Nathan, kömmt
+              So einem Pflegevater eine Stimme
+              Mit zu!",32,128,character_speech,5,8,,SALADIN.,#saladin,1261.0,MALE,no_annotation,no_annotation,no_annotation
+3841,3841,3841,GerDracor/lessing-nathan-der-weise.xml,"Die erste, wenn du willst.",129,155,character_speech,5,8,,SALADIN.,#saladin,1261.0,MALE,no_annotation,no_annotation,no_annotation
+3842,3842,3842,GerDracor/lessing-nathan-der-weise.xml,"– Du hörst,
+              Ich weiß der Sache ganze Lage.",156,212,character_speech,5,8,,SALADIN.,#saladin,1261.0,MALE,no_annotation,no_annotation,no_annotation
+3843,3843,3843,GerDracor/lessing-nathan-der-weise.xml,"
+              Nicht so ganz!",0,29,character_speech,5,8,,NATHAN.,#nathan,1262.0,MALE,no_annotation,no_annotation,no_annotation
+3844,3844,3844,GerDracor/lessing-nathan-der-weise.xml,"–
+              Ich rede nicht von mir.",30,69,character_speech,5,8,,NATHAN.,#nathan,1262.0,MALE,no_annotation,no_annotation,no_annotation
+3845,3845,3845,GerDracor/lessing-nathan-der-weise.xml,"Es ist ein andrer;
+              Weit, weit ein andrer, den ich, Saladin,
+              Doch auch vorher zu hören bitte.",70,190,character_speech,5,8,,NATHAN.,#nathan,1262.0,MALE,no_annotation,no_annotation,no_annotation
+3846,3846,3846,GerDracor/lessing-nathan-der-weise.xml,Wer?,0,4,character_speech,5,8,,SALADIN.,#saladin,1263.0,MALE,no_annotation,no_annotation,no_annotation
+3847,3847,3847,GerDracor/lessing-nathan-der-weise.xml,Ihr Bruder!,0,11,character_speech,5,8,,NATHAN.,#nathan,1264.0,MALE,being moved,being moved,being moved
+3848,3848,3848,GerDracor/lessing-nathan-der-weise.xml,Rechas Bruder?,0,14,character_speech,5,8,,SALADIN.,#saladin,1265.0,MALE,no_annotation,no_annotation,no_annotation
+3849,3849,3849,GerDracor/lessing-nathan-der-weise.xml,Ja!,0,3,character_speech,5,8,,NATHAN.,#nathan,1266.0,MALE,no_annotation,no_annotation,no_annotation
+3850,3850,3850,GerDracor/lessing-nathan-der-weise.xml,"
+              Mein Bruder?",0,27,character_speech,5,8,,RECHA.,#recha,1267.0,FEMALE,being moved,being moved,being moved
+3851,3851,3851,GerDracor/lessing-nathan-der-weise.xml,So hab ich einen Bruder?,42,66,character_speech,5,8,,RECHA.,#recha,1267.0,FEMALE,being moved,being moved,being moved
+3852,3852,3852,GerDracor/lessing-nathan-der-weise.xml,aus seiner wilden stummen Zerstreuung auffahrend.,0,49,stage_direction,5,8,speech_part,,#tempelherr,1268.0,MALE,being moved,being moved,being moved
+3853,3853,3853,GerDracor/lessing-nathan-der-weise.xml,"
+               Wo?",0,19,character_speech,5,8,,TEMPELHERR,#tempelherr,1268.0,MALE,no_annotation,no_annotation,no_annotation
+3854,3854,3854,GerDracor/lessing-nathan-der-weise.xml,"wo ist
+              Er, dieser Bruder?",20,59,character_speech,5,8,,TEMPELHERR,#tempelherr,1268.0,MALE,no_annotation,no_annotation,no_annotation
+3855,3855,3855,GerDracor/lessing-nathan-der-weise.xml,Noch nicht hier?,60,76,character_speech,5,8,,TEMPELHERR,#tempelherr,1268.0,MALE,no_annotation,no_annotation,no_annotation
+3856,3856,3856,GerDracor/lessing-nathan-der-weise.xml,"Ich sollt'
+              Ihn hier ja treffen.",77,122,character_speech,5,8,,TEMPELHERR,#tempelherr,1268.0,MALE,no_annotation,no_annotation,no_annotation
+3857,3857,3857,GerDracor/lessing-nathan-der-weise.xml,Nur Geduld!,0,11,character_speech,5,8,,NATHAN.,#nathan,1269.0,MALE,no_annotation,no_annotation,no_annotation
+3858,3858,3858,GerDracor/lessing-nathan-der-weise.xml,äußerst bitter.,0,15,stage_direction,5,8,speech_part,,#tempelherr,1270.0,MALE,abhorrence,negative,emotions of rejection
+3859,3859,3859,GerDracor/lessing-nathan-der-weise.xml,"
+              Er hat
+              Ihr einen Vater aufgebunden: – wird
+              Er keinen Bruder für sie finden?",0,118,character_speech,5,8,,TEMPELHERR,#tempelherr,1270.0,MALE,no_annotation,no_annotation,no_annotation
+3860,3860,3860,GerDracor/lessing-nathan-der-weise.xml,"
+              Das
+              Hat noch gefehlt!",0,50,character_speech,5,8,,SALADIN.,#saladin,1271.0,MALE,joy,positive,emotions of pleasure
+3861,3861,3861,GerDracor/lessing-nathan-der-weise.xml,Christ!,51,58,character_speech,5,8,,SALADIN.,#saladin,1271.0,MALE,no_annotation,no_annotation,no_annotation
+3862,3862,3862,GerDracor/lessing-nathan-der-weise.xml,"ein so niedriger
+              Verdacht wär über Assads Lippen nicht
+              Gekommen.",59,151,character_speech,5,8,,SALADIN.,#saladin,1271.0,MALE,no_annotation,no_annotation,no_annotation
+3863,3863,3863,GerDracor/lessing-nathan-der-weise.xml,– Gut!,152,158,character_speech,5,8,,SALADIN.,#saladin,1271.0,MALE,no_annotation,no_annotation,no_annotation
+3864,3864,3864,GerDracor/lessing-nathan-der-weise.xml,fahr nur so fort!,159,176,character_speech,5,8,,SALADIN.,#saladin,1271.0,MALE,no_annotation,no_annotation,no_annotation
+3865,3865,3865,GerDracor/lessing-nathan-der-weise.xml,"
+              Verzeih
+              Ihm!",0,41,character_speech,5,8,,NATHAN.,#nathan,1272.0,MALE,no_annotation,no_annotation,no_annotation
+3866,3866,3866,GerDracor/lessing-nathan-der-weise.xml,– Ich verzeih ihm gern.,42,65,character_speech,5,8,,NATHAN.,#nathan,1272.0,MALE,no_annotation,no_annotation,no_annotation
+3867,3867,3867,GerDracor/lessing-nathan-der-weise.xml,"– Wer weiß, was wir
+              An seiner Stell', in seinem Alter dächten!",66,142,character_speech,5,8,,NATHAN.,#nathan,1272.0,MALE,no_annotation,no_annotation,no_annotation
+3868,3868,3868,GerDracor/lessing-nathan-der-weise.xml,Freundschaftlich auf ihn zugehend.,0,34,stage_direction,5,8,speech_part,,#nathan,1272.0,MALE,friendship,positive,emotions of affection
+3869,3869,3869,GerDracor/lessing-nathan-der-weise.xml,"
+              Natürlich, Ritter!",0,33,character_speech,5,8,,NATHAN.,#nathan,1272.0,MALE,no_annotation,no_annotation,no_annotation
+3870,3870,3870,GerDracor/lessing-nathan-der-weise.xml,– Argwohn folgt auf Mißtraun!,34,63,character_speech,5,8,,NATHAN.,#nathan,1272.0,MALE,no_annotation,no_annotation,no_annotation
+3871,3871,3871,GerDracor/lessing-nathan-der-weise.xml,"–
+              Wenn Ihr mich Euers wahren Namens gleich
+              Gewürdigt hättet ...",64,155,character_speech,5,8,,NATHAN.,#nathan,1272.0,MALE,no_annotation,no_annotation,no_annotation
+3872,3872,3872,GerDracor/lessing-nathan-der-weise.xml,Wie?,0,4,character_speech,5,8,,TEMPELHERR.,#tempelherr,1273.0,MALE,no_annotation,no_annotation,no_annotation
+3873,3873,3873,GerDracor/lessing-nathan-der-weise.xml,Ihr seid kein Stauffen!,0,23,character_speech,5,8,,NATHAN.,#nathan,1274.0,MALE,anger,negative,emotions of rejection
+3874,3874,3874,GerDracor/lessing-nathan-der-weise.xml,Wer bin ich denn?,0,17,character_speech,5,8,,TEMPELHERR.,#tempelherr,1275.0,MALE,being moved,being moved,being moved
+3875,3875,3875,GerDracor/lessing-nathan-der-weise.xml,Heißt Curd von Stauffen nicht!,0,30,character_speech,5,8,,NATHAN.,#nathan,1276.0,MALE,no_annotation,no_annotation,no_annotation
+3876,3876,3876,GerDracor/lessing-nathan-der-weise.xml,Wie heiß ich denn?,0,18,character_speech,5,8,,TEMPELHERR.,#tempelherr,1277.0,MALE,being moved,being moved,being moved
+3877,3877,3877,GerDracor/lessing-nathan-der-weise.xml,Heißt Leu von Filneck.,0,22,character_speech,5,8,,NATHAN.,#nathan,1278.0,MALE,no_annotation,no_annotation,no_annotation
+3878,3878,3878,GerDracor/lessing-nathan-der-weise.xml,Wie?,0,4,character_speech,5,8,,TEMPELHERR.,#tempelherr,1279.0,MALE,no_annotation,no_annotation,no_annotation
+3879,3879,3879,GerDracor/lessing-nathan-der-weise.xml,Ihr stutzt?,0,11,character_speech,5,8,,NATHAN.,#nathan,1280.0,MALE,being moved,being moved,being moved
+3880,3880,3880,GerDracor/lessing-nathan-der-weise.xml,Mit Recht!,0,10,character_speech,5,8,,TEMPELHERR.,#tempelherr,1281.0,MALE,no_annotation,no_annotation,no_annotation
+3881,3881,3881,GerDracor/lessing-nathan-der-weise.xml,Wer sagt das?,11,24,character_speech,5,8,,TEMPELHERR.,#tempelherr,1281.0,MALE,no_annotation,no_annotation,no_annotation
+3882,3882,3882,GerDracor/lessing-nathan-der-weise.xml,"
+              Ich; der mehr,
+              Noch mehr Euch sagen kann.",0,70,character_speech,5,8,,NATHAN.,#nathan,1282.0,MALE,no_annotation,no_annotation,no_annotation
+3883,3883,3883,GerDracor/lessing-nathan-der-weise.xml,"Ich straf' indes
+              Euch keiner Lüge.",71,119,character_speech,5,8,,NATHAN.,#nathan,1282.0,MALE,no_annotation,no_annotation,no_annotation
+3884,3884,3884,GerDracor/lessing-nathan-der-weise.xml,Nicht?,0,6,character_speech,5,8,,TEMPELHERR.,#tempelherr,1283.0,MALE,no_annotation,no_annotation,no_annotation
+3885,3885,3885,GerDracor/lessing-nathan-der-weise.xml,"
+              Kann doch wohl sein,
+              Daß jener Nam' Euch ebenfalls gebührt.",0,88,character_speech,5,8,,NATHAN.,#nathan,1284.0,MALE,"admiration, reverence",positive,emotions of affection
+3886,3886,3886,GerDracor/lessing-nathan-der-weise.xml,Das sollt ich meinen!,0,21,character_speech,5,8,,TEMPELHERR.,#tempelherr,1285.0,MALE,no_annotation,no_annotation,no_annotation
+3887,3887,3887,GerDracor/lessing-nathan-der-weise.xml,– (Das hieß Gott ihn sprechen!),22,53,character_speech,5,8,,TEMPELHERR.,#tempelherr,1285.0,MALE,no_annotation,no_annotation,no_annotation
+3888,3888,3888,GerDracor/lessing-nathan-der-weise.xml,"
+              Denn Eure Mutter – die war eine Stauffin.",0,56,character_speech,5,8,,NATHAN.,#nathan,1286.0,MALE,no_annotation,no_annotation,no_annotation
+3889,3889,3889,GerDracor/lessing-nathan-der-weise.xml,"Ihr Bruder, Euer Ohm, der Euch erzogen,
+              Dem Eure Eltern Euch in Deutschland ließen,
+              Als, von dem rauhen Himmel dort vertrieben,
+              Sie wieder hier zu Lande kamen: – Der
+              Hieß Curd von Stauffen; mag an Kindesstatt
+              Vielleicht Euch angenommen haben!",72,384,character_speech,5,8,,NATHAN.,#nathan,1286.0,MALE,"admiration, reverence",positive,emotions of affection
+3890,3890,3890,GerDracor/lessing-nathan-der-weise.xml,"– Seid
+              Ihr lange schon mit ihm nun auch herüber
+              Gekommen?",385,470,character_speech,5,8,,NATHAN.,#nathan,1286.0,MALE,no_annotation,no_annotation,no_annotation
+3891,3891,3891,GerDracor/lessing-nathan-der-weise.xml,Und er lebt doch noch?,471,493,character_speech,5,8,,NATHAN.,#nathan,1286.0,MALE,being moved,being moved,being moved
+3892,3892,3892,GerDracor/lessing-nathan-der-weise.xml,"
+              Was soll
+              Ich sagen?",0,48,character_speech,5,8,,TEMPELHERR.,#tempelherr,1287.0,MALE,no_annotation,no_annotation,no_annotation
+3893,3893,3893,GerDracor/lessing-nathan-der-weise.xml,– Nathan!,49,58,character_speech,5,8,,TEMPELHERR.,#tempelherr,1287.0,MALE,no_annotation,no_annotation,no_annotation
+3894,3894,3894,GerDracor/lessing-nathan-der-weise.xml,– Allerdings!,59,72,character_speech,5,8,,TEMPELHERR.,#tempelherr,1287.0,MALE,no_annotation,no_annotation,no_annotation
+3895,3895,3895,GerDracor/lessing-nathan-der-weise.xml,So ists!,73,81,character_speech,5,8,,TEMPELHERR.,#tempelherr,1287.0,MALE,no_annotation,no_annotation,no_annotation
+3896,3896,3896,GerDracor/lessing-nathan-der-weise.xml,Er selbst ist tot.,96,114,character_speech,5,8,,TEMPELHERR.,#tempelherr,1287.0,MALE,no_annotation,no_annotation,no_annotation
+3897,3897,3897,GerDracor/lessing-nathan-der-weise.xml,"Ich kam erst mit der letzten
+              Verstärkung unsers Ordens.",115,184,character_speech,5,8,,TEMPELHERR.,#tempelherr,1287.0,MALE,no_annotation,no_annotation,no_annotation
+3898,3898,3898,GerDracor/lessing-nathan-der-weise.xml,"– Aber, aber –
+              Was hat mit diesem allen Rechas Bruder
+              Zu schaffen?",185,279,character_speech,5,8,,TEMPELHERR.,#tempelherr,1287.0,MALE,being moved,being moved,being moved
+3899,3899,3899,GerDracor/lessing-nathan-der-weise.xml,Euer Vater ...,0,14,character_speech,5,8,,NATHAN.,#nathan,1288.0,MALE,being moved,being moved,being moved
+3900,3900,3900,GerDracor/lessing-nathan-der-weise.xml,"
+              Wie?",0,19,character_speech,5,8,,TEMPELHERR.,#tempelherr,1289.0,MALE,no_annotation,no_annotation,no_annotation
+3901,3901,3901,GerDracor/lessing-nathan-der-weise.xml,"auch den
+              Habt Ihr gekannt?",20,60,character_speech,5,8,,TEMPELHERR.,#tempelherr,1289.0,MALE,no_annotation,no_annotation,no_annotation
+3902,3902,3902,GerDracor/lessing-nathan-der-weise.xml,Auch den?,61,70,character_speech,5,8,,TEMPELHERR.,#tempelherr,1289.0,MALE,no_annotation,no_annotation,no_annotation
+3903,3903,3903,GerDracor/lessing-nathan-der-weise.xml,Er war mein Freund.,0,19,character_speech,5,8,,NATHAN.,#nathan,1290.0,MALE,friendship,positive,emotions of affection
+3904,3904,3904,GerDracor/lessing-nathan-der-weise.xml,War Euer Freund?,0,16,character_speech,5,8,,TEMPELHERR.,#tempelherr,1291.0,MALE,no_annotation,no_annotation,no_annotation
+3905,3905,3905,GerDracor/lessing-nathan-der-weise.xml,"Ists möglich, Nathan!",17,38,character_speech,5,8,,TEMPELHERR.,#tempelherr,1291.0,MALE,being moved,being moved,being moved
+3906,3906,3906,GerDracor/lessing-nathan-der-weise.xml,...,39,42,character_speech,5,8,,TEMPELHERR.,#tempelherr,1291.0,MALE,no_annotation,no_annotation,no_annotation
+3907,3907,3907,GerDracor/lessing-nathan-der-weise.xml,"
+              Nannte
+              Sich Wolf von Filneck; aber war kein Deutscher ...",0,86,character_speech,5,8,,NATHAN.,#nathan,1292.0,MALE,no_annotation,no_annotation,no_annotation
+3908,3908,3908,GerDracor/lessing-nathan-der-weise.xml,Ihr wißt auch das?,0,18,character_speech,5,8,,TEMPELHERR.,#tempelherr,1293.0,MALE,no_annotation,no_annotation,no_annotation
+3909,3909,3909,GerDracor/lessing-nathan-der-weise.xml,"
+              War einer Deutschen nur
+              Vermählt; war Eurer Mutter nur nach Deutschland
+              Auf kurze Zeit gefolgt ...",0,141,character_speech,5,8,,NATHAN.,#nathan,1294.0,MALE,no_annotation,no_annotation,no_annotation
+3910,3910,3910,GerDracor/lessing-nathan-der-weise.xml,"
+              Nicht mehr!",0,26,character_speech,5,8,,TEMPELHERR.,#tempelherr,1295.0,MALE,no_annotation,no_annotation,no_annotation
+3911,3911,3911,GerDracor/lessing-nathan-der-weise.xml,"Ich bitt'
+              Euch!",27,56,character_speech,5,8,,TEMPELHERR.,#tempelherr,1295.0,MALE,no_annotation,no_annotation,no_annotation
+3912,3912,3912,GerDracor/lessing-nathan-der-weise.xml,– Aber Rechas Bruder?,57,78,character_speech,5,8,,TEMPELHERR.,#tempelherr,1295.0,MALE,no_annotation,no_annotation,no_annotation
+3913,3913,3913,GerDracor/lessing-nathan-der-weise.xml,Rechas Bruder ...,79,96,character_speech,5,8,,TEMPELHERR.,#tempelherr,1295.0,MALE,no_annotation,no_annotation,no_annotation
+3914,3914,3914,GerDracor/lessing-nathan-der-weise.xml,Seid Ihr!,0,9,character_speech,5,8,,NATHAN.,#nathan,1296.0,MALE,love,positive,emotions of affection
+3915,3915,3915,GerDracor/lessing-nathan-der-weise.xml,Ich?,0,4,character_speech,5,8,,TEMPELHERR.,#tempelherr,1297.0,MALE,being moved,being moved,being moved
+3916,3916,3916,GerDracor/lessing-nathan-der-weise.xml,ich ihr Bruder?,5,20,character_speech,5,8,,TEMPELHERR.,#tempelherr,1297.0,MALE,being moved,being moved,being moved
+3917,3917,3917,GerDracor/lessing-nathan-der-weise.xml,Er mein Bruder?,0,15,character_speech,5,8,,RECHA.,#recha,1298.0,FEMALE,being moved,being moved,being moved
+3918,3918,3918,GerDracor/lessing-nathan-der-weise.xml,Geschwister!,0,12,character_speech,5,8,,SITTAH.,#sittah,1299.0,FEMALE,no_annotation,no_annotation,no_annotation
+3919,3919,3919,GerDracor/lessing-nathan-der-weise.xml,Sie Geschwister!,0,16,character_speech,5,8,,SALADIN.,#saladin,1300.0,MALE,love,positive,emotions of affection
+3920,3920,3920,GerDracor/lessing-nathan-der-weise.xml,will auf ihn zu.,0,16,stage_direction,5,8,speech_part,,#recha,1301.0,FEMALE,no_annotation,no_annotation,no_annotation
+3921,3921,3921,GerDracor/lessing-nathan-der-weise.xml,Ah!,0,3,character_speech,5,8,,RECHA,#recha,1301.0,FEMALE,no_annotation,no_annotation,no_annotation
+3922,3922,3922,GerDracor/lessing-nathan-der-weise.xml,mein Bruder!,4,16,character_speech,5,8,,RECHA,#recha,1301.0,FEMALE,being moved,being moved,being moved
+3923,3923,3923,GerDracor/lessing-nathan-der-weise.xml,tritt zurück.,0,13,stage_direction,5,8,speech_part,,#tempelherr,1302.0,MALE,no_annotation,no_annotation,no_annotation
+3924,3924,3924,GerDracor/lessing-nathan-der-weise.xml,Ihr Bruder!,0,11,character_speech,5,8,,TEMPELHERR,#tempelherr,1302.0,MALE,being moved,being moved,being moved
+3925,3925,3925,GerDracor/lessing-nathan-der-weise.xml,"hält an, und wendet sich zu Nathan.",0,35,stage_direction,5,8,speech_part,,#recha,1303.0,FEMALE,no_annotation,no_annotation,no_annotation
+3926,3926,3926,GerDracor/lessing-nathan-der-weise.xml,"
+              Kann nicht sein!",0,31,character_speech,5,8,,RECHA,#recha,1303.0,FEMALE,anger,negative,emotions of rejection
+3927,3927,3927,GerDracor/lessing-nathan-der-weise.xml,nicht sein!,32,43,character_speech,5,8,,RECHA,#recha,1303.0,FEMALE,anger,negative,emotions of rejection
+3928,3928,3928,GerDracor/lessing-nathan-der-weise.xml,"– Sein Herz
+               Weiß nichts davon!",44,89,character_speech,5,8,,RECHA,#recha,1303.0,FEMALE,no_annotation,no_annotation,no_annotation
+3929,3929,3929,GerDracor/lessing-nathan-der-weise.xml,– Wir sind Betrieger!,90,111,character_speech,5,8,,RECHA,#recha,1303.0,FEMALE,no_annotation,no_annotation,no_annotation
+3930,3930,3930,GerDracor/lessing-nathan-der-weise.xml,Gott!,112,117,character_speech,5,8,,RECHA,#recha,1303.0,FEMALE,being moved,being moved,being moved
+3931,3931,3931,GerDracor/lessing-nathan-der-weise.xml,zum Tempelherrn.,0,16,stage_direction,5,8,speech_part,,#saladin,1304.0,MALE,no_annotation,no_annotation,no_annotation
+3932,3932,3932,GerDracor/lessing-nathan-der-weise.xml,"
+              Betrieger?",0,25,character_speech,5,8,,SALADIN,#saladin,1304.0,MALE,no_annotation,no_annotation,no_annotation
+3933,3933,3933,GerDracor/lessing-nathan-der-weise.xml,wie?,26,30,character_speech,5,8,,SALADIN,#saladin,1304.0,MALE,no_annotation,no_annotation,no_annotation
+3934,3934,3934,GerDracor/lessing-nathan-der-weise.xml,Das denkst du?,31,45,character_speech,5,8,,SALADIN,#saladin,1304.0,MALE,no_annotation,no_annotation,no_annotation
+3935,3935,3935,GerDracor/lessing-nathan-der-weise.xml,kannst du denken?,46,63,character_speech,5,8,,SALADIN,#saladin,1304.0,MALE,no_annotation,no_annotation,no_annotation
+3936,3936,3936,GerDracor/lessing-nathan-der-weise.xml,Betrieger selbst!,78,95,character_speech,5,8,,SALADIN,#saladin,1304.0,MALE,no_annotation,no_annotation,no_annotation
+3937,3937,3937,GerDracor/lessing-nathan-der-weise.xml,"Denn alles ist erlogen
+              An dir: Gesicht und Stimm und Gang!",96,168,character_speech,5,8,,SALADIN,#saladin,1304.0,MALE,abhorrence,negative,emotions of rejection
+3938,3938,3938,GerDracor/lessing-nathan-der-weise.xml,Nichts dein!,169,181,character_speech,5,8,,SALADIN,#saladin,1304.0,MALE,no_annotation,no_annotation,no_annotation
+3939,3939,3939,GerDracor/lessing-nathan-der-weise.xml,So eine Schwester nicht erkennen wollen!,196,236,character_speech,5,8,,SALADIN,#saladin,1304.0,MALE,love,positive,emotions of affection
+3940,3940,3940,GerDracor/lessing-nathan-der-weise.xml,Geh!,237,241,character_speech,5,8,,SALADIN,#saladin,1304.0,MALE,no_annotation,no_annotation,no_annotation
+3941,3941,3941,GerDracor/lessing-nathan-der-weise.xml,sich demütig ihm nahend.,0,24,stage_direction,5,8,speech_part,,#tempelherr,1305.0,MALE,no_annotation,no_annotation,no_annotation
+3942,3942,3942,GerDracor/lessing-nathan-der-weise.xml,"
+              Mißdeut' auch du nicht mein Erstaunen, Sultan!",0,61,character_speech,5,8,,TEMPELHERR,#tempelherr,1305.0,MALE,being moved,being moved,being moved
+3943,3943,3943,GerDracor/lessing-nathan-der-weise.xml,"Verkenn' in einem Augenblick', in dem
+              Du schwerlich deinen Assad je gesehen,
+              Nicht ihn und mich!",76,200,character_speech,5,8,,TEMPELHERR,#tempelherr,1305.0,MALE,love,positive,emotions of affection
+3944,3944,3944,GerDracor/lessing-nathan-der-weise.xml,Auf Nathan zueilend.,0,20,stage_direction,5,8,speech_part,,#tempelherr,1305.0,MALE,no_annotation,no_annotation,no_annotation
+3945,3945,3945,GerDracor/lessing-nathan-der-weise.xml,"
+              Ihr nehmt und gebt mir, Nathan!",0,46,character_speech,5,8,,TEMPELHERR,#tempelherr,1305.0,MALE,no_annotation,no_annotation,no_annotation
+3946,3946,3946,GerDracor/lessing-nathan-der-weise.xml,Mit vollen Händen beides!,61,86,character_speech,5,8,,TEMPELHERR,#tempelherr,1305.0,MALE,no_annotation,no_annotation,no_annotation
+3947,3947,3947,GerDracor/lessing-nathan-der-weise.xml,– Nein!,87,94,character_speech,5,8,,TEMPELHERR,#tempelherr,1305.0,MALE,no_annotation,no_annotation,no_annotation
+3948,3948,3948,GerDracor/lessing-nathan-der-weise.xml,"Ihr gebt
+              Mir mehr, als Ihr mir nehmt!",95,146,character_speech,5,8,,TEMPELHERR,#tempelherr,1305.0,MALE,love,positive,emotions of affection
+3949,3949,3949,GerDracor/lessing-nathan-der-weise.xml,unendlich mehr!,147,162,character_speech,5,8,,TEMPELHERR,#tempelherr,1305.0,MALE,suffering,negative,emotions of suffering and empathy
+3950,3950,3950,GerDracor/lessing-nathan-der-weise.xml,Recha um den Hals fallend.,0,26,stage_direction,5,8,speech_part,,#tempelherr,1305.0,MALE,love,positive,emotions of affection
+3951,3951,3951,GerDracor/lessing-nathan-der-weise.xml,Ah meine Schwester!,0,19,character_speech,5,8,,TEMPELHERR,#tempelherr,1305.0,MALE,joy,positive,emotions of pleasure
+3952,3952,3952,GerDracor/lessing-nathan-der-weise.xml,meine Schwester!,20,36,character_speech,5,8,,TEMPELHERR,#tempelherr,1305.0,MALE,being moved,being moved,being moved
+3953,3953,3953,GerDracor/lessing-nathan-der-weise.xml,"
+              Blanda
+              Von Filneck!",0,48,character_speech,5,8,,NATHAN.,#nathan,1306.0,MALE,being moved,being moved,being moved
+3954,3954,3954,GerDracor/lessing-nathan-der-weise.xml,"
+              Blanda?",0,22,character_speech,5,8,,TEMPELHERR.,#tempelherr,1307.0,MALE,being moved,being moved,being moved
+3955,3955,3955,GerDracor/lessing-nathan-der-weise.xml,Blanda?,23,30,character_speech,5,8,,TEMPELHERR.,#tempelherr,1307.0,MALE,being moved,being moved,being moved
+3956,3956,3956,GerDracor/lessing-nathan-der-weise.xml,– Recha nicht?,31,45,character_speech,5,8,,TEMPELHERR.,#tempelherr,1307.0,MALE,no_annotation,no_annotation,no_annotation
+3957,3957,3957,GerDracor/lessing-nathan-der-weise.xml,Nicht Eure Recha mehr?,60,82,character_speech,5,8,,TEMPELHERR.,#tempelherr,1307.0,MALE,no_annotation,no_annotation,no_annotation
+3958,3958,3958,GerDracor/lessing-nathan-der-weise.xml,– Gott!,83,90,character_speech,5,8,,TEMPELHERR.,#tempelherr,1307.0,MALE,no_annotation,no_annotation,no_annotation
+3959,3959,3959,GerDracor/lessing-nathan-der-weise.xml,"Ihr verstoßt
+              Sie!",91,122,character_speech,5,8,,TEMPELHERR.,#tempelherr,1307.0,MALE,despair,negative,emotions of anxiety
+3960,3960,3960,GerDracor/lessing-nathan-der-weise.xml,gebt ihr ihren Christennamen wieder!,123,159,character_speech,5,8,,TEMPELHERR.,#tempelherr,1307.0,MALE,no_annotation,no_annotation,no_annotation
+3961,3961,3961,GerDracor/lessing-nathan-der-weise.xml,Verstoßt sie meinetwegen!,174,199,character_speech,5,8,,TEMPELHERR.,#tempelherr,1307.0,MALE,no_annotation,no_annotation,no_annotation
+3962,3962,3962,GerDracor/lessing-nathan-der-weise.xml,– Nathan!,200,209,character_speech,5,8,,TEMPELHERR.,#tempelherr,1307.0,MALE,no_annotation,no_annotation,no_annotation
+3963,3963,3963,GerDracor/lessing-nathan-der-weise.xml,Nathan!,210,217,character_speech,5,8,,TEMPELHERR.,#tempelherr,1307.0,MALE,no_annotation,no_annotation,no_annotation
+3964,3964,3964,GerDracor/lessing-nathan-der-weise.xml,Warum es sie entgelten lassen?,232,262,character_speech,5,8,,TEMPELHERR.,#tempelherr,1307.0,MALE,no_annotation,no_annotation,no_annotation
+3965,3965,3965,GerDracor/lessing-nathan-der-weise.xml,sie!,263,267,character_speech,5,8,,TEMPELHERR.,#tempelherr,1307.0,MALE,abhorrence,negative,emotions of rejection
+3966,3966,3966,GerDracor/lessing-nathan-der-weise.xml,"
+              Und was?",0,23,character_speech,5,8,,NATHAN.,#nathan,1308.0,MALE,no_annotation,no_annotation,no_annotation
+3967,3967,3967,GerDracor/lessing-nathan-der-weise.xml,– O meine Kinder!,24,41,character_speech,5,8,,NATHAN.,#nathan,1308.0,MALE,no_annotation,no_annotation,no_annotation
+3968,3968,3968,GerDracor/lessing-nathan-der-weise.xml,meine Kinder!,42,55,character_speech,5,8,,NATHAN.,#nathan,1308.0,MALE,joy,positive,emotions of pleasure
+3969,3969,3969,GerDracor/lessing-nathan-der-weise.xml,"–
+              Denn meiner Tochter Bruder wär mein Kind
+              Nicht auch, – sobald er will?",56,156,character_speech,5,8,,NATHAN.,#nathan,1308.0,MALE,no_annotation,no_annotation,no_annotation
+3970,3970,3970,GerDracor/lessing-nathan-der-weise.xml,"Indem er sich ihren Umarmungen überläßt, tritt Saladin mit unruhigem Erstaunen zu
+              seiner Schwester.",0,113,stage_direction,5,8,speech_part,,#nathan,1308.0,MALE,being moved,being moved,being moved
+3971,3971,3971,GerDracor/lessing-nathan-der-weise.xml,"Was sagst du, Schwester?",0,24,character_speech,5,8,,SALADIN.,#saladin,1309.0,MALE,being moved,being moved,being moved
+3972,3972,3972,GerDracor/lessing-nathan-der-weise.xml,Ich bin gerührt ...,0,19,character_speech,5,8,,SITTAH.,#sittah,1310.0,FEMALE,being moved,being moved,being moved
+3973,3973,3973,GerDracor/lessing-nathan-der-weise.xml,"
+              Und ich, – ich schaudere
+              Vor einer größern Rührung fast zurück!",0,92,character_speech,5,8,,SALADIN.,#saladin,1311.0,MALE,suffering,negative,emotions of suffering and empathy
+3974,3974,3974,GerDracor/lessing-nathan-der-weise.xml,"Bereite dich nur drauf, so gut du kannst.",107,148,character_speech,5,8,,SALADIN.,#saladin,1311.0,MALE,no_annotation,no_annotation,no_annotation
+3975,3975,3975,GerDracor/lessing-nathan-der-weise.xml,Wie?,0,4,character_speech,5,8,,SITTAH.,#sittah,1312.0,FEMALE,no_annotation,no_annotation,no_annotation
+3976,3976,3976,GerDracor/lessing-nathan-der-weise.xml,"Nathan, auf ein Wort!",0,21,character_speech,5,8,,SALADIN.,#saladin,1313.0,MALE,no_annotation,no_annotation,no_annotation
+3977,3977,3977,GerDracor/lessing-nathan-der-weise.xml,ein Wort!,22,31,character_speech,5,8,,SALADIN.,#saladin,1313.0,MALE,no_annotation,no_annotation,no_annotation
+3978,3978,3978,GerDracor/lessing-nathan-der-weise.xml,–,32,33,character_speech,5,8,,SALADIN.,#saladin,1313.0,MALE,no_annotation,no_annotation,no_annotation
+3979,3979,3979,GerDracor/lessing-nathan-der-weise.xml,"Indem Nathan zu ihm tritt, tritt Sittah zu dem",0,46,stage_direction,5,8,speech_part,,#saladin,1313.0,MALE,no_annotation,no_annotation,no_annotation
+3980,3980,3980,GerDracor/lessing-nathan-der-weise.xml,"
+              Hör!",0,19,character_speech,5,8,,SALADIN.,#saladin,1313.0,MALE,no_annotation,no_annotation,no_annotation
+3981,3981,3981,GerDracor/lessing-nathan-der-weise.xml,"hör doch, Nathan!",20,37,character_speech,5,8,,SALADIN.,#saladin,1313.0,MALE,no_annotation,no_annotation,no_annotation
+3982,3982,3982,GerDracor/lessing-nathan-der-weise.xml,"Sagtest du vorhin
+              Nicht –?",38,78,character_speech,5,8,,SALADIN.,#saladin,1313.0,MALE,no_annotation,no_annotation,no_annotation
+3983,3983,3983,GerDracor/lessing-nathan-der-weise.xml,Was?,0,4,character_speech,5,8,,NATHAN.,#nathan,1314.0,MALE,no_annotation,no_annotation,no_annotation
+3984,3984,3984,GerDracor/lessing-nathan-der-weise.xml,"
+              Aus Deutschland sei ihr Vater nicht
+              Gewesen; ein geborner Deutscher nicht.",0,103,character_speech,5,8,,SALADIN.,#saladin,1315.0,MALE,no_annotation,no_annotation,no_annotation
+3985,3985,3985,GerDracor/lessing-nathan-der-weise.xml,Was war er denn?,118,134,character_speech,5,8,,SALADIN.,#saladin,1315.0,MALE,no_annotation,no_annotation,no_annotation
+3986,3986,3986,GerDracor/lessing-nathan-der-weise.xml,wo war er sonst denn her?,135,160,character_speech,5,8,,SALADIN.,#saladin,1315.0,MALE,no_annotation,no_annotation,no_annotation
+3987,3987,3987,GerDracor/lessing-nathan-der-weise.xml,"
+              Das hat er selbst mir nie vertrauen wollen.",0,58,character_speech,5,8,,NATHAN.,#nathan,1316.0,MALE,no_annotation,no_annotation,no_annotation
+3988,3988,3988,GerDracor/lessing-nathan-der-weise.xml,Aus seinem Munde weiß ich nichts davon.,73,112,character_speech,5,8,,NATHAN.,#nathan,1316.0,MALE,no_annotation,no_annotation,no_annotation
+3989,3989,3989,GerDracor/lessing-nathan-der-weise.xml,Und war auch sonst kein Frank?,0,30,character_speech,5,8,,SALADIN.,#saladin,1317.0,MALE,no_annotation,no_annotation,no_annotation
+3990,3990,3990,GerDracor/lessing-nathan-der-weise.xml,kein Abendländer?,31,48,character_speech,5,8,,SALADIN.,#saladin,1317.0,MALE,being moved,being moved,being moved
+3991,3991,3991,GerDracor/lessing-nathan-der-weise.xml,"
+              O!",0,17,character_speech,5,8,,NATHAN.,#nathan,1318.0,MALE,no_annotation,no_annotation,no_annotation
+3992,3992,3992,GerDracor/lessing-nathan-der-weise.xml,"daß er der nicht sei, gestand er wohl.",18,56,character_speech,5,8,,NATHAN.,#nathan,1318.0,MALE,no_annotation,no_annotation,no_annotation
+3993,3993,3993,GerDracor/lessing-nathan-der-weise.xml,"–
+              Er sprach am liebsten Persisch ...",57,107,character_speech,5,8,,NATHAN.,#nathan,1318.0,MALE,no_annotation,no_annotation,no_annotation
+3994,3994,3994,GerDracor/lessing-nathan-der-weise.xml,"
+              Persisch?",0,24,character_speech,5,8,,SALADIN.,#saladin,1319.0,MALE,no_annotation,no_annotation,no_annotation
+3995,3995,3995,GerDracor/lessing-nathan-der-weise.xml,Persisch?,25,34,character_speech,5,8,,SALADIN.,#saladin,1319.0,MALE,no_annotation,no_annotation,no_annotation
+3996,3996,3996,GerDracor/lessing-nathan-der-weise.xml,Was will ich mehr?,49,67,character_speech,5,8,,SALADIN.,#saladin,1319.0,MALE,no_annotation,no_annotation,no_annotation
+3997,3997,3997,GerDracor/lessing-nathan-der-weise.xml,– Er ists!,68,78,character_speech,5,8,,SALADIN.,#saladin,1319.0,MALE,no_annotation,no_annotation,no_annotation
+3998,3998,3998,GerDracor/lessing-nathan-der-weise.xml,Er war es!,79,89,character_speech,5,8,,SALADIN.,#saladin,1319.0,MALE,no_annotation,no_annotation,no_annotation
+3999,3999,3999,GerDracor/lessing-nathan-der-weise.xml,Wer?,0,4,character_speech,5,8,,NATHAN.,#nathan,1320.0,MALE,no_annotation,no_annotation,no_annotation
+4000,4000,4000,GerDracor/lessing-nathan-der-weise.xml,"
+              Mein Bruder!",0,27,character_speech,5,8,,SALADIN.,#saladin,1321.0,MALE,being moved,being moved,being moved
+4001,4001,4001,GerDracor/lessing-nathan-der-weise.xml,ganz gewiß!,28,39,character_speech,5,8,,SALADIN.,#saladin,1321.0,MALE,no_annotation,no_annotation,no_annotation
+4002,4002,4002,GerDracor/lessing-nathan-der-weise.xml,Mein Assad!,40,51,character_speech,5,8,,SALADIN.,#saladin,1321.0,MALE,being moved,being moved,being moved
+4003,4003,4003,GerDracor/lessing-nathan-der-weise.xml,"ganz
+              Gewiß!",52,77,character_speech,5,8,,SALADIN.,#saladin,1321.0,MALE,no_annotation,no_annotation,no_annotation
+4004,4004,4004,GerDracor/lessing-nathan-der-weise.xml,"
+              Nun, wenn du selbst darauf verfällst: –
+              Nimm die Versichrung hier in diesem Buche!",0,111,character_speech,5,8,,NATHAN.,#nathan,1322.0,MALE,no_annotation,no_annotation,no_annotation
+4005,4005,4005,GerDracor/lessing-nathan-der-weise.xml,Ihm das Brevier überreichend.,0,29,stage_direction,5,8,speech_part,,#nathan,1322.0,MALE,no_annotation,no_annotation,no_annotation
+4006,4006,4006,GerDracor/lessing-nathan-der-weise.xml,es begierig aufschlagend.,0,25,stage_direction,5,8,speech_part,,#saladin,1323.0,MALE,being moved,being moved,being moved
+4007,4007,4007,GerDracor/lessing-nathan-der-weise.xml,Ah!,0,3,character_speech,5,8,,SALADIN,#saladin,1323.0,MALE,no_annotation,no_annotation,no_annotation
+4008,4008,4008,GerDracor/lessing-nathan-der-weise.xml,seine Hand!,4,15,character_speech,5,8,,SALADIN,#saladin,1323.0,MALE,love,positive,emotions of affection
+4009,4009,4009,GerDracor/lessing-nathan-der-weise.xml,Auch die erkenn' ich wieder!,16,44,character_speech,5,8,,SALADIN,#saladin,1323.0,MALE,joy,positive,emotions of pleasure
+4010,4010,4010,GerDracor/lessing-nathan-der-weise.xml,"
+              Noch wissen sie von nichts!",0,42,character_speech,5,8,,NATHAN.,#nathan,1324.0,MALE,no_annotation,no_annotation,no_annotation
+4011,4011,4011,GerDracor/lessing-nathan-der-weise.xml,"Noch stehts bei dir
+              Allein, was sie davon erfahren sollen!",43,115,character_speech,5,8,,NATHAN.,#nathan,1324.0,MALE,anger,negative,emotions of rejection
+4012,4012,4012,GerDracor/lessing-nathan-der-weise.xml,indes er darin geblättert.,0,26,stage_direction,5,8,speech_part,,#saladin,1325.0,MALE,no_annotation,no_annotation,no_annotation
+4013,4013,4013,GerDracor/lessing-nathan-der-weise.xml,"
+              Ich meines Bruders Kinder nicht erkennen?",0,56,character_speech,5,8,,SALADIN,#saladin,1325.0,MALE,being moved,being moved,being moved
+4014,4014,4014,GerDracor/lessing-nathan-der-weise.xml,Ich meine Neffen – meine Kinder nicht?,71,109,character_speech,5,8,,SALADIN,#saladin,1325.0,MALE,being moved,being moved,being moved
+4015,4015,4015,GerDracor/lessing-nathan-der-weise.xml,Sie nicht erkennen?,124,143,character_speech,5,8,,SALADIN,#saladin,1325.0,MALE,no_annotation,no_annotation,no_annotation
+4016,4016,4016,GerDracor/lessing-nathan-der-weise.xml,ich?,144,148,character_speech,5,8,,SALADIN,#saladin,1325.0,MALE,being moved,being moved,being moved
+4017,4017,4017,GerDracor/lessing-nathan-der-weise.xml,Sie dir wohl lassen?,149,169,character_speech,5,8,,SALADIN,#saladin,1325.0,MALE,no_annotation,no_annotation,no_annotation
+4018,4018,4018,GerDracor/lessing-nathan-der-weise.xml,Wieder laut.,0,12,stage_direction,5,8,speech_part,,#saladin,1325.0,MALE,no_annotation,no_annotation,no_annotation
+4019,4019,4019,GerDracor/lessing-nathan-der-weise.xml,"
+              Sie sinds!",0,25,character_speech,5,8,,SALADIN,#saladin,1325.0,MALE,joy,positive,emotions of pleasure
+4020,4020,4020,GerDracor/lessing-nathan-der-weise.xml,"sie sind es, Sittah, sind!",26,52,character_speech,5,8,,SALADIN,#saladin,1325.0,MALE,joy,positive,emotions of pleasure
+4021,4021,4021,GerDracor/lessing-nathan-der-weise.xml,Sie sinds!,53,63,character_speech,5,8,,SALADIN,#saladin,1325.0,MALE,joy,positive,emotions of pleasure
+4022,4022,4022,GerDracor/lessing-nathan-der-weise.xml,Sind beide meines ... deines Bruders Kinder!,78,122,character_speech,5,8,,SALADIN,#saladin,1325.0,MALE,joy,positive,emotions of pleasure
+4023,4023,4023,GerDracor/lessing-nathan-der-weise.xml,Er rennt in ihre Umarmungen.,0,28,stage_direction,5,8,speech_part,,#saladin,1325.0,MALE,no_annotation,no_annotation,no_annotation
+4024,4024,4024,GerDracor/lessing-nathan-der-weise.xml,ihm folgend.,0,12,stage_direction,5,8,speech_part,,#sittah,1326.0,FEMALE,no_annotation,no_annotation,no_annotation
+4025,4025,4025,GerDracor/lessing-nathan-der-weise.xml,Was hör' ich!,0,13,character_speech,5,8,,SITTAH,#sittah,1326.0,FEMALE,being moved,being moved,being moved
+4026,4026,4026,GerDracor/lessing-nathan-der-weise.xml,"– Konnts auch anders, anders sein!",14,48,character_speech,5,8,,SITTAH,#sittah,1326.0,FEMALE,no_annotation,no_annotation,no_annotation
+4027,4027,4027,GerDracor/lessing-nathan-der-weise.xml,–,49,50,character_speech,5,8,,SITTAH,#sittah,1326.0,FEMALE,no_annotation,no_annotation,no_annotation
+4028,4028,4028,GerDracor/lessing-nathan-der-weise.xml,zum Tempelherrn.,0,16,stage_direction,5,8,speech_part,,#saladin,1327.0,MALE,no_annotation,no_annotation,no_annotation
+4029,4029,4029,GerDracor/lessing-nathan-der-weise.xml,"Nun mußt du doch wohl, Trotzkopf, mußt mich lieben!",0,51,character_speech,5,8,,SALADIN,#saladin,1327.0,MALE,love,positive,emotions of affection
+4030,4030,4030,GerDracor/lessing-nathan-der-weise.xml,"
+              Nun bin ich doch, wozu ich mich erbot?",0,53,character_speech,5,8,,SALADIN,#saladin,1327.0,MALE,joy,positive,emotions of pleasure
+4031,4031,4031,GerDracor/lessing-nathan-der-weise.xml,"Magst wollen, oder nicht!",68,93,character_speech,5,8,,SALADIN,#saladin,1327.0,MALE,anger,negative,emotions of rejection
+4032,4032,4032,GerDracor/lessing-nathan-der-weise.xml,Ich auch!,0,9,character_speech,5,8,,SITTAH.,#sittah,1328.0,FEMALE,no_annotation,no_annotation,no_annotation
+4033,4033,4033,GerDracor/lessing-nathan-der-weise.xml,ich auch!,10,19,character_speech,5,8,,SITTAH.,#sittah,1328.0,FEMALE,no_annotation,no_annotation,no_annotation
+4034,4034,4034,GerDracor/lessing-nathan-der-weise.xml,zum Tempelherrn zurück.,0,23,stage_direction,5,8,speech_part,,#saladin,1329.0,MALE,no_annotation,no_annotation,no_annotation
+4035,4035,4035,GerDracor/lessing-nathan-der-weise.xml,Mein Sohn!,0,10,character_speech,5,8,,SALADIN,#saladin,1329.0,MALE,being moved,being moved,being moved
+4036,4036,4036,GerDracor/lessing-nathan-der-weise.xml,mein Assad!,11,22,character_speech,5,8,,SALADIN,#saladin,1329.0,MALE,"admiration, reverence",positive,emotions of affection
+4037,4037,4037,GerDracor/lessing-nathan-der-weise.xml,meines Assads Sohn!,23,42,character_speech,5,8,,SALADIN,#saladin,1329.0,MALE,being moved,being moved,being moved
+4038,4038,4038,GerDracor/lessing-nathan-der-weise.xml,"
+              Ich deines Bluts!",0,32,character_speech,5,8,,TEMPELHERR.,#tempelherr,1330.0,MALE,love,positive,emotions of affection
+4039,4039,4039,GerDracor/lessing-nathan-der-weise.xml,"– So waren jene Träume,
+              Womit man meine Kindheit wiegte, doch –
+              Doch mehr als Träume!",33,146,character_speech,5,8,,TEMPELHERR.,#tempelherr,1330.0,MALE,no_annotation,no_annotation,no_annotation
+4040,4040,4040,GerDracor/lessing-nathan-der-weise.xml,Ihm zu Füßen fallend.,0,21,stage_direction,5,8,speech_part,,#tempelherr,1330.0,MALE,no_annotation,no_annotation,no_annotation
+4041,4041,4041,GerDracor/lessing-nathan-der-weise.xml,ihn aufhebend.,0,14,stage_direction,5,8,speech_part,,#saladin,1331.0,MALE,no_annotation,no_annotation,no_annotation
+4042,4042,4042,GerDracor/lessing-nathan-der-weise.xml,"
+              Seht den Bösewicht!",0,34,character_speech,5,8,,SALADIN,#saladin,1331.0,MALE,abhorrence,negative,emotions of rejection
+4043,4043,4043,GerDracor/lessing-nathan-der-weise.xml,"Er wußte was davon, und konnte mich
+              Zu seinem Mörder machen wollen!",49,130,character_speech,5,8,,SALADIN,#saladin,1331.0,MALE,abhorrence,negative,emotions of rejection
+4044,4044,4044,GerDracor/lessing-nathan-der-weise.xml,Wart!,131,136,character_speech,5,8,,SALADIN,#saladin,1331.0,MALE,no_annotation,no_annotation,no_annotation
+4045,4045,4045,GerDracor/lessing-nathan-der-weise.xml,Unter stummer Wiederholung allerseitiger Umarmungen fällt der Vorhang.,0,70,stage_direction,5,8,pre_speech,,,,,joy,positive,emotions of pleasure

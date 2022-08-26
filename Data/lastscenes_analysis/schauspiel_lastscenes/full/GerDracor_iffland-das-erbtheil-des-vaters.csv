@@ -1,0 +1,45 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+3287,3287,3287,GerDracor/iffland-das-erbtheil-des-vaters.xml,Vorige.,0,7,stage_direction,4,22,pre_speech,,,,,no_annotation,S,,1802.0,no_annotation,no_annotation
+3288,3288,3288,GerDracor/iffland-das-erbtheil-des-vaters.xml,Dominique Sohn.,8,23,stage_direction,4,22,pre_speech,,,,,no_annotation,S,,1802.0,no_annotation,no_annotation
+3289,3289,3289,GerDracor/iffland-das-erbtheil-des-vaters.xml,Marquis.,24,32,stage_direction,4,22,pre_speech,,,,,no_annotation,S,,1802.0,no_annotation,no_annotation
+3290,3290,3290,GerDracor/iffland-das-erbtheil-des-vaters.xml,"Guter, lieber Delomer!",0,22,character_speech,4,22,,MARQUIS.,#marquis,1634.0,MALE,joy,S,,1802.0,positive,emotions of pleasure
+3291,3291,3291,GerDracor/iffland-das-erbtheil-des-vaters.xml,–,23,24,character_speech,4,22,,MARQUIS.,#marquis,1634.0,MALE,no_annotation,S,,1802.0,no_annotation,no_annotation
+3292,3292,3292,GerDracor/iffland-das-erbtheil-des-vaters.xml,Umarmen Sie mich von ganzem Herzen!,0,35,character_speech,4,22,,DELOMER.,#delomer,1635.0,MALE,love,S,,1802.0,positive,emotions of affection
+3293,3293,3293,GerDracor/iffland-das-erbtheil-des-vaters.xml,"Ich nehme das Gut an, was Sie mir abtreten; ich gehe alles ein, was Sie vorschlagen,
+              wenn es nicht zu viel ist, wenn mein Herz nicht dagegen spricht, sogar Verzinnsung von
+              dem Retter meines Vermögens anzunehmen, als ob er nur Verwalter gewesen wäre.",0,277,character_speech,4,22,,MARQUIS.,#marquis,1636.0,MALE,"admiration, reverence",S,,1802.0,positive,emotions of affection
+3294,3294,3294,GerDracor/iffland-das-erbtheil-des-vaters.xml,"Zu Delomer, der antworten will.",0,31,stage_direction,4,22,inner_speech,,#marquis,1636.0,MALE,no_annotation,S,,1802.0,no_annotation,no_annotation
+3295,3295,3295,GerDracor/iffland-das-erbtheil-des-vaters.xml, Still davon für jetzt!,0,23,character_speech,4,22,,MARQUIS.,#marquis,1636.0,MALE,anger,S,,1802.0,negative,emotions of rejection
+3296,3296,3296,GerDracor/iffland-das-erbtheil-des-vaters.xml,"Auf
+                Dominique V. deutend.",0,41,stage_direction,4,22,inner_speech,,#marquis,1636.0,MALE,no_annotation,S,,1802.0,no_annotation,no_annotation
+3297,3297,3297,GerDracor/iffland-das-erbtheil-des-vaters.xml," Das Herz und der Kopf dieses rechtschaffnen
+              Naturmenschen sollen darüber zwischen uns entscheiden.",0,113,character_speech,4,22,,MARQUIS.,#marquis,1636.0,MALE,"admiration, reverence",S,,1802.0,positive,emotions of affection
+3298,3298,3298,GerDracor/iffland-das-erbtheil-des-vaters.xml,"Aber was wird aus mir, wenn sie
+              alle Deutschland verlassen?",114,187,character_speech,4,22,,MARQUIS.,#marquis,1636.0,MALE,fear,S,,1802.0,negative,emotions of anxiety
+3299,3299,3299,GerDracor/iffland-das-erbtheil-des-vaters.xml,Sogleich ist das nicht möglich.,0,31,character_speech,4,22,,DELOMER.,#delomer,1637.0,MALE,no_annotation,S,,1802.0,no_annotation,no_annotation
+3300,3300,3300,GerDracor/iffland-das-erbtheil-des-vaters.xml,"Dann bin ich hier allein, wie auf der Insel, dahin ich verschlagen ward.",0,72,character_speech,4,22,,MARQUIS.,#marquis,1638.0,MALE,suffering,S,,1802.0,negative,emotions of suffering and empathy
+3301,3301,3301,GerDracor/iffland-das-erbtheil-des-vaters.xml,"Diese da werden alle brave Deutsche, die ihnen Gutes erwiesen haben, an Sie
+              weisen.",0,97,character_speech,4,22,,DOMINIQUE V.,#dominique_vater,1639.0,MALE,no_annotation,S,,1802.0,no_annotation,no_annotation
+3302,3302,3302,GerDracor/iffland-das-erbtheil-des-vaters.xml,"Und so viel Leibeigne, als Sie befreyen, so viel dankbare Kinder zählen Sie.",0,76,character_speech,4,22,,DOMINIQUE S.,#dominique_sohn,1640.0,MALE,joy,S,,1802.0,positive,emotions of pleasure
+3303,3303,3303,GerDracor/iffland-das-erbtheil-des-vaters.xml,Sie heben die Leibeigenschaft auf?,0,34,character_speech,4,22,,DOMINIQUE V.,#dominique_vater,1641.0,MALE,being moved,S,,1802.0,being moved,being moved
+3304,3304,3304,GerDracor/iffland-das-erbtheil-des-vaters.xml,Ja!,0,3,character_speech,4,22,,MARQUIS.,#marquis,1642.0,MALE,no_annotation,S,,1802.0,no_annotation,no_annotation
+3305,3305,3305,GerDracor/iffland-das-erbtheil-des-vaters.xml,"Ihr Herr Sohn macht diese Bedingung, und ich gehe sie freudig ein.",4,70,character_speech,4,22,,MARQUIS.,#marquis,1642.0,MALE,joy,S,,1802.0,positive,emotions of pleasure
+3306,3306,3306,GerDracor/iffland-das-erbtheil-des-vaters.xml,Gott sey gedankt!,0,17,character_speech,4,22,,DOMINIQUE V.,#dominique_vater,1643.0,MALE,joy,S,,1802.0,positive,emotions of pleasure
+3307,3307,3307,GerDracor/iffland-das-erbtheil-des-vaters.xml,Er dreht sich im Jubel umher.,0,29,stage_direction,4,22,inner_speech,,#dominique_vater,1643.0,MALE,joy,S,,1802.0,positive,emotions of pleasure
+3308,3308,3308,GerDracor/iffland-das-erbtheil-des-vaters.xml, Das ist recht!,0,15,character_speech,4,22,,DOMINIQUE V.,#dominique_vater,1643.0,MALE,no_annotation,S,,1802.0,no_annotation,no_annotation
+3309,3309,3309,GerDracor/iffland-das-erbtheil-des-vaters.xml,"Das ist
+              schön!",16,44,character_speech,4,22,,DOMINIQUE V.,#dominique_vater,1643.0,MALE,joy,S,,1802.0,positive,emotions of pleasure
+3310,3310,3310,GerDracor/iffland-das-erbtheil-des-vaters.xml,Er reißt Delomer mit Entzücken an fühlt.,0,40,stage_direction,4,22,inner_speech,,#dominique_vater,1643.0,MALE,joy,S,,1802.0,positive,emotions of pleasure
+3311,3311,3311,GerDracor/iffland-das-erbtheil-des-vaters.xml, Das ist vornehm!,0,17,character_speech,4,22,,DOMINIQUE V.,#dominique_vater,1643.0,MALE,no_annotation,S,,1802.0,no_annotation,no_annotation
+3312,3312,3312,GerDracor/iffland-das-erbtheil-des-vaters.xml,"Sie
+              wollen keine Knechtschaft.",18,62,character_speech,4,22,,DOMINIQUE V.,#dominique_vater,1643.0,MALE,no_annotation,S,,1802.0,no_annotation,no_annotation
+3313,3313,3313,GerDracor/iffland-das-erbtheil-des-vaters.xml,So geht der Segen vor Ihnen her.,63,95,character_speech,4,22,,DOMINIQUE V.,#dominique_vater,1643.0,MALE,joy,S,,1802.0,positive,emotions of pleasure
+3314,3314,3314,GerDracor/iffland-das-erbtheil-des-vaters.xml,Marquis!,96,104,character_speech,4,22,,DOMINIQUE V.,#dominique_vater,1643.0,MALE,no_annotation,S,,1802.0,no_annotation,no_annotation
+3315,3315,3315,GerDracor/iffland-das-erbtheil-des-vaters.xml,"– Lassen Sie uns
+              daheim treue Bürger seyn, weil wir lieber das seyn wollen, als gebietende Herrn.",105,216,character_speech,4,22,,DOMINIQUE V.,#dominique_vater,1643.0,MALE,no_annotation,S,,1802.0,no_annotation,no_annotation
+3316,3316,3316,GerDracor/iffland-das-erbtheil-des-vaters.xml,"Zeigen Sie es hier zu Lande, daß es einen hohen Adel gebe, weit über das Pergament
+              hinaus, der darin besteht, dem Menschen leicht zu machen, was ihn drückt.",231,401,character_speech,4,22,,DOMINIQUE V.,#dominique_vater,1643.0,MALE,no_annotation,S,,1802.0,no_annotation,no_annotation
+3317,3317,3317,GerDracor/iffland-das-erbtheil-des-vaters.xml,"– Wer nun
+              von uns allen am besten feinen Platz behauptet, und am nützlichsten ist – darüber
+              mögen die Uebrigen zanken.",402,548,character_speech,4,22,,DOMINIQUE V.,#dominique_vater,1643.0,MALE,no_annotation,S,,1802.0,no_annotation,no_annotation
+3318,3318,3318,GerDracor/iffland-das-erbtheil-des-vaters.xml,– Wir thun derweile das Gute.,549,578,character_speech,4,22,,DOMINIQUE V.,#dominique_vater,1643.0,MALE,no_annotation,S,,1802.0,no_annotation,no_annotation

@@ -1,0 +1,31 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,pre1_base_polarity,pre1_main_emotion_class
+2397,2397,2397,GerDracor/schiller-wilhelm-tell.xml,"den ganzen Talgrund vor Tells Wohnung, nebst den Anhöhen, welche ihn einschließen,
+            mit Landleuten besetzt, welche sich zu einem Ganzen gruppieren.",0,158,stage_direction,5,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+2398,2398,2398,GerDracor/schiller-wilhelm-tell.xml,"Andre kommen über einen
+            hohen Steg, der über den Schächen führt, gezogen.",159,244,stage_direction,5,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+2399,2399,2399,GerDracor/schiller-wilhelm-tell.xml,"Walter Fürst mit den beiden Knaben,
+            Melchthal und Stauffacher kommen vorwärts, andre drängen nach; wie Tell heraustritt,
+            empfangen ihn alle mit lautem Frohlocken.",245,431,stage_direction,5,3,pre_speech,,,,,joy,positive,emotions of pleasure
+2400,2400,2400,GerDracor/schiller-wilhelm-tell.xml,Es lebe Tell!,0,13,character_speech,5,3,,ALLE.,#alle_5-3,1012.0,UNKNOWN,joy,positive,emotions of pleasure
+2401,2401,2401,GerDracor/schiller-wilhelm-tell.xml,der Schütz und der Erretter!,14,42,character_speech,5,3,,ALLE.,#alle_5-3,1012.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+2402,2402,2402,GerDracor/schiller-wilhelm-tell.xml,"Indem sich die vordersten um den Tell drängen und ihn umarmen, erscheinen noch
+              Rudenz und Berta, jener die Landleute, diese die Hedwig umarmend.",0,158,stage_direction,5,3,speech_part,,#alle_5-3,1012.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+2403,2403,2403,GerDracor/schiller-wilhelm-tell.xml,"Die Musik vom Berge
+              begleitet diese stumme Szene.",159,222,stage_direction,5,3,speech_part,,#alle_5-3,1012.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+2404,2404,2404,GerDracor/schiller-wilhelm-tell.xml,"Wenn sie geendigt, tritt Berta in die Mitte des
+              Volks.",223,291,stage_direction,5,3,speech_part,,#alle_5-3,1012.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+2405,2405,2405,GerDracor/schiller-wilhelm-tell.xml,"
+              Landleute!",0,25,character_speech,5,3,,BERTA.,#berta,1013.0,FEMALE,no_annotation,no_annotation,no_annotation
+2406,2406,2406,GerDracor/schiller-wilhelm-tell.xml,Eidgenossen!,26,38,character_speech,5,3,,BERTA.,#berta,1013.0,FEMALE,no_annotation,no_annotation,no_annotation
+2407,2407,2407,GerDracor/schiller-wilhelm-tell.xml,"Nehmt mich auf
+              In euern Bund, die erste Glückliche,
+              Die Schutz gefunden in der Freiheit Land.",39,160,character_speech,5,3,,BERTA.,#berta,1013.0,FEMALE,joy,positive,emotions of pleasure
+2408,2408,2408,GerDracor/schiller-wilhelm-tell.xml,"In eure tapfre Hand leg ich mein Recht,
+              Wollt ihr als eure Bürgerin mich schützen?",175,271,character_speech,5,3,,BERTA.,#berta,1013.0,FEMALE,no_annotation,no_annotation,no_annotation
+2409,2409,2409,GerDracor/schiller-wilhelm-tell.xml,Das wollen wir mit Gut und Blut.,0,32,character_speech,5,3,,LANDLEUTE.,#landleute_5-3,1014.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+2410,2410,2410,GerDracor/schiller-wilhelm-tell.xml,"
+              Wohlan!",0,22,character_speech,5,3,,BERTA.,#berta,1015.0,FEMALE,no_annotation,no_annotation,no_annotation
+2411,2411,2411,GerDracor/schiller-wilhelm-tell.xml,"So reich ich diesem Jüngling meine Rechte,
+              Die freie Schweizerin dem freien Mann!",37,132,character_speech,5,3,,BERTA.,#berta,1015.0,FEMALE,no_annotation,no_annotation,no_annotation
+2412,2412,2412,GerDracor/schiller-wilhelm-tell.xml,Und frei erklär ich alle meine Knechte.,0,39,character_speech,5,3,,RUDENZ.,#rudenz,1016.0,MALE,"admiration, reverence",positive,emotions of affection
+2413,2413,2413,GerDracor/schiller-wilhelm-tell.xml,"Indem die Musik von neuem rasch einfällt, fällt der Vorhang.",0,60,stage_direction,5,3,speech_part,,#rudenz,1016.0,MALE,no_annotation,no_annotation,no_annotation

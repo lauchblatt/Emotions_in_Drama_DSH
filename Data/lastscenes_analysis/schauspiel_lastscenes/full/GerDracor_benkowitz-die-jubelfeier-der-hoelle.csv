@@ -1,0 +1,22 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+2490,2490,2490,GerDracor/benkowitz-die-jubelfeier-der-hoelle.xml,Die Hölle.,0,10,stage_direction,6,8,pre_speech,,,,,abhorrence,S,,1801.0,negative,emotions of rejection
+2491,2491,2491,GerDracor/benkowitz-die-jubelfeier-der-hoelle.xml,Teufel unter einander.,11,33,stage_direction,6,8,pre_speech,,,,,no_annotation,S,,1801.0,no_annotation,no_annotation
+2492,2492,2492,GerDracor/benkowitz-die-jubelfeier-der-hoelle.xml,Herold.,34,41,stage_direction,6,8,pre_speech,,,,,no_annotation,S,,1801.0,no_annotation,no_annotation
+2493,2493,2493,GerDracor/benkowitz-die-jubelfeier-der-hoelle.xml,"Satan erscheint mit dem Schatten
+            Fausts.",42,94,stage_direction,6,8,pre_speech,,,,,no_annotation,S,,1801.0,no_annotation,no_annotation
+2494,2494,2494,GerDracor/benkowitz-die-jubelfeier-der-hoelle.xml,"Auf Herold, verkünde der Hölle, daß ich einen Sieg erkämpft habe, wie er seit dem
+              Beginnen der Erde über keinen Sterblichen erkämpft ward.",0,152,character_speech,6,8,,SATAN.,#satan,881.0,MALE,abhorrence,S,,1801.0,negative,emotions of rejection
+2495,2495,2495,GerDracor/benkowitz-die-jubelfeier-der-hoelle.xml,"Rufe die Fürsten der
+              Hölle!",153,194,character_speech,6,8,,SATAN.,#satan,881.0,MALE,abhorrence,S,,1801.0,negative,emotions of rejection
+2496,2496,2496,GerDracor/benkowitz-die-jubelfeier-der-hoelle.xml,Ich gehorche.,0,13,character_speech,6,8,,HEROLD.,#herold,882.0,MALE,no_annotation,S,,1801.0,no_annotation,no_annotation
+2497,2497,2497,GerDracor/benkowitz-die-jubelfeier-der-hoelle.xml,"Schwingt sich auf einen Felsen, und das Zeichen der Versammlung
+                erschallt.",0,90,stage_direction,6,8,inner_speech,,#herold,882.0,MALE,no_annotation,S,,1801.0,no_annotation,no_annotation
+2498,2498,2498,GerDracor/benkowitz-die-jubelfeier-der-hoelle.xml,Die Satane schießen herbei.,91,118,stage_direction,6,8,inner_speech,,#herold,882.0,MALE,abhorrence,S,,1801.0,negative,emotions of rejection
+2499,2499,2499,GerDracor/benkowitz-die-jubelfeier-der-hoelle.xml,"Hier ist der Sterbliche, mit dem ich einen Bund gemacht, und den ich nun im Triumph
+              hieher geführt habe.",0,118,character_speech,6,8,,SATAN.,#satan,883.0,MALE,no_annotation,S,,1801.0,no_annotation,no_annotation
+2500,2500,2500,GerDracor/benkowitz-die-jubelfeier-der-hoelle.xml,"Auf, wir wollen diese Begebenheit durch ein Fest feiern!",119,175,character_speech,6,8,,SATAN.,#satan,883.0,MALE,joy,S,,1801.0,positive,emotions of pleasure
+2501,2501,2501,GerDracor/benkowitz-die-jubelfeier-der-hoelle.xml,Ja das wollen wir!,0,18,character_speech,6,8,,DIE SATANE.,#die_satane,884.0,MALE,no_annotation,S,,1801.0,no_annotation,no_annotation
+2502,2502,2502,GerDracor/benkowitz-die-jubelfeier-der-hoelle.xml,"Es lebe Satan, er lebe ewig, ewig!",19,53,character_speech,6,8,,DIE SATANE.,#die_satane,884.0,MALE,abhorrence,S,,1801.0,negative,emotions of rejection
+2503,2503,2503,GerDracor/benkowitz-die-jubelfeier-der-hoelle.xml,"Laßt die Musik der Hölle erschallen, und tanzet darnach!",0,56,character_speech,6,8,,SATAN.,#satan,885.0,MALE,abhorrence,S,,1801.0,negative,emotions of rejection
+2504,2504,2504,GerDracor/benkowitz-die-jubelfeier-der-hoelle.xml,"Eine wilde, mißtönende, fürchterlich rauschende Musik erschallt; und die Satane
+              tanzen wütend darnach zwischen Glut und Flammen um den Schatten Fausts her.",0,169,stage_direction,6,8,speech_part,,#satan,885.0,MALE,abhorrence,S,,1801.0,negative,emotions of rejection

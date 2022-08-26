@@ -1,0 +1,301 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+122,122,122,GerDracor/brandes-ariadne-auf-naxos.xml,Ariadne.,0,8,stage_direction,1,2,pre_speech,,,,,no_annotation,S,,1775.0,no_annotation,no_annotation
+123,123,123,GerDracor/brandes-ariadne-auf-naxos.xml,(hernach) Die Stimme der Oreade.,9,41,stage_direction,1,2,pre_speech,,,,,no_annotation,S,,1775.0,no_annotation,no_annotation
+124,124,124,GerDracor/brandes-ariadne-auf-naxos.xml,durch den letzten Ausruf des Theseus aus dem Schlaf erweckt.,0,60,stage_direction,1,2,speech_part,,#ariadne,10.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+125,125,125,GerDracor/brandes-ariadne-auf-naxos.xml,Theseus!,0,8,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+126,126,126,GerDracor/brandes-ariadne-auf-naxos.xml,Riefst du nicht mein Theseus?,9,38,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+127,127,127,GerDracor/brandes-ariadne-auf-naxos.xml,Nanntest Du nicht meinen Namen?,39,70,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+128,128,128,GerDracor/brandes-ariadne-auf-naxos.xml,"Nein, es war ein Traum!",0,23,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+129,129,129,GerDracor/brandes-ariadne-auf-naxos.xml,Der schöne Morgen hat mir ihn entfuhrt.,24,63,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+130,130,130,GerDracor/brandes-ariadne-auf-naxos.xml,"Sey mir gegrüßt, herrliches Morgenroth!",0,39,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+131,131,131,GerDracor/brandes-ariadne-auf-naxos.xml,"Noch nie sah ich es so schön, so glühend!",0,41,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+132,132,132,GerDracor/brandes-ariadne-auf-naxos.xml,Jezt steigt die Sonne herauf; mit welcher Pracht!,0,49,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+133,133,133,GerDracor/brandes-ariadne-auf-naxos.xml,"Seit den drey glücklichen Tagen auf Naxos Höhen überraschte sie mich in deinen Armen,
+            mein Theseus!",0,111,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+134,134,134,GerDracor/brandes-ariadne-auf-naxos.xml,Nur heute bist du ihr zuvor gekommen!,112,149,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+135,135,135,GerDracor/brandes-ariadne-auf-naxos.xml,"Sie erröthet nicht umsonst, die Verrätherin unsrer Freuden!",0,59,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,abhorrence,S,,1775.0,negative,emotions of rejection
+136,136,136,GerDracor/brandes-ariadne-auf-naxos.xml,Wie durch ihren Anblick sich diese Wildniß erheitert!,0,53,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+137,137,137,GerDracor/brandes-ariadne-auf-naxos.xml,"Ohne dich, Geliebter!",0,21,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+138,138,138,GerDracor/brandes-ariadne-auf-naxos.xml,Welch ein Schauervoller Aufenthalt!,22,57,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+139,139,139,GerDracor/brandes-ariadne-auf-naxos.xml,"Hier glänzt kein stiller Sommertag, wie in den königlichen Gärten meines Vaters, hier
+            blühen keine Rosensträuche, unter deren Schatten uns die Liebe verbarg; kein Zephir
+            spielt mit unsern Locken, keine Sängerin der Nacht weckt uns zu neuen Freuden!",0,272,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+140,140,140,GerDracor/brandes-ariadne-auf-naxos.xml,"Alles ist hier wild, fürchterlich!",0,34,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+141,141,141,GerDracor/brandes-ariadne-auf-naxos.xml,"Das Meer tobt gegen diesen Felsen, will ihn verdrängen!",0,55,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,abhorrence,S,,1775.0,negative,emotions of rejection
+142,142,142,GerDracor/brandes-ariadne-auf-naxos.xml,"Schröklich beugt sich der Felsen, droht einzustürzen!",0,53,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+143,143,143,GerDracor/brandes-ariadne-auf-naxos.xml,Der Löwe brüllt!,0,16,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+144,144,144,GerDracor/brandes-ariadne-auf-naxos.xml,Ach Theseus!,0,12,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+145,145,145,GerDracor/brandes-ariadne-auf-naxos.xml,Theseus!,13,21,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+146,146,146,GerDracor/brandes-ariadne-auf-naxos.xml,komm; ich bin erwacht!,22,44,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+147,147,147,GerDracor/brandes-ariadne-auf-naxos.xml,Wo bist du?,0,11,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+148,148,148,GerDracor/brandes-ariadne-auf-naxos.xml,"Du jagst im fernen Thale nach Löwen und Tyger und verläßt Deine Ariadne, die für Dein
+            Leben zittert!",0,112,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,despair,S,,1775.0,negative,emotions of anxiety
+149,149,149,GerDracor/brandes-ariadne-auf-naxos.xml,Komm!,0,5,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+150,150,150,GerDracor/brandes-ariadne-auf-naxos.xml,Sie ist erwacht; komm in meine Arme!,6,42,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+151,151,151,GerDracor/brandes-ariadne-auf-naxos.xml,Wie hab ich ihn diese Nacht beweint!,0,36,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,compassion,S,,1775.0,negative,emotions of suffering and empathy
+152,152,152,GerDracor/brandes-ariadne-auf-naxos.xml,Noch nie hatt ich einen so schröcklichen Traum!,0,47,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+153,153,153,GerDracor/brandes-ariadne-auf-naxos.xml,"Er wollte mich verlassen; umsonst streckt' ich die Hände nach ihn aus, rief ihn
+            umsonst, sucht ihn umsonst auf dieser Höhe!",0,135,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+154,154,154,GerDracor/brandes-ariadne-auf-naxos.xml,Himmel!,0,7,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+155,155,155,GerDracor/brandes-ariadne-auf-naxos.xml,Wenn sein Muth ihn zu weit verleitete!,8,46,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+156,156,156,GerDracor/brandes-ariadne-auf-naxos.xml,"Nicht der Minotaurus allein war seinem theuren Leben furchtbar; es giebt mehr Schröcken
+            der Natur!",0,110,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,abhorrence,S,,1775.0,negative,emotions of rejection
+157,157,157,GerDracor/brandes-ariadne-auf-naxos.xml,Reissende Thiere können ihn anfallen!,0,37,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,abhorrence,S,,1775.0,negative,emotions of rejection
+158,158,158,GerDracor/brandes-ariadne-auf-naxos.xml,Schlangen ihn umwinden!,38,61,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,abhorrence,S,,1775.0,negative,emotions of rejection
+159,159,159,GerDracor/brandes-ariadne-auf-naxos.xml,"Wer, Götter!",0,12,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+160,160,160,GerDracor/brandes-ariadne-auf-naxos.xml,Wer rettet ihn?,13,28,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+161,161,161,GerDracor/brandes-ariadne-auf-naxos.xml,"Ach Theseus, komm!",0,18,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+162,162,162,GerDracor/brandes-ariadne-auf-naxos.xml,Sieh meine Thränen!,19,38,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+163,163,163,GerDracor/brandes-ariadne-auf-naxos.xml,Deine Ariadne weint um dich!,39,67,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,compassion,S,,1775.0,negative,emotions of suffering and empathy
+164,164,164,GerDracor/brandes-ariadne-auf-naxos.xml,"Du weißt, wie zärtlich ich dich liebe; kennst mein weibliches, zur Furcht geneigtes
+            Herz und kannst mich so ängstigen?",0,130,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+165,165,165,GerDracor/brandes-ariadne-auf-naxos.xml,Er kömmt nicht!,0,15,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+166,166,166,GerDracor/brandes-ariadne-auf-naxos.xml,Er hört mich nicht!,0,19,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,anger,S,,1775.0,negative,emotions of rejection
+167,167,167,GerDracor/brandes-ariadne-auf-naxos.xml,Sie ruft laut.,0,14,stage_direction,1,2,speech_part,,#ariadne,10.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+168,168,168,GerDracor/brandes-ariadne-auf-naxos.xml,Theseus!,0,8,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+169,169,169,GerDracor/brandes-ariadne-auf-naxos.xml,Theseus!,9,17,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+170,170,170,GerDracor/brandes-ariadne-auf-naxos.xml,Er antwortet nicht!,18,37,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+171,171,171,GerDracor/brandes-ariadne-auf-naxos.xml,Welch Schröcken ergreift mich!,38,68,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+172,172,172,GerDracor/brandes-ariadne-auf-naxos.xml,Wie schlägt mein Herz!,0,22,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+173,173,173,GerDracor/brandes-ariadne-auf-naxos.xml,Sie ruft.,0,9,stage_direction,1,2,speech_part,,#ariadne,10.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+174,174,174,GerDracor/brandes-ariadne-auf-naxos.xml,Theseus!,0,8,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+175,175,175,GerDracor/brandes-ariadne-auf-naxos.xml,Welch ein fürchterlicher Wiederhall!,0,36,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+176,176,176,GerDracor/brandes-ariadne-auf-naxos.xml,Was bedeutet das Brausen im Walde?,0,34,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+177,177,177,GerDracor/brandes-ariadne-auf-naxos.xml,Gewitterwolken steigen auf – Der Sturm ist nicht ferne!,0,55,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+178,178,178,GerDracor/brandes-ariadne-auf-naxos.xml,"Und Theseus kömmt noch
+            nicht?",56,97,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+179,179,179,GerDracor/brandes-ariadne-auf-naxos.xml,"Sie eilt voll Angst vom Felsen hinab und ruft, indem sie den Theseus allenthalben
+            sucht.",0,100,stage_direction,1,2,speech_part,,#ariadne,10.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+180,180,180,GerDracor/brandes-ariadne-auf-naxos.xml,Theseus!,0,8,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+181,181,181,GerDracor/brandes-ariadne-auf-naxos.xml,Mein Geliebter!,9,24,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+182,182,182,GerDracor/brandes-ariadne-auf-naxos.xml,Wo bist Du?,25,36,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+183,183,183,GerDracor/brandes-ariadne-auf-naxos.xml,Wo find ich Dich?,37,54,character_speech,1,2,,ARIADNE,#ariadne,10.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+184,184,184,GerDracor/brandes-ariadne-auf-naxos.xml,»Zu weit entfernt das Meer den Frevler schon!,0,45,character_speech,1,2,,DIE STIMME DER OREADE.,#die_stimme_der_oreade,11.0,FEMALE,abhorrence,S,,1775.0,negative,emotions of rejection
+185,185,185,GerDracor/brandes-ariadne-auf-naxos.xml,Er ist auf ewig Dir entflohn!,0,29,character_speech,1,2,,DIE STIMME DER OREADE.,#die_stimme_der_oreade,11.0,FEMALE,abhorrence,S,,1775.0,negative,emotions of rejection
+186,186,186,GerDracor/brandes-ariadne-auf-naxos.xml,– «,30,33,character_speech,1,2,,DIE STIMME DER OREADE.,#die_stimme_der_oreade,11.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+187,187,187,GerDracor/brandes-ariadne-auf-naxos.xml,Entflohn!,0,9,character_speech,1,2,,ARIADNE.,#ariadne,12.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+188,188,188,GerDracor/brandes-ariadne-auf-naxos.xml,Entflohn?,10,19,character_speech,1,2,,ARIADNE.,#ariadne,12.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+189,189,189,GerDracor/brandes-ariadne-auf-naxos.xml,Welche Stimme?,20,34,character_speech,1,2,,ARIADNE.,#ariadne,12.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+190,190,190,GerDracor/brandes-ariadne-auf-naxos.xml,Wer?,35,39,character_speech,1,2,,ARIADNE.,#ariadne,12.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+191,191,191,GerDracor/brandes-ariadne-auf-naxos.xml,–,40,41,character_speech,1,2,,ARIADNE.,#ariadne,12.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+192,192,192,GerDracor/brandes-ariadne-auf-naxos.xml,"»Ich, Nympfe dieser Höhen,",0,26,character_speech,1,2,,DIE STIMME DER OREADE.,#die_stimme_der_oreade,13.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+193,193,193,GerDracor/brandes-ariadne-auf-naxos.xml,Hab ihn im Sturme Dir entfliehen sehn.,0,38,character_speech,1,2,,DIE STIMME DER OREADE.,#die_stimme_der_oreade,13.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+194,194,194,GerDracor/brandes-ariadne-auf-naxos.xml,"Er fürchtete das Licht,",0,23,character_speech,1,2,,DIE STIMME DER OREADE.,#die_stimme_der_oreade,13.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+195,195,195,GerDracor/brandes-ariadne-auf-naxos.xml,"Dein bittend Angesicht,",0,23,character_speech,1,2,,DIE STIMME DER OREADE.,#die_stimme_der_oreade,13.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+196,196,196,GerDracor/brandes-ariadne-auf-naxos.xml,"Dein weinend Auge, nur den Sturm der Wogen nicht.«",0,50,character_speech,1,2,,DIE STIMME DER OREADE.,#die_stimme_der_oreade,13.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+197,197,197,GerDracor/brandes-ariadne-auf-naxos.xml,Ihr Götter!,0,11,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+198,198,198,GerDracor/brandes-ariadne-auf-naxos.xml,Sie sinkt zur Erde.,0,19,stage_direction,1,2,speech_part,,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+199,199,199,GerDracor/brandes-ariadne-auf-naxos.xml,Verlassen!,0,10,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,despair,S,,1775.0,negative,emotions of anxiety
+200,200,200,GerDracor/brandes-ariadne-auf-naxos.xml,Verlassen?,11,21,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+201,201,201,GerDracor/brandes-ariadne-auf-naxos.xml,Hier allein?,22,34,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+202,202,202,GerDracor/brandes-ariadne-auf-naxos.xml,Auf diesem Felsen?,35,53,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+203,203,203,GerDracor/brandes-ariadne-auf-naxos.xml,Hier am Meer?,54,67,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+204,204,204,GerDracor/brandes-ariadne-auf-naxos.xml,Götter!,0,7,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+205,205,205,GerDracor/brandes-ariadne-auf-naxos.xml,Götter!,8,15,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+206,206,206,GerDracor/brandes-ariadne-auf-naxos.xml,Und Theseus!,16,28,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+207,207,207,GerDracor/brandes-ariadne-auf-naxos.xml,Er!,29,32,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+208,208,208,GerDracor/brandes-ariadne-auf-naxos.xml,kann Theseus mich verlassen?,33,61,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+209,209,209,GerDracor/brandes-ariadne-auf-naxos.xml,Gerechte Götter!,0,16,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+210,210,210,GerDracor/brandes-ariadne-auf-naxos.xml,Er?,17,20,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+211,211,211,GerDracor/brandes-ariadne-auf-naxos.xml,"Sie fährt plötzlich auf, indem sie auf der hohen See ein Schiff erblickt, das
+            schnell vorüber eilt.",0,111,stage_direction,1,2,speech_part,,#ariadne,14.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+212,212,212,GerDracor/brandes-ariadne-auf-naxos.xml,Ha!,0,3,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+213,213,213,GerDracor/brandes-ariadne-auf-naxos.xml,Was erblick ich?,4,20,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+214,214,214,GerDracor/brandes-ariadne-auf-naxos.xml,Wer rettet mich?,21,37,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+215,215,215,GerDracor/brandes-ariadne-auf-naxos.xml,Ein Schiff am Horizont!,38,61,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+216,216,216,GerDracor/brandes-ariadne-auf-naxos.xml,Es fliegt!,62,72,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+217,217,217,GerDracor/brandes-ariadne-auf-naxos.xml,Ah Verräther!,0,13,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+218,218,218,GerDracor/brandes-ariadne-auf-naxos.xml,Mein Unglück ist gewiß!,14,37,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+219,219,219,GerDracor/brandes-ariadne-auf-naxos.xml,Sie sinkt von neuem zur Erde.,0,29,stage_direction,1,2,speech_part,,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+220,220,220,GerDracor/brandes-ariadne-auf-naxos.xml,Mich so zu hintergehen!,0,23,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,anger,S,,1775.0,negative,emotions of rejection
+221,221,221,GerDracor/brandes-ariadne-auf-naxos.xml,"Mich, die ihn unaussprechlich liebte, ihr Leben für das seinige
+            wagte, mit Freuden hingegeben hätte!",24,136,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+222,222,222,GerDracor/brandes-ariadne-auf-naxos.xml,Ach Theseus!,0,12,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+223,223,223,GerDracor/brandes-ariadne-auf-naxos.xml,Theseus!,13,21,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+224,224,224,GerDracor/brandes-ariadne-auf-naxos.xml,Theseus!,22,30,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+225,225,225,GerDracor/brandes-ariadne-auf-naxos.xml,Du kannst mich verlassen?,31,56,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+226,226,226,GerDracor/brandes-ariadne-auf-naxos.xml,"Mich, die Dich den
+            ausgestreckten Klauen des Ungeheuers entriß, Dich voll wahrer Zärtlichkeit aus dem
+            Labyrinth des Dädalus befreyte, mich kannst Du verlassen?",57,240,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+227,227,227,GerDracor/brandes-ariadne-auf-naxos.xml,Weh mir!,0,8,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+228,228,228,GerDracor/brandes-ariadne-auf-naxos.xml,Weh mir!,9,17,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+229,229,229,GerDracor/brandes-ariadne-auf-naxos.xml,Warum mußt ich ihn sehn?,18,42,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+230,230,230,GerDracor/brandes-ariadne-auf-naxos.xml,"Als er nach Creta kam, Alcidens Freund, so tapfer, so vollkommen!",0,65,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+231,231,231,GerDracor/brandes-ariadne-auf-naxos.xml,"Sein Angesicht so
+            männlich schön!",66,111,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+232,232,232,GerDracor/brandes-ariadne-auf-naxos.xml,Sein Haar so lockicht!,112,134,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+233,233,233,GerDracor/brandes-ariadne-auf-naxos.xml,"Solch ein edler Stolz in seinen Blicken, solche
+            stille Grösse, selbst bey der äussersten Gefahr!",135,243,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+234,234,234,GerDracor/brandes-ariadne-auf-naxos.xml,Wer hätt' ihm widerstanden?,244,271,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+235,235,235,GerDracor/brandes-ariadne-auf-naxos.xml,Wie hob sich diese Brust!,0,25,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+236,236,236,GerDracor/brandes-ariadne-auf-naxos.xml,"Wie wallte sie, wie bebte sie, von Lieb und Mitleid!",26,78,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+237,237,237,GerDracor/brandes-ariadne-auf-naxos.xml,"Nun bezwang ich mich nicht mehr; floh seinen Armen zu, schlang mich um seinen Hals und
+            weinte!",0,106,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+238,238,238,GerDracor/brandes-ariadne-auf-naxos.xml,"»Staunst Du, Theseus?",0,21,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+239,239,239,GerDracor/brandes-ariadne-auf-naxos.xml,"Mitleid, Liebe führen mich her!",22,53,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,compassion,S,,1775.0,negative,emotions of suffering and empathy
+240,240,240,GerDracor/brandes-ariadne-auf-naxos.xml,Fleuch und rette mir Dein Leben!,0,32,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,despair,S,,1775.0,negative,emotions of anxiety
+241,241,241,GerDracor/brandes-ariadne-auf-naxos.xml,"Fleuch, Geliebter!",0,18,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+242,242,242,GerDracor/brandes-ariadne-auf-naxos.xml,Sieh hier den Ausgang!,0,22,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+243,243,243,GerDracor/brandes-ariadne-auf-naxos.xml,Der Minotaurus fällt von Deiner Hand!,23,60,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,abhorrence,S,,1775.0,negative,emotions of rejection
+244,244,244,GerDracor/brandes-ariadne-auf-naxos.xml,Die Liebe hilft Dir siegen!«,0,28,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+245,245,245,GerDracor/brandes-ariadne-auf-naxos.xml,Und er erschlug das Ungeheuer!,0,30,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,abhorrence,S,,1775.0,negative,emotions of rejection
+246,246,246,GerDracor/brandes-ariadne-auf-naxos.xml,Nahm mich in seinen Arm und floh!,0,33,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,despair,S,,1775.0,negative,emotions of anxiety
+247,247,247,GerDracor/brandes-ariadne-auf-naxos.xml,Wohin?,0,6,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+248,248,248,GerDracor/brandes-ariadne-auf-naxos.xml,Ach!,7,11,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+249,249,249,GerDracor/brandes-ariadne-auf-naxos.xml,In diese Wüste!,12,27,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+250,250,250,GerDracor/brandes-ariadne-auf-naxos.xml,Hier bin ich nun – verlassen!,0,29,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+251,251,251,GerDracor/brandes-ariadne-auf-naxos.xml,Auf ewig verlassen!,30,49,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,despair,S,,1775.0,negative,emotions of anxiety
+252,252,252,GerDracor/brandes-ariadne-auf-naxos.xml,Götter!,0,7,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+253,253,253,GerDracor/brandes-ariadne-auf-naxos.xml,"Gerechte, beleidigte Götter!",8,36,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+254,254,254,GerDracor/brandes-ariadne-auf-naxos.xml,Ihr könnt diesen Frevel dulden?,37,68,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,anger,S,,1775.0,negative,emotions of rejection
+255,255,255,GerDracor/brandes-ariadne-auf-naxos.xml,"Ihr hörtet seine Schwüre, wißt seinen Meyneid, sein Verbrechen und bestraft ihn
+            nicht?",0,98,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+256,256,256,GerDracor/brandes-ariadne-auf-naxos.xml,"Warum trift mich, nicht ihn der Donner Eurer Rache?",0,51,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+257,257,257,GerDracor/brandes-ariadne-auf-naxos.xml,Warum verfolgt Ihr mich?,0,24,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+258,258,258,GerDracor/brandes-ariadne-auf-naxos.xml,Ach!,0,4,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+259,259,259,GerDracor/brandes-ariadne-auf-naxos.xml,Nicht diese langsame Todesangst!,5,37,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+260,260,260,GerDracor/brandes-ariadne-auf-naxos.xml,Nicht diesen unaufhörlichen Tod!,38,70,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+261,261,261,GerDracor/brandes-ariadne-auf-naxos.xml,"Endigt meine
+            Qualen!",71,103,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+262,262,262,GerDracor/brandes-ariadne-auf-naxos.xml,Vernichtet mich!,104,120,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,despair,S,,1775.0,negative,emotions of anxiety
+263,263,263,GerDracor/brandes-ariadne-auf-naxos.xml,Zerschmettert mich durch Eure Blitze!,121,158,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+264,264,264,GerDracor/brandes-ariadne-auf-naxos.xml,Ha!,0,3,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+265,265,265,GerDracor/brandes-ariadne-auf-naxos.xml,Ist dieß nicht das Ufer des Cocht?,4,38,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+266,266,266,GerDracor/brandes-ariadne-auf-naxos.xml,Dieß Meer der Phlegeton?,39,63,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+267,267,267,GerDracor/brandes-ariadne-auf-naxos.xml,"Der Abgrund dort, die
+            Höhle der Furien?",64,115,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+268,268,268,GerDracor/brandes-ariadne-auf-naxos.xml,Horch!,0,6,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+269,269,269,GerDracor/brandes-ariadne-auf-naxos.xml,Welch Geheul!,7,20,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,anger,S,,1775.0,negative,emotions of rejection
+270,270,270,GerDracor/brandes-ariadne-auf-naxos.xml,Sie sinds!,0,10,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+271,271,271,GerDracor/brandes-ariadne-auf-naxos.xml,Sie sinds!,11,21,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+272,272,272,GerDracor/brandes-ariadne-auf-naxos.xml,Und Theseus unter ihnen!,22,46,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+273,273,273,GerDracor/brandes-ariadne-auf-naxos.xml,Kommt!,0,6,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+274,274,274,GerDracor/brandes-ariadne-auf-naxos.xml,"Schleudert ihn her, daß mein Auge sich an seiner Marter weide!",7,69,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,abhorrence,S,,1775.0,negative,emotions of rejection
+275,275,275,GerDracor/brandes-ariadne-auf-naxos.xml,"Umschlingt mit Eurem Schlangenhaar sein Herz, sein treuloses Herz!",0,66,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+276,276,276,GerDracor/brandes-ariadne-auf-naxos.xml,"Durchbort, zerreißt es!",0,23,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+277,277,277,GerDracor/brandes-ariadne-auf-naxos.xml,Ha!,0,3,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+278,278,278,GerDracor/brandes-ariadne-auf-naxos.xml,Jezt fallen sie ihn an!,4,27,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,Schadenfreude,S,,1775.0,positive,emotions of pleasure
+279,279,279,GerDracor/brandes-ariadne-auf-naxos.xml,Der Abgrund öfnet sich!,0,23,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,despair,S,,1775.0,negative,emotions of anxiety
+280,280,280,GerDracor/brandes-ariadne-auf-naxos.xml,Die Flamme steigt empor!,24,48,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+281,281,281,GerDracor/brandes-ariadne-auf-naxos.xml,Hinab mit ihm!,0,14,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,compassion,S,,1775.0,negative,emotions of suffering and empathy
+282,282,282,GerDracor/brandes-ariadne-auf-naxos.xml,Hinab!,15,21,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+283,283,283,GerDracor/brandes-ariadne-auf-naxos.xml,Halt!,0,5,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+284,284,284,GerDracor/brandes-ariadne-auf-naxos.xml,Halt ein!,6,15,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+285,285,285,GerDracor/brandes-ariadne-auf-naxos.xml,Ach!,16,20,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+286,286,286,GerDracor/brandes-ariadne-auf-naxos.xml,Ich lieb' ihn noch!,21,40,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+287,287,287,GerDracor/brandes-ariadne-auf-naxos.xml,Schröckliche Phantasie!,0,23,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+288,288,288,GerDracor/brandes-ariadne-auf-naxos.xml,Wie sie mein Gehirn zerwühlt!,24,53,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+289,289,289,GerDracor/brandes-ariadne-auf-naxos.xml,Fort!,0,5,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+290,290,290,GerDracor/brandes-ariadne-auf-naxos.xml,Entsetzliches Gesicht!,6,28,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+291,291,291,GerDracor/brandes-ariadne-auf-naxos.xml,Fort von mir!,29,42,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+292,292,292,GerDracor/brandes-ariadne-auf-naxos.xml,Wo bin ich?,0,11,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+293,293,293,GerDracor/brandes-ariadne-auf-naxos.xml,Leb' ich noch?,12,26,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+294,294,294,GerDracor/brandes-ariadne-auf-naxos.xml,Ists möglich?,27,40,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+295,295,295,GerDracor/brandes-ariadne-auf-naxos.xml,Ariadne hier?,41,54,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+296,296,296,GerDracor/brandes-ariadne-auf-naxos.xml,Auf Naxos?,55,65,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+297,297,297,GerDracor/brandes-ariadne-auf-naxos.xml,Ohne Theseus?,66,79,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+298,298,298,GerDracor/brandes-ariadne-auf-naxos.xml,Hier – Ariadne?,0,15,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+299,299,299,GerDracor/brandes-ariadne-auf-naxos.xml,"Sie, die Lust und Hofnung eines Königreichs!",16,60,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+300,300,300,GerDracor/brandes-ariadne-auf-naxos.xml,Die Tochter Minos!,61,79,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+301,301,301,GerDracor/brandes-ariadne-auf-naxos.xml,"Eines
+            Gottes Enkelin – muß hier, in ihres Lebens Morgenröthe, die Hände ringend und verlassen,
+            auf diesen Felsen irren?",80,223,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+302,302,302,GerDracor/brandes-ariadne-auf-naxos.xml,"Ein Spott der Götter, ein Raub der Thiere seyn?",224,271,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+303,303,303,GerDracor/brandes-ariadne-auf-naxos.xml,Einst war ich schuldlos!,0,24,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+304,304,304,GerDracor/brandes-ariadne-auf-naxos.xml,"Ohne Kummer, ohne Thränen, heiter und froh blühte mein
+            Frühling, noch unbekannt der Liebe!",25,127,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+305,305,305,GerDracor/brandes-ariadne-auf-naxos.xml,"An meiner Mutter Busen ruhend, ihr Stolz, ihre geliebte Ariadne!",0,64,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+306,306,306,GerDracor/brandes-ariadne-auf-naxos.xml,"Von ihren Küssen
+            bedeckt, von ihren Armen umschlungen – so entfloh sie mir, die beßte goldne Zeit!",65,175,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+307,307,307,GerDracor/brandes-ariadne-auf-naxos.xml,Kann sie mir nichts zurück erflehen?,0,36,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+308,308,308,GerDracor/brandes-ariadne-auf-naxos.xml,Bin ich ohne Rettung verlohren?,0,31,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,despair,S,,1775.0,negative,emotions of anxiety
+309,309,309,GerDracor/brandes-ariadne-auf-naxos.xml,Durch einen einz'gen Fehltritt verlohren?,0,41,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+310,310,310,GerDracor/brandes-ariadne-auf-naxos.xml,Um eines einz'gen Fehltritts willen von Göttern und Menschen verstossen?,0,72,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+311,311,311,GerDracor/brandes-ariadne-auf-naxos.xml,"Muß ich in gränzenlosem Jammer verschmachten, ohne daß irgend ein mitleidiges Wesen
+            mich in der Stunde des Todes tröste und meine letzten Seufzer meiner Mutter bringe?",0,179,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+312,312,312,GerDracor/brandes-ariadne-auf-naxos.xml,"Könnt' ich nur noch einmal zu Deinen Füsse sinken, o meine Mutter!",0,66,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+313,313,313,GerDracor/brandes-ariadne-auf-naxos.xml,"In den Staub
+            gebeugt, noch einmal Deine Füsse mit meinen Thränen netzen!",67,151,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+314,314,314,GerDracor/brandes-ariadne-auf-naxos.xml,Kniend.,0,7,stage_direction,1,2,speech_part,,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+315,315,315,GerDracor/brandes-ariadne-auf-naxos.xml,Kennst du mich nicht mehr?,0,26,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+316,316,316,GerDracor/brandes-ariadne-auf-naxos.xml,"Deine undankbare, Deine Pflichtvergessene, Deine reuige
+            Tochter?",27,103,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,abhorrence,S,,1775.0,negative,emotions of rejection
+317,317,317,GerDracor/brandes-ariadne-auf-naxos.xml,Vergieb ihr!,0,12,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,compassion,S,,1775.0,negative,emotions of suffering and empathy
+318,318,318,GerDracor/brandes-ariadne-auf-naxos.xml,"Es ist so edel, so göttlich zu verzeyhen!",13,54,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+319,319,319,GerDracor/brandes-ariadne-auf-naxos.xml,Vergieb ihr!,55,67,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,compassion,S,,1775.0,negative,emotions of suffering and empathy
+320,320,320,GerDracor/brandes-ariadne-auf-naxos.xml,"Er ist erfüllt dein
+            Fluch!",68,106,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,abhorrence,S,,1775.0,negative,emotions of rejection
+321,321,321,GerDracor/brandes-ariadne-auf-naxos.xml,Nimm ihn zurück!,107,123,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+322,322,322,GerDracor/brandes-ariadne-auf-naxos.xml,Seegne mich und laß mich sterben!,124,157,character_speech,1,2,,ARIADNE.,#ariadne,14.0,FEMALE,despair,S,,1775.0,negative,emotions of anxiety
+323,323,323,GerDracor/brandes-ariadne-auf-naxos.xml,»Er kömmt!,0,10,character_speech,1,2,,DIE STIMME DER OREADE.,#die_stimme_der_oreade,15.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+324,324,324,GerDracor/brandes-ariadne-auf-naxos.xml,"Er kömmt Dein Rächer, Dein Erretter!",11,47,character_speech,1,2,,DIE STIMME DER OREADE.,#die_stimme_der_oreade,15.0,FEMALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+325,325,325,GerDracor/brandes-ariadne-auf-naxos.xml,"Er eilt herab im Donnerwetter,",0,30,character_speech,1,2,,DIE STIMME DER OREADE.,#die_stimme_der_oreade,15.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+326,326,326,GerDracor/brandes-ariadne-auf-naxos.xml,Dich schleunig zu befreyn.,0,26,character_speech,1,2,,DIE STIMME DER OREADE.,#die_stimme_der_oreade,15.0,FEMALE,compassion,S,,1775.0,negative,emotions of suffering and empathy
+327,327,327,GerDracor/brandes-ariadne-auf-naxos.xml,"Allein, der Götter Zorn zu stillen,",0,35,character_speech,1,2,,DIE STIMME DER OREADE.,#die_stimme_der_oreade,15.0,FEMALE,abhorrence,S,,1775.0,negative,emotions of rejection
+328,328,328,GerDracor/brandes-ariadne-auf-naxos.xml,"Mußt Du dein Schicksal ganz erfüllen,",0,37,character_speech,1,2,,DIE STIMME DER OREADE.,#die_stimme_der_oreade,15.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+329,329,329,GerDracor/brandes-ariadne-auf-naxos.xml,Mußt Du Neptunens Opfer seyn.«,0,30,character_speech,1,2,,DIE STIMME DER OREADE.,#die_stimme_der_oreade,15.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+330,330,330,GerDracor/brandes-ariadne-auf-naxos.xml,Wie?,0,4,character_speech,1,2,,ARIADNE.,#ariadne,16.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+331,331,331,GerDracor/brandes-ariadne-auf-naxos.xml,Für mich ein Rächer?,5,25,character_speech,1,2,,ARIADNE.,#ariadne,16.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+332,332,332,GerDracor/brandes-ariadne-auf-naxos.xml,Ein Erretter?,26,39,character_speech,1,2,,ARIADNE.,#ariadne,16.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+333,333,333,GerDracor/brandes-ariadne-auf-naxos.xml,"Täuschest Du mich, Göttin dieser Felsen?",0,40,character_speech,1,2,,ARIADNE.,#ariadne,16.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+334,334,334,GerDracor/brandes-ariadne-auf-naxos.xml,Ha!,0,3,character_speech,1,2,,ARIADNE.,#ariadne,16.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+335,335,335,GerDracor/brandes-ariadne-auf-naxos.xml,Ich verstehe deinen Wink!,4,29,character_speech,1,2,,ARIADNE.,#ariadne,16.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+336,336,336,GerDracor/brandes-ariadne-auf-naxos.xml,"Der Retter, den Du mir ankündigst, ist der Tod, der Tod
+            in den Wellen!",30,112,character_speech,1,2,,ARIADNE.,#ariadne,16.0,FEMALE,despair,S,,1775.0,negative,emotions of anxiety
+337,337,337,GerDracor/brandes-ariadne-auf-naxos.xml,"Man hört den Donner rollen und den aussteigenden Sturmwind brausen; die Luft
+            verdunkelt sich und endlich erfolgt eine völlige Finsterniß, die nur dann und wann durch
+            einen Blitz zertheilt wird.",0,217,stage_direction,1,2,speech_part,,#ariadne,16.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+338,338,338,GerDracor/brandes-ariadne-auf-naxos.xml,Aber Götter!,0,12,character_speech,1,2,,ARIADNE.,#ariadne,16.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+339,339,339,GerDracor/brandes-ariadne-auf-naxos.xml,Welch ein Aufruhr in der Natur?,13,44,character_speech,1,2,,ARIADNE.,#ariadne,16.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+340,340,340,GerDracor/brandes-ariadne-auf-naxos.xml,Die Sonne verbirgt sich!,45,69,character_speech,1,2,,ARIADNE.,#ariadne,16.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+341,341,341,GerDracor/brandes-ariadne-auf-naxos.xml,"Am frühen Morgen
+            Nacht?",70,105,character_speech,1,2,,ARIADNE.,#ariadne,16.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+342,342,342,GerDracor/brandes-ariadne-auf-naxos.xml,So plötzlich!,106,119,character_speech,1,2,,ARIADNE.,#ariadne,16.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+343,343,343,GerDracor/brandes-ariadne-auf-naxos.xml,Wie schwarz und fürchterlich das Meer!,0,38,character_speech,1,2,,ARIADNE.,#ariadne,16.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+344,344,344,GerDracor/brandes-ariadne-auf-naxos.xml,Es blitzt!,0,10,character_speech,1,2,,ARIADNE.,#ariadne,16.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+345,345,345,GerDracor/brandes-ariadne-auf-naxos.xml,Noch einmal!,0,12,character_speech,1,2,,ARIADNE.,#ariadne,16.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+346,346,346,GerDracor/brandes-ariadne-auf-naxos.xml,Der Donner hallt vom Felsen wieder!,0,35,character_speech,1,2,,ARIADNE.,#ariadne,16.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+347,347,347,GerDracor/brandes-ariadne-auf-naxos.xml,Wer steht mir bey?,0,18,character_speech,1,2,,ARIADNE.,#ariadne,16.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+348,348,348,GerDracor/brandes-ariadne-auf-naxos.xml,"Hinauf, hinauf zum Sitz der Oreade!",0,35,character_speech,1,2,,ARIADNE.,#ariadne,16.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+349,349,349,GerDracor/brandes-ariadne-auf-naxos.xml,Sie steigt den Felsen hinan.,0,28,stage_direction,1,2,speech_part,,#ariadne,16.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+350,350,350,GerDracor/brandes-ariadne-auf-naxos.xml,Ach!,0,4,character_speech,1,2,,ARIADNE.,#ariadne,16.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+351,351,351,GerDracor/brandes-ariadne-auf-naxos.xml,Oefnet sich der Himmel?,5,28,character_speech,1,2,,ARIADNE.,#ariadne,16.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+352,352,352,GerDracor/brandes-ariadne-auf-naxos.xml,Schröcklich!,0,12,character_speech,1,2,,ARIADNE.,#ariadne,16.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+353,353,353,GerDracor/brandes-ariadne-auf-naxos.xml,Schröcklich!,13,25,character_speech,1,2,,ARIADNE.,#ariadne,16.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+354,354,354,GerDracor/brandes-ariadne-auf-naxos.xml,Kniend.,0,7,stage_direction,1,2,speech_part,,#ariadne,16.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+355,355,355,GerDracor/brandes-ariadne-auf-naxos.xml,Barmherz'ge Götter!,0,19,character_speech,1,2,,ARIADNE.,#ariadne,16.0,FEMALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+356,356,356,GerDracor/brandes-ariadne-auf-naxos.xml,Gnade!,20,26,character_speech,1,2,,ARIADNE.,#ariadne,16.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+357,357,357,GerDracor/brandes-ariadne-auf-naxos.xml,Gnade!,27,33,character_speech,1,2,,ARIADNE.,#ariadne,16.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+358,358,358,GerDracor/brandes-ariadne-auf-naxos.xml,"»Sie stürzen, die Felsen!",0,25,character_speech,1,2,,DIE STIMME DER OREADE.,#die_stimme_der_oreade,17.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+359,359,359,GerDracor/brandes-ariadne-auf-naxos.xml,Sie bersten die Schlünde!,26,51,character_speech,1,2,,DIE STIMME DER OREADE.,#die_stimme_der_oreade,17.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+360,360,360,GerDracor/brandes-ariadne-auf-naxos.xml,Es donnert der Donnrer!,0,23,character_speech,1,2,,DIE STIMME DER OREADE.,#die_stimme_der_oreade,17.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+361,361,361,GerDracor/brandes-ariadne-auf-naxos.xml,Geschwinde geschwinde,24,45,character_speech,1,2,,DIE STIMME DER OREADE.,#die_stimme_der_oreade,17.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+362,362,362,GerDracor/brandes-ariadne-auf-naxos.xml,"Vom Felsen, vom Felsen hinab!«",0,30,character_speech,1,2,,DIE STIMME DER OREADE.,#die_stimme_der_oreade,17.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+363,363,363,GerDracor/brandes-ariadne-auf-naxos.xml,Wohin?,0,6,character_speech,1,2,,ARIADNE.,#ariadne,18.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+364,364,364,GerDracor/brandes-ariadne-auf-naxos.xml,Wohin entflieh ich?,7,26,character_speech,1,2,,ARIADNE.,#ariadne,18.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+365,365,365,GerDracor/brandes-ariadne-auf-naxos.xml,Hier ist der Tod!,0,17,character_speech,1,2,,ARIADNE.,#ariadne,18.0,FEMALE,despair,S,,1775.0,negative,emotions of anxiety
+366,366,366,GerDracor/brandes-ariadne-auf-naxos.xml,Neben mir – unter mir – über mir Tod!,0,37,character_speech,1,2,,ARIADNE.,#ariadne,18.0,FEMALE,despair,S,,1775.0,negative,emotions of anxiety
+367,367,367,GerDracor/brandes-ariadne-auf-naxos.xml,"Von allen Seiten verfolgt, von allen Mächten bestürmt!",0,54,character_speech,1,2,,ARIADNE.,#ariadne,18.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+368,368,368,GerDracor/brandes-ariadne-auf-naxos.xml,Wer rettet mich?,55,71,character_speech,1,2,,ARIADNE.,#ariadne,18.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+369,369,369,GerDracor/brandes-ariadne-auf-naxos.xml,Weh mir!,72,80,character_speech,1,2,,ARIADNE.,#ariadne,18.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+370,370,370,GerDracor/brandes-ariadne-auf-naxos.xml,Der Blitz!,0,10,character_speech,1,2,,ARIADNE.,#ariadne,18.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+371,371,371,GerDracor/brandes-ariadne-auf-naxos.xml,Jetzt trift er mich!,11,31,character_speech,1,2,,ARIADNE.,#ariadne,18.0,FEMALE,abhorrence,S,,1775.0,negative,emotions of rejection
+372,372,372,GerDracor/brandes-ariadne-auf-naxos.xml,Der Sturm!,0,10,character_speech,1,2,,ARIADNE.,#ariadne,18.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+373,373,373,GerDracor/brandes-ariadne-auf-naxos.xml,– Er schleudert mich hinab!,11,38,character_speech,1,2,,ARIADNE.,#ariadne,18.0,FEMALE,anger,S,,1775.0,negative,emotions of rejection
+374,374,374,GerDracor/brandes-ariadne-auf-naxos.xml,"Nicht dieß Ende, nicht diese Schmach, nicht dieß Grab in den Wellen hab' ich um Dich
+            verdient, o Theseus!",0,117,character_speech,1,2,,ARIADNE.,#ariadne,18.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+375,375,375,GerDracor/brandes-ariadne-auf-naxos.xml,Deine Ariadne!,118,132,character_speech,1,2,,ARIADNE.,#ariadne,18.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+376,376,376,GerDracor/brandes-ariadne-auf-naxos.xml,Sie war einst glücklich!,133,157,character_speech,1,2,,ARIADNE.,#ariadne,18.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+377,377,377,GerDracor/brandes-ariadne-auf-naxos.xml,Hier fährt Ariadne unter einem schwachen Getöse der Musick fort.,0,64,stage_direction,1,2,speech_part,,#ariadne,18.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+378,378,378,GerDracor/brandes-ariadne-auf-naxos.xml,Meine Kräfte – der Sturm – unwiderstehlich!,0,43,character_speech,1,2,,ARIADNE.,#ariadne,18.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+379,379,379,GerDracor/brandes-ariadne-auf-naxos.xml,– Götter!,44,53,character_speech,1,2,,ARIADNE.,#ariadne,18.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+380,380,380,GerDracor/brandes-ariadne-auf-naxos.xml,– Vergebens!,54,66,character_speech,1,2,,ARIADNE.,#ariadne,18.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+381,381,381,GerDracor/brandes-ariadne-auf-naxos.xml,– Vergebens!,67,79,character_speech,1,2,,ARIADNE.,#ariadne,18.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+382,382,382,GerDracor/brandes-ariadne-auf-naxos.xml,"–
+            Hülfe!",80,100,character_speech,1,2,,ARIADNE.,#ariadne,18.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+383,383,383,GerDracor/brandes-ariadne-auf-naxos.xml,Hülfe!,101,107,character_speech,1,2,,ARIADNE.,#ariadne,18.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+384,384,384,GerDracor/brandes-ariadne-auf-naxos.xml,– Theseus!,108,118,character_speech,1,2,,ARIADNE.,#ariadne,18.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+385,385,385,GerDracor/brandes-ariadne-auf-naxos.xml,– Götter!,119,128,character_speech,1,2,,ARIADNE.,#ariadne,18.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+386,386,386,GerDracor/brandes-ariadne-auf-naxos.xml,Theseus!,129,137,character_speech,1,2,,ARIADNE.,#ariadne,18.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+387,387,387,GerDracor/brandes-ariadne-auf-naxos.xml,– Ach!,138,144,character_speech,1,2,,ARIADNE.,#ariadne,18.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+388,388,388,GerDracor/brandes-ariadne-auf-naxos.xml,Ein Blitz fährt auf sie zu; sie erschrickt und stürzt vom Felsen ins Meer.,0,74,stage_direction,1,2,speech_part,,#ariadne,18.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety

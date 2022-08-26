@@ -1,0 +1,127 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+2564,2564,2564,GerDracor/arnim-halle.xml,tritt eilig auf.,0,16,stage_direction,3,14,speech_part,,#pamphilio,1249.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2565,2565,2565,GerDracor/arnim-halle.xml,"Viren, Lysander, habt ihr Cardenio nicht gesehn?",0,48,character_speech,3,14,,PAMPHILIO,#pamphilio,1249.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2566,2566,2566,GerDracor/arnim-halle.xml,"Verzeihet meine Hast mit der ich das
+              Gespräch durchschnitten, sein Lebensfaden ist dadurch vom Durchschnitt zu erretten,
+              womit ihm die Justiz jetzt droht.",49,231,character_speech,3,14,,PAMPHILIO,#pamphilio,1249.0,MALE,compassion,S,,1811.0,negative,emotions of suffering and empathy
+2567,2567,2567,GerDracor/arnim-halle.xml,"Wir dürfen seinen Weg dir nicht verrathen, er hats uns streng verboten.",0,71,character_speech,3,14,,LYSANDER.,#lysander,1250.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2568,2568,2568,GerDracor/arnim-halle.xml,"Wenn ers verboten hat, da fürcht ich auch nicht mehr für ihn; so bald er furchtsam
+              wird ist er auch gescheidt wie andre Leute.",0,140,character_speech,3,14,,PAMPHILIO.,#pamphilio,1251.0,MALE,fear,S,,1811.0,negative,emotions of anxiety
+2569,2569,2569,GerDracor/arnim-halle.xml,"Ein Sohn vom alten Nathan hat ihn heut
+              verrathen, daß er am Felsen hier gesehen worden, er droht ihm wegen seines Wechsels
+              mit Arrest, ei seht da kommen schon die Diener des Gerichts.",141,352,character_speech,3,14,,PAMPHILIO.,#pamphilio,1251.0,MALE,anger,S,,1811.0,negative,emotions of rejection
+2570,2570,2570,GerDracor/arnim-halle.xml,"Häscher, Gerichtsdiener, zum Theil mit Kürassen gepanzert treten durch den Thurm
+              langsam auf.",0,107,stage_direction,3,14,speech_part,,#pamphilio,1251.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2571,2571,2571,GerDracor/arnim-halle.xml,"Ihr seht doch nichts, er ist nicht hier.",0,40,character_speech,3,14,,EIN HÄSCHER.,#ein_haescher,1252.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2572,2572,2572,GerDracor/arnim-halle.xml,Er könnte in der Höhle sein.,0,28,character_speech,3,14,,EIN ANDRER.,#ein_andrer_haescher,1253.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2573,2573,2573,GerDracor/arnim-halle.xml,"Geh du voran, es ist da dunkel.",0,31,character_speech,3,14,,EIN DRITTER.,#ein_dritter_haescher,1254.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2574,2574,2574,GerDracor/arnim-halle.xml,"Laß immer sein, wie bringen wir ihn durch, wenn wir ihn fangen, die Herren Studenten
+              schwören ja uns Arm und Beine zu zerschlagen, wenn wir ihn schleppen, auch könnte er
+              geladne Gewehre bei sich führen.",0,230,character_speech,3,14,,DER ANDRE.,#ein_andrer_haescher,1255.0,MALE,fear,S,,1811.0,negative,emotions of anxiety
+2575,2575,2575,GerDracor/arnim-halle.xml,Geladene Gewehre; das wär infam.,0,32,character_speech,3,14,,DER ANDRE.,#ein_andrer_haescher,1256.0,MALE,being moved,S,,1811.0,being moved,being moved
+2576,2576,2576,GerDracor/arnim-halle.xml,im Thurme.,0,10,stage_direction,3,14,speech_part,,#nathanael,1257.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2577,2577,2577,GerDracor/arnim-halle.xml,"Ihr Leutchen sucht nur recht und bindet ihn recht fest, daß er nicht um sich
+              schlägt.",0,99,character_speech,3,14,,NATHANAEL,#nathanael,1257.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2578,2578,2578,GerDracor/arnim-halle.xml,"Er hat geladene Gewehre, die richtet er gerade auf den Thurm.",0,61,character_speech,3,14,,DER ANDRE.,#ein_andrer_haescher,1258.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2579,2579,2579,GerDracor/arnim-halle.xml,"Laß ihn los, mit geladenen Gewehren ist kein Spaßen.",0,52,character_speech,3,14,,NATHANAEL.,#nathanael,1259.0,MALE,anger,S,,1811.0,negative,emotions of rejection
+2580,2580,2580,GerDracor/arnim-halle.xml,"Nun wenn sie es nicht wollen, unsertwegen mag er laufen.",0,56,character_speech,3,14,,VIELE.,#viele_3-14,1260.0,UNKNOWN,no_annotation,S,,1811.0,no_annotation,no_annotation
+2581,2581,2581,GerDracor/arnim-halle.xml,"Um Gottes Willen lauft mir nicht davon, ich höre viel Studenten.",0,64,character_speech,3,14,,NATHANAEL.,#nathanael,1261.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2582,2582,2582,GerDracor/arnim-halle.xml,"Ihr Leute kommt nur in den Thurm zum Juden, der soll uns noch aufwichsen, da können
+              wir uns auch verstecken, bis die Studenten all vorbei gezogen.",0,160,character_speech,3,14,,EINER.,#einer_3-14a,1262.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2583,2583,2583,GerDracor/arnim-halle.xml,Sie gehen alle nach dem Thurme ab.,0,34,stage_direction,3,14,speech_part,,#einer_3-14a,1262.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2584,2584,2584,GerDracor/arnim-halle.xml,"Da ziehn die Kerls alle ab, ganz wie ein lächerlicher Sturm, der erst ein Schiff im
+              Meere zu versenken droht und sich begnügt den Huth dem Schiffer abzunehmen.",0,173,character_speech,3,14,,PAMPHILIO.,#pamphilio,1263.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2585,2585,2585,GerDracor/arnim-halle.xml,"Das sind
+              die schlimmsten Leute nicht, es kommen andere Gefahren, Soldaten die in Friedenszeiten
+              nichts besseres zu thun verstehen, als Reisende recht gründlich auszufragen.",174,374,character_speech,3,14,,PAMPHILIO.,#pamphilio,1263.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+2586,2586,2586,GerDracor/arnim-halle.xml,"Ich
+              glaub, ich hab in einem Tag mehr Angst gehabt für den Cardenio, als er für sich in
+              seinem ganzen Leben.",375,510,character_speech,3,14,,PAMPHILIO.,#pamphilio,1263.0,MALE,fear,S,,1811.0,negative,emotions of anxiety
+2587,2587,2587,GerDracor/arnim-halle.xml,"Jetzt kannst du ruhig sein, schon hat er dieses Landes Grenze überschritten und eh
+              ihn dort die Mahnung der Gerichte noch kann finden, ist er schon weiter und zu Ländern
+              hingedrungen, die aller Flüchtgen Freistadt sind.",0,247,character_speech,3,14,,LYSANDER.,#lysander,1264.0,MALE,Schadenfreude,S,,1811.0,positive,emotions of pleasure
+2588,2588,2588,GerDracor/arnim-halle.xml,"Wohl ihm er ist nun frei, ich sehe ihn nicht wieder, er denket meiner wohl nicht mehr
+              und ich muß seiner denken immerdar, mit wem soll ich auf weiter Welt nun leben!",0,179,character_speech,3,14,,PAMPHILIO.,#pamphilio,1265.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+2589,2589,2589,GerDracor/arnim-halle.xml,Er geht ab.,0,11,stage_direction,3,14,inner_speech,,#pamphilio,1265.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2590,2590,2590,GerDracor/arnim-halle.xml,"Wie alle an den einzigen Cardenio so glauben, was ist es denn, was sie an ihn
+              gebannt?",0,100,character_speech,3,14,,VIREN.,#viren,1266.0,MALE,being moved,S,,1811.0,being moved,being moved
+2591,2591,2591,GerDracor/arnim-halle.xml,"Warum ist dieser Einzige mit allem ausgestattet, was Freundschaft, Liebe,
+              Kunst und Wissenschaft uns geben kann?",101,227,character_speech,3,14,,VIREN.,#viren,1266.0,MALE,friendship,S,,1811.0,positive,emotions of affection
+2592,2592,2592,GerDracor/arnim-halle.xml,"Und er durft wagen alles zu verschmähen, alles aufzugeben um seiner Seele Heil.",0,79,character_speech,3,14,,OLYMPIE.,#olympie,1267.0,FEMALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+2593,2593,2593,GerDracor/arnim-halle.xml,"Warum bleibt mir von allem Herrlichen das Letzte nur, das Mitleid derer denen ich
+              durchs Blut verbunden.",0,118,character_speech,3,14,,VIREN.,#viren,1268.0,MALE,compassion,S,,1811.0,negative,emotions of suffering and empathy
+2594,2594,2594,GerDracor/arnim-halle.xml,Wie du doch alles aufnimmst.,0,28,character_speech,3,14,,LYSANDER.,#lysander,1269.0,MALE,being moved,S,,1811.0,being moved,being moved
+2595,2595,2595,GerDracor/arnim-halle.xml,"Ja, daß ich eure Liebe so aufnehmen muß, das lieget auch in mir, in der zerdrückten
+              und gescheiterten Natur.",0,122,character_speech,3,14,,VIREN.,#viren,1270.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+2596,2596,2596,GerDracor/arnim-halle.xml,"Mein Bruder, ganz gewiß thut der die schwerste Sünde, der sich verkennt, noch bleibt
+              dir Jugend, sie kann die kalten Tage leicht in Frühlingsschein umwandeln.",0,172,character_speech,3,14,,OLYMPIE.,#olympie,1271.0,FEMALE,joy,S,,1811.0,positive,emotions of pleasure
+2597,2597,2597,GerDracor/arnim-halle.xml,"Wie weit von mir liegt meine Jugend, ich hatte keine Jugend.",0,60,character_speech,3,14,,VIREN.,#viren,1272.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+2598,2598,2598,GerDracor/arnim-halle.xml,"Du wagst mit uns zu gehen, ein neues Leben zu beginnen, das ist Jugendmuth der sich
+              dem falschen Weg entreißen kann und sich dem neuen Zufall anvertrauen mag.",0,172,character_speech,3,14,,OLYMPIE.,#olympie,1273.0,FEMALE,joy,S,,1811.0,positive,emotions of pleasure
+2599,2599,2599,GerDracor/arnim-halle.xml,"Du sprichst mir tröstlich zu Olympie, doch du trauest mir zu viel; erst wenn die
+              neuen Triebe kommen, da wird sichs zeigen wie viel der Zweige schon erstorben
+              sind.",0,192,character_speech,3,14,,VIREN.,#viren,1274.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2600,2600,2600,GerDracor/arnim-halle.xml,"Nun denn, so nehm ich dich in meinen Arm wie einen Todten, der sich nicht wehren
+              kann, was auch die Lebenden mit ihm beginnen.",0,140,character_speech,3,14,,OLYMPIE.,#olympie,1275.0,FEMALE,joy,S,,1811.0,positive,emotions of pleasure
+2601,2601,2601,GerDracor/arnim-halle.xml,"Doch drücke ich dir nicht die Augen zu,
+              ich öffne dir die Augen, ich heb dein Haupt empor, sieh rings die weite Welt und fühl
+              in diesem Kuß, daß dir ein Schwester Herz so nah.",141,344,character_speech,3,14,,OLYMPIE.,#olympie,1275.0,FEMALE,love,S,,1811.0,positive,emotions of affection
+2602,2602,2602,GerDracor/arnim-halle.xml,"Du wirst schon wach, so schaue unter
+              dir den Strom im rothen Morgenglanz, vorher da starrtest du und grubst mit deinem
+              Stabe in der schwarzen Erde.",345,520,character_speech,3,14,,OLYMPIE.,#olympie,1275.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2603,2603,2603,GerDracor/arnim-halle.xml,"Sieh jetzt des Stromes fröhliche Bewegung, da schwimmet
+              eine Schaar Studenten auf leichten Kähnen schnell daher, den Schwänen nach die drohend
+              ihre Jungen schützen, am Himmel singen tausend Lerchen, als strömten sie aus hohem
+              Sonnenthor die Sonne scheinet früher aufgewacht die rasche Jugend spiegelnd zu
+              begrüßen, der Jugend stahlt sie ahnend durch die Nacht, blick wieder hoffend zu der
+                 Sonne, meiner Jugend Mitgenosse und Gefährte, mein bester Freund, mein
+              liebster Bruder.",521,1084,character_speech,3,14,,OLYMPIE.,#olympie,1275.0,FEMALE,joy,S,,1811.0,positive,emotions of pleasure
+2604,2604,2604,GerDracor/arnim-halle.xml,"in den Kähnen, die ungesehen singend vorbeifahren.",0,50,stage_direction,3,14,speech_part,,#chor_der_studenten,1276.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+2605,2605,2605,GerDracor/arnim-halle.xml,"
+              Taucht der Strom in Morgenglut
+              Wächst im frischen Herzen Muth.",0,91,character_speech,3,14,,CHOR DER STUDENTEN,#chor_der_studenten,1276.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2606,2606,2606,GerDracor/arnim-halle.xml,"
+              Jaget nach den lichten Schwänen,
+              Die so stolz die Flügel schwellen,
+              Jaget vor den hohen Wellen,
+              Daß sie schäumen an den Kähnen,
+              Kochend übern schmalen Rand.",0,227,character_speech,3,14,,EINER.,#einer_3-14b,1277.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2607,2607,2607,GerDracor/arnim-halle.xml,"
+              Ruder brennen in der Hand,
+              Jagt die Wellen übers Land.",0,83,character_speech,3,14,,CHOR.,#chor_der_studenten,1278.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2608,2608,2608,GerDracor/arnim-halle.xml,"
+              Wie ein Roß voll Lust zum Streite,
+              Seine Adern sich aufbeißet,
+              Gleiche Lust mich rastlos reißet,
+              Zu der ungemeßnen Weite
+              Übers eng verschloßne Wehr.",0,219,character_speech,3,14,,EINER.,#einer_3-14b,1279.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+2609,2609,2609,GerDracor/arnim-halle.xml,"
+              Übers Wehr reißt uns die Ehr,
+              Übers Wehr ins goldne Meer.",0,86,character_speech,3,14,,CHOR.,#chor_der_studenten,1280.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+2610,2610,2610,GerDracor/arnim-halle.xml,"
+              Wo kein Schiffer wagt zu fahren,
+              Durch des Wasserfalles Wolke
+              Ziehe ich mit jungem Volke,
+              Und wir spotten der Gefahren,
+              Unsre Lust ist dieser Streit.",0,220,character_speech,3,14,,EINER.,#einer_3-14b,1281.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+2611,2611,2611,GerDracor/arnim-halle.xml,"
+              Muth gewinnt sich neue Zeit,
+              Bald wird uns die Welt so weit.",0,89,character_speech,3,14,,CHOR.,#chor_der_studenten,1282.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2612,2612,2612,GerDracor/arnim-halle.xml,"
+              Froh hinüber durch Gefahren
+              Zu dem ewig grünen Lande
+              Ruhen wir im kühlen Sande
+              Froher Sang der Vögel-Schaaren,
+              Füllt das Herz mit süßem Drang.",0,213,character_speech,3,14,,EINER.,#einer_3-14b,1283.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+2613,2613,2613,GerDracor/arnim-halle.xml,"
+              Mit der Vögel Zaubersang
+              Uns die Liebe sanft umschlang.",0,84,character_speech,3,14,,CHOR.,#chor_der_studenten,1284.0,MALE,love,S,,1811.0,positive,emotions of affection
+2614,2614,2614,GerDracor/arnim-halle.xml,"
+              Auf, ihr holden Nachtigallen,
+              Alle Sinne mir durchdringet,
+              Meine Worte lieblich zwinget,
+              Zu der Liebe Wohlgefallen,
+              Liebe füllet meine Brust.",0,212,character_speech,3,14,,EINER.,#einer_3-14b,1285.0,MALE,love,S,,1811.0,positive,emotions of affection
+2615,2615,2615,GerDracor/arnim-halle.xml,"
+              Taucht der Strom in Morgenlust,
+              Schlägt das Herz in junger Brust.",0,94,character_speech,3,14,,CHOR.,#chor_der_studenten,1286.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
